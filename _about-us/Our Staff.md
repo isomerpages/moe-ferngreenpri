@@ -473,9 +473,9 @@ description: ""
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 633px">
+<table class="tg" style="undefined;table-layout: fixed; width: 641px">
 <colgroup>
-<col style="width: 121px">
+<col style="width: 129px">
 <col style="width: 191px">
 <col style="width: 321px">
 </colgroup>
