@@ -37,9 +37,9 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-g95v{border-color:#ffffff;font-size:100%;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1002px">
+<table class="tg" style="undefined;table-layout: fixed; width: 666px">
 <colgroup>
-<col style="width: 1002px">
+<col style="width: 666px">
 </colgroup>
 <thead>
   <tr>
