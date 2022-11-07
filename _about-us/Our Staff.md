@@ -923,3 +923,54 @@ description: ""
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h9gj{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qymu{background-color:#E5E5E5;font-size:100%;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u43k{background-color:#E5E5E5;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-x1qm{background-color:#FFF;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-eihd{background-color:#E5E5E5;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 633px">
+<colgroup>
+<col style="width: 121px">
+<col style="width: 191px">
+<col style="width: 321px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-qymu"><span style="color:black">Administration</span><br><span style="color:black">Manager</span></th>
+    <th class="tg-u43k">Mr Koh Wee Kwang</th>
+    <th class="tg-u43k">koh_wee_kwang@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h9gj">Administration<br>Manager</td>
+    <td class="tg-x1qm">Mr Ho Hsu Xming, Shaun</td>
+    <td class="tg-x1qm">shaun_ho@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">Operations Manager</span><br></td>
+    <td class="tg-u43k">Mr Siew Lai Lone (Gary)</td>
+    <td class="tg-u43k"><span style="font-weight:normal">siew_lai_lone@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black">Operations</span><br><span style="color:black">Manager</span></td>
+    <td class="tg-x1qm">Mr Tan Teck Chye (Andy)</td>
+    <td class="tg-x1qm">andy_tan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eihd">ICT Manager</td>
+    <td class="tg-u43k">Ms Yang Siying</td>
+    <td class="tg-u43k">yang_siying@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
