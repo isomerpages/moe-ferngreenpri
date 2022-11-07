@@ -940,9 +940,9 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 633px">
 <colgroup>
-<col style="width: 121px">
+<col style="width: 131px">
 <col style="width: 191px">
-<col style="width: 321px">
+<col style="width: 311px">
 </colgroup>
 <thead>
   <tr>
