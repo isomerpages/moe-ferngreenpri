@@ -4,3 +4,5 @@ permalink: /about-us/School-Philosophy/
 description: ""
 ---
 ![](/images/Banner.png)
+
+# **Our Philosophy**
