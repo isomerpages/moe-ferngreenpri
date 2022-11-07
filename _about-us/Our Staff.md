@@ -706,16 +706,16 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-e4a5"><br><span style="font-weight:700">Allied Educator (Learning &amp; Behavioural Support)</span><br></th>
-    <th class="tg-9678"><br><span style="color:black">Mdm Shantha Maheswari d/o Rajasegaran</span></th>
-    <th class="tg-9678"><br><br><span style="font-weight:normal;color:black">shantha_maheswari_rajasegaran@moe.edu.sg</span></th>
+    <th class="tg-e4a5">Allied Educator (Learning &amp; Behavioural Support)</th>
+    <th class="tg-9678"><span style="color:black">Mdm Shantha Maheswari d/o Rajasegaran</span><br></th>
+    <th class="tg-9678"><br><span style="color:black">shantha_maheswari_rajasegaran@moe.edu.sg</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5"><br>Allied Educator (Learning &amp; Behavioural Support)<br></td>
-    <td class="tg-ktyi"><br><br><span style="color:black">Ms Subashini D/O Mahadevan</span></td>
-    <td class="tg-ktyi"><br><br><br><span style="color:black">subashini_mahadevan@moe.edu.sg</span></td>
+    <td class="tg-dgl5">Allied Educator (Learning &amp; Behavioural Support)</td>
+    <td class="tg-ktyi"><span style="color:black">Ms Subashini D/O Mahadevan</span><br></td>
+    <td class="tg-ktyi"><br><span style="color:black">subashini_mahadevan@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-mdf1"><span style="color:black">School Counsellor</span></td>
