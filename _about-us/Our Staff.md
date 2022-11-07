@@ -460,3 +460,90 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 633px">
+<colgroup>
+<col style="width: 121px">
+<col style="width: 191px">
+<col style="width: 321px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-9hzb" colspan="3">P5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">5 Respect</td>
+    <td class="tg-9678"><span style="color:black">Mrs Sharon Ho (Mdm Tan Su Yin Sharon)</span></td>
+    <td class="tg-9678"><span style="color:black">tan_su_yin_sharon@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black"> </span></td>
+    <td class="tg-ktyi"><span style="color:black">Mdm Teo Lian Peng (Evelyn)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:black">teo_lian_peng@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">5 Responsibility</td>
+    <td class="tg-9678"><span style="color:black">Mrs Lee-Ng Peck Mui (Cheryl)</span></td>
+    <td class="tg-9678"><span style="color:black">ng_peck_mui@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black"> </span></td>
+    <td class="tg-ktyi"><span style="color:black">Miss Ma Shuang</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:black">ma_shuang@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">5 Resilience</td>
+    <td class="tg-9678"><span style="color:black">Mdm Tan Sue Ling Kimmy</span></td>
+    <td class="tg-9678"><span style="color:black">tan_sue_ling_kimmy@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black"> </span></td>
+    <td class="tg-ktyi"><span style="color:black">Mdm Chow Jee Soon</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:black">chow_jee_soon@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">5 Integrity</td>
+    <td class="tg-9678"><span style="color:black">Mdm Teo Lang See (Rebecca)</span></td>
+    <td class="tg-9678"><span style="color:black">teo_lang_see@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black"> </span></td>
+    <td class="tg-ktyi"><span style="color:black">Mr Tan Zhi Qiang Jeremy</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:black">tan_zhi_qiang_jeremy@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">5 Care</td>
+    <td class="tg-9678"><span style="color:black">Miss Heng Peck Hoon</span></td>
+    <td class="tg-9678"><span style="color:black">heng_peck_hoon@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black"> </span></td>
+    <td class="tg-ktyi"><span style="color:black">Mr Koh Chee Hong (Jimmy)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:black">koh_chee_hong_jimmy@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">5 Harmony</td>
+    <td class="tg-9678"><span style="color:black">Mr Muhammad Izree Bin Jalil</span></td>
+    <td class="tg-9678"><span style="color:black">muhammad_izree_jalil@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black"> </span></td>
+    <td class="tg-ktyi"><span style="color:black">Miss Lim Lihui</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:black">lim_lihui@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
