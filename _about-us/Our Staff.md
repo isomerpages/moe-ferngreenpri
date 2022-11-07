@@ -901,8 +901,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ti5h">Senior Teacher<br><span style="color:#000">Special Educational Needs </span></td>
-    <td class="tg-u43k"><br>Mdm Lee Siew Hoon</td>
-    <td class="tg-u43k"><br>lee_siew_hoon@moe.edu.sg  </td>
+    <td class="tg-u43k"><br>Mdm Lee Siew Hoon<br><br></td>
+    <td class="tg-u43k"><br>lee_siew_hoon@moe.edu.sg  <br></td>
   </tr>
 </tbody>
 </table>
