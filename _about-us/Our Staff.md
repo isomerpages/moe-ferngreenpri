@@ -852,21 +852,7 @@ description: ""
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x99i{border-color:#ffffff;color:#3531ff;font-size:22px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-x99i">Lead &amp; Senior Teachers</td>
-  </tr>
-</thead>
-</table>
+hello
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -879,11 +865,11 @@ description: ""
 .tg .tg-u43k{background-color:#E5E5E5;color:#000000;text-align:left;vertical-align:top}
 .tg .tg-x1qm{background-color:#FFF;color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 547px">
+<table class="tg" style="undefined;table-layout: fixed; width: 633px">
 <colgroup>
 <col style="width: 121px">
-<col style="width: 206px">
-<col style="width: 220px">
+<col style="width: 191px">
+<col style="width: 321px">
 </colgroup>
 <thead>
   <tr>
@@ -899,9 +885,9 @@ description: ""
     <td class="tg-x1qm">ivy_leow_gim_chye@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h">Senior Teacher<br><span style="color:#000">Special Educational Needs </span></td>
-    <td class="tg-u43k"><br>Mdm Lee Siew Hoon<br></td>
-    <td class="tg-u43k"><br>lee_siew_hoon@moe.edu.sg  </td>
+    <td class="tg-ti5h">Senior Teacher<br><span style="color:#000">Special Educational Needs </span><br></td>
+    <td class="tg-u43k"><br><br>Mdm Lee Siew Hoon<br></td>
+    <td class="tg-u43k"><br><br>lee_siew_hoon@moe.edu.sg  </td>
   </tr>
 </tbody>
 </table>
