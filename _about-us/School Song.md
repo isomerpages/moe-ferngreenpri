@@ -7,9 +7,21 @@ description: ""
 
 # **Our School Song**
 
-*Composed by: Jake Goh*
-
-*Lyrics by: Jake Goh & Staff of FGPS (2019)*
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-eo4b">Composed by: Jake Goh<br><span style="font-weight:400;font-style:italic">Lyrics by: Jake Goh &amp; Staff of FGPS (2019)</span></td>
+  </tr>
+</thead>
+</table>
 
 Note: School Song audio requires own Youtube/Vimeo.
 
