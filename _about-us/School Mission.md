@@ -14,15 +14,15 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xy16{border-color:#ffffff;color:#3531ff;font-size:26px;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-4s56{border-color:#ffffff;color:#3531ff;font-size:22px;font-style:italic;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 458px">
+<table class="tg" style="undefined;table-layout: fixed; width: 551px">
 <colgroup>
-<col style="width: 458px">
+<col style="width: 551px">
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-xy16">To Nurture<br><span style="font-weight:bold">Talents,</span><br><span style="font-weight:bold">Passion for Learning,</span><br><span style="font-weight:bold">Sense of Empathy</span> and<br><span style="font-weight:bold">Spirit of Adventure.</span></td>
+    <td class="tg-4s56">To Nurture <br><span style="font-weight:bold">Talents,</span> <br><span style="font-weight:bold">Passion for Learning,</span><br><span style="font-weight:bold">Sense of Empath</span>y and<br><span style="font-weight:bold;font-style:italic">Spirit of Adventure.</span></td>
   </tr>
 </thead>
 </table>
