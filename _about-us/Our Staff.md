@@ -564,3 +564,108 @@ description: ""
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-attt{background-color:#E5E5E5;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 643px">
+<colgroup>
+<col style="width: 121px">
+<col style="width: 201px">
+<col style="width: 321px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-attt"><span style="font-weight:700;font-style:normal">English</span></th>
+    <th class="tg-9678">Mrs Eleanor Tan</th>
+    <th class="tg-9678">chua_lee_hoon_eleanor@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="font-weight:700;font-style:normal">English</span></td>
+    <td class="tg-ktyi">Mr Mohamd Sahar Ismail</td>
+    <td class="tg-ktyi">mohamd_sahar_ismail@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">English </td>
+    <td class="tg-9678">Mdm Ong Siew Yee Elizabeth</td>
+    <td class="tg-9678">ong_siew_yee_elizabeth@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">English </td>
+    <td class="tg-ktyi">Mrs Sharon Lee </td>
+    <td class="tg-ktyi">kum_hong_yoke@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">English </td>
+    <td class="tg-9678">Miss Lam Wai Ling<br></td>
+    <td class="tg-9678">lam_wai_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">English &amp; Mathematics </td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Lim Woon Cheng</span><br><span style="background-color:#FFF">(Mrs Ho)</span></td>
+    <td class="tg-ktyi">lim_woon_cheng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">English &amp; Mathematics </td>
+    <td class="tg-9678">Mrs Tan Chin Cheoh</td>
+    <td class="tg-9678">tan_chin_cheoh@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">English &amp; Mathematics </td>
+    <td class="tg-ktyi">Ms Normah Binte Arshad</td>
+    <td class="tg-ktyi">normah_arshad@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">English &amp; Mathematics </td>
+    <td class="tg-9678">Miss Wong Hui Min (Phoebe)</td>
+    <td class="tg-9678">wong_huimin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Mathematics </td>
+    <td class="tg-ktyi">Ms Tan Mui Hiang (Sharmaine)</td>
+    <td class="tg-ktyi">tan_mui_hiang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">Mathematics &amp; Science</td>
+    <td class="tg-9678">Mr Don Seah Hock Kwee</td>
+    <td class="tg-9678">seah_hock_kwee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Mathematics &amp; Science</td>
+    <td class="tg-ktyi">Ms Jeanette Leong<br></td>
+    <td class="tg-ktyi">leong_poh_wan_jeanette@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">Mathematics &amp; Music</td>
+    <td class="tg-9678">Mdm Lim Mui Wee Alyssa (Mrs Leong)</td>
+    <td class="tg-9678"><span style="font-weight:normal">alyssa_lim_mui_wee@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Malay</td>
+    <td class="tg-ktyi">Ms Nur’ain Binte Mohd Sidek</td>
+    <td class="tg-ktyi">nurain_mohd_sidek@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">Malay</td>
+    <td class="tg-9678">Mdm Siti Nurulhuda Binte Md Yunus </td>
+    <td class="tg-9678">Siti_Nurulhuda_Md_Yunus@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Chinese</td>
+    <td class="tg-ktyi">Mdm Fayth Ong Hui Sin</td>
+    <td class="tg-tsok"><span style="color:#222">ong_hui_sin@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
