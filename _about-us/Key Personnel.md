@@ -6,3 +6,5 @@ description: ""
 ![](/images/Banner.png)
 
 # **Our Key Personnel**
+
+![](/images/KeyPersonnel.jpeg)
