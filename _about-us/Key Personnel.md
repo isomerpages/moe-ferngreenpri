@@ -20,10 +20,10 @@ description: ""
 .tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 702px">
+<table class="tg" style="undefined;table-layout: fixed; width: 672px">
 <colgroup>
-<col style="width: 351px">
-<col style="width: 351px">
+<col style="width: 336px">
+<col style="width: 336px">
 </colgroup>
 <thead>
   <tr>
