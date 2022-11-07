@@ -990,3 +990,33 @@ description: ""
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 633px">
+<colgroup>
+<col style="width: 252px">
+<col style="width: 381px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-mdf1"><span style="color:black">Fern Green </span><br><span style="color:black">Primary</span><br><span style="color:black">School Leaders</span></th>
+    <th class="tg-9678"><br><span style="color:black">ferngreen_ps@moe.edu.sg</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5"><span style="color:black">MOE </span><br><span style="color:black">Kindergarten</span><br><span style="color:black">Centre Heads</span></td>
+    <td class="tg-ktyi"><br><span style="color:black">mk_ferngreen@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
