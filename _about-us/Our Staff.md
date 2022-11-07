@@ -692,33 +692,35 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-na3a{font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-e4a5{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 633px">
 <colgroup>
-<col style="width: 121px">
-<col style="width: 191px">
+<col style="width: 151px">
+<col style="width: 161px">
 <col style="width: 321px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-na3a"><span style="font-weight:700;font-style:normal">Allied Educator (Learning &amp; Behavioural Support)</span></th>
-    <th class="tg-0lax">Mdm Shantha Maheswari d/o Rajasegaran</th>
-    <th class="tg-0lax">shantha_maheswari_rajasegaran@moe.edu.sg</th>
+    <th class="tg-e4a5"><br><span style="font-weight:700">Allied Educator (Learning &amp; Behavioural Support)</span><br></th>
+    <th class="tg-9678"><br><span style="color:black">Mdm Shantha Maheswari d/o Rajasegaran</span></th>
+    <th class="tg-9678"><br><br><span style="font-weight:normal;color:black">shantha_maheswari_rajasegaran@moe.edu.sg</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1wig">Allied Educator (Learning &amp; Behavioural Support)<br></td>
-    <td class="tg-0lax">Ms Subashini D/O Mahadevan</td>
-    <td class="tg-0lax">subashini_mahadevan@moe.edu.sg</td>
+    <td class="tg-dgl5"><br>Allied Educator (Learning &amp; Behavioural Support)<br></td>
+    <td class="tg-ktyi"><br><br><span style="color:black">Ms Subashini D/O Mahadevan</span></td>
+    <td class="tg-ktyi"><br><br><br><span style="color:black">subashini_mahadevan@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-1wig">School Counsellor</td>
-    <td class="tg-0lax">Miss Chiam Pei Ping</td>
-    <td class="tg-0lax">chiam_pei_ping@moe.edu.sg</td>
+    <td class="tg-mdf1"><span style="color:black">School Counsellor</span></td>
+    <td class="tg-9678"><span style="color:black">Miss Chiam Pei Ping</span></td>
+    <td class="tg-9678"><span style="font-weight:normal;color:black">chiam_pei_ping@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
