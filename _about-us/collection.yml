@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/Feedback.md
       - Contact Us/Contact Us.md
       - Contact Us/.keep
