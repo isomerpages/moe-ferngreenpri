@@ -875,34 +875,33 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9jjb{background-color:#FFF;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-g1wc{background-color:#E5E5E5;color:#00F;font-size:100%;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ti5h{background-color:#E5E5E5;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-u43k{background-color:#E5E5E5;color:#000000;text-align:left;vertical-align:top}
 .tg .tg-x1qm{background-color:#FFF;color:#000000;text-align:left;vertical-align:top}
-.tg .tg-ti5h{background-color:#E5E5E5;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 631px">
+<table class="tg" style="undefined;table-layout: fixed; width: 547px">
 <colgroup>
 <col style="width: 121px">
-<col style="width: 191px">
-<col style="width: 319px">
+<col style="width: 206px">
+<col style="width: 220px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-g1wc"><span style="color:blue">Lead Teacher</span><br><span style="color:black">Mathematics</span></th>
-    <th class="tg-u43k">Mdm Tham Sok Theng (Agnes)</th>
+    <th class="tg-ti5h"><span style="color:blue">Lead Teacher</span><br><span style="color:black">Mathematics</span></th>
+    <th class="tg-u43k">Mdm Tham Sok Theng <br>(Agnes)</th>
     <th class="tg-u43k"><span style="font-weight:normal">tham_sok_theng@moe.edu.sg</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-9jjb"><span style="color:blue">Senior Teacher</span><br><span style="color:black">English Language</span></td>
-    <td class="tg-x1qm"><br>Ms Ivy Leow Gim Chye</td>
-    <td class="tg-x1qm"><br>ivy_leow_gim_chye@moe.edu.sg</td>
+    <td class="tg-x1qm">Ms Ivy Leow Gim Chye</td>
+    <td class="tg-x1qm">ivy_leow_gim_chye@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ti5h">Senior Teacher<br><span style="color:#000">Special Educational Needs </span></td>
-    <td class="tg-u43k"><br><br>Mdm Lee Siew Hoon<br></td>
-    <td class="tg-u43k"><br><br>lee_siew_hoon@moe.edu.sg  </td>
+    <td class="tg-u43k"><br>Mdm Lee Siew Hoon<br></td>
+    <td class="tg-u43k"><br>lee_siew_hoon@moe.edu.sg  </td>
   </tr>
 </tbody>
 </table>
