@@ -160,12 +160,12 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hp9r{border-color:#ffffff;color:#f56b00;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6zmf{border-color:#ffffff;color:#e89d16;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-hp9r">Lead &amp; Senior Teachers</td>
+    <td class="tg-6zmf">Lead &amp; Senior Teachers</td>
   </tr>
 </thead>
 </table>
