@@ -6,3 +6,5 @@ description: ""
 ![](/images/Banner.png)
 
 # **Our School Crest**
+
+![](/images/Crest.png)
