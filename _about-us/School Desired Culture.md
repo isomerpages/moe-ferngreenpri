@@ -6,3 +6,6 @@ description: ""
 ![](/images/Banner.png)
 
 # **Our Desired School Culture**
+
+
+<figure><img src="/images/School%20Desired%20Culture.jpg" style="width:85%"><figcaption> "Our Kampung Spirit"</figcaption></figure>
