@@ -62,3 +62,11 @@ To achieve our desired outcome of providing a broad exposure to various types of
 ·         Tchoukball (Boys & Girls)
 
 ![](/images/CCA4.png)
+
+**_Uniform Group_**
+
+·         Scouts
+
+##### **CCA Training Hours**
+
+Every Tuesday, 2.15 p.m. to 4.15 p.m.
