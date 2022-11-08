@@ -23,10 +23,10 @@ In Fern Green Primary School, students with disciplinary issues are supported by
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-av4e{background-color:#EAEAEA;color:#222;font-size:100%;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 602px">
+<table class="tg" style="undefined;table-layout: fixed; width: 586px">
 <colgroup>
-<col style="width: 301px">
-<col style="width: 301px">
+<col style="width: 293px">
+<col style="width: 293px">
 </colgroup>
 <thead>
   <tr>
@@ -36,8 +36,8 @@ In Fern Green Primary School, students with disciplinary issues are supported by
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa"><br>1. Inappropriate hairstyle or improper school attire.<br>2. Being late for school<br>3. Misbehaving on school grounds or school bus<br>4. Running or playing at places not allowed<br>5. Failure to complete or submit school work on time<br>6. Possession of items not allowed in school<br>7. Using vulgar language<br>8. Using electronic devices in school premises<br></td>
-    <td class="tg-y7qa">1. Stealing / Extorting / Gambling<br>2. Truancy / Skipping class<br>3. Inappropriate use of sharp objects<br>4. Inappropriate physical contact<br>5. Visiting inappropriate websites<br>6. Bullying of any form<br>7. Fighting in or outside school<br>8. Involvement with gangs<br>9. Cheating / Forgery / Vandalism<br>10. Misbehaving in public / break the law<br>11. Open defiance or rudeness to school staff<br>12. Smoking or possession of contraband items<br>13. Inhalant abuse</td>
+    <td class="tg-y7qa"><br>1. Inappropriate hairstyle or improper school      attire.<br>2. Being late for school<br>3. Misbehaving on school grounds or school      bus<br>4. Running or playing at places not allowed<br>5. Failure to complete or submit school work      on time<br>6. Possession of items not allowed in school<br>7. Using vulgar language<br>8. Using electronic devices in school                  premises<br></td>
+    <td class="tg-y7qa">1. Stealing / Extorting / Gambling<br>2. Truancy / Skipping class<br>3. Inappropriate use of sharp objects<br>4. Inappropriate physical contact<br>5. Visiting inappropriate websites<br>6. Bullying of any form<br>7. Fighting in or outside school<br>8. Involvement with gangs<br>9. Cheating / Forgery / Vandalism<br>10. Misbehaving in public / break the law<br>11. Open defiance or rudeness to school staff<br>12. Smoking or possession of contraband            items<br>13. Inhalant abuse</td>
   </tr>
 </tbody>
 </table>
