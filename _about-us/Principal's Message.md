@@ -6,3 +6,5 @@ description: ""
 ![](/images/Banner.png)
 
 Principal's Message
+
+_Coming Soon..._
