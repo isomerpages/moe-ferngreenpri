@@ -7,3 +7,5 @@ third_nav_title: CCE
 ![](/images/Banner.png)
 
 # **VALUES TALKS**
+
+[Values Talks](/files/Values%20Talks%202019.pdf)
