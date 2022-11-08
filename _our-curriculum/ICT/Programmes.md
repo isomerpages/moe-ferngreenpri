@@ -15,3 +15,12 @@ To achieve the Department’s goals, students will be  
 *   Exposed to the latest social updates and knowledge to develop them into good, discerning netizen who will use the internet responsibly.   
     
 *   Given opportunities to put their learnt skills in practice in project works that will thrive creativity and innovation.
+
+
+<u> ICT Programme </u>
+
+●     Modular Enrichment Programme – ICT Baseline ICT Training
+
+●     Modular Enrichment Programme – Makers & Environment Education
+
+●     Infused school curriculum with use of ICT tools and software
