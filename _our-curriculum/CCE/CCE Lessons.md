@@ -39,15 +39,11 @@ on societal and universal perspectives.
 <u> • Experiential Learning Approach </u>
 
 
-In Experiential Learning Approach, students go through a cycle of experiences, observation, reflection and application as they engage in learning in and out of classroom. Students are given experiences and platforms that enable them to reflect on values, concepts and ideas, and to internalise the values through the application of skills and knowledge learnt in real-world situations. By deriving meaning from doing, students are more likely to take ownership of their learning and transfer their learning into new situations when they have  
-
-experienced it. Students reflect, evaluate and make decisions based on the values they have internalised and put their values into action.
+In Experiential Learning Approach, students go through a cycle of experiences, observation, reflection and application as they engage in learning in and out of classroom. Students are given experiences and platforms that enable them to reflect on values, concepts and ideas, and to internalise the values through the application of skills and knowledge learnt in real-world situations. By deriving meaning from doing, students are more likely to take ownership of their learning and transfer their learning into new situations when they have experienced it. Students reflect, evaluate and make decisions based on the values they have internalised and put their values into action.
 
   
+<u> • Modified Values Clarification Approach </u>
 
-  
-
-• Modified Values Clarification Approach
 
 Modified Values Clarification Approach involves a step-by-step process that helps students to make well considered decisions. Students are also stimulated to think about and clarify their values through examining their personal feelings and behaviour patterns using rational thinking, empathy and emotional awareness. By applying strategies such as dialoguing and cooperative learning, teachers will guide students to make decisions based on a sound value system that includes values upheld by society. The Responsible Decision Making process includes identifying and evaluating options, making a decision, taking a stand and living according to one’s convictions.
 
