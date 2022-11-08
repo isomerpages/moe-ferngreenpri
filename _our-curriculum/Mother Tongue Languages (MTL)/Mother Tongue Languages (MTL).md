@@ -4,3 +4,6 @@ permalink: /our-curriculum/Mother-Tongue-Languages-MTL/Mother-Tongue-Languages-M
 description: ""
 third_nav_title: Mother Tongue Languages (MTL)
 ---
+![](/images/Banner.png)
+
+# **Mother Tongue Languages (MTL)**
