@@ -46,3 +46,42 @@ In Fern Green Primary School, students with disciplinary issues are supported by
 <u> Writing Reflections </u>
 
 When a student breaks a school rule, he / she will reflect on:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 586px">
+<colgroup>
+<col style="width: 293px">
+<col style="width: 293px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-ii8k">His / her behavior and better understand himself / herself</th>
+    <th class="tg-ii8k">Self-Awareness</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">The impact of his/her behavior on himself / herself and others</td>
+    <td class="tg-ii8k">Social Awareness</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">How to improve his / her behavior</td>
+    <td class="tg-ii8k">Responsible Decision Making</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">How to work with family, class teachers and friends</td>
+    <td class="tg-ii8k">Relationship Management</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">How to manage himself / herself in monitoring his / her own behavior</td>
+    <td class="tg-ii8k">Self-Management</td>
+  </tr>
+</tbody>
+</table>
