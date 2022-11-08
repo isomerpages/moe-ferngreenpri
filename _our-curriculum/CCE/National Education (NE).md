@@ -17,3 +17,10 @@ In FGPS, we believe that
 We aim to meaningfully and appropriately engage our young to feel a genuine sense of commitment and conviction to one another and to what we stand for collectively as Singaporeans.
 
 <u> NE Commemorative Days </u>
+1) Total Defence Day (15 February 2018)
+
+2) International Friendship Day (4 April 2018)
+
+3) Racial Harmony Day (21 July 2018)
+
+4) National Day Celebrations (8 August 2018)
