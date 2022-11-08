@@ -17,3 +17,4 @@ third_nav_title: ICT
 *   Develop all teachers to be competent lesson designers in creating engaging learning experiences for all our students.
 
 ![](/images/ICT1.png)
+![](/images/ICT.png)
