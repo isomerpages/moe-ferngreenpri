@@ -53,7 +53,7 @@ Modified Values Clarification Approach involves a step-by-step process that help
 
 A process based teaching approach comprises instructional strategies such as:
 
-  
+```
 
 • Role-playing
 
@@ -68,3 +68,5 @@ A process based teaching approach comprises instructional strategies such as:
 • Group work
 
 • Circle Processes
+
+```
