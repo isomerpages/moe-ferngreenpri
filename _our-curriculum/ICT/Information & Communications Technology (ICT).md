@@ -15,3 +15,5 @@ third_nav_title: ICT
 *   Lead the School in testing and using the latest available digital resources in enhancing teaching/learning activities, administration and operation processes.   
     
 *   Develop all teachers to be competent lesson designers in creating engaging learning experiences for all our students.
+
+![](/images/ICT1.png)
