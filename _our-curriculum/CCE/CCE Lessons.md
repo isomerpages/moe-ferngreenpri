@@ -8,6 +8,8 @@ third_nav_title: CCE
 
 # **CCE LESSONS**
 
+CCE lessons refer to the teaching of values, knowledge and skills. CCE lessons are conducted in the Mother Tongue Language,  through process-based approaches such as:
+
 • Story telling Approach
 
 Story-telling Approach involves telling stories, both fictional and real-life, to facilitate the internalisation of values. Teachers can use a variety of cultural stories, stories of heroes and everyday stories to help students understand the need to practise good values, and for students to clarify their feelings through reflection exercises. It is important to choose appropriate stories according to the students’ age and interests.
