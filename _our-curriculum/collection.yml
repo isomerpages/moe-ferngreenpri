@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT/Information & Communications Technology (ICT).md
       - ICT/Programmes.md
       - ICT/.keep
       - CCE/Character & Citizenship Education (CCE).md
