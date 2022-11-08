@@ -23,3 +23,6 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 *   experiencing key milestones programmes in the areas of Physical Education, Art and Music.   
     
 *   acquiring sports & games and life-skills to sustain a healthy lifestyle.
+
+
+*   immersed in the diverse cultures and practices through the Arts.
