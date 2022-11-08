@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - PE, Art & Music (PE, Art, MU)/.keep
       - Co Curricular Activities (CCA).md
       - Sexuality Education (SEd).md
