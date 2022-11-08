@@ -3,8 +3,6 @@ title: Student Management (SM)
 permalink: /our-curriculum/Student-Management-SM/
 description: ""
 ---
-
-
 ![](/images/Banner.png)
 
 # **Student Management (SM)**
@@ -20,3 +18,7 @@ The Student Management Department also supports students with additional needs. 
 One of the aims of the Student Management Department is to develop a culture of care through Peer Support and Relationship (PSR). With proper guidance, students will be able to be caring buddies for their peers. Selected students will be develop as Peer Support Leaders who are keen befrienders and will champion PSR among the students.
 
 All these will be done through the Student Development Team consisting of the Head of Department CCE, Head of Department Student Management, Year Heads, Assistant Year Heads and staff trained in counselling and additional needs support.
+
+
+### Discipline matters
+------------------
