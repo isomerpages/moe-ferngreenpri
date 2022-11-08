@@ -42,3 +42,11 @@ To achieve our desired outcome of providing a broad exposure to various types of
 ·         Makers’ Club
 
 ![](/images/CCA2.png)
+
+**_Performing Arts_**  
+
+·         Drama Club                                   
+
+·         Modern Dance
+
+·         Show Choir
