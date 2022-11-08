@@ -26,3 +26,5 @@ third_nav_title: ICT
 *   Develop the school library books collection and reading resources to cater to students’ reading needs.   
     
 *   Work with relevant agencies to organise activities to promote and raise readership.
+
+![](/images/ICT3.png)
