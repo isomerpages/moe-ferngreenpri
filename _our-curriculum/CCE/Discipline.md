@@ -44,3 +44,5 @@ In Fern Green Primary School, students with disciplinary issues are supported by
 
 
 <u> Writing Reflections </u>
+
+When a student breaks a school rule, he / she will reflect on:
