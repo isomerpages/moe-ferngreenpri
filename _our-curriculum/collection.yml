@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/International Friendship Day Commemoration.md
       - CCE/Values Talks.md
       - CCE/Student Leaders Cohort Leadership Training.md
       - CCE/.keep
