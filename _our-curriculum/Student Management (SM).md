@@ -25,3 +25,4 @@ All these will be done through the Student Development Team consisting of the He
 
 ![](/images/SM1.jpeg)
 ![](/images/SM2.jpeg)
+![](/images/SM3.jpeg)
