@@ -24,3 +24,15 @@ To achieve the Department’s goals, students will be  
 ●     Modular Enrichment Programme – Makers & Environment Education
 
 ●     Infused school curriculum with use of ICT tools and software
+
+<u> MRL Programme </u>
+
+●     DIYread book-loan programme during silent reading time
+
+●     Scheduled library-visit period
+
+●     NLB Mass Books Borrowing sessions
+
+●     Thematic displays of books
+
+●     Thematic books reviews and competitions
