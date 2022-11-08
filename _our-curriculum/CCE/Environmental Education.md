@@ -21,3 +21,5 @@ We will do this through the following activities:
 3.  Cleaning their immediate environment (classrooms)  
     
 4.  Canteen clean up
+
+![](/images/bg-bottom.png)
