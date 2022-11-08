@@ -15,3 +15,5 @@ In FGPS, we believe that
 *   NE is infused into classroom-based lessons like Character and Citizenship Education, Social Studies, English and Mother Tongue Languages and the four NE commemorative days, Learning Journeys and Values in Action.
 
 We aim to meaningfully and appropriately engage our young to feel a genuine sense of commitment and conviction to one another and to what we stand for collectively as Singaporeans.
+
+<u> NE Commemorative Days </u>
