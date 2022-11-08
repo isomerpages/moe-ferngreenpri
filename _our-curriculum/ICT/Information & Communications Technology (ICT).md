@@ -18,3 +18,11 @@ third_nav_title: ICT
 
 ![](/images/ICT1.png)
 ![](/images/ICT.png)
+
+**The MRL Department aims to:**     
+
+*   Support the School in developing good reading culture and promote the joy of reading to the school learning community.   
+    
+*   Develop the school library books collection and reading resources to cater to students’ reading needs.   
+    
+*   Work with relevant agencies to organise activities to promote and raise readership.
