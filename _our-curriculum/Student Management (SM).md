@@ -22,3 +22,5 @@ All these will be done through the Student Development Team consisting of the He
 
 ### Discipline matters
 ------------------
+
+![](/images/SM1.jpeg)
