@@ -36,8 +36,8 @@ motives behind their actions and raise their level of self-awareness. It enables
 on societal and universal perspectives.
 
   
+<u> • Experiential Learning Approach </u>
 
-• Experiential Learning Approach
 
 In Experiential Learning Approach, students go through a cycle of experiences, observation, reflection and application as they engage in learning in and out of classroom. Students are given experiences and platforms that enable them to reflect on values, concepts and ideas, and to internalise the values through the application of skills and knowledge learnt in real-world situations. By deriving meaning from doing, students are more likely to take ownership of their learning and transfer their learning into new situations when they have  
 
