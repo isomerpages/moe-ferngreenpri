@@ -42,3 +42,5 @@ Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2022
 ![](/images/SED2.jpeg)
 
 **Information for Parents**
+
+8.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
