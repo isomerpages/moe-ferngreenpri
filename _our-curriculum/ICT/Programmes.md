@@ -36,3 +36,5 @@ To achieve the Department’s goals, students will be  
 ●     Thematic displays of books
 
 ●     Thematic books reviews and competitions
+
+![](/images/bg-bottom.png)
