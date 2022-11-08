@@ -52,3 +52,11 @@ To achieve our desired outcome of providing a broad exposure to various types of
 ·         Show Choir
 
 ![](/images/CCA3.png)
+
+**_Sports & Games_**
+
+·         Basketball (Boys & Girls)
+
+·         Football (Boys & Girls)
+
+·         Tchoukball (Boys & Girls)
