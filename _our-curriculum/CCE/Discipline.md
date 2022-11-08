@@ -11,7 +11,7 @@ third_nav_title: CCE
 In Fern Green Primary School, students with disciplinary issues are supported by a team of staff in consultation with the school counsellors and other members of the Student Development Team. Misconduct is classified into minor or major offences.  
   
 
-**Misconduct**
+<u> Misconduct </u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -42,4 +42,5 @@ In Fern Green Primary School, students with disciplinary issues are supported by
 </tbody>
 </table>
 
-**Writing Reflections**
+
+<u> Writing Reflections </u>
