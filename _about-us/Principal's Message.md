@@ -5,6 +5,6 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-Principal's Message
+PRINCIPAL'S MESSAGE
 
 _Coming Soon..._
