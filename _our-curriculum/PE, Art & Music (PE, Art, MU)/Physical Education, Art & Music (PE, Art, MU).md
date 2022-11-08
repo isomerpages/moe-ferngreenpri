@@ -19,3 +19,7 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 *   Develop PE, Art & Music teachers to be competent, confident and efficient educators.
 
 ### **To achieve the Department’s goals, students will be**
+
+*   experiencing key milestones programmes in the areas of Physical Education, Art and Music.   
+    
+*   acquiring sports & games and life-skills to sustain a healthy lifestyle.
