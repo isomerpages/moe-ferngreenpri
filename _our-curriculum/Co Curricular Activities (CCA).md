@@ -16,3 +16,5 @@ CCA are a key component of students’ holistic education. In Fern Green Primary
 In line with the School’s Desired Culture of Care and to promote the “Kampung Spirit”, we also aim to build camaraderie among students from diverse backgrounds through interactions during CCA sessions. By learning and interacting with one another, students develop friendships and deepen their sense of belonging to the school and community.
 
 ![](/images/CCA.png)
+
+##### **CCA Objectives**
