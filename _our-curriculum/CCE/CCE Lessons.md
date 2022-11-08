@@ -11,7 +11,7 @@ third_nav_title: CCE
 CCE lessons refer to the teaching of values, knowledge and skills. CCE lessons are conducted in the Mother Tongue Language,  through process-based approaches such as:
 
 
-<u> • Story telling Approach</u>
+<u> • Story telling Approach </u>
 
 Story-telling Approach involves telling stories, both fictional and real-life, to facilitate the internalisation of values. Teachers can use a variety of cultural stories, stories of heroes and everyday stories to help students understand the need to practise good values, and for students to clarify their feelings through reflection exercises. It is important to choose appropriate stories according to the students’ age and interests.
 
@@ -26,8 +26,8 @@ Students are guided in identifying personal beliefs and values when they relate 
 Consideration Approach builds on empathy and aims to develop a caring personality. The crucial question to ask in perspective-taking is “How would you feel if you were that person?” A student learns that making a moral decision involves taking into consideration the impact of that decision on others. By adopting the perspective of the other person, the student attempts to understand the thoughts and feelings of that person and develops a balanced view of the situation. This is done through employing strategies such as role-playing and questioning.
 
   
+<u> • Cognitive Development Approach </u>
 
-• Cognitive Development Approach
 
 Students are encouraged to respond to real or hypothetical moral dilemma situations and guided to rank their responses. This process will help students to examine their  
 
