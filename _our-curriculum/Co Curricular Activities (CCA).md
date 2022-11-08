@@ -50,3 +50,5 @@ To achieve our desired outcome of providing a broad exposure to various types of
 ·         Modern Dance
 
 ·         Show Choir
+
+![](/images/CCA3.png)
