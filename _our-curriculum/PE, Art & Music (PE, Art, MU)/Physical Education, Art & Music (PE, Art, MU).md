@@ -26,3 +26,5 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 
 
 *   immersed in the diverse cultures and practices through the Arts.
+
+![](/images/PE1.png)
