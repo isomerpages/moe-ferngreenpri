@@ -40,3 +40,5 @@ Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2022
 ![](/images/SED1.jpeg)
 
 ![](/images/SED2.jpeg)
+
+**Information for Parents**
