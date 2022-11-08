@@ -9,3 +9,5 @@ third_nav_title: CCE
 # **VALUES TALKS**
 
 [Values Talks](/files/Values%20Talks%202019.pdf)
+
+[Values Talks 2019](/files/Values%20Talks%202019.pdf)
