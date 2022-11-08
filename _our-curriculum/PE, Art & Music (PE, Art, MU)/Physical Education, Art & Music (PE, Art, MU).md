@@ -4,3 +4,6 @@ permalink: /our-curriculum/PE-Art-and-Music-PE-Art-MU/Physical-Education-Art-Mus
 description: ""
 third_nav_title: PE, Art & Music (PE, Art, MU)
 ---
+![](/images/Banner.png)
+
+# **Physical Education, Art & Music (PE, Art, MU)**
