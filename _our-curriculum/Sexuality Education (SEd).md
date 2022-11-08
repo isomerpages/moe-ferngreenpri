@@ -36,4 +36,5 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 Note: MOE Sexuality Education link is broken (page not found).
 
 Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2022
-------------------------------------------------------------------------------
+
+![](/images/SED1.jpeg)
