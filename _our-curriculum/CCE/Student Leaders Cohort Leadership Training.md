@@ -9,3 +9,5 @@ third_nav_title: CCE
 # **STUDENT LEADERS COHORT LEADERSHIP TRAINING**
 
 [Cohort leadership training writeup 2019](/files/Cohort%20leadership%20training%20writeup%202019.pdf)
+
+![](/images/bg-bottom.png)
