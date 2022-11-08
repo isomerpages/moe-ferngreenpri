@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Student Leaders Cohort Leadership Training.md
       - CCE/.keep
       - Student Management (SM).md
       - PE, Art & Music (PE, Art, MU)/Physical Education, Art & Music (PE, Art,
