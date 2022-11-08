@@ -32,3 +32,11 @@ In line with the School’s Desired Culture of Care and to promote the “Kampun
 ##### **CCAs of Fern Green Primary School**
 
 To achieve our desired outcome of providing a broad exposure to various types of CCA opportunities, our school is offering the following CCAs:
+
+**_Clubs & Societies_**
+
+·         Art Club  
+
+·         Infocomm & Media Club
+
+·         Makers’ Club
