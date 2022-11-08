@@ -24,3 +24,5 @@ We aim to meaningfully and appropriately engage our young to feel a genuine sens
 3) Racial Harmony Day (21 July 2018)
 
 4) National Day Celebrations (8 August 2018)
+
+![](/images/bg-bottom.png)
