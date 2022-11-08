@@ -18,3 +18,13 @@ In line with the School’s Desired Culture of Care and to promote the “Kampun
 ![](/images/CCA.png)
 
 ##### **CCA Objectives**
+
+1.    To provide students with a platform to discover their interests and talents to help them live a balanced lifestyle in adulthood.
+
+2.    To acquire useful life skills and 21st Century Competencies.
+
+3.    To cater to a broad spectrum of interests and talents.
+
+4.    To provide a broad exposure to various types of CCA opportunities for future specialisation.
+
+5.    To capitalise on teachable moments to help students make connections of values, skills and competencies learnt and their CCA experiences.
