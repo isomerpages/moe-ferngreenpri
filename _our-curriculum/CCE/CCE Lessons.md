@@ -70,3 +70,5 @@ A process based teaching approach comprises instructional strategies such as:
 • Circle Processes
 
 ```
+
+![](/images/bg-bottom.png)
