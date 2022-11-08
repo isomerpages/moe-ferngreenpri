@@ -40,3 +40,5 @@ To achieve our desired outcome of providing a broad exposure to various types of
 ·         Infocomm & Media Club
 
 ·         Makers’ Club
+
+![](/images/CCA2.png)
