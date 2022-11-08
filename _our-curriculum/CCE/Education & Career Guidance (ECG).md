@@ -23,3 +23,4 @@ The ECG curriculum in FGPS aims to: 
   
 
 For our Pri 1 students, we will be focusing on helping them to uncover their strengths and interests. They will also be exposed to the jobs and industries out there to better understand the range of careers available to them.
+![](/images/bg-bottom.png)
