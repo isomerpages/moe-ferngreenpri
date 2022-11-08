@@ -8,7 +8,7 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 
 # **Physical Education, Art & Music (PE, Art, MU)**
 
-**The PE / Art / Music Department aims to:**   
+### **The PE / Art / Music Department aims to:**   
 
 *   Provide a positive and joyful PE learning experience leading to a sustained healthy lifestyle.  
     
@@ -17,3 +17,5 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 *   Inculcate positive sportsmanship, resilience, respect and sports safety for both others and self in PE, Art and Music lessons.   
     
 *   Develop PE, Art & Music teachers to be competent, confident and efficient educators.
+
+### **To achieve the Department’s goals, students will be**
