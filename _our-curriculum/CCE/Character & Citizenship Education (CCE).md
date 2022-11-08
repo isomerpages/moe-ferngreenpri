@@ -23,3 +23,5 @@ The school’s CCE curriculum follows MOE’s Framework for 21st Century Compete
 The CCE department in the school is structured as follows:
 
 ![](/images/CCE2.png)
+
+![](/images/bg-bottom.png)
