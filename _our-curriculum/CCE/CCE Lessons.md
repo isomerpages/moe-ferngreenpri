@@ -21,7 +21,7 @@ Students are guided in identifying personal beliefs and values when they relate 
 
   
 
-• Consideration Approach
+<u> • Consideration Approach </u>
 
 Consideration Approach builds on empathy and aims to develop a caring personality. The crucial question to ask in perspective-taking is “How would you feel if you were that person?” A student learns that making a moral decision involves taking into consideration the impact of that decision on others. By adopting the perspective of the other person, the student attempts to understand the thoughts and feelings of that person and develops a balanced view of the situation. This is done through employing strategies such as role-playing and questioning.
 
