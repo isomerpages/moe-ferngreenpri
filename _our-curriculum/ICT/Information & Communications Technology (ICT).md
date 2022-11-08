@@ -28,3 +28,5 @@ third_nav_title: ICT
 *   Work with relevant agencies to organise activities to promote and raise readership.
 
 ![](/images/ICT3.png)
+
+![](/images/bg-bottom.png)
