@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English Language (EL)/English Language (EL).md
       - English Language (EL)/PROGRAMME.md
       - English Language (EL)/STELLAR.md
       - English Language (EL)/Assessment Matters.md
