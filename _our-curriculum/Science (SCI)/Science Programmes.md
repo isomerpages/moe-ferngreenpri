@@ -11,3 +11,6 @@ Science Programmes
 
 
 ![](/images/SCI.jpeg)
+
+
+![](/images/bg-bottom.png)
