@@ -50,3 +50,8 @@ We monitor students’ learning through appropriate formal and informal methods 
   </tr>
 </tbody>
 </table>
+
+
+Assessments are bite-sized so that they are manageable for the students and provide the students with a sense of achievement. Feedback is given to students and parents with the use of rubrics and remarks.
+
+![](/images/bg-bottom.png)
