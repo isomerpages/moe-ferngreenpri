@@ -2,4 +2,5 @@ collections:
   accolades-and-achievements:
     output: true
     order:
+      - School/2018.md
       - School/.keep
