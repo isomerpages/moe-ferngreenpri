@@ -37,3 +37,5 @@ Singapore Mathematics Curriculum
 [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)
 
 Note: Singapore Mathematics Curriculum link is broken.
+
+![](/images/bg-bottom.png)
