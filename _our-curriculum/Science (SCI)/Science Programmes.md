@@ -8,3 +8,6 @@ third_nav_title: Science (SCI)
 
 Science Programmes
 ------------------
+
+
+![](/images/SCI.jpeg)
