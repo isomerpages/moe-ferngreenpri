@@ -18,3 +18,8 @@ In the lower primary classrooms, students experience shared reading with their t
 ![](/images/EL1.png)
 
 [www.stellarliteracy.sg](http://www.stellarliteracy.sg/)
+
+![](/images/EL2.jpeg)
+
+
+![](/images/bg-bottom.png)
