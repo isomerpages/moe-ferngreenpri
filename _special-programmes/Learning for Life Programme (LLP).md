@@ -80,3 +80,10 @@ In the affective aspect, PBE provides opportunities to build positive relationsh
 The school’s geographical position, tucked among the lush greenery and stretches of park connectors in our backyard, is an added bonus for us to explore and tap on these resources to introduce and embark on a progressive six-year outdoor exploratory programme. This serves very well to enhance the holistic schooling experience for our students.
 
 All students will undergo various key milestone programmes designed to impart essential life skills and values as they progress through their six years in Fern Green Primary School.
+
+
+<b> Get Real! – Do Sports! </b>
+
+The school’s approach to promoting an active lifestyle is through positive peer influence. It embraces the idea of team sports as a way to motivate students to develop essential life skills and social emotional competencies through respectful play. Playing team sports at a young age allows children to work together to achieve goals and build skills such as teamwork and leadership. Team sports boost self-esteem and confidence. They also build positive relationships among parents, teachers and teammates, and allow for opportunities to develop critical thinking skills.
+
+Team Sports also teach discipline both mentally and physically which is much aligned with our desired School Culture of Care and Discipline. By the end of their primary school education with the school, our students would have been exposed to 5 different team sports. The variety of sports offered will allow them to discover their strengths and areas for growth and possibly discover an interest to further develop their potential as they progress to secondary schools.
