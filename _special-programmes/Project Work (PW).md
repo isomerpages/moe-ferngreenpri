@@ -16,3 +16,5 @@ OUR APPROACH
 ------------
 
 In Fern Green, our approach to Project Work is anchored by the Inquiry-based Learning, where students’ learning is guided by asking questions and researching for answers. These will help them make connections with their prior knowledge, synthesize their learning from the various subject disciplines, and build new knowledge. Students will work collaboratively to learn by doing in Makers and Outdoors Education, and be provided with opportunities to reflect on their learning process. Students would also be provided with opportunities to leverage the affordances of technology to learn, research, and/or reflect at home.
+
+![](/images/PW.jpeg)
