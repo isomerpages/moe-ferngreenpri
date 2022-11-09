@@ -28,3 +28,15 @@ Fern Green Primary School adopts the 2013 Mathematics syllabus which reflects th
 *   To enhance and realise the potential of all staff by establishing a continuous cycle of relevant structured training and developmental programmes so that all students will enjoy learning mathematics by utilising up-to-date teaching methodology and practices.
 
 ![](/images/Math3.png)
+
+**Mathematics Pedagogy**
+
+As mathematics is hierarchical in nature, a “spiral approach” is adopted in developing the student’s mathematical content knowledge. Therefore, at Fern Green Primary School, students will learn Math through the following ways:
+
+  
+
+1) By Doing 
+
+*   Concrete-Pictorial-Abstract (CPA) teaching and learning approach  
+    
+*   Activities/Games/Problem-based learning (Real-life situations)
