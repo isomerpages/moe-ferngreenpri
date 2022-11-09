@@ -14,3 +14,6 @@ The school’s curricular planning philosophy takes reference from John Dewey, a
 
 The school believes that **effective learning** takes place when **learner needs drive lesson designs**. We believe that **each child is active and inquisitive** and **wants to explore**. As our children make the transition from kindergarten, we would like to **keep their innate curiosity alive and nurture them into well-rounded, passionate, and curious lifelong learners**, **eager to embark** on the next stage of their learning adventure as they progress from primary to secondary school.
 
+
+
+<u> **Programmatic Approach** </u>
