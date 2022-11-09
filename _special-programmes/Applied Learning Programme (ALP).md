@@ -14,3 +14,5 @@ description: ""
 The **FGPS Maker Education ALP** aims to trigger Students’ interest in STEM by exposing them to engaging projects that will enable them to use everyday materials and STEM concepts to design and build solutions to address problems. With the Maker Education ALP, we hope to equip our students with 21st century competencies, hone their critical and inventive thinking skills, and foster innovation and develop their ability to identify and solve problems. 
 
 The **FGPS Maker Education ALP** will take on a 3-tier learning structure & progressive skill training framework as depicted below:
+
+![](/images/ALP.png)
