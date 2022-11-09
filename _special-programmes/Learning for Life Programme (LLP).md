@@ -93,3 +93,6 @@ Team Sports also teach discipline both mentally and physically which is much ali
 
 The school adopts a tiered approach in programming, targeting first the student masses, then the interest groups such as CCA groups. Programmes could be centred around Outdoor Education or Sports or both, depending on the nature of the activities involved.
 
+![](/images/LLP.png)
+
+![](/images/bg-bottom.png)
