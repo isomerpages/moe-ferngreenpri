@@ -69,3 +69,4 @@ Reader’s Theatre in Action is an integrated approach to increase reading motiv
 
 Inquiry-based learning is infused into the lessons to ignite students’ curiosity for a love of learning. Students spontaneously ask questions about a particular topic which is related with the STELLAR unit. They work collaboratively to find the answers to their questions. They also have the opportunities to make items related to what they learn.
 
+![](/images/EL9.png)
