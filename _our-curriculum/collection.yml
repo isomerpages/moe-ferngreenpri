@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science (SCI)/Science Programmes.md
       - Science (SCI)/.keep
       - Mother Tongue Languages (MTL)/Mother Tongue Languages (MTL).md
       - Mother Tongue Languages (MTL)/Programmes.md
