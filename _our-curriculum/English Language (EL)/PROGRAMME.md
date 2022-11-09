@@ -61,3 +61,4 @@ D.E.A.R stands for **D**rop **E**verything **A**nd **R**ead. During the D.E.
 Reader’s Theatre in Action is an integrated approach to increase reading motivation, promote performing with a purpose, develop self-confidence and encourage teamwork.
 
 ![](/images/EL7.png)
+![](/images/EL8.png)
