@@ -54,3 +54,4 @@ D.E.A.R stands for **D**rop **E**verything **A**nd **R**ead. During the D.E.
 
 ![](/images/EL4.png)
 ![](/images/EL5.png)
+![](/images/EL6.png)
