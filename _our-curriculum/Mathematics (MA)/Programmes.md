@@ -25,3 +25,7 @@ The LSM programme provides better support for selected Primary 1 students who ne
 
 Students will be involved in experiential and activity-based learning. They will explore and learn mathematical concepts and skills through authentic, meaningful and engaging activities. They will use real life resources and manipulatives to construct meaning and attain understanding.
 
+
+<u> **P1 Mathematics Parent’s Workshop** </u>
+
+Parents will learn how their children learn Mathematics in the classroom. They will learn to use manipulatives, activities and games to reinforce mathematical concepts and skills with their children and help them to make mathematical connections in real life situations.
