@@ -40,3 +40,5 @@ As mathematics is hierarchical in nature, a “spiral approach” is adopted in 
 *   Concrete-Pictorial-Abstract (CPA) teaching and learning approach  
     
 *   Activities/Games/Problem-based learning (Real-life situations)
+
+![](/images/Math4.png)
