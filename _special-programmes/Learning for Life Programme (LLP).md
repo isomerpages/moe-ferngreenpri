@@ -63,3 +63,20 @@ _Get REAL!@FGPS_ seeks to
   </tr>
 </tbody>
 </table>
+
+
+<b> Get Real! – Go Outdoor! </b>
+
+Modelling closely after Place-Based Education (PBE), we believe that the various platforms which encompass elements of fun and exploration can be leveraged to allow students to appreciate and make connections to the world and life around them, thus acquiring essential life skills in the physical, mental and affective domains.  
+
+PBE is an approach to learning that takes advantage of geography to create authentic, meaningful and engaged learning for students.
+
+In the physical aspect, it builds body-awareness, hand-eye coordination, and promotes the development of gross and fine motor controls and physical endurance for sustained engagement in activities.
+
+In the mental aspect, it gives opportunity for decision making, allowing learners to take calculated and reasonable risks, in the process, gain new knowledge of navigation, survival skills and awareness of the environment around them and beyond.
+
+In the affective aspect, PBE provides opportunities to build positive relationships, team spirit and camaraderie between peers and teachers in school. It also allows the incorporation of care, thoughtfulness and inclusivity for families and the community at large which aligns well with the school’s desired culture of Care and Discipline.
+
+The school’s geographical position, tucked among the lush greenery and stretches of park connectors in our backyard, is an added bonus for us to explore and tap on these resources to introduce and embark on a progressive six-year outdoor exploratory programme. This serves very well to enhance the holistic schooling experience for our students.
+
+All students will undergo various key milestone programmes designed to impart essential life skills and values as they progress through their six years in Fern Green Primary School.
