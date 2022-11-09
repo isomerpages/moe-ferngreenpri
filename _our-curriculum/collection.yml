@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics (MA)/Approach & Framework.md
       - Mathematics (MA)/Programmes.md
       - Mathematics (MA)/.keep
       - Science (SCI)/Science (SCI).md
