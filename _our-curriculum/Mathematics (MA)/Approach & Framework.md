@@ -42,3 +42,14 @@ As mathematics is hierarchical in nature, a “spiral approach” is adopted in 
 *   Activities/Games/Problem-based learning (Real-life situations)
 
 ![](/images/Math4.png)
+
+
+2 ) Through Thinking  
+
+*   Students communicate mathematically through questioning and reasoning  
+    
+*   Students self-regulate their own thinking (also known as metacognition)  
+    
+*   Use of Cooperative Learning Strategies to learn with peers and be accountable for their own learning  
+    
+*   Use of the mini whiteboard/technology to respond individually, and during pair and group work
