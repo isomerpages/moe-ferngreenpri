@@ -29,3 +29,11 @@ Students will be involved in experiential and activity-based learning. They will
 <u> **P1 Mathematics Parent’s Workshop** </u>
 
 Parents will learn how their children learn Mathematics in the classroom. They will learn to use manipulatives, activities and games to reinforce mathematical concepts and skills with their children and help them to make mathematical connections in real life situations.
+
+**For more information**
+
+Singapore Mathematics Curriculum
+
+[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)
+
+Note: Singapore Mathematics Curriculum link is broken.
