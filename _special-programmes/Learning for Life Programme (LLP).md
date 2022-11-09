@@ -87,3 +87,9 @@ All students will undergo various key milestone programmes designed to impart es
 The school’s approach to promoting an active lifestyle is through positive peer influence. It embraces the idea of team sports as a way to motivate students to develop essential life skills and social emotional competencies through respectful play. Playing team sports at a young age allows children to work together to achieve goals and build skills such as teamwork and leadership. Team sports boost self-esteem and confidence. They also build positive relationships among parents, teachers and teammates, and allow for opportunities to develop critical thinking skills.
 
 Team Sports also teach discipline both mentally and physically which is much aligned with our desired School Culture of Care and Discipline. By the end of their primary school education with the school, our students would have been exposed to 5 different team sports. The variety of sports offered will allow them to discover their strengths and areas for growth and possibly discover an interest to further develop their potential as they progress to secondary schools.
+
+
+<b> Tiered Approach </b>
+
+The school adopts a tiered approach in programming, targeting first the student masses, then the interest groups such as CCA groups. Programmes could be centred around Outdoor Education or Sports or both, depending on the nature of the activities involved.
+
