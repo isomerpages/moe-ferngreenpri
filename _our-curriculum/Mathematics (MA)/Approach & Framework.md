@@ -53,3 +53,5 @@ As mathematics is hierarchical in nature, a “spiral approach” is adopted in 
 *   Use of Cooperative Learning Strategies to learn with peers and be accountable for their own learning  
     
 *   Use of the mini whiteboard/technology to respond individually, and during pair and group work
+
+![](/images/Math5.png)
