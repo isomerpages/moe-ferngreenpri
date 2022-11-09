@@ -12,3 +12,6 @@ Science Curriculum
 ![](/images/Sci2.jpeg)
 
 ![](/images/Sci3.jpeg)
+
+To learn more about the syllabus taught in the classroom, visit the [link](/files/science-primary-2014.pdf) here:
+
