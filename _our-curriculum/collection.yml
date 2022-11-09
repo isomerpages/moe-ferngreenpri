@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science (SCI)/Science (SCI).md
       - Science (SCI)/Curriculum Approach.md
       - Science (SCI)/Science Curriculum.md
       - Science (SCI)/Science Holistic Assessment.md
