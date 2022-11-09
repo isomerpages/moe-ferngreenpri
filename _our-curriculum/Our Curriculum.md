@@ -16,7 +16,7 @@ The school believes that **effective learning** takes place when **learner ne
 
 
 
-<u> **Programmatic Approach** </u>
+**<u> Programmatic Approach </u>**
 
 Underpinning the design of Fern Green’s academic curriculum and co-curriculum is our school values of _Respect, Responsibility, Resilience, Integrity, Care and Harmony_ _(R3ICH)._ Our Character and Citizenship Education (CCE) and Student Leadership Programmes aim to instil these values and develop leadership attributes and competencies in our students so that they are able to take good care of themselves, their families and the less-privileged, and contribute back to society
 
