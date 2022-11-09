@@ -14,3 +14,8 @@ third_nav_title: Mathematics (MA)
 <u> **Increasing Confidence and Achievement in Numeracy (ICAN)** </u>
 
 ICAN is targeted at improving the confidence and achievement of students in mathematics by using intervention strategies to tackle 4 key issues: learning gaps, language, motivation and memory.
+
+
+<u> **Learning Support for Mathematics (LSM)** </u>
+
+The LSM programme provides better support for selected Primary 1 students who need more reinforcement in their learning of basic numeracy in mathematics. Students are placed in smaller groups and participate in customized activities based on their learning progress.
