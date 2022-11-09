@@ -71,3 +71,6 @@ Inquiry-based learning is infused into the lessons to ignite students’ curiosi
 
 ![](/images/EL9.png)
 ![](/images/EL10.png)
+
+
+![](/images/bg-bottom.png)
