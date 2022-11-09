@@ -8,3 +8,5 @@ description: ""
 # SPECIAL PROGRAMMES
 
 _Click on the links on the left panel for more details._
+
+![](/images/bg-bottom.png)
