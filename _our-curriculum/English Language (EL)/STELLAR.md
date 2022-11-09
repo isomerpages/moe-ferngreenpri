@@ -16,3 +16,5 @@ third_nav_title: English Language (EL)
 In the lower primary classrooms, students experience shared reading with their teachers and peers, Modified Language Experience Approach (MLEA) in writing and language activities.
 
 ![](/images/EL1.png)
+
+[www.stellarliteracy.sg](http://www.stellarliteracy.sg/)
