@@ -27,4 +27,4 @@ To build a strong foundation in the use of the English Language in Fern Green st
 
   
 
----
+![](/images/bg-bottom.png)
