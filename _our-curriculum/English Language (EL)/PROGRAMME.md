@@ -45,3 +45,5 @@ The Extensive Reading Programme aims to inculcate the habit of reading in studen
 1 ) Stories Alive!
 
 Teachers, dressed as characters of stories, conduct storytelling sessions during recess and assembly periods. Students are given the opportunity to reflect and respond to the stories that they have heard by interviewing the _characters_ and participating in post-reading activities.
+
+![](/images/EL3.png)
