@@ -11,3 +11,6 @@ description: ""
 [Virtual Tour](https://www.thinglink.com/card/1309157252489281538) of School's Key Facilities  
    
 <b>Key Information by Respective Departments:</b>
+
+file exceeds 5mb
+
