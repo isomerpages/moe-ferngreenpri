@@ -8,7 +8,7 @@ description: ""
 # **Our Curriculum**
 
 
-<u><b> Curricular Planning Philosophy - *Learning by Doing* </b></u>
+<u><b> Curricular Planning Philosophy - <i>Learning by Doing</i> </b></u>
 
 The school’s curricular planning philosophy takes reference from John Dewey, an American philosopher and educational reformer. According to Dewey, when we “give the students something to do, not something to learn, and the doing is of such nature as to demand thinking, learning naturally results.” As students <b>learn from the experience</b>, they <b>reflect</b> on what happened, <b>develop their problem-solving skills</b> and <b>apply this learning</b> in their future lives.
 
