@@ -2,4 +2,5 @@ collections:
   stakeholders-and-partnerships:
     output: true
     order:
+      - Partnership with TTSH.md
       - School Advisory Committee (SAC).md
