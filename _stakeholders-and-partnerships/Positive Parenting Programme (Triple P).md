@@ -64,3 +64,5 @@ Triple P Level 4 is for parents with multiple concerns about their children’s 
 Kindly indicate your interest to join our fully <i>subsidised</i> parenting programme via the link below: 
 
 [https://forms.office.com/r/YHdyfnjTV3](https://forms.office.com/r/YHdyfnjTV3)
+
+[Download publicity material](/files/General%20Triple%20P%20Infographic%20with%20Interest%20Form%20(For%20Parents).pdf)
