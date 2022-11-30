@@ -13,18 +13,18 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-b8y7{border-color:#ffffff;font-size:20px;text-align:center;vertical-align:top}
-.tg .tg-wvhg{border-color:#ffffff;color:#009901;font-size:28px;text-align:center;vertical-align:top}
+.tg .tg-jdd8{border-color:#ffffff;color:#01b802;font-size:28px;text-align:center;vertical-align:top}
+.tg .tg-h1d6{border-color:#ffffff;color:#343434;font-size:20px;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-wvhg">R3ICH</th>
+    <th class="tg-jdd8">R3ICH</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b8y7">Respect, Responsibility, Resilience, Integrity, Care, Harmony</td>
+    <td class="tg-h1d6">Respect, Responsibility, Resilience, Integrity, Care, Harmony</td>
   </tr>
 </tbody>
 </table>
