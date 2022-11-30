@@ -6,3 +6,7 @@ description: ""
 ![](/images/Banner.png)
 
 # School Advisory Committee (SAC)
+
+![](/images/SAC.jpeg)
+
+![](/images/bg-bottom.png)
