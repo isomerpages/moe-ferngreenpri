@@ -32,3 +32,6 @@ third_nav_title: Parent Support Group (PSG)
   </tr>
 </tbody>
 </table>
+
+
+![](/images/PSG%20EXCO%20members%20position.jpg)
