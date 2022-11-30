@@ -13,13 +13,13 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-m28v{border-color:#ffffff;color:#0abd0c;font-size:28px;text-align:center;vertical-align:top}
+.tg .tg-kx9v{border-color:#ffffff;color:#2cb82c;font-size:28px;text-align:center;vertical-align:top}
 .tg .tg-h1d6{border-color:#ffffff;color:#343434;font-size:20px;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-m28v">R3ICH</th>
+    <th class="tg-kx9v">R3ICH</th>
   </tr>
 </thead>
 <tbody>
