@@ -2,6 +2,7 @@ collections:
   stakeholders-and-partnerships:
     output: true
     order:
+      - Parent Support Group (PSG)/Parent Support Group (PSG).md
       - Parent Support Group (PSG)/Downloads.md
       - Parent Support Group (PSG)/.keep
       - Positive Parenting Programme (Triple P).md
