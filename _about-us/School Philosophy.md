@@ -15,7 +15,7 @@ The school believes that effective learning takes place when learner needs drive
 
   
 
-Our instructional approaches begin with **Inquiry**. Through the use of thought-provoking questions, we would like to spark our students' curiosity and inspire in them a genuine need to learn so that they care about the outcome of their investigations. Underpinning the design of Fern Green's academic curriculum and co-curriculum is our school values of Respect, Responsibility, Resilience, Integrity, Care and Harmony.
+Our instructional approaches begin with <b>Inquiry</b>. Through the use of thought-provoking questions, we would like to spark our students' curiosity and inspire in them a genuine need to learn so that they care about the outcome of their investigations. Underpinning the design of Fern Green's academic curriculum and co-curriculum is our school values of Respect, Responsibility, Resilience, Integrity, Care and Harmony.
 
   
 
