@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 # SOCIAL AND EMOTIONAL LEARNING (SEL)
 
-**Social and Emotional Learning (SEL) Competencies**
+<b>Social and Emotional Learning (SEL) Competencies</b>
 
 1.  Self-awareness – Understands his own emotions, inclinations, strengths and weaknesses. Develops positive self-concept and self-worth  
     
