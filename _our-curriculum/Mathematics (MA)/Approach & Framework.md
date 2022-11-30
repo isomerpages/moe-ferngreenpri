@@ -7,8 +7,7 @@ third_nav_title: Mathematics (MA)
 ![](/images/Banner.png)
 
 # APPROACH & FRAMEWORK
-
-**Curriculum**  
+<b>Curriculum</b>
   
 Fern Green Primary School adopts the 2013 Mathematics syllabus which reflects the recent developments and trends in mathematics education. Our emphasis is predominantly focussed on conceptual understanding, skill proficiencies and mathematical processes which are integral elements to the development of mathematical problem-solving strategies. Students will also be nurtured to think logically, abstractly, critically, creatively and attained outcomes that seek to address the 21st Century Competencies Framework as defined by the MOE.
 
@@ -17,7 +16,7 @@ Fern Green Primary School adopts the 2013 Mathematics syllabus which reflects th
 ![](/images/Math2.png)
 
 
-**Goals & Objectives**
+<b>Goals & Objectives</b>
 
   
 
@@ -29,7 +28,7 @@ Fern Green Primary School adopts the 2013 Mathematics syllabus which reflects th
 
 ![](/images/Math3.png)
 
-**Mathematics Pedagogy**
+<b>Mathematics Pedagogy</b>
 
 As mathematics is hierarchical in nature, a “spiral approach” is adopted in developing the student’s mathematical content knowledge. Therefore, at Fern Green Primary School, students will learn Math through the following ways:
 
