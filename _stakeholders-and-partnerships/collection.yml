@@ -2,6 +2,7 @@ collections:
   stakeholders-and-partnerships:
     output: true
     order:
+      - Positive Parenting Programme (Triple P).md
       - "Partnership with BCA & KLL: Zero Corridor.md"
       - Partnership with TTSH.md
       - School Advisory Committee (SAC).md
