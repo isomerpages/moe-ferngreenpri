@@ -8,7 +8,7 @@ third_nav_title: ICT
 
 # INFORMATION & COMMUNICATIONS TECHNOLOGY (ICT)
 
-**The ICT Department aims to:**      
+<b>The ICT Department aims to:</b>   
 
 *   Support the School in harnessing an energetic learning environment that embraces technology in promoting collaboration, creative thinking and innovation amongst our learning community.   
     
