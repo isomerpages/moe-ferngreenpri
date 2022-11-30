@@ -12,10 +12,11 @@ third_nav_title: Mother Tongue Languages (MTL)
 
 <u><b>Approach/Framework</b></u>
 
-**Curriculum**  
+<b>Curriculum</b>
+
 Mother Tongue is a living language. It is used and valued in our society. To help learners to be active learners and proficient users of the Mother Tongue languages, Fern Green Primary School MTL department aims to support learners from diverse backgrounds learn the language by focusing on ways to engage the learners, other than focusing how to teach. We strive to develop critical, creative and culturally savvy students of the 21st Century.
 
-**Goals/Objectives**  
+<b>Goals/Objectives</b>  
 
 *   Nurturing learners to be culturally rooted individuals.   
     
@@ -26,7 +27,7 @@ Mother Tongue is a living language. It is used and valued in our society. To hel
 
   
 
-**Key MTL Approaches**  
+<b>Key MTL Approaches</b>  
 
 *   Language learning takes place in naturalistic settings, hence more focus is placed on the communicative aspect. To learn the language in the initial stages, the learner will learn comprehensible input (e.g. through the use of words and phrases that the learner can understand readily from their familiar context) and have opportunities to use the language meaningfully in natural interactions.  
     
