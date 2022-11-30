@@ -31,7 +31,7 @@ description: ""
        (iv)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 			 
 			 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
 
 Note: MOE Sexuality Education link is broken (page not found).
 
@@ -41,7 +41,7 @@ Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2022
 
 ![](/images/SED2.jpeg)
 
-**Information for Parents**
+<b>Information for Parents</b>
 
 8.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
