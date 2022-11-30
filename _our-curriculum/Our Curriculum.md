@@ -12,11 +12,11 @@ description: ""
 
 The school’s curricular planning philosophy takes reference from John Dewey, an American philosopher and educational reformer. According to Dewey, when we “give the students something to do, not something to learn, and the doing is of such nature as to demand thinking, learning naturally results.” As students <b>learn from the experience</b>, they <b>reflect</b> on what happened, <b>develop their problem-solving skills</b> and <b>apply this learning</b> in their future lives.
 
-The school believes that **effective learning** takes place when **learner needs drive lesson designs**. We believe that **each child is active and inquisitive** and **wants to explore**. As our children make the transition from kindergarten, we would like to **keep their innate curiosity alive and nurture them into well-rounded, passionate, and curious lifelong learners**, **eager to embark** on the next stage of their learning adventure as they progress from primary to secondary school.
+The school believes that <b>effective learning</b> takes place when <b>learner needs drive lesson designs</b>. We believe that <b>each child is active and inquisitive</b> and <b>wants to explore</b>. As our children make the transition from kindergarten, we would like to <b>keep their innate curiosity alive and nurture them into well-rounded, passionate, and curious lifelong learners</b>, <b>eager to embark</b> on the next stage of their learning adventure as they progress from primary to secondary school.
 
 
 
-**<u> Programmatic Approach </u>**
+<b><u> Programmatic Approach </b></u>
 
 Underpinning the design of Fern Green’s academic curriculum and co-curriculum is our school values of _Respect, Responsibility, Resilience, Integrity, Care and Harmony_ _(R3ICH)._ Our Character and Citizenship Education (CCE) and Student Leadership Programmes aim to instil these values and develop leadership attributes and competencies in our students so that they are able to take good care of themselves, their families and the less-privileged, and contribute back to society
 
