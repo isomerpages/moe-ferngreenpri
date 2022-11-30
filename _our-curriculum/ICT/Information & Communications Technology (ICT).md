@@ -8,7 +8,7 @@ third_nav_title: ICT
 
 # INFORMATION & COMMUNICATIONS TECHNOLOGY (ICT)
 
-<b>The ICT Department aims to:</b>   
+<b>The ICT Department aims to:</b> 
 
 *   Support the School in harnessing an energetic learning environment that embraces technology in promoting collaboration, creative thinking and innovation amongst our learning community.   
     
@@ -19,7 +19,7 @@ third_nav_title: ICT
 ![](/images/ICT1.png)
 ![](/images/ICT.png)
 
-**The MRL Department aims to:**     
+<b>The MRL Department aims to:</b>   
 
 *   Support the School in developing good reading culture and promote the joy of reading to the school learning community.   
     
