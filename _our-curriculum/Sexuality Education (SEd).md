@@ -46,7 +46,7 @@ Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2022
 8.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway and is also downloadable [HERE](https://form.gov.sg/#!/61ee5adf2686c200123fc870). 
-The completed opt-out form is to be submitted by **04/02/2022**.
+The completed opt-out form is to be submitted by <b>04/02/2022</b>.
 
 10.     Parents can contact the school at 68343100 or email: [ferngreen\_ps@moe.edu.sg](mailto:ferngreen_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
