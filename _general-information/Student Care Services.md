@@ -26,3 +26,7 @@ Email : 
 ·         [FG@rafflesstudentcare.com](mailto:admin@rafflesstudentcare.com)
 
 ### **SCC Calendar**
+
+Note: calender cannot be migrated here.
+
+![](/images/bg-bottom.png)
