@@ -40,3 +40,8 @@ Email address: [sch2@btntan.com](mailto:sch2@btntan.com)
   </tr>
 </tbody>
 </table>
+
+
+Should you have any queries, you may contact the School Bus Services Provider directly.
+
+![](/images/bg-bottom.png)
