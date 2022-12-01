@@ -27,5 +27,5 @@ When assigning homework, Teachers in Fern Green Primary School (FGPS) adhere to 
 *   Homework assignment needs to take into account students’ other commitments such as involvement in CCA and afternoon classes  
     
 
-<u><b>Homework Load</b></u>   
+<u>Homework Load</u>   
 (note: the indicated time for homework completion is with reference to an average worker)
