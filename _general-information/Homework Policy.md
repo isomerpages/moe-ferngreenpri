@@ -67,3 +67,9 @@ When assigning homework, Teachers in Fern Green Primary School (FGPS) adhere to 
   </tr>
 </tbody>
 </table>
+
+Please note that time for learning of Spelling and Dictation has not been factored into the timing as students are provided with spelling lists for early preparation.
+
+To protect family time, minimal homework will be set for completion during School and Public Holidays during term time.
+
+![](/images/bg-bottom.png)
