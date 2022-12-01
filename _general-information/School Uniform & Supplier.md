@@ -119,3 +119,6 @@ Details of the online purchase and other purchase options are as follows:
   </tr>
 </tbody>
 </table>
+
+
+![](/images/bg-bottom.png)
