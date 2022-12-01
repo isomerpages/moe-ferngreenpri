@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Homework Policy.md
       - School Hours.md
       - School Uniform & Supplier.md
       - Bookshop Services.md
