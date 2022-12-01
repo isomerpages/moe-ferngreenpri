@@ -36,3 +36,5 @@ description: ""
       
     
 10.  Students must keep the school premises clean and take care of the school property.
+
+![](/images/bg-bottom.png)
