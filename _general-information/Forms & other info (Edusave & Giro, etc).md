@@ -23,3 +23,13 @@ The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin their 
 ### Edusave & Giro
 
 [Information on Edusave](/files/Information%20on%20Edusave.pdf)
+
+[Information on Giro](/files/Information%20on%20GIRO.pdf)
+
+### FAS & NPP
+
+  
+[FAS & NPP application form (hardcopy)](https://drive.google.com/drive/folders/15UKO8IA7yUeUBgoJlPmoo_gtFKvdoF09?usp=sharing)  
+[eFAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)  
+  
+[Information on FAS](https://www.moe.gov.sg/financial-matters/financial-assistance)
