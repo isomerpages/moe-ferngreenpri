@@ -86,11 +86,11 @@ Details of the online purchase and other purchase options are as follows:
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1224px">
+<table class="tg" style="undefined;table-layout: fixed; width: 773px">
 <colgroup>
-<col style="width: 153px">
-<col style="width: 671px">
-<col style="width: 400px">
+<col style="width: 128px">
+<col style="width: 381px">
+<col style="width: 264px">
 </colgroup>
 <thead>
   <tr>
@@ -121,7 +121,7 @@ Details of the online purchase and other purchase options are as follows:
   </tr>
   <tr>
     <td class="tg-y7qa">All students</td>
-    <td class="tg-ii8k" colspan="2">Note: Name Tag (<span style="font-weight:bold">1cm above School Crest</span> for School Polo Tee; <span style="font-weight:bold">1 cm above pocket slit</span> for School Shirt)<br><br><span style="font-weight:bold;text-decoration:underline">For School Polo Tee</span><br><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/Sch%20Uniform/name%20tag.jpg" alt="name tag.jpg" width="352" height="258"># <br><br><br><span style="font-weight:bold;text-decoration:underline">For School Shirt</span><br><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/Sch%20Uniform/schShirt.jpg" alt="schShirt.jpg" width="537" height="542"></td>
+    <td class="tg-ii8k" colspan="2">Note: Name Tag (<span style="font-weight:bold">1cm above School Crest</span> for School Polo Tee; <span style="font-weight:bold">1 cm above pocket slit</span> for School Shirt)<br><br><span style="font-weight:bold;text-decoration:underline">For School Polo Tee</span><br><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/Sch%20Uniform/name%20tag.jpg" alt="name tag.jpg" width="352" height="258"> <br><br><br><span style="font-weight:bold;text-decoration:underline">For School Shirt</span><br><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/Sch%20Uniform/schShirt.jpg" alt="schShirt.jpg" width="537" height="542"></td>
   </tr>
 </tbody>
 </table>
