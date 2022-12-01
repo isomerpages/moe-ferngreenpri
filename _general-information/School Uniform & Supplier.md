@@ -12,7 +12,7 @@ description: ""
 
 <b>Shanghai School Uniforms Pte Ltd</b>
 
-Ubi Outlet Address:
+<u><b>Ubi Outlet Address:</b></u>
 
 63 Ubi Avenue 1, #04-09, 63@UBI, Singapore 408937
 
