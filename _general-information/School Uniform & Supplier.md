@@ -86,7 +86,12 @@ Details of the online purchase and other purchase options are as follows:
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 1224px">
+<colgroup>
+<col style="width: 153px">
+<col style="width: 671px">
+<col style="width: 400px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-rj1p">Uniform rules</th>
