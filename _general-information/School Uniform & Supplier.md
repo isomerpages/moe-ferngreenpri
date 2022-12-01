@@ -38,3 +38,12 @@ Sec 1 Registration Day: Closed
 Visit to our Retail Outlet is <b>STRICTLY</b> by appointment only.
 
 We regret to inform that walk-ins <b>will not</b> be entertained.
+
+
+Note:  
+
+a)         Closed for walk-in purchase from 23 to 31 December 2022
+
+**Year-End Sales**  
+
+Details of the online purchase and other purchase options are as follows:
