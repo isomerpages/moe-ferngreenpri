@@ -8,7 +8,7 @@ description: ""
 # Stakeholders & Partnerships
 
 
-<b>Partnership with Parents</b>
+<u><b>Partnership with Parents</b></u>
 
 Tony Wagner, author of “Creating Innovators”, asserted that the capacity for an individual’s creativity or innovation is the result of an interrelationship among <b>expertise</b> which refers to the individual’s knowledge, <b>creative thinking skills</b> and <b>motivation</b>. Expertise and Creative Thinking Skills can be taught and nurtured. Motivation, on the other hand, is less straight forward. Yet, motivation is far more important than either expertise or skills, and people are most creative when they feel motivated by the interest, satisfaction and challenge of the work itself, and not by external pressures.
 
