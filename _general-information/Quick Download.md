@@ -20,7 +20,7 @@ Note: P2 FTs' deck Target Setting\_Meet FT on 25 Jan pdf exceeds 5mb
 
 Note: P4 FTs' deck Target Setting pdf exceeds 5mb
 
-Note: P5 FTs' deck Target Setting exceeds 5mb
+Note: P5 FTs' deck Target Setting pdf exceeds 5mb
 
 [2022 P1 and P2 Parents' Workshop (Reading and Word Recognition)](/files/2022%20P1%20and%20P2%20Parents'%20Workshop%20(Reading%20and%20Word%20Recognition).pdf) / url
 
@@ -39,3 +39,9 @@ Note: P5 FTs' deck Target Setting exceeds 5mb
 [2022 P5 Science Questions for Parents Post WS](/files/2022%20P5%20Science%20Questions%20for%20Parents%20Post%20WS%20(upload).pdf) / url
 
 [2022 Briefing on SBB for P4 Parents](/files/Briefing%20on%20SBB%20for%20P4%20Parents%202022.pdf) / pdf 3.1MB
+
+Note: 2022 P1 Orientation for P1/2023 (Slides by School Leaders) pdf exceeds 5mb
+
+[2022 P1 Orientation Slides for P1/2023_YH(LP)](/files/P1%20Orientation%20Slides_YH(LP)%20for%2018%20Nov%20website%20amended.pdf) / pdf 4.4MB
+
+![](/images/bg-bottom.png)
