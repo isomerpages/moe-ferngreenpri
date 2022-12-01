@@ -25,3 +25,5 @@ Note: P5 FTs' deck Target Setting exceeds 5mb
 [2022 P1 and P2 Parents' Workshop (Reading and Word Recognition)](/files/2022%20P1%20and%20P2%20Parents'%20Workshop%20(Reading%20and%20Word%20Recognition).pdf) / url
 
 [2022 P3 and P4 Parents' Workshop (Reading Comprehension)](/files/2022%20P3%20and%20P4%20Parents'%20Workshop%20(Reading%20Comprehension).pdf) / url
+
+[2022 P5 Parents' Workshop (Writing)](/files/2022%20P5%20Parents'%20Workshop%20(Writing).pdf) / url
