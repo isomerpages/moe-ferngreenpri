@@ -27,3 +27,5 @@ The school will be holding an Open House on <b>Thursday, 7 July 2022, from 8.00
   
 To register for the event, please click on the link below:  
 [Registration for Open House 2022](https://form.gov.sg/62afc59ab1647d001720228d)
+
+![](/images/bg-bottom.png)
