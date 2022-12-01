@@ -11,3 +11,5 @@ description: ""
 <b>Download</b>
 
 [School Open House 2022 - Presentation Slides](/files/FGPS%20Open%20House%202022%20-%20Presentation%20Slides%202022-07-07.pdf) / pdf 4.2MB
+
+[P1 FTs' deck Target Setting_Meet FT on 25 Jan 2022 ](/files/P1%20FTs%20Target%20Setting_Meet%20FT%20on%2025%20Jan%202022.pdf) / pdf 4.5MB
