@@ -47,3 +47,28 @@ a)         Closed for walk-in purchase from 23 to 31 December 2022
 <u><b>Year-End Sales</b></u>
 
 Details of the online purchase and other purchase options are as follows:
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ii8k"><span style="font-weight:bold">Option 1: Online Purchase with Home Delivery fees at $10.00 </span><br>Please access:<a href="https://shop.shanghai-uniforms.com/product-category/fern-green-primary/" target="_blank" rel="noopener noreferrer">https://shop.shanghai-uniforms.com/product-category/fern-green-primary/</a><br>Note:<br>Parents are advised to make their online orders early to avoid delay in delivery due to the year-end festive season. Online purchases should be made latest by 14 December 2022.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Option 2: Purchase from Vendor’s Ubi Outlet <br>For better crowd management, parents are required to make an Appointment<br>via <a href="http://www.shanghai-uniforms.com/" target="_blank" rel="noopener noreferrer">www.shanghai-uniforms.com</a> prior to visiting the outlet. Visit to our Retail Outlet is STRICTLY by appointment only. We regret to inform that walk-ins will not be entertained.  </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Option 3: On-site Purchase (in school)<br>Sales Dates and Timing for P1 (2023)<br>28 November 2022 to 30 November 2022 (Mon-Wed), 9am to 3pm<br>Sales Dates and Timing for P2 (2023) - P6 (2023)<br>1 to 9 December 2022 (Mon - Fri), 15 and 16 December 2022 (Thurs &amp; Fri) <br>9am to 3pm<br>Sales Dates and Timing for Students on FAS (2023)<br>12 to 14 December 2022 (Mon - Wed), 9am to 3pm<br>For better crowd management, parents are advised to book an appointment at <a href="https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#1FA4A0">https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/</span></a> before coming to the school.</td>
+  </tr>
+</tbody>
+</table>
