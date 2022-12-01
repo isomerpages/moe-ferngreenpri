@@ -42,3 +42,37 @@ School Hours
 
 School Hours
 ------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-54l1{border-color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-54l1">P1 &amp; P4 Recess: 9.30am to 10am</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-54l1">P2 &amp; P5 Recess: 10am to 10.30am</td>
+  </tr>
+  <tr>
+    <td class="tg-54l1">P3 &amp; P6 Recess: 10.30am to 11am</td>
+  </tr>
+  <tr>
+    <td class="tg-54l1"></td>
+  </tr>
+  <tr>
+    <td class="tg-54l1">P2, 3 &amp; 5 Snack Break: 8:30am</td>
+  </tr>
+  <tr>
+    <td class="tg-54l1">P1 &amp; 4 Snack Break: 12.00pm</td>
+  </tr>
+</tbody>
+</table>
