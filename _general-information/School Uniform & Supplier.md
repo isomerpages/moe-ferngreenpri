@@ -19,3 +19,22 @@ description: ""
 Contact: <b>6352 2741</b>
 
 Email:  [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com)
+
+
+<b>Operating Hours:</b>  
+
+Mon - Sat: 10:00 am - 6:00 pm
+
+Lunch Break: 1:00pm – 2:00pm
+
+Sunday, Public Holiday & Eve of Public Holiday: Closed
+
+Sec 1 Registration Day: Closed
+
+  
+
+\*\* Appointment booking is required prior to visiting the outlet\*\*
+
+Visit to our Retail Outlet is <b>STRICTLY</b> by appointment only.
+
+We regret to inform that walk-ins <b>will not</b> be entertained.
