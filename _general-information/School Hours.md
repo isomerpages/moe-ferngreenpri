@@ -90,3 +90,14 @@ Gate Opening Hours
 ------------------
 
 Please [click HERE for the Gate Opening Hours](/files/Opening%20Hours_SchoolGates.pdf).
+
+
+Office Hours
+------------
+
+  
+<u><b>School Days</b></u>
+
+  
+<u><b>School Holidays</b></u>  
+8.00am to 5.00pm
