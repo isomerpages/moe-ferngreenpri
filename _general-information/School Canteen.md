@@ -6,3 +6,7 @@ description: ""
 ![](/images/Banner.png)
 
 # School Canteen
+
+Please [click HERE for the Canteen Menu](/files/Canteen%20Menu%202023.pdf).
+
+![](/images/bg-bottom.png)
