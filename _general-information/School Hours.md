@@ -7,3 +7,35 @@ description: ""
 
 School Hours
 ------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8jgo">Monday to Friday</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8jgo">7.30am to 1.25pm (P1 &amp; P2)</td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo">7.30am to 1.30pm (P3 &amp; P4)</td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo">7.30am to 1.35pm (for P5 &amp; P6)</td>
+  </tr>
+  <tr>
+    <td class="tg-4r87">* Children are to report by 7.15am.</td>
+  </tr>
+</tbody>
+</table>
