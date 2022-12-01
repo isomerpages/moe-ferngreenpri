@@ -25,3 +25,5 @@ file exceeds 5mb
 [FGPS Virtual Open House 2021 - Slides on PE Art Music PAL.pdf](/files/FGPS%20Virtual%20Open%20House%202021%20-%20Slides%20on%20PE%20Art%20Music%20%20PAL.pdf)
 
 [FGPS Virtual Open House 2021 - Slides on Student Management.pdf](/files/FGPS%20Virtual%20Open%20House%202021%20-%20Slides%20on%20Student%20Management.pdf)
+
+![](/images/bg-bottom.png)
