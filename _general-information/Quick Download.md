@@ -33,3 +33,5 @@ Note: P5 FTs' deck Target Setting exceeds 5mb
 [2022 P3 to P5 Math Workshop for Parents](/files/2022%20P3%20to%20P5%20Math%20Workshop%20for%20Parents.pdf) / url
 
 [2022 P3&4 Science Questions for Parents Post WS](/files/2022%20P3&4%20Science%20Questions%20for%20Parents%20Post%20WS%20(upload).pdf) / url
+
+[2022_P3-5 Science Parents Workshop](/files/2022_P3-5%20Science%20Parents%20Workshop.pdf) / url
