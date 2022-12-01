@@ -8,7 +8,6 @@ description: ""
 School Hours
 ------------
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -17,11 +16,12 @@ School Hours
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
 .tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-aw21{border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo">Monday to Friday</th>
+    <th class="tg-aw21">Monday to Friday</th>
   </tr>
 </thead>
 <tbody>
