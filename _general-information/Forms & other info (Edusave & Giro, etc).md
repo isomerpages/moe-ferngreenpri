@@ -23,3 +23,5 @@ The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin their 
 ###  Edusave & Giro
 
 [Information on Edusave](/files/Information%20on%20Edusave.pdf)
+
+[Information on Giro](/files/Information%20on%20GIRO.pdf)
