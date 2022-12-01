@@ -72,3 +72,6 @@ Details of the online purchase and other purchase options are as follows:
   </tr>
 </tbody>
 </table>
+
+
+<u><b>School Attire for 2023</b></u>
