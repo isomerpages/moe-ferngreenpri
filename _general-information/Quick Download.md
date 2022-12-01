@@ -16,3 +16,4 @@ description: ""
 
 Note: P2 FTs' deck Target Setting\_Meet FT on 25 Jan pdf exceeds 5mb
 
+[P3 FTs' deck Target Setting](/files/P3%20FTs'%20deck%20Target%20Setting.pdf) / url
