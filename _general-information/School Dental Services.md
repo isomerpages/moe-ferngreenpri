@@ -40,9 +40,9 @@ If your child requires <u><b>URGENT</b></u> dental treatment during clinic clo
 .tg .tg-z5wu{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 623px">
+<table class="tg" style="undefined;table-layout: fixed; width: 640px">
 <colgroup>
-<col style="width: 30px">
+<col style="width: 47px">
 <col style="width: 251px">
 <col style="width: 231px">
 <col style="width: 111px">
