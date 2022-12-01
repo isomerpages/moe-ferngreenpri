@@ -25,9 +25,9 @@ Email address: [sch2@btntan.com](mailto:sch2@btntan.com)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 851px">
+<table class="tg" style="undefined;table-layout: fixed; width: 751px">
 <colgroup>
-<col style="width: 851px">
+<col style="width: 751px">
 </colgroup>
 <thead>
   <tr>
