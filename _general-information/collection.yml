@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Bus Services.md
       - School Dental Services.md
       - Student Care Services.md
       - School Canteen.md
