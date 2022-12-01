@@ -44,6 +44,6 @@ Note:
 
 a)         Closed for walk-in purchase from 23 to 31 December 2022
 
-<b>Year-End Sales</b>
+<u><b>Year-End Sales</b></u>
 
 Details of the online purchase and other purchase options are as follows:
