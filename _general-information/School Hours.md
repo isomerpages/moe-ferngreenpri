@@ -76,3 +76,17 @@ School Hours
   </tr>
 </tbody>
 </table>
+
+
+Dismissal Arrangements
+----------------------
+
+  
+
+*   P1 & P2: Vehicle Drop-Off Area or Car Porch
+*   P3 - P6: Gate 1, 2 or 4
+
+Gate Opening Hours
+------------------
+
+Please [click HERE for the Gate Opening Hours](/files/Opening%20Hours_SchoolGates.pdf).
