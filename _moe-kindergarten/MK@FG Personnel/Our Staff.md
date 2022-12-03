@@ -431,7 +431,7 @@ third_nav_title: MK@FG Personnel
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 839px">
@@ -445,12 +445,15 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-0lax"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Lee%20Kim%20Leng%20Diana.jpg" alt="Image" width="133" height="171"></td>
-    <td class="tg-amwm"><br><br><br><br>Ms Diana Lee<br><span style="font-weight:400;font-style:normal;text-decoration:none">Administrative Executive</span></td>
-    <td class="tg-0lax"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Molly.jpg" alt="Image" width="133" height="171"></td>
-    <td class="tg-amwm"><br><br><br><br>Mdm Molly<br><span style="font-weight:400;font-style:normal;text-decoration:none">Operation Support Officer</span></td>
-    <td class="tg-0lax"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Hoon.jpg" alt="Image" width="133" height="171"></td>
-    <td class="tg-amwm"><br><br><br><br>Mdm Hoon<br><span style="font-weight:400;font-style:normal;text-decoration:none">Operation Support Officer</span></td>
+    <td class="tg-baqh"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Lee%20Kim%20Leng%20Diana.jpg" alt="Image" width="133" height="171"></td>
+    <td class="tg-amwm"><br><br><br>Ms Diana Lee<br><span style="font-weight:400">Administrative Executive</span></td>
+    <td class="tg-baqh"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Molly.jpg" alt="Image" width="133" height="171"></td>
+    <td class="tg-amwm"><br><br><br>Mdm Molly<br><span style="font-weight:400;font-style:normal;text-decoration:none">Operation Support Officer</span></td>
+    <td class="tg-baqh"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Hoon.jpg" alt="Image" width="133" height="171"></td>
+    <td class="tg-amwm"><br><br><br>Mdm Hoon<br><span style="font-weight:400;font-style:normal;text-decoration:none">Operation Support Officer</span></td>
   </tr>
 </thead>
 </table>
+
+
+![](/images/bg-bottom.png)
