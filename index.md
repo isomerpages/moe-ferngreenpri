@@ -16,7 +16,7 @@ sections:
           url: https://google.com
         - title: Quick Links
           description: Quick Download
-          url: https://gmail.com
+          url: /general-information/Quick-Download/
         - title: Quick Links
           description: Healthy Meals in Schools
           url: https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
