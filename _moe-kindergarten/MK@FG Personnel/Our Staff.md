@@ -18,9 +18,9 @@ third_nav_title: MK@FG Personnel
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ryta{background-color:#14A3A1;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 751px">
+<table class="tg" style="undefined;table-layout: fixed; width: 801px">
 <colgroup>
-<col style="width: 751px">
+<col style="width: 801px">
 </colgroup>
 <thead>
   <tr>
