@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/FGPS Homepage.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
