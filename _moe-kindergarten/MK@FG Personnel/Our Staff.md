@@ -234,3 +234,67 @@ third_nav_title: MK@FG Personnel
   </tr>
 </thead>
 </table>
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-3b8d{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 799px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 191px">
+<col style="width: 196px">
+<col style="width: 271px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a3j2"><span style="color:#222">K1</span></th>
+    <th class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Miss%20Iris%20Lim%20See%20Moi.jpg" alt="Miss Iris Lim See Moi.jpg" width="141" height="211"><br></th>
+    <th class="tg-a3j2">Miss Lim See Moi (Iris)</th>
+    <th class="tg-baqh"><br><br><br><br><br><br>lim_see_moi_a@moe.edu.sg<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3b8d"><br><br><br><br><br><br><span style="color:#222">K1</span></td>
+    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Ng%20Yan%20Shan.jpg" alt="Ms Ng Yan Shan.jpg" width="144" height="201"></td>
+    <td class="tg-bn4z">Ms Ng Yan Shan</td>
+    <td class="tg-baqh"><br><br><br><br><br><br>ng_yan_shan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222"> K1</span></td>
+    <td class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Li%20Jinhua.jpg" alt="Mdm Li Jinhua.jpg" width="151" height="225"></td>
+    <td class="tg-lygy"><br><br><br><br><br><br>Mdm Li Jinhua</td>
+    <td class="tg-baqh"><br><br><br><br><br><br>Li_Jinhua@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">K1 </span></td>
+    <td class="tg-3b8d">      <img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Chen%20Ping.jpg" alt="Ms Chen Ping.jpg" width="154" height="215"><span style="color:#222">#                                       </span></td>
+    <td class="tg-bn4z">Ms Chen Ping</td>
+    <td class="tg-baqh"><br><br><br><br><br><br>chen_ping_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222"> K2</span></td>
+    <td class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Wang%20Hongjie.jpg" alt="Mdm Wang Hongjie.jpg" width="157" height="234"></td>
+    <td class="tg-lygy"><br><br><br><br><br><br>Mdm Wang Hongjie</td>
+    <td class="tg-baqh"><br><br><br><br><br><br>wang_hongJie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">K2</span></td>
+    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Shirley%20Xu%20Ran.jpg" alt="Mdm Shirley Xu Ran.jpg" width="157" height="231"></td>
+    <td class="tg-bn4z">Mdm Xu Ran (Shirley)</td>
+    <td class="tg-baqh"><br><br><br><br><br><br>xu_ran_a@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
