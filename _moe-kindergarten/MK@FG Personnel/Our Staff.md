@@ -156,12 +156,12 @@ third_nav_title: MK@FG Personnel
 .tg .tg-6kid{background-color:#F1F6DF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 819px">
+<table class="tg" style="undefined;table-layout: fixed; width: 824px">
 <colgroup>
 <col style="width: 141px">
 <col style="width: 191px">
 <col style="width: 201px">
-<col style="width: 286px">
+<col style="width: 291px">
 </colgroup>
 <thead>
   <tr>
