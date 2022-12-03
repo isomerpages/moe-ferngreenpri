@@ -6,3 +6,7 @@ description: ""
 ![](/images/Banner.png)
 
 # MK - K1 & KCFG Kcare Orientation slides
+
+Please
+
+![](/images/bg-bottom.png)
