@@ -1,4 +1,5 @@
 collections:
   moe-kindergarten:
     output: true
-    order: []
+    order:
+      - K1 & Kcare Orientation slides.md
