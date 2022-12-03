@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Fern Green Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: Click here to view all
       url: /faq/
 ---
+
