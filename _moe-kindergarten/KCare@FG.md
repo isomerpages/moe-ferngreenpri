@@ -27,3 +27,6 @@ Contact Numbers: 
 
   
 General enquiries: KCFG@rafflesstudentcare.com
+
+
+![](/images/bg-bottom.png)
