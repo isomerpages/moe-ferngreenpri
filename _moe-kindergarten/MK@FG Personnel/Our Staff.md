@@ -318,3 +318,40 @@ third_nav_title: MK@FG Personnel
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3b8d{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 804px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 191px">
+<col style="width: 201px">
+<col style="width: 271px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a3j2"><span style="color:#222">K1</span></th>
+    <th class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Mardiana%20Binte%20Abdul%20Malek.jpg" alt="Ms Mardiana Binte Abdul Malek.jpg" width="164" height="229"></th>
+    <th class="tg-a3j2"><span style="color:#222">Ms Mardiana Binte Abdul Malek</span></th>
+    <th class="tg-a3j2"><span style="color:#222">Mardiana_Abdul_Malek@moe.edu.sg</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222"> </span><br><span style="color:#222">K2</span></td>
+    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Ana%20Hafizah%20Binte%20Mohd%20Ajit.jpg" alt="Ms Ana Hafizah Binte Mohd Ajit.jpg" width="161" height="241"><span style="color:#222"> </span></td>
+    <td class="tg-bn4z"><span style="color:#222">Ms Ana Hafizah Binte Mohd Ajit</span></td>
+    <td class="tg-bn4z"><span style="color:#222">Ana_hafizah_mohd_Ajit@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
