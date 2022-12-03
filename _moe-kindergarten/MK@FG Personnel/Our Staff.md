@@ -375,3 +375,31 @@ third_nav_title: MK@FG Personnel
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 803px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 190px">
+<col style="width: 201px">
+<col style="width: 271px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222">K2</span></td>
+    <td class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20B%20Rubini.jpg" alt="Ms B Rubini.jpg" width="161" height="240"></td>
+    <td class="tg-lygy"><br><br><br><br><br><br>Ms B Rubini</td>
+    <td class="tg-baqh"><br><br><br><br><br><br>b_rubini@moe.edu.sg</td>
+  </tr>
+</thead>
+</table>
