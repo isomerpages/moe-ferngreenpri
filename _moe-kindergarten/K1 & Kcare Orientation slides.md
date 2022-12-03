@@ -7,6 +7,8 @@ description: ""
 
 # MK - K1 & KCFG Kcare Orientation slides
 
-Please
+Please click HERE for the slides.
+
+Note: the pdf file exceeds 5mb
 
 ![](/images/bg-bottom.png)
