@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Calendar
           description: ""
-          url: https://google.com
+          url: /general-information/School-Calendar/
         - title: Quick Links
           description: Quick Download
           url: /general-information/Quick-Download/
