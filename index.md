@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/FGPS Homepage.jpg
       button: Contact Us
-      url: /contact-us/
+      url: /about-us/Contact-Us/Contact-Us/
       key_highlights:
         - title: Calendar
           description: ""
