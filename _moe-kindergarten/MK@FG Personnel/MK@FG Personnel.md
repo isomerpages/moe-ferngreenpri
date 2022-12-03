@@ -4,8 +4,6 @@ permalink: /moe-kindergarten/MKatFG-Personnel/MKatFG-Personnel/
 description: ""
 third_nav_title: MK@FG Personnel
 ---
-
-
 ![](/images/Banner.png)
 
 # MK@FG Personnel
