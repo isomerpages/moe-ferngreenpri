@@ -2,9 +2,9 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - MK@FG Personnel/Our Staff.md
-      - MK@FG Personnel/MK@FG Personnel.md
       - MK@FG Personnel/.keep
+      - MK@FG Personnel/MK@FG Personnel.md
+      - MK@FG Personnel/Our Staff.md
       - MK@FG and KCare Hours.md
       - MK@FG Calendar.md
       - MK@FG Gallery.md
