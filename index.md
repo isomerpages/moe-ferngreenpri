@@ -23,6 +23,5 @@ sections:
   - infobar:
       title: Announcements
       button: Click here to view all
-      url: /faq/
+      url: /general-information/Announcements/
 ---
-
