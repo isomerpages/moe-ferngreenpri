@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MK@FG Personnel/.keep
-      - MK@FG Personnel.md
       - MK@FG and KCare Hours.md
       - MK@FG Calendar.md
       - MK@FG Gallery.md
