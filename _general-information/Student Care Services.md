@@ -27,6 +27,6 @@ Email : 
 
 ### **SCC Calendar**
 
-Note: calender cannot be migrated here.
+Note: calendar can be ported over into google calendar.
 
 ![](/images/bg-bottom.png)
