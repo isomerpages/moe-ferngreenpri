@@ -13,9 +13,6 @@ third_nav_title: Contact Us
 <b>Fern Green Primary School</b>
 
 
-
-<img src="/images/mail.png" style="width:5%">
-
 [ferngreen\_ps@moe.edu.sg](mailto:ferngreen_ps@moe.edu.sg)
 
 68343100
@@ -30,3 +27,6 @@ mk_ferngreen@moe.edu.sg
 
 66341318  
 66341381
+
+ [85](https://busrouter.sg/#/services/85), [102](https://busrouter.sg/#/services/102)  
+<b>LRT Station:</b> Kupang Station (SW3)
