@@ -52,3 +52,144 @@ The <b>FGPS Maker Education ALP</b> will take on a 3-tier learning structure &
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rijp{background-color:#A8D08D;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mkf8{background-color:#FFE599;text-align:left;vertical-align:top}
+.tg .tg-qzzm{background-color:#BDD6EE;text-align:center;vertical-align:top}
+.tg .tg-3owx{background-color:#BDD6EE;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-00wk{background-color:#A8D08D;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lfva{background-color:#FFE599;text-align:center;vertical-align:top}
+.tg .tg-hx81{background-color:#FF0;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mzei{background-color:#A8D08D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zobt{background-color:#A8D08D;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5x6j{background-color:#FFE599;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8z71{background-color:#FFE599;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-awik{background-color:#F7CAAC;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4x19{background-color:#F7CAAC;text-align:left;vertical-align:top}
+.tg .tg-nlfv{background-color:#F7CAAC;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-1csg{background-color:#BDD6EE;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hx81">LEVEL / SUBJECT</th>
+    <th class="tg-hx81"> <br>CURRICULUM INFUSION / PROJECTS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mzei">P1</td>
+    <td class="tg-00wk"> </td>
+  </tr>
+  <tr>
+    <td class="tg-zobt">EL</td>
+    <td class="tg-rijp">Making Crushed Paper Ants (STELLAR)</td>
+  </tr>
+  <tr>
+    <td class="tg-mzei"> </td>
+    <td class="tg-rijp">Lantern Making (STELLAR)</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm"> </td>
+    <td class="tg-1wig"> </td>
+  </tr>
+  <tr>
+    <td class="tg-5x6j">P2</td>
+    <td class="tg-8z71"> </td>
+  </tr>
+  <tr>
+    <td class="tg-lfva">EL</td>
+    <td class="tg-mkf8">Folding Paper Boats (STELLAR)</td>
+  </tr>
+  <tr>
+    <td class="tg-5x6j"> </td>
+    <td class="tg-mkf8">Making Ocean Diorama (STELLAR/IBL)</td>
+  </tr>
+  <tr>
+    <td class="tg-5x6j"> </td>
+    <td class="tg-mkf8">Making Magnetic Paper Plate Track (STELLAR/IBL)</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm"> </td>
+    <td class="tg-1wig"> </td>
+  </tr>
+  <tr>
+    <td class="tg-awik">P3</td>
+    <td class="tg-4x19"></td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv">EL</td>
+    <td class="tg-4x19">Making Paper Frogs (STELLAR)</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv"> </td>
+    <td class="tg-4x19">Making Infographic on Environment (STELLAR)</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv">MTL</td>
+    <td class="tg-4x19">Making of Spinning Wheel </td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv"> </td>
+    <td class="tg-4x19">Making of Singapore Iconic Landmarks</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv">MA</td>
+    <td class="tg-4x19">Making of Minute Timer</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv"> </td>
+    <td class="tg-4x19">Making of Tin Can Clocks.</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv">SCI</td>
+    <td class="tg-4x19">Making of LED Light Stick </td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv"> </td>
+    <td class="tg-4x19">Raft Designing (IPW)</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv"> </td>
+    <td class="tg-4x19">Making of Digestive System Model</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv"> </td>
+    <td class="tg-4x19">Magnetic Toy Designing</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv">PE</td>
+    <td class="tg-4x19">Making Old Newspaper Floorball Sticks</td>
+  </tr>
+  <tr>
+    <td class="tg-nlfv">MU</td>
+    <td class="tg-4x19">Making of Ukulele</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm"> </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-3owx">P4</td>
+    <td class="tg-1csg"> </td>
+  </tr>
+  <tr>
+    <td class="tg-qzzm">SCI</td>
+    <td class="tg-1csg">Shadow Puppet</td>
+  </tr>
+  <tr>
+    <td class="tg-3owx"> </td>
+    <td class="tg-1csg">Strawbees (JOL)</td>
+  </tr>
+</tbody>
+</table>
