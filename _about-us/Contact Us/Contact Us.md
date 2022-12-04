@@ -4,15 +4,13 @@ permalink: /about-us/Contact-Us/Contact-Us/
 description: ""
 third_nav_title: Contact Us
 ---
-
-
 ![](/images/Banner.png)
 
 # **Contact Us**
 
-map
+[70 Fernvale Link, Singapore 797538](https://goo.gl/maps/nUWBU3wHXe62)
 
-**Fern Green Primary School**
+<b>Fern Green Primary School</b>
 
 
 
@@ -24,6 +22,8 @@ map
 
 68343116
 
-\* Please visit the page, _Our Staff_ to locate staff's email addresses.
+\* Please visit the page, <i>Our Staff</i> to locate staff's email addresses.
 
-**MOE Kindergarten @ Fern Green**
+<b>MOE Kindergarten @ Fern Green</b>
+
+ 
