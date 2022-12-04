@@ -32,3 +32,6 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 ![](/images/PE3.png)
 ![](/images/PE4.png)
 ![](/images/PE5.png)
+
+
+![](/images/bg-bottom.png)
