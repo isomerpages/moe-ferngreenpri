@@ -7,16 +7,6 @@ description: ""
 
 # **Our School Leaders**
 
-
-
-<img src="/images/Principal.jpeg" style="width:200px;height:280px;margin-right:25px;" align = "left"> Coming Soon...
-
-
-
-
-###### <b>Principal</b>
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -31,7 +21,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-7btt"><br><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/School%20Leaders/Ms%20Kong%20Yee%20Loon.jpg" alt="Ms Kong Yee Loon.jpg" width="235" height="329"><br>Principal<br></th>
-    <th class="tg-0lax">Coming Soon...</th>
+    <th class="tg-0lax"><br><br><br><br><br>Coming Soon...<br></th>
   </tr>
 </thead>
 <tbody>
