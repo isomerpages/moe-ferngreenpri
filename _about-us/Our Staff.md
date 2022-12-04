@@ -129,3 +129,101 @@ description: ""
 </table>
 
 
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 683px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 251px">
+<col style="width: 291px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-qv16" colspan="3"><span style="color:black">P3    </span> <span style="color:black"> </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Respect</span></td>
+    <td class="tg-9678"><span style="color:black">Miss Nadirah Binte Jamri</span><br></td>
+    <td class="tg-9678"><span style="color:black">nadirah_jamri@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Mrs Tay-Tan Jia Li</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal;color:black">tan_jia_li@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Responsibility</span></td>
+    <td class="tg-9678"><span style="font-weight:normal;color:black">Miss Chua Poh Khim</span><br><span style="font-weight:normal;color:black">(Deanna)</span></td>
+    <td class="tg-9678"><span style="color:black">chua_poh_khim@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Miss Nurashikin Binte Tugiman</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal;color:black">nurashikin_tugiman@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Resilience</span></td>
+    <td class="tg-9678"><span style="color:black">Mr Mohamad Raizal Bin Abdul Rahim</span></td>
+    <td class="tg-9678"><span style="color:black">mohamad_raizal_abdul_rahim@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Mrs Ang -Tan Sok Kiang</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal;color:black">tan_sok_kiang_a@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Integrity</span></td>
+    <td class="tg-9678"><span style="color:black">Ms Tang Hui Ying</span><br><span style="color:black">(Sandra)</span></td>
+    <td class="tg-9678"><span style="color:black">tang_hui_ying@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Mdm Alice Ooi Chen Ai</span><br></td>
+    <td class="tg-0lax">alice_ooi_chen_ai@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Care</span></td>
+    <td class="tg-9678">Mdm Mahdiah Binte Mohamed Noor</td>
+    <td class="tg-9678">mahdiah_mohamed_noor@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Ms Ang Sing Min Serene</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal;color:black">ang_sing_min_serene@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Harmony</span></td>
+    <td class="tg-9678"><span style="color:black">Mdm Ng Hui Li</span></td>
+    <td class="tg-9678"><span style="color:black">ng_hui_li@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Mrs Anisah Bte Ebrahim</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal;color:black">anisah_b@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">3 Discipline</span></td>
+    <td class="tg-9678">Ms Noraini Aman</td>
+    <td class="tg-9678">noraini_aman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="color:black"> </span></td>
+    <td class="tg-0lax"><span style="color:black">Mr Lee Lin Ping</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal;color:black">lee_lin_ping@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
