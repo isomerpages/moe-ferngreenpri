@@ -48,3 +48,6 @@ Your child is caring if he acts with kindness and compassion, and contributes to
 
 ### **Harmony**  
 Your child values harmony if he seeks inner happiness and promotes social cohesion. He appreciates the unity and diversity of a multicultural society.
+
+
+![](/images/bg-bottom.png)
