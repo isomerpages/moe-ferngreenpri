@@ -30,3 +30,6 @@ mk_ferngreen@moe.edu.sg
 
  [85](https://busrouter.sg/#/services/85), [102](https://busrouter.sg/#/services/102)  
 <b>LRT Station:</b> Kupang Station (SW3)
+
+
+![](/images/bg-bottom.png)
