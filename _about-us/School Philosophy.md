@@ -20,3 +20,6 @@ Our instructional approaches begin with <b>Inquiry</b>. Through the use of thou
   
 
 The school would leverage School-Home-Community Partnership to avail our children of a holistic learning experience. We hope to work closely with Parents to reinforce values taught as well as foster our children's motivation to learn and ask questions, and encourage them to pursue what they love.
+
+
+![](/images/bg-bottom.png)
