@@ -18,3 +18,5 @@ To instill the value of Care in our students, the school collaborated with Tan T
 
 
 <figure><img src="/images/Notes%20of%20Appreciation%20for%20Nurses%202018.jpg" style="width:125%"><figcaption> Notes of Appreciation for the nurses on Nurses' Day 2018.</figcaption></figure>
+
+![](/images/bg-bottom.png)
