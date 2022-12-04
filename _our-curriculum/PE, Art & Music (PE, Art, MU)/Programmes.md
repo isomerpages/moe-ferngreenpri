@@ -40,3 +40,5 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 *   Primary 3 & 4: Intro to Ukulele   
     
 *   Primary 5 & 6: ICT Based Music Creation
+
+![](/images/bg-bottom.png)
