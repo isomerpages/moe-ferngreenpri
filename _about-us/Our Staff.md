@@ -410,7 +410,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-mdf1"><span style="color:black">4 Care</span></td>
-    <td class="tg-9678"><span style="color:black">Mrs Chua Pei Yee</span> <br><span style="color:black">(Mdm Low Pei Yee)</span><br></td>
+    <td class="tg-9678"><span style="color:black">Mrs Chua Pei Yee</span> <br><span style="color:black">(Mdm Low Pei Yee)</span></td>
     <td class="tg-9678"><span style="color:black">low_pei_yee@moe.edu.sg</span></td>
   </tr>
   <tr>
@@ -420,7 +420,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-mdf1"><span style="color:black">4 Harmony</span></td>
-    <td class="tg-9678">Mrs Lim<br><br>(Mdm Celine Celestine Goh Li-Yen)</td>
+    <td class="tg-9678">Mrs Lim<br>(Mdm Celine Celestine Goh Li-Yen)</td>
     <td class="tg-9678"><span style="color:black">celine_celestine_goh@moe.edu.sg</span></td>
   </tr>
   <tr>
@@ -430,7 +430,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-mdf1">4 Discipline</td>
-    <td class="tg-9678">Mdm Tham Sok Theng<br>(Agnes)<br></td>
+    <td class="tg-9678">Mdm Tham Sok Theng<br>(Agnes)</td>
     <td class="tg-9678"><span style="color:black">tham_sok_theng@moe.edu.sg</span></td>
   </tr>
   <tr>
