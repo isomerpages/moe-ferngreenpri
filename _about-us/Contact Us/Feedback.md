@@ -9,3 +9,7 @@ third_nav_title: Contact Us
 # **FEEDBACK**
 
 [Feedback](https://ferngreenpri-moe-edu-sg-admin.cwp.sg/contact-us/feedback)
+
+Note: Feedback link not found.
+
+![](/images/bg-bottom.png)
