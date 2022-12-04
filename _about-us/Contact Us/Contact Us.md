@@ -26,4 +26,7 @@ third_nav_title: Contact Us
 
 <b>MOE Kindergarten @ Fern Green</b>
 
- 
+mk_ferngreen@moe.edu.sg
+
+66341318  
+66341381
