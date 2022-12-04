@@ -623,3 +623,47 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-e4a5{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-7zdy{color:#00F;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 251px">
+<col style="width: 311px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-7zdy" colspan="3"><span style="color:blue">Allied Educators &amp; School Counsellor</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e4a5"><span style="font-weight:700">Allied Educator (Learning &amp; Behavioural Support)</span><br></td>
+    <td class="tg-9678"><span style="color:black">Mdm Shantha Maheswari d/o Rajasegaran</span></td>
+    <td class="tg-9678"><span style="font-weight:normal;color:black">shantha_maheswari_rajasegaran@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Allied Educator (Learning &amp; Behavioural Support)<br></td>
+    <td class="tg-0lax"><span style="color:black">Ms Subashini D/O Mahadevan</span></td>
+    <td class="tg-0lax"><span style="color:black">subashini_mahadevan@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="color:black">School Counsellor</span></td>
+    <td class="tg-9678"><span style="color:black">Miss Chiam Pei Ping</span></td>
+    <td class="tg-9678"><span style="font-weight:normal;color:black">chiam_pei_ping@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
