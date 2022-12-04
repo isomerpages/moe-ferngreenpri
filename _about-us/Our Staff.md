@@ -16,7 +16,7 @@ description: ""
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ff5h{background-color:#E5E5E5;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
-.tg .tg-ums8{color:#00F;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7zdy{color:#00F;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-luk7{background-color:#E5E5E5;color:#1FA4A0;text-align:left;vertical-align:top}
 </style>
@@ -28,7 +28,7 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-ums8" colspan="3"><span style="color:blue">Form Teachers</span></th>
+    <th class="tg-7zdy" colspan="3"><span style="color:blue">Form Teachers</span></th>
   </tr>
 </thead>
 <tbody>
