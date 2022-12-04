@@ -7,6 +7,6 @@ description: ""
 
 # School Calendar
 
-
+Note: School Calendar can be ported over into google calendar.
 
 ![](/images/bg-bottom.png)
