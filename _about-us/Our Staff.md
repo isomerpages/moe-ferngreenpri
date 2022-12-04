@@ -805,3 +805,46 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-7zdy{color:#00F;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ti5h{background-color:#E5E5E5;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6mtm{color:#00F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 683px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 251px">
+<col style="width: 291px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-7zdy" colspan="3"><span style="color:blue">Lead &amp; Senior Teachers</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ti5h"><span style="color:blue">Lead Teacher</span> <br><span style="color:black">Mathematics</span></td>
+    <td class="tg-9678"><span style="color:black">Mdm Tham Sok Theng (Agnes)</span></td>
+    <td class="tg-9678"><span style="font-weight:normal;color:black">tham_sok_theng@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6mtm"><span style="color:blue">Senior Teacher</span> <br><span style="color:black">English Language</span></td>
+    <td class="tg-0lax">Ms Ivy Leow Gim Chye</td>
+    <td class="tg-0lax">ivy_leow_gim_chye@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ti5h">Senior Teacher<br>Special Educational Needs </td>
+    <td class="tg-9678">Mdm Lee Siew Hoon</td>
+    <td class="tg-9678">lee_siew_hoon@moe.edu.sg  </td>
+  </tr>
+</tbody>
+</table>
