@@ -73,7 +73,8 @@ description: ""
 * T3W5: [28 Jul](/files/T3W5%20Parents%20Notification%20(28%20Jul%202021).pdf)
 * T3W4: [21 Jul](/files/T3W4%20Parents%20Notification%20(21%20Jul%202021).pdf)
 * T3W3: [14 Jul](/files/T3W3%20Parents%20Notification%20(14%20Jul%202021).pdf)
-* T3W2:
+* T3W2: [7 Jul](/files/T3W2%20Parents%20Notification%20(7%20Jul%202021).pdf)
+* T3W1 (Part 2):
   
 
 ![](/images/bg-bottom.png)
