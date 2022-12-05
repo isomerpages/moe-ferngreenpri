@@ -88,7 +88,8 @@ description: ""
 * T2W1: [24 Mar](/files/T2W1%20Parents%20notification%20(24%20Mar%202021).pdf)
 * T1W10: [10 Mar](/files/T1W10%20Parents%20notification%20(10%20Mar%202021).pdf)
 * T1W9: [3 Mar](/files/T1W9%20Parents%20Notification%20(3%20Mar%202021).pdf)
-* T1W8:
+* T1W8: [24 Feb](/files/T1W8%20Parents%20Notification%20(24%20Feb%202021).pdf)
+* T1W7:
    
 
 ![](/images/bg-bottom.png)
