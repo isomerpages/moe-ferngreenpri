@@ -9,6 +9,7 @@ description: ""
 
 ### Weekly Parents Notifications 2022
 
+<b>Term/Week</b>
 
 
 ![](/images/bg-bottom.png)
