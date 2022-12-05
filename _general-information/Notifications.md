@@ -69,7 +69,8 @@ description: ""
 * T3W9: [25 Aug](/files/T3W9%20Parents%20Notification%20(25%20AUG%202021).pdf)
 * T3W8: [18 Aug](/files/T3W8%20Parents%20Notification%20(18%20AUG%202021).pdf)
 * T3W7: [11 Aug](/files/T3W7%20Parents%20Notification%20(11Aug2021).pdf)
-* T3W6:
+* T3W6: [4 Aug](/files/T3W6%20Parents%20Notification%20(4%20AUG%202021).pdf)
+* T3W5:
   
 
 ![](/images/bg-bottom.png)
