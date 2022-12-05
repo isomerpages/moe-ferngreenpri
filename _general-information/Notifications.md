@@ -77,7 +77,7 @@ description: ""
 * T3W1 (Part 2): [30 Jun](/files/T3W1%20Parents%20Notification%20(Part%202).pdf) (<b>Attachment</b>: [HPB Letter](/files/Phase3HA%20Resumption%20of%20Services_Merged%20Letter%20to%20Primary%20School%20Parents.pdf))
 * T3W1 (Part 1): [24 Jun](/files/T3W1%20Parents%20Notification%20(Part%201).pdf)
 * T2W10: [25 May](/files/T2W10%20Parents%20Notification%20(25%20May%202021).pdf)
-* T2W9:
+* T2W9: [19 May](/files/T2W9%20Parents%20Notification%20(19%20May%202021).pdf)
   
 
 ![](/images/bg-bottom.png)
