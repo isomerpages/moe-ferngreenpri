@@ -34,6 +34,6 @@ description: ""
 * T2W9: [18 May](/files/T2W9%20Parents%20Notification%20(18%20May%202022).pdf)
 * T2W8: [11 May](/files/T2W8%20Parents%20Notification%20(11%20May%202022).pdf)
 * T2W7: [4 May](/files/T2W7%20Parents%20Notification%20(4%20May%202022).pdf) (<b>Attachment</b>: [Annex A](/files/Guide%20for%20Parents%20on%20PG%20Mobile%20App%20(Meetings%20Feature)%20User%20Guide%20(April%202022).pdf))  
-*  T2W6: 
+*  T2W6: [27 Apr](/files/T2W6%20Parents%20notification%20(27%20Apr%202022).pdf)
 
 ![](/images/bg-bottom.png)
