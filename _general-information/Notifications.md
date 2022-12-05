@@ -65,7 +65,8 @@ description: ""
 * T4W3: [29 Sep](/files/T4W3%20Parents%20Notification%20(29Sep2021).pdf)
 * T4W2: [22 Sep](/files/T4W2%20Parents%20Notification%20(22%20Sep%202021).pdf)
 * T4W1: [15 Sep](/files/T4W1%20Parents%20Notification%20(15%20Sep%202021).pdf)
-* T3W10:
+* T3W10: [1 Sep](/files/T3W10%20Parents%20Notification%20(1%20Sep%202021).pdf)
+* T3W9:
   
 
 ![](/images/bg-bottom.png)
