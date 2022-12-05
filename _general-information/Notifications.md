@@ -37,6 +37,7 @@ description: ""
 *  T2W6: [27 Apr](/files/T2W6%20Parents%20notification%20(27%20Apr%202022).pdf)
 *  T2W5: [20 Apr](/files/T2W5%20Parents%20notification%20(20%20Apr%202022).pdf)
 *  T2W4: [13 Apr](/files/T2W4%20Parents%20notification%20(13%20Apr%202022).pdf)
-*  T2W3:     
+*  T2W3: [6 Apr](/files/T2W3%20Parents%20notification%20(6%20Apr%202022).pdf)
+*  T2W2:      
 
 ![](/images/bg-bottom.png)
