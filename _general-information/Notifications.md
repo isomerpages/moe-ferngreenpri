@@ -48,6 +48,9 @@ description: ""
 *  T1W4: [26 Jan](/files/T1W4%20Parents%20notification%20(26%20Jan%202022).pdf)
 *  T1W3: [19 Jan](/files/T1W3%20Parents%20Notification%20(19%20Jan%202022).pdf)
 *  T1W2: [12 Jan](/files/T1W2%20Parents%20Notification%20(12%20Jan%202022).pdf)
-*  T1W1: [5 Jan](/files/T1W1%20Parents%20Notification%20(5%20Jan%202022).pdf)     
+*  T1W1: [5 Jan](/files/T1W1%20Parents%20Notification%20(5%20Jan%202022).pdf)  
+
+### Weekly Parents Notifications 2021
+  
 
 ![](/images/bg-bottom.png)
