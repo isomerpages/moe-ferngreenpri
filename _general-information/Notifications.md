@@ -51,6 +51,10 @@ description: ""
 *  T1W1: [5 Jan](/files/T1W1%20Parents%20Notification%20(5%20Jan%202022).pdf)  
 
 ### Weekly Parents Notifications 2021
+
+<b>Term/Week: Link to Parents Notification</b>
+
+* T1W0: 
   
 
 ![](/images/bg-bottom.png)
