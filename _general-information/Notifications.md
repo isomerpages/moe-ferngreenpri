@@ -93,7 +93,7 @@ description: ""
 * T1W6: [10 Feb](/files/T1W6%20Parents%20Notification%20(10%20Feb%202021)_version%202.pdf)
 * T1W5: [3 Feb](/files/T1W5%20Parents%20Notification%20(3%20Feb%202021).pdf)
 * T1W4: [27 Jan](/files/T1W4%20Parents%20Notification%20(27%20Jan%202021).pdf)
-* T1W3: [20 Jan](/files/T1W3%20Parents%20Notification%20(20%20Jan%202021)_final.pdf)
+* T1W3: [20 Jan](/files/T1W3%20Parents%20Notification%20(20%20Jan%202021)_final.pdf) (<b>Attachment</b>: [Triple P Level 2 Seminars](/files/L2%20Seminar%20Infographic%20-%20Run%201.pdf))
 * T1W2:
    
 
