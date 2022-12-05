@@ -46,6 +46,8 @@ description: ""
 *  T1W7: [16 Feb](/files/T1W7%20Parents%20notification%20(16%20Feb%202022).pdf)
 *  T1W6: [9 Feb](/files/T1W6%20Parents%20notification%20(9%20Feb%202022).pdf)
 *  T1W4: [26 Jan](/files/T1W4%20Parents%20notification%20(26%20Jan%202022).pdf)
-*  T1W3:      
+*  T1W3: [19 Jan](/files/T1W3%20Parents%20Notification%20(19%20Jan%202022).pdf)
+*  T1W2: [12 Jan](/files/T1W2%20Parents%20Notification%20(12%20Jan%202022).pdf)
+*  T1W1: [5 Jan](/files/T1W1%20Parents%20Notification%20(5%20Jan%202022).pdf)     
 
 ![](/images/bg-bottom.png)
