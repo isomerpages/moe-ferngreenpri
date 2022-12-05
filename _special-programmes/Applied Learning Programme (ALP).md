@@ -192,3 +192,33 @@ The <b>FGPS Maker Education ALP</b> will take on a 3-tier learning structure &
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Tier 2:<br>Interest Development<br> </th>
+    <th class="tg-0lax"><span style="font-weight:bold">Maker CCA:</span><br>Avenue for interested students who want to take Making beyond what is being taught in class. The Maker CCA is a place where our teacher-facilitators will impart broader skillsets to students in undertaking interesting projects aiming to address daily challenges or simply objects of self-expression.<br> </th>
+    <th class="tg-0lax"><span style="font-weight:bold">Structured 30-Weeks CCA Programme:</span><br>·    P3: Paper Craft, Shrink Art, Strawbees, LED Circuitry, Microbit Programming, Art Bot <br>·    P4: Knotting, Hama Beads, Strawbees, Microbit Programming, Ozbot<br>·    P5 &amp; P6: (Planning-in-progress: Electronic Building Blocks; Wireless Sensory Circuitry Board; Autonomous Land Vehicle Programming, Autonomous Aerial Vehicle Programming)<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Tier 3: <br>Talent Development</td>
+    <td class="tg-0lax"><span style="font-weight:bold">Greater Exposure, for the Maker Enthusiasts:</span><br>Aspired students will be encouraged and offered opportunities to participate in external activities to learn from showcase of interesting, fun and innovative projects in science, art, craft, engineering and technology, and exchange ideas with their creators.<br> </td>
+    <td class="tg-0lax"><span style="font-weight:bold">Participation at Zonal/National Events:</span><br>Exposure to external opportunities to stretch our students who demonstrate exceptional aptitude and interests in Making, and engage them in competitions and public showcase (e.g. Maker Faire Singapore, Singapore Science Festival).<br> </td>
+  </tr>
+</tbody>
+</table>
+
+
+![](/images/bg-bottom.png)
