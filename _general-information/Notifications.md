@@ -19,6 +19,6 @@ description: ""
 * T4W5: [12 Oct](/files/T4W5%20Parents%20Notification%20(12%20Oct%202022).pdf)
 * T4W4: [5 Oct](/files/T4W4%20Parents%20Notification%20(5%20Oct%202022).pdf)
 * T4W3: [28 Sep](/files/T4W3%20Parents%20Notification%20(28%20Sep%202022).pdf)
-* T4W2: 
+* T4W2: [21 Sep](/files/T4W2%20Parents%20Notification%20(21%20Sep%202022).pdf)
 
 ![](/images/bg-bottom.png)
