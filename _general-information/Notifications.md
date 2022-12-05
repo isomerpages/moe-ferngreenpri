@@ -23,5 +23,6 @@ description: ""
 * T4W1: [14 Sep](/files/T4W1%20Parents%20Notification%20(14%20Sep%202022).pdf)
 * T3W10: [31 Aug](/files/T3W10%20Parents%20Notification%20(31%20Aug%202022).pdf)
 * T3W9: [24 Aug](/files/T3W9%20Parents%20Notification%20(24%20Aug%202022).pdf)
+* T3W8: [17 Aug](/files/T3W8%20Parents%20Notification%20(17%20Aug%202022).pdf)
 
 ![](/images/bg-bottom.png)
