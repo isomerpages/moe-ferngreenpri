@@ -35,11 +35,7 @@ description: ""
 .tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 672px">
-<colgroup>
-<col style="width: 336px">
-<col style="width: 336px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-a3j2"><span style="color:#222">Ms Kong Yee Loon</span></th>
@@ -61,7 +57,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-
 
 
 <style type="text/css">
@@ -90,11 +85,7 @@ description: ""
 .tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 672px">
-<colgroup>
-<col style="width: 336px">
-<col style="width: 336px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-a3j2"><span style="color:#222">Mdm Tan Wan Theng</span></th>
@@ -119,28 +110,28 @@ description: ""
     <td class="tg-a3j2"><span style="color:#222">HOD (CCE) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mr Koh Chee Hong Jimmy </span></td>
-    <td class="tg-bn4z"><span style="color:#222">HOD (ICT) </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Peh Joe Han Camillus</span></td>
+    <td class="tg-bn4z"><span style="color:#222">HOD (PE)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Peh Joe Han Camillus</span></td>
-    <td class="tg-a3j2"><span style="color:#222">HOD (PE)</span></td>
+    <td class="tg-a3j2"><span style="color:#222"> Mrs Yap-Tan Huey Teck Michelle</span></td>
+    <td class="tg-a3j2"><span style="color:#222">SSD </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222"> Mrs Yap-Tan Huey Teck Michelle</span></td>
-    <td class="tg-bn4z"><span style="color:#222">SSD </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Mohamed Ridza B Hashim</span></td>
+    <td class="tg-bn4z"><span style="color:#222">YH (LP) </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Mohamed Ridza B Hashim</span></td>
-    <td class="tg-a3j2"><span style="color:#222">YH (LP) </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Mrs Stephanie Yeo (Mdm Choo) </span></td>
+    <td class="tg-a3j2"><span style="color:#222">AYH (LP) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mrs Stephanie Yeo (Mdm Choo) </span></td>
-    <td class="tg-bn4z"><span style="color:#222">AYH (LP) </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mrs Cheryl Lee-Ng Peck Mui</span></td>
+    <td class="tg-bn4z"><span style="color:#222">YH (MUP) </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mrs Cheryl Lee-Ng Peck Mui</span></td>
-    <td class="tg-a3j2"><span style="color:#222">YH (MUP) </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Miss Chen Pei Jin</span></td>
+    <td class="tg-a3j2"><span style="color:#222">AYH (UP) </span></td>
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222">Ms Ang Sing Min Serene </span></td>
@@ -151,6 +142,14 @@ description: ""
     <td class="tg-a3j2"><span style="color:#222">LH (MA) </span></td>
   </tr>
   <tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mrs Tay-Tan Jia Li</span></td>
+    <td class="tg-bn4z"><span style="color:#222">LH (ICT) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222"> Mrs Chua Pei Yee</span></td>
+    <td class="tg-a3j2"><span style="color:#222">LH (EL) </span></td>
+  </tr>
+  <tr>
     <td class="tg-bn4z"><span style="color:#222"> Mr Muhammad Izree Bin Jalil</span></td>
     <td class="tg-bn4z"><span style="color:#222">SH (CCA) </span></td>
   </tr>
@@ -159,32 +158,35 @@ description: ""
     <td class="tg-a3j2"><span style="color:#222">SH (ML) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222"> Mr Muhammad Riza Bin Baharudin</span></td>
-    <td class="tg-bn4z"><span style="color:#222">SH (SWB) </span></td>
+    <td class="tg-bn4z"><span style="color:#222">Ms Ng Wan Wen </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> SH (CL)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Koh Wee Kwang</span></td>
-    <td class="tg-a3j2"><span style="color:#222">Admin Mgr</span></td>
+    <td class="tg-a3j2"><span style="color:#222"> Mr Muhammad Riza Bin Baharudin</span></td>
+    <td class="tg-a3j2"><span style="color:#222">SH (SWB) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mr Ho Hsu Xming Shaun </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Koh Wee Kwang</span></td>
     <td class="tg-bn4z"><span style="color:#222">Admin Mgr</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Siew Lai Lone Gary</span></td>
-    <td class="tg-a3j2"><span style="color:#222">Ops Mgr </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Mr Ho Hsu Xming Shaun </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Admin Mgr</span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mr Tan Teck Chye Andy </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Siew Lai Lone Gary</span></td>
     <td class="tg-bn4z"><span style="color:#222">Ops Mgr </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Ms Yang Siying </span></td>
-    <td class="tg-a3j2"><span style="color:#222"> ICT Mgr</span></td>
+    <td class="tg-a3j2"><span style="color:#222">Mr Tan Teck Chye Andy </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Ops Mgr </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">Ms Yang Siying </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ICT Mgr</span></td>
   </tr>
 </tbody>
 </table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -207,18 +209,13 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ot4d{background-color:#FFF;color:#222;font-size:100%;text-align:center;vertical-align:middle}
 .tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 672px">
-<colgroup>
-<col style="width: 336px">
-<col style="width: 336px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-ot4d"><span style="color:#222">Mdm Agnes Tham</span></th>
+    <th class="tg-a3j2"><span style="color:#222">Mdm Agnes Tham</span></th>
     <th class="tg-a3j2"><span style="color:#222">LT (MA)</span></th>
   </tr>
 </thead>
