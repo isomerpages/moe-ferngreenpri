@@ -35,22 +35,27 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 Note: MOE Sexuality Education link is broken (page not found).
 
-Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2022
+#### Overview of FERN GREEN Primary School’s Sexuality Education Programme for 2023
 
-![](/images/SED1.jpeg)
 
-![](/images/SED2.jpeg)
 
-<b>Information for Parents</b>
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-8.      Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+5.         The subjects that incorporate topics on sexuality include:
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway and is also downloadable [HERE](https://form.gov.sg/#!/61ee5adf2686c200123fc870). 
-The completed opt-out form is to be submitted by <b>04/02/2022</b>.
+a.       Science 
 
-10.     Parents can contact the school at 68343100 or email: [ferngreen\_ps@moe.edu.sg](mailto:ferngreen_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+b.       Character and Citizenship Education (CCE)
 
-11.     Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+**Sexuality Education Lessons**: 
+
+6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
+
+7\.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+##### At Fern Green Primary School, the following Sexuality Education lessons will be taught in 2023:
+
+
 
 
 ![](/images/bg-bottom.png)
