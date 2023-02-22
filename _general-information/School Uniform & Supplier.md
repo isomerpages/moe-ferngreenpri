@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-# School Uniform & Supplier
-
 ### **School Uniform Supplier**
 
 
