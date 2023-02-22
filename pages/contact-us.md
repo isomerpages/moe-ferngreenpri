@@ -9,7 +9,7 @@ locations:
       - Singapore 797538
       - ""
     operating_hours: []
-    maps_link: 70 Fernvale Link, Singapore 797538
+    maps_link: ""
     title: General Office
 contacts:
   - content:
