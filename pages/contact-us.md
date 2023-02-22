@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: 70 Fernvale Link, Singapore 797538
-    title: Office
+    title: Address
 contacts:
   - content:
       - phone: +65 6834 3100
