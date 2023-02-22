@@ -14,8 +14,8 @@ sections:
         - title: Calendar
           description: ""
           url: /general-information/School-Calendar/
-        - title: Quick Links
-          description: Quick Download
+        - title: Quick Download
+          description: ""
           url: /general-information/Quick-Download/
         - title: Quick Links
           description: Healthy Meals in Schools
