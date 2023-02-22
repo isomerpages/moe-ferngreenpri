@@ -5,9 +5,6 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-# School Rules
-
-
 1.  Students are to wear the prescribed school uniform and modification to the uniform is not allowed.  
       
     
