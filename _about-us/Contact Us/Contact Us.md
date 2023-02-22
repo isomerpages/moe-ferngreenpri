@@ -16,6 +16,11 @@ description: ""
 .tg .tg-c0oc{background-color:#22A114;color:#ffffff;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-5env{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:top}
 </style>
+<br>
+<br>
+<tr>
+    <td class="tg-5env">70 Fernvale Link, Singapore 797538</td>
+  </tr>
 <table class="tg">
 <thead>
   <tr>
@@ -24,10 +29,6 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-8wja">Address:</td>
-    <td class="tg-5env">70 Fernvale Link, Singapore 797538</td>
-  </tr>
   <tr>
     <td class="tg-8wja">Tel:</td>
     <td class="tg-5env">+65 6834 3100</td>
@@ -39,6 +40,28 @@ description: ""
   <tr>
     <td class="tg-8wja">Email:</td>
     <td class="tg-v9z0"><a href="mailto:ferngreen_ps@moe.edu.sg">ferngreen_ps@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
+<table class="tg">
+<thead>
+  <tr>
+	<br>
+    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">MOE Kindergarten @ Fern Green</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8wja">Tel:</td>
+    <td class="tg-5env">+65 6634 1318</td>
+  </tr>
+  <tr>
+		<td class="tg-8wja">Fax:</td>
+    <td class="tg-5env">+65 6634 1381</td>
+  </tr>
+  <tr>
+    <td class="tg-8wja">Email:</td>
+    <td class="tg-v9z0"><a href="mailto:mk_ferngreen@moe.edu.sg">mk_ferngreen@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
