@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-# School Bus Services
-
 ### **BT&TAN Transport Pte Ltd**
 
 Tel: 6483 7260 / Whatsapp 84841266  
