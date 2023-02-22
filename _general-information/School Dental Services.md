@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-# School Dental Services
-
 <u><b>Operating Hours</b></u>  
 
 
