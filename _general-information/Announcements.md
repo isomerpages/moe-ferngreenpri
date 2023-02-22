@@ -6,9 +6,6 @@ description: ""
 ![](/images/Banner.png)
 
 
-# Announcements
-
-
 ### 2023 MOE Kindergarten Open House Registration Exercise
 
 The 2023 MOE Kindergarten (MK) Registration Exercise will open from 17 to 21 February 2023. This year, MKs’ Open Houses will be held in-person on 11 or 18 February 2023.
