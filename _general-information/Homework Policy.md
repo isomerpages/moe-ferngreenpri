@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-# Homework Policy
-
 There are 3 broad Categories of Homework that Teachers may assign to students. These are:  
 
 *   Practice Exercises which aim to help students to reinforce, recall and practise newly acquired skills or concepts   
