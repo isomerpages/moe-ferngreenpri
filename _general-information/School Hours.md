@@ -5,8 +5,7 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-School Hours
-------------
+### School Hours
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,9 +39,7 @@ School Hours
 </tbody>
 </table>
 
-School Hours
-------------
-
+### Recess Timing
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -78,28 +75,22 @@ School Hours
 </table>
 
 
-Dismissal Arrangements
-----------------------
-
-  
+### Dismissal Arrangements
 
 *   P1 & P2: Vehicle Drop-Off Area or Car Porch
 *   P3 - P6: Gate 1, 2 or 4
 
-Gate Opening Hours
-------------------
+### Gate Opening Hours
 
 Please [click HERE for the Gate Opening Hours](/files/Opening%20Hours_SchoolGates.pdf).
 
 
-Office Hours
-------------
+### Office Hours
 
 <u><b>School Days</b></u>  
 6.45am to 5.00pm
 
 
-  
 <u><b>School Holidays</b></u>  
 8.00am to 5.00pm
 
