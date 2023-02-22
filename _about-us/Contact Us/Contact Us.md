@@ -25,7 +25,7 @@ description: ""
 <thead>
   <tr>
 	<br><br>
-    <th colspan="2" class="tg-c0oc"><span style="background-color:#1FA4A0">Fern Green Primary School</span></th>
+    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">Fern Green Primary School</span></th>
   </tr>
 </thead>
 <tbody>
