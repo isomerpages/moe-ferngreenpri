@@ -21,6 +21,7 @@ sections:
           description: Healthy Meals in Schools
           url: https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
       title: Fern Green Primary School
+      subtitle: Reflective Inquirers,  Aspiring Advocates,  Steadfast Leaders
   - infobar:
       title: Announcements
       button: Click here to view all
