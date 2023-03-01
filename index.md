@@ -26,9 +26,7 @@ sections:
       button: Click here to view all
       url: /general-information/Announcements/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Annoucements
+      button: Click here to view all
+      url: /general-information/Announcements/
 ---
