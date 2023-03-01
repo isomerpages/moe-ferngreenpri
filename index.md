@@ -25,8 +25,4 @@ sections:
       title: Announcements
       button: Click here to view all
       url: /general-information/Announcements/
-  - infopic:
-      title: Annoucements
-      button: Click here to view all
-      url: /general-information/Announcements/
 ---
