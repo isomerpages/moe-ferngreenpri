@@ -3,7 +3,9 @@ title: Our Contact
 permalink: /our-school/contact-us/
 description: ""
 ---
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.631514876111!2d103.87767501475402!3d1.3975314989807455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da166566b2ae7d%3A0xdba4d363ef6aba18!2sFern%20Green%20Primary%20School!5e0!3m2!1sen!2ssg!4v1677046201536!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+# **Contact Us**
+
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.631514876111!2d103.87767501475402!3d1.3975314989807455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da166566b2ae7d%3A0xdba4d363ef6aba18!2sFern%20Green%20Primary%20School!5e0!3m2!1sen!2ssg!4v1677046201536!5m2!1sen!2ssg"></iframe>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -18,14 +20,14 @@ description: ""
 </style>
 <br>
 <br>
-<tr>
-    <td class="tg-5env">70 Fernvale Link, Singapore 797538</td>
-  </tr>
-<table class="tg">
+
+    70 Fernvale Link, Singapore 797538
+  
+<br><br><table class="tg">
 <thead>
   <tr>
-	<br><br>
-    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">Fern Green Primary School</span></th>
+	
+    <th class="tg-c0oc" colspan="2"><span style="background-color:#22A114">Fern Green Primary School</span></th>
   </tr>
 </thead>
 <tbody>
@@ -43,11 +45,11 @@ description: ""
   </tr>
 </tbody>
 </table>
-<table class="tg">
+<br><table class="tg">
 <thead>
   <tr>
-	<br>
-    <th colspan="2" class="tg-c0oc"><span style="background-color:#22A114">MOE Kindergarten @ Fern Green</span></th>
+	
+    <th class="tg-c0oc" colspan="2"><span style="background-color:#22A114">MOE Kindergarten @ Fern Green</span></th>
   </tr>
 </thead>
 <tbody>
