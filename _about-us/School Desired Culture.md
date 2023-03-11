@@ -8,7 +8,7 @@ description: ""
 # **Our Desired School Culture**
 
 
-<figure><img src="/images/School%20Desired%20Culture.jpg" style="width:85%"><figcaption> "Our Kampung Spirit"</figcaption></figure>
+<figure><img src="/images/School%20Desired%20Culture.jpg" style="width:75%"><figcaption> "Our Kampung Spirit"</figcaption></figure>
 
 
 ![](/images/bg-bottom.png)
