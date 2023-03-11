@@ -225,12 +225,16 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Ms Ivy Leow Gim Chye</span></td>
-    <td class="tg-bn4z"><span style="color:#222">ST (EL)</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Mohamad Hairil Johari</span></td>
+    <td class="tg-bn4z"><span style="color:#222">LT (PE) </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mdm Lee Siew Hoon</span></td>
-    <td class="tg-a3j2"><span style="color:#222"> ST (SEN)</span></td>
+    <td class="tg-a3j2"><span style="color:#222">Ms Ivy Leow Gim Chye</span></td>
+    <td class="tg-a3j2"><span style="color:#222">ST (EL)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mdm Lee Siew Hoon</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ST (SEN)</span></td>
   </tr>
 </tbody>
 </table>
