@@ -101,7 +101,7 @@ description: ""
     <td class="tg-bn4z"><span style="color:#222">HOD (MA)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mdm Teo Lian Ping Evelyn</span></td>
+    <td class="tg-a3j2"><span style="color:#222"> Mdm Teo Lian Peng Evelyn</span></td>
     <td class="tg-a3j2"><span style="color:#222">HOD (SCI) </span></td>
   </tr>
   <tr>
@@ -190,6 +190,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
