@@ -17,3 +17,12 @@ description: ""
 68343116
 
 \* Please visit the page, <i>Our Staff</i> to locate staff's email addresses.
+
+
+<b>MOE Kindergarten @ Fern Green</b>  
+[mk\_ferngreen@moe.edu.sg](mailto:mk_ferngreen@moe.edu.sg)  
+66341318  
+66341381  
+  
+[85](https://busrouter.sg/#/services/85), [102](https://busrouter.sg/#/services/102)  
+<b>LRT Station:</b> Kupang Station (SW3)
