@@ -333,7 +333,7 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n353{background-color:#F5F5F5;text-align:left;vertical-align:top}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
 .tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
@@ -365,7 +365,7 @@ description: ""
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Miss Nurashikin Binte Tugiman</td>
-    <td class="tg-n353">nurashikin_tugiman@moe.edu.sg</td>
+    <td class="tg-ycr8">nurashikin_tugiman@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">4 Resilience (4R3)</td>
@@ -375,7 +375,7 @@ description: ""
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mrs Ang -Tan Sok Kiang<br></td>
-    <td class="tg-n353">tan_sok_kiang_a@moe.edu.sg<br></td>
+    <td class="tg-ycr8">tan_sok_kiang_a@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-mdf1">4 Integrity</td>
@@ -385,7 +385,7 @@ description: ""
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Alice Ooi Chen Ai</td>
-    <td class="tg-0lax">alice_ooi_chen_ai@moe.edu.sg</td>
+    <td class="tg-ycr8">alice_ooi_chen_ai@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">4 Care</td>
@@ -405,7 +405,7 @@ description: ""
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Miss Toh Wei Ting</td>
-    <td class="tg-0lax">toh_wei_ting@moe.edu.sg</td>
+    <td class="tg-ycr8">toh_wei_ting@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">4 Discipline</td>
@@ -415,7 +415,7 @@ description: ""
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Lee Lin Ping</td>
-    <td class="tg-0lax">lee_lin_ping@moe.edu.sg</td>
+    <td class="tg-ycr8">lee_lin_ping@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
