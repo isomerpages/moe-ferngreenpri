@@ -325,3 +325,97 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n353{background-color:#F5F5F5;text-align:left;vertical-align:top}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h3wc{background-color:#e5e5e5;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qv16" colspan="3"><span style="color:black">P4     </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">4 Respect (4R1)</td>
+    <td class="tg-9678">Miss Nadirah Binte Jamri </td>
+    <td class="tg-h3wc">nadirah_jamri@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mrs Tay-Tan Jia Li</td>
+    <td class="tg-0lax">tan_jia_li@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">4 Responsibility (4R2)</td>
+    <td class="tg-9678"><br>Miss Chua Poh Khim (Deanna)</td>
+    <td class="tg-h3wc">chua_poh_khim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Miss Nurashikin Binte Tugiman</td>
+    <td class="tg-n353">nurashikin_tugiman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">4 Resilience (4R3)</td>
+    <td class="tg-9678"><br>Mr Mohamad Raizal Bin Abdul Rahim</td>
+    <td class="tg-h3wc">mohamad_raizal_abdul_rahim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mrs Ang -Tan Sok Kiang<br></td>
+    <td class="tg-n353">tan_sok_kiang_a@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">4 Integrity</td>
+    <td class="tg-9678"><br>Ms Tang Hui Ying (Sandra)</td>
+    <td class="tg-9678">tang_hui_ying@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Alice Ooi Chen Ai</td>
+    <td class="tg-0lax">alice_ooi_chen_ai@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">4 Care</td>
+    <td class="tg-9678"><br>Ms Ang Sing Min Serene<br></td>
+    <td class="tg-9678">ang_sing_min_serene@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">4 Harmony</td>
+    <td class="tg-9678">Mdm Ng Hui Li</td>
+    <td class="tg-9678">ng_hui_li@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Miss Toh Wei Ting</td>
+    <td class="tg-0lax">toh_wei_ting@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">4 Discipline</td>
+    <td class="tg-9678"><br>Mrs Chua Pei Yee (Mdm Low Pei Yee)</td>
+    <td class="tg-h3wc">low_pei_yee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mr Lee Lin Ping</td>
+    <td class="tg-0lax">lee_lin_ping@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
