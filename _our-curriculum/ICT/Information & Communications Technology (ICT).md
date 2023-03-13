@@ -6,7 +6,7 @@ third_nav_title: ICT
 ---
 ![](/images/Banner.png)
 
-# INFORMATION & COMMUNICATIONS TECHNOLOGY (ICT)
+# **Information & Communications Technology (ICT)**
 
 <b>The ICT Department aims to:</b> 
 
