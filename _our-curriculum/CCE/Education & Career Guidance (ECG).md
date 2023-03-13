@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 ![](/images/Banner.png)
 
-# EDUCATION & CAREER GUIDANCE (ECG)
+# **Education & Career Guidance (ECG)**
 
 The ECG curriculum in FGPS aims to: 
 
