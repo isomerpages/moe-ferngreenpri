@@ -524,3 +524,86 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qv16" colspan="3">P6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">6 Respect (6R1)</td>
+    <td class="tg-9678">Mrs Sharon Ho (Mdm Tan Su Yin Sharon)<br></td>
+    <td class="tg-9678">tan_su_yin_sharon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"> </td>
+    <td class="tg-0lax">Mdm Teo Lian Peng (Evelyn)</td>
+    <td class="tg-0lax">teo_lian_peng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">6 Responsibility (6R2)</td>
+    <td class="tg-9678">Mrs Lee-Ng Peck Mui (Cheryl)<br></td>
+    <td class="tg-9678">ng_peck_mui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"> </td>
+    <td class="tg-0lax">Miss Ma Shuang</td>
+    <td class="tg-0lax"><span style="font-weight:normal">ma_shuang@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">6 Resilience (6R3)</td>
+    <td class="tg-9678">Mdm Tan Sue Ling Kimmy<br></td>
+    <td class="tg-9678">tan_sue_ling_kimmy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"> </td>
+    <td class="tg-0lax">Mdm Chow Jee Soon</td>
+    <td class="tg-0lax">chow_jee_soon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">6 Integrity</td>
+    <td class="tg-9678">Mdm Teo Lang See (Rebecca)<br></td>
+    <td class="tg-9678">teo_lang_see@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"> </td>
+    <td class="tg-0lax"><span style="font-weight:normal">Mr Tan Zhi Qiang Jeremy</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">tan_zhi_qiang_jeremy@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">6 Care</td>
+    <td class="tg-9678">Miss Heng Peck Hoon<br></td>
+    <td class="tg-9678">heng_peck_hoon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mrs Yap-Tan Huey Teck (Michelle)</td>
+    <td class="tg-0lax">tan_huey_teck@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">6 Harmony</td>
+    <td class="tg-9678">Mdm Tan Wan Theng<br></td>
+    <td class="tg-9678">tan_wan_theng@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"> </td>
+    <td class="tg-0lax">Miss Lim Lihui</td>
+    <td class="tg-0lax">lim_lihui@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
