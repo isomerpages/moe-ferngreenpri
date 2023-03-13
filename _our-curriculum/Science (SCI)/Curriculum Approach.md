@@ -6,10 +6,8 @@ third_nav_title: Science (SCI)
 ---
 ![](/images/Banner.png)
 
-Curriculum Approach
--------------------
-
-Our science instructional approach begins with inquiry.
+# **Curriculum Approach**
+Our science instructional approach begins with inquiry. 
 
 To make Science learning coherent and meaningful, the 5E Instructional Model, or the 5Es, is used for the teaching and learning through inquiry. The 5 phases, consisting of engagement, exploration, explanation, elaboration, and evaluation, are designed to facilitate the process of conceptual change.
 
