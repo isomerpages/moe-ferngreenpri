@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 ![](/images/Banner.png)
 
-# NATIONAL EDUCATION (NE)
+# **National Education (NE)**
 
 In FGPS, we believe that
 
