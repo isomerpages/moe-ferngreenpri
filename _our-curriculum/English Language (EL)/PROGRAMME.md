@@ -50,7 +50,7 @@ Teachers, dressed as characters of stories, conduct storytelling sessions during
 
 2 ) D.E.A.R  
 
-D.E.A.R stands for **D**rop **E**verything **A**nd **R**ead. During the D.E.A.R session, teachers devote time for reading, be it at the class reading corner or the Media Resource Library. Parent volunteers are also recruited in our Reading Friends programme to read to the students. Individualised reading charts are displayed in classrooms to help students keep track of their reading progress.
+D.E.A.R stands for <b>D</b>rop <b>E</b>verything <b>A</b>nd <b>R</b>ead. During the D.E.A.R session, teachers devote time for reading, be it at the class reading corner or the Media Resource Library. Parent volunteers are also recruited in our Reading Friends programme to read to the students. Individualised reading charts are displayed in classrooms to help students keep track of their reading progress.
 
 ![](/images/EL4.png)
 ![](/images/EL5.png)
