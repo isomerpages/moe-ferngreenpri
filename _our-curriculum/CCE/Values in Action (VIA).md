@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 ![](/images/Banner.png)
 
-# VALUES IN ACTION (VIA)
+# **Values in Action (VIA)**
 
 FGPS’s values of Respect, Responsibility, Resilience, Integrity, Care and Harmony are defined as follows: 
 
