@@ -738,3 +738,46 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-opaw{color:#00F;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-opaw" colspan="3"><span style="color:blue">Allied Educators &amp; School Counsellor</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">SEN Officer</td>
+    <td class="tg-9678">Mdm Shantha Maheswari d/o Rajasegaran</td>
+    <td class="tg-9678"><span style="font-weight:normal">shantha_maheswari_rajasegaran@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">SEN Officer</td>
+    <td class="tg-0lax">Ms Subashini D/O Mahadevan</td>
+    <td class="tg-0lax">subashini_mahadevan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">SEN Officer</td>
+    <td class="tg-9678">Miss Koh Su Yi</td>
+    <td class="tg-9678">koh_shu_yi@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Senior School Counsellor</td>
+    <td class="tg-0lax">Miss Chiam Pei Ping</td>
+    <td class="tg-0lax">chiam_pei_ping@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
