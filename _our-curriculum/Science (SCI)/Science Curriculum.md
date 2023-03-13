@@ -6,8 +6,7 @@ third_nav_title: Science (SCI)
 ---
 ![](/images/Banner.png)
 
-Science Curriculum
-------------------
+# **Science Curriculum**
 
 ![](/images/Sci2.jpeg)
 
