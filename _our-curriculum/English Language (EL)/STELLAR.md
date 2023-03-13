@@ -6,7 +6,7 @@ third_nav_title: English Language (EL)
 ---
 ![](/images/Banner.png)
 
-# STELLAR
+# **STELLAR**
 
 
 <b> STELLAR </b> (Strategies in the Teaching of the English Language Learning and Reading) provides a framework for the teaching and learning of the English Language. It aims to develop students’ listening, speaking, reading and writing competencies, as well as to promote a positive attitude towards reading. Besides the development of various language skills, there are opportunities for the development of social skills and self-directed learning.  
