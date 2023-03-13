@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Languages (MTL)
 ---
 ![](/images/Banner.png)
 
-# PROGRAMMES
+# **Programmes**
 
 *   <b>Learning Journey</b>   
     Learning journey provides students with the opportunities to experience the authentic context for students to learn by doing, as well as to internalize their learnings.   
