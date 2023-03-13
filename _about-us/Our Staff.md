@@ -912,3 +912,53 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-opaw{color:#00F;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-ti5h{background-color:#E5E5E5;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6mtm{color:#00F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-opaw" colspan="3"><span style="color:blue">Lead &amp; Senior Teachers</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ti5h"><span style="color:blue">Lead Teacher</span> <br><span style="color:black">Mathematics<br></td>
+    <td class="tg-9678"><span style="color:black">Mdm Tham Sok Theng (Agnes)</span></td>
+    <td class="tg-9678"><span style="font-weight:normal;color:black">tham_sok_theng@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6mtm">Lead Teacher<br><span style="color:black">PE </td>
+    <td class="tg-0lax">Mr Mohamad Hairil Johari</td>
+    <td class="tg-0lax"> mohamad_hairil_b_johari@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ti5h"><span style="color:blue">Senior Teacher</span> <br><span style="color:black">English Language<br></td>
+    <td class="tg-9678">Ms Ivy Leow Gim Chye</td>
+    <td class="tg-9678">ivy_leow_gim_chye@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-6mtm">Senior Teacher<br><span style="color:black">Special Educational Needs </td>
+    <td class="tg-0lax">Mdm Lee Siew Hoon</td>
+    <td class="tg-0lax">lee_siew_hoon@moe.edu.sg  </td>
+  </tr>
+  <tr>
+    <td class="tg-ti5h">Senior Teacher<br><span style="color:black">Tamil </td>
+    <td class="tg-9678">Mdm Punitha d/o Murugaiah Maniam</td>
+    <td class="tg-9678"> punitha_murugaiah_maniam@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
