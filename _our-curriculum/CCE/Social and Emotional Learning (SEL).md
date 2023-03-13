@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 ![](/images/Banner.png)
 
-# SOCIAL AND EMOTIONAL LEARNING (SEL)
+# **Social and Emotional Learning (SEL)**
 
 <b>Social and Emotional Learning (SEL) Competencies</b>
 
