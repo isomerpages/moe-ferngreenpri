@@ -6,7 +6,7 @@ third_nav_title: ICT
 ---
 ![](/images/Banner.png)
 
-# PROGRAMMES
+# **Programmes**
 
 To achieve the Department’s goals, students will be    
 
