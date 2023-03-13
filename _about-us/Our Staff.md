@@ -14,9 +14,9 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ff5h{background-color:#E5E5E5;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-opaw{color:#00F;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
-.tg .tg-ums8{color:#00F;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-u7p7{background-color:#E5E5E5;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
@@ -24,12 +24,12 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ums8" colspan="3"><span style="color:blue">Form Teachers</span></th>
+    <th class="tg-opaw" colspan="3"><span style="color:blue">Form Teachers</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-u7p7" colspan="3"><span style="color:black">P1</span></td>
+    <td class="tg-ff5h" colspan="3"><span style="color:black">P1</span></td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Respect (1R1)</td>
