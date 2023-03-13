@@ -13,8 +13,7 @@ To make Science learning coherent and meaningful, the 5E Instructional Model, o
 
 The teacher is the leader of inquiry in the science classroom who creates a learning environment that will encourage and challenge students to develop their sense of inquiry.
 
-Learning by Inquiry
--------------------
+# **Learning by Inquiry**
 
   
 Science is more than the acquisition of a body of knowledge. To enthuse students about what they are studying, hands-on learning is infused in all topics to help them learn fundamental concepts but also engage them in disciplinary thinking to think and act like young scientists where they develop science process skills and attitudes that are essential for scientific inquiry.
