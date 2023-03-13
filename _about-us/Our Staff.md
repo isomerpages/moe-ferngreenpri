@@ -113,3 +113,119 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0v0n{background-color:#f5f5f5;text-align:left;vertical-align:top}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-k9vs{background-color:#EEE;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-h3wc{background-color:#e5e5e5;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qv16" colspan="3"><span style="color:black">P2</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">2 Respect (2R1)</td>
+    <td class="tg-9678"><br>Mr Mohamed Ridza B Hashim</td>
+    <td class="tg-9678">mohamed_ridza_b_hashim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Responsibility (2R2)</td>
+    <td class="tg-9678"><br>Ms Yew Lea Lea Lily</td>
+    <td class="tg-9678">yew_lea_lea_lily@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Lee Siew Hoon</td>
+    <td class="tg-0lax">lee_siew_hoon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Resilience (2R3)</td>
+    <td class="tg-9678">Mdm Cong Hui Sophia<br></td>
+    <td class="tg-9678">cong_hui_sophia@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mr Alfred Kriswano Sutjiadi<br></td>
+    <td class="tg-0lax">alfred_kriswano_sutjiadi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Integrity</td>
+    <td class="tg-9678">Miss Gan Jumi</td>
+    <td class="tg-9678">gan_jumi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Care</td>
+    <td class="tg-9678"><br>Mdm Maheswari D/O Rajaratanam</td>
+    <td class="tg-9678">maheswari_mohanavelu@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mr Teo Kuan Ping Amos<br></td>
+    <td class="tg-0v0n">teo_kuan_ping_amos@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Harmony</td>
+    <td class="tg-9678">Ms Lim Soo Liam</td>
+    <td class="tg-9678">lim_soo_liam@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Miss Sakinah Binte Mohamed Mohsen</td>
+    <td class="tg-0lax">sakinah_mohamed_mohsen@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Discipline</td>
+    <td class="tg-9678">Ms Kuganeswari D/O Kuhanesan</td>
+    <td class="tg-h3wc">kuganeswari_kuhanesan@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Nazira Nisa Bte Abul Hassan</td>
+    <td class="tg-0lax">nazira_nisa_abul_hassan@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">2 Motivation</td>
+    <td class="tg-9678">Miss Ong Li Lian</td>
+    <td class="tg-9678">ong_li_lian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Miss Tan Ai Yun</td>
+    <td class="tg-0lax">tan_ai_yun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-k9vs"><span style="background-color:#EEE">2 Gratitude</span></td>
+    <td class="tg-9678">Ms Rizalia Bte Abdul Rahim</td>
+    <td class="tg-h3wc">rizalia_abdul_rahim@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Miss Nur Yuhanis Binte Yusof</td>
+    <td class="tg-0lax">nur_yuhanis_yusof@moe.edu.sg<br></td>
+  </tr>
+</tbody>
+</table>
