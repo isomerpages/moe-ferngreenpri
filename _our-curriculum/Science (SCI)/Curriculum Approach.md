@@ -20,9 +20,7 @@ Science is more than the acquisition of a body of knowledge. To enthuse students
 
 ![](/images/Sci4.jpeg)
 
-Learning by Doing
------------------
-
+# **Learning by Doing**
 In structuring and guiding the learning experience, we also aim to nurture maker mindsets by creating authentic platforms for students to expose our learners a new world of making and solving problems.
 
 ![](/images/Sci5.jpeg)
