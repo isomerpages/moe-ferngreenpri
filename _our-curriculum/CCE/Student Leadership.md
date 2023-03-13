@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 ![](/images/Banner.png)
 
-# STUDENT LEADERSHIP
+# **Student Leadership**
 
 The school’s approach to student leadership focuses on a school-wide, Leadership–For-All approach. We believe that every child can be a leader if given the appropriate training, experience and opportunity.
 
