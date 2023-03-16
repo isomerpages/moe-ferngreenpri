@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Accolades And Achievements.md
       - About Us.md
       - Principal's Message.md
       - School Vision.md
@@ -16,6 +15,7 @@ collections:
       - School Leaders.md
       - Key Personnel.md
       - Our Staff.md
+      - Accolades And Achievements.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Feedback.md
