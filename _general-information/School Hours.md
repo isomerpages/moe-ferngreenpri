@@ -8,23 +8,23 @@ description: ""
 ### School Hours
 
 **Monday to Friday**
-| P1 & P2 | P3 & P4 | P5 & P6 |
-| -------- | -------- | -------- |
-| 7.30am to 1.25pm | 7.30am to 1.30pm | 7.30am to 1.35pm |
+* P1 & P2: 7.30am to 1.25pm
+* P3 & P4: 7.30am to 1.30pm
+* P5 & P6: 7.30am to 1.35pm
 
 *Children are to report by 7.15am.*
 
 ### Recess & Snack Break
 
 **Recess**
-| P1 & P4 | P2 & P5 | P3 & P6 |
-| -------- | -------- | -------- |
-| 9.30am to 10am | 10am to 10.30am | 10.30am to 11am |
+* P1 & P4: 9.30am to 10am
+* P2 & P5: 10am to 10.30am
+* P3 & P6: 10.30am to 11am
 
 **Snack Break**
-| P3 & P6 | P1 & P4 | P2 & P5 |
-| -------- | -------- | -------- |
-| 8.45am | 11.45am | 12.15pm |
+* P3 & P6: 8.45am
+* P1 & P4: 11.45am
+* P2 & P5: 12.15pm
 
 
 ### Dismissal Arrangements
