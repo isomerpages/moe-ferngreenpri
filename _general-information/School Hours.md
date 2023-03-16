@@ -39,7 +39,7 @@ description: ""
 </tbody>
 </table>
 
-### Recess Timing
+### Recess & Snack Break
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -50,7 +50,16 @@ description: ""
 .tg .tg-54l1{border-color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
+</style>
+<table class="tg">
 <thead>
+  <tr>
+    <th class="tg-q8wq">Recess</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+	<thead>
   <tr>
     <th class="tg-54l1">P1 &amp; P4 Recess: 9.30am to 10am</th>
   </tr>
@@ -62,14 +71,24 @@ description: ""
   <tr>
     <td class="tg-54l1">P3 &amp; P6 Recess: 10.30am to 11am</td>
   </tr>
+	</style>
+<table class="tg">
+<thead>
   <tr>
-    <td class="tg-54l1"></td>
+    <th class="tg-q8wq">Snack Break</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+  <tr>
+    <td class="tg-54l1">P3 & P6 Snack Break: 8:45am</td>
   </tr>
   <tr>
-    <td class="tg-54l1">P2, 3 &amp; 5 Snack Break: 8:30am</td>
-  </tr>
+		<td class="tg-54l1">P1 & P4 Snack Break: 11.45am</td>
   <tr>
-    <td class="tg-54l1">P1 &amp; 4 Snack Break: 12.00pm</td>
+<td class="tg-54l1">P2 & P5 Snack Break: 12.15pm
+		</td>
+  </tr>
   </tr>
 </tbody>
 </table>
@@ -79,6 +98,11 @@ description: ""
 
 *   P1 & P2: Vehicle Drop-Off Area or Car Porch
 *   P3 - P6: Gate 1, 2 or 4
+
+**Staggered Dismissal Arrangements**
+* 1.25pm (P1 & P2)
+* 1.30pm (P3 & P4)
+* 1.35pm (for P5 & P6)
 
 ### Gate Opening Hours
 
