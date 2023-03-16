@@ -1,0 +1,79 @@
+---
+title: Staff 2020
+permalink: /about-us/accolades-and-achievements/Staff/2020/
+description: ""
+third_nav_title: Accolades And Achievements
+---
+
+
+![](/images/Banner.png)
+
+Staff Achievements 2020
+----
+
+### **Security Association Singapore(SAS)**
+
+##### **Outstanding Security Officer Award(2020)** 
+
+
+Mdm Zainab Binte Jantan is an outstanding security officer. In recognition of her hardwork and commitment to her job, we are pleased to share that she was awarded the Outstanding Security Officer Award by the Security Association Singapore. Congratulations, Zainab!
+
+<img src="/images/Zainab.jpg" style="width:30%">
+
+
+### **MOE Service Excellence Award (MSEA) 2020**
+
+##### **MSEA Silver Award**
+
+  
+
+We wish to extend our heartiest congratulations to our Administration Manager, Miss Low Siew Teng and our Operation Support Officer, Mdm Sabiah Binte Abdul Hyoom, who have been conferred the 2020 MSEA (Silver) in recognition of their service excellence.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-8jgo"><img src="https://ferngreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u805/Staff%20Pic/Miss%20Low%20Siew%20Teng.jpg" alt="Image" width="75" height="112"></td>
+    <td class="tg-8jgo"><img src="https://ferngreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u805/Staff%20Pic/Mdm%20Sabiah%20Binte%20Abdul%20Hyoom.jpg" alt="Image" width="75" height="112"></td>
+  </tr>
+</thead>
+</table>
+
+### **The Caring Teacher Awards (CTA) 2020**
+
+The CTA started in 1996 and is organised biennially by NIE, with the support from ExxonMobil Asia Pacific Pte Ltd and the Ministry of Education. It aims to celebrate school teachers who exemplify the values of caring, sharing and concern for the academic, moral, social, emotional and mental welfare of their students.  
+
+
+Our heartiest congratulations to our awardees: 
+
+1)Miss Brammi Ragupathy        
+
+2)Mrs Chua Pei Yee        
+
+3)Mdm Tan Sue Ling Kimmy        
+
+4)Mrs Mandy Yin Mei Doll        
+
+5)Mrs Chow Szu San
+
+<img src="/images/CTA%202020.jpg" style="width:70%">
+
+### **National Day Awards 2020**
+
+##### **The Commendation Medal** 
+
+  
+
+Congratulations to Mr Peh Joe Han Camillus for being conferred the National Day Award 2020, The Commendation Medal.
+
+
+<img src="/images/Mr%20Peh%20Joe%20Han%20Camillus.jpg" style="width:30%">
+
+![](/images/bg-bottom.png)
