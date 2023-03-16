@@ -1,0 +1,50 @@
+---
+title: Staff 2022
+permalink: /accolades-and-achievements/Staff/2022/
+description: ""
+third_nav_title: Accolades And Achievements
+---
+
+
+![](/images/Banner.png)
+
+Staff Achivements 2022
+----
+
+### National Day Awards (NDA) 2022
+
+Our heartiest congratulations to the following NDA recipients:  
+
+##### **The Commendation Medal**
+
+1\. Mr Lee Lin Ping
+
+2\. Mdm Tan Huey Teck
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-8jgo"><img src="https://ferngreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u775/Accolades/Mr%20Lee%20Lin%20Ping.jpg" alt="Image" width="75" height="112"></td>
+    <td class="tg-8jgo"><img src="https://ferngreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u775/Accolades/Mrs%20Yap-Tan%20Huey%20Teck%20Michelle[0].jpg" alt="Image" width="75" height="112"></td>
+  </tr>
+</thead>
+</table>
+
+
+##### **The Long Service Medal**  
+
+  
+
+1\. Mr See Kok Kiong
+
+<img src="/images/Mr%20See%20Kok%20Kiong.jpg" style="width:50%">
+
+![](/images/bg-bottom.png)
