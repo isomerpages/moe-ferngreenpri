@@ -1,5 +1,5 @@
 collections:
-  stakeholders-and-partnerships:
+  partnerships:
     output: true
     order:
       - Stakeholders & Partnerships.md
