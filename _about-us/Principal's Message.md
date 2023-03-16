@@ -7,7 +7,7 @@ description: ""
 
 # Principal's Message
 
-![](/images/Ms%20Kong%20Yee%20Loon.png)
+![](/images/Staff/Ms%20Kong%20Yee%20Loon.png)
 
 In a letter to Robert Hooke in 1675, Isaac Newton made his most famous statement: “If I have seen further, it is by standing on the shoulders of giants.” Pioneering work is never easy and entails dedication, hard work and a strong sense of purpose.  The founding principal, Mrs May Tang, envisioned students of Fern Green to be “<b>reflective inquirers, aspiring advocates and steadfast leaders”</b>.  The Fern Green team and I will honour her legacy and continue to build on the strong foundation laid by Mrs Tang and the pioneer team to achieve our vision.  
 
