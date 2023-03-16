@@ -2,5 +2,4 @@ collections:
   accolades-and-achievements:
     output: true
     order:
-      - Staff/Staff 2022.md
       - Staff/.keep
