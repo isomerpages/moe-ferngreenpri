@@ -20,7 +20,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-7btt"><br><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/School%20Leaders/Ms%20Kong%20Yee%20Loon.jpg" alt="Ms Kong Yee Loon.jpg" width="235" height="329"><br>Principal<br></th>
+    <th class="tg-7btt"><br><br><img src="![](/images/School%20Leaders/Principal.jpeg)" alt="Ms Kong Yee Loon.jpg" width="235" height="329"><br>Principal<br></th>
     <th class="tg-0lax"><br><br><br><br><br><br></th>
   </tr>
 </thead>
