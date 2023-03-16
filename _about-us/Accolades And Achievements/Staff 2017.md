@@ -1,0 +1,24 @@
+---
+title: Staff 2017
+permalink: /about-us/accolades-and-achievements/Staff/2017/
+description: ""
+third_nav_title: Accolades And Achievements
+---
+
+
+![](/images/Banner.png)
+
+Staff Achievements 2017
+----
+
+<b> MOE Service Excellence Award (MSEA) 2017 </b>
+
+MSEA Gold Award  
+
+The MSEA recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.  
+
+Congratulations to Miss Chiam Pei Ping (School Counsellor).
+
+![](/images/Staff.png)
+
+![](/images/bg-bottom.png)
