@@ -1,5 +1,4 @@
 collections:
   accolades-and-achievements:
     output: true
-    order:
-      - Staff/.keep
+    order: []
