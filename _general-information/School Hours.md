@@ -7,91 +7,24 @@ description: ""
 
 ### School Hours
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-54l1{border-color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
-.tg .tg-q8wq{border-color:#ffffff;font-size:15px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9flm{border-color:#ffffff;font-size:15px;font-style:italic;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-q8wq">Monday to Friday</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-54l1">7.30am to 1.25pm (P1 &amp; P2)</td>
-  </tr>
-  <tr>
-    <td class="tg-54l1">7.30am to 1.30pm (P3 &amp; P4)</td>
-  </tr>
-  <tr>
-    <td class="tg-54l1">7.30am to 1.35pm (for P5 &amp; P6)</td>
-  </tr>
-  <tr>
-    <td class="tg-9flm">* Children are to report by 7.15am.</td>
-  </tr>
-</tbody>
-</table>
+**Monday to Friday**
+| P1 & P2 | P3 & P4 | P5 & P6 |
+| -------- | -------- | -------- |
+| 7.30am to 1.25pm | 7.30am to 1.30pm | 7.30am to 1.35pm |
+
+*Children are to report by 7.15am.*
 
 ### Recess & Snack Break
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-54l1{border-color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-q8wq">Recess</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-	<thead>
-  <tr>
-    <th class="tg-54l1">P1 &amp; P4 Recess: 9.30am to 10am</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-54l1">P2 &amp; P5 Recess: 10am to 10.30am</td>
-  </tr>
-  <tr>
-    <td class="tg-54l1">P3 &amp; P6 Recess: 10.30am to 11am</td>
-  </tr>
-	</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-q8wq">Snack Break</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-  <tr>
-    <td class="tg-54l1">P3 & P6 Snack Break: 8:45am</td>
-  </tr>
-  <tr>
-		<td class="tg-54l1">P1 & P4 Snack Break: 11.45am</td>
-  <tr>
-<td class="tg-54l1">P2 & P5 Snack Break: 12.15pm
-		</td>
-  </tr>
-  </tr>
-</tbody>
-</table>
+**Recess**
+| P1 & P4 | P2 & P5 | P3 & P6 |
+| -------- | -------- | -------- |
+| 9.30am to 10am | 10am to 10.30am | 10.30am to 11am |
+
+**Snack Break**
+| P3 & P6 | P1 & P4 | P2 & P5 |
+| -------- | -------- | -------- |
+| 8.45am | 11.45am | 12.15pm |
 
 
 ### Dismissal Arrangements
