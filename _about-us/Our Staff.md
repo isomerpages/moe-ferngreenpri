@@ -43,18 +43,18 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig">1 Responsibility (1R2)</td>
-    <td class="tg-9678">Mrs Lim-So Kah Li</td>
-    <td class="tg-9678">lim-so_kah_li@moe.edu.sg</td>
+    <td class="tg-01ax">Mrs Lim-So Kah Li</td>
+    <td class="tg-01ax">lim-so_kah_li@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678"> </td>
     <td class="tg-9678">Mdm Punitha d/o Murugaiah Maniam</td>
-    <td class="tg-ktyi">punitha_murugaiah_maniam@moe.edu.sg</td>
+    <td class="tg-9678">punitha_murugaiah_maniam@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Resilience (1R3)</td>
-    <td class="tg-9678">Miss Ashika Begum Binte Mohamed Ali</td>
-    <td class="tg-9678">ashika_begum_mohamed_ali@moe.edu.sg</td>
+    <td class="tg-01ax">Miss Ashika Begum Binte Mohamed Ali</td>
+    <td class="tg-01ax">ashika_begum_mohamed_ali@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678"> </td>
@@ -63,13 +63,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig">1 Integrity</td>
-    <td class="tg-9678">Mr Dennis Chew Wai Yip</td>
-    <td class="tg-9678">dennis_chew@moe.edu.sg</td>
+    <td class="tg-01ax">Mr Dennis Chew Wai Yip</td>
+    <td class="tg-01ax">dennis_chew@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678"> </td>
-    <td class="tg-ktyi">Miss Nor Murniyanti Binte Ali</td>
-    <td class="tg-ktyi">nor_murniyanti_ali@moe.edu.sg</td>
+    <td class="tg-9678">Miss Nor Murniyanti Binte Ali</td>
+    <td class="tg-9678">nor_murniyanti_ali@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Care</td>
@@ -78,18 +78,18 @@ description: ""
   </tr>
   <tr>
     <td class="tg-9678"> </td>
-    <td class="tg-ktyi">Miss Lim Xiao Wei</td>
+    <td class="tg-9678">Miss Lim Xiao Wei</td>
     <td class="tg-9678">lim_xiao_wei@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Harmony</td>
-    <td class="tg-9678">Miss Kirubaashini D/O Kanesan</td>
-    <td class="tg-9678">kirubaashini_kanesan@moe.edu.sg</td>
+    <td class="tg-01ax">Miss Kirubaashini D/O Kanesan</td>
+    <td class="tg-01ax">kirubaashini_kanesan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678">  </td>
-    <td class="tg-ktyi">Mrs Stephanie Yeo (Mdm Choo)</td>
-    <td class="tg-ktyi">choo_xuewei_stephanie@moe.edu.sg</td>
+    <td class="tg-9678">Mrs Stephanie Yeo (Mdm Choo)</td>
+    <td class="tg-9678">choo_xuewei_stephanie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Discipline</td>
@@ -154,8 +154,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Lee Siew Hoon</td>
-    <td class="tg-0lax">lee_siew_hoon@moe.edu.sg</td>
+    <td class="tg-0lax">Miss Lim Li Ying, Clarice</td>
+    <td class="tg-0lax">lim_li_ying_clarice@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">2 Resilience (2R3)</td>
@@ -174,8 +174,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Mdm Lee Siew Hoon</td>
+    <td class="tg-0lax">lee_siew_hoon@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">2 Care</td>
@@ -185,7 +185,7 @@ description: ""
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Teo Kuan Ping Amos<br></td>
-    <td class="tg-0v0n">teo_kuan_ping_amos@moe.edu.sg</td>
+    <td class="tg-01ax">teo_kuan_ping_amos@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">2 Harmony</td>
