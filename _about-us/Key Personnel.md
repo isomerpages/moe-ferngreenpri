@@ -7,7 +7,7 @@ description: ""
 
 # **Our Key Personnel**
 
-![](/images/KeyPersonnel.jpeg)
+![](/images/Staff/20221208_KP%20Org%20Chart.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
