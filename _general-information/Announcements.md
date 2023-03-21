@@ -33,12 +33,12 @@ For more information on the 2023 MK Open House and Registration Exercise, please
 
 ### The Outstanding Youth in Education Award (OYEA) 2023
 
-![](/images/OYEA%202023%20School%20Broadcast%20JPEG.jpg)
+![](/images/Annoucements/OYEA%202023%20School%20Broadcast%20JPEG.jpg)
 
 
 ### The President's Award for Teachers (PAT) 2023
 
-![](/images/PAT%202023%20School%20Broadcast%20JPEG.jpg)
+![](/images/Annoucements/PAT%202023%20School%20Broadcast%20JPEG.jpg)
 
 
 ### Open House 2022
