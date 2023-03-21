@@ -1,0 +1,12 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Stakeholders & Partnerships.md
+      - Parent Support Group (PSG)/Parent Support Group (PSG).md
+      - Parent Support Group (PSG)/Downloads.md
+      - Parent Support Group (PSG)/.keep
+      - Positive Parenting Programme (Triple P).md
+      - "Partnership with BCA & KLL: Zero Corridor.md"
+      - Partnership with TTSH.md
+      - School Advisory Committee (SAC).md

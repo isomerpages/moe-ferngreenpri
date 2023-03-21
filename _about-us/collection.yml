@@ -1,0 +1,30 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - School Vision.md
+      - School Mission.md
+      - School Core Values.md
+      - School Strategic Thrusts.md
+      - School Crest.md
+      - School Philosophy.md
+      - School Desired Culture.md
+      - School Song.md
+      - School Leaders.md
+      - Key Personnel.md
+      - Our Staff.md
+      - Accolades And Achievements/.keep
+      - Accolades And Achievements/2022.md
+      - Accolades And Achievements/2021.md
+      - Accolades And Achievements/2020.md
+      - Accolades And Achievements/2019.md
+      - Accolades And Achievements/2018.md
+      - Accolades And Achievements/2017.md
+      - Gallery/.keep
+      - Gallery/2023.md
+      - Gallery/2022.md
+      - Gallery/2021.md
+      - Contact Us/.keep
+      - Contact Us/Contact Us.md

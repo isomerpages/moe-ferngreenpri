@@ -1,0 +1,47 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Our Curriculum.md
+      - English Language (EL)/English Language (EL).md
+      - English Language (EL)/PROGRAMME.md
+      - English Language (EL)/STELLAR.md
+      - English Language (EL)/Assessment Matters.md
+      - English Language (EL)/.keep
+      - Mathematics (MA)/Mathematics (MA).md
+      - Mathematics (MA)/Approach & Framework.md
+      - Mathematics (MA)/Programmes.md
+      - Mathematics (MA)/.keep
+      - Science (SCI)/Science (SCI).md
+      - Science (SCI)/Curriculum Approach.md
+      - Science (SCI)/Science Curriculum.md
+      - Science (SCI)/Science Holistic Assessment.md
+      - Science (SCI)/.keep
+      - Mother Tongue Languages (MTL)/Mother Tongue Languages (MTL).md
+      - Mother Tongue Languages (MTL)/Programmes.md
+      - Mother Tongue Languages (MTL)/.keep
+      - ICT/Information & Communications Technology (ICT).md
+      - ICT/Programmes.md
+      - ICT/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Social and Emotional Learning (SEL).md
+      - CCE/Values in Action (VIA).md
+      - CCE/National Education (NE).md
+      - CCE/Student Leadership.md
+      - CCE/Education & Career Guidance (ECG).md
+      - CCE/Form Teacher Guidance Period (FTGP).md
+      - CCE/Cyberwellness.md
+      - CCE/Environmental Education.md
+      - CCE/Discipline.md
+      - CCE/CCE Lessons.md
+      - CCE/International Friendship Day Commemoration.md
+      - CCE/Values Talks.md
+      - CCE/Student Leaders Cohort Leadership Training.md
+      - CCE/.keep
+      - Student Management (SM).md
+      - PE, Art & Music (PE, Art, MU)/Physical Education, Art & Music (PE, Art,
+        MU).md
+      - PE, Art & Music (PE, Art, MU)/Programmes.md
+      - PE, Art & Music (PE, Art, MU)/.keep
+      - Co Curricular Activities (CCA).md
+      - Sexuality Education (SEd).md

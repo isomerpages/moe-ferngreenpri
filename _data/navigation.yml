@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Partnerships
+    collection: partnerships
+  - title: General Information
+    collection: general-information
+  - title: MK@Fern Green
+    collection: moe-kindergarten

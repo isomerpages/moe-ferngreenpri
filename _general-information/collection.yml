@@ -1,0 +1,22 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - General Information.md
+      - Home Based Learning (HBL).md
+      - Announcements.md
+      - School Calendar.md
+      - Notifications.md
+      - Quick Download.md
+      - Forms & other info (Edusave & Giro, etc).md
+      - School Rules.md
+      - Homework Policy.md
+      - School Hours.md
+      - School Uniform & Supplier.md
+      - Bookshop Services.md
+      - School Bus Services.md
+      - School Dental Services.md
+      - Student Care Services.md
+      - School Canteen.md
+      - School Newsletters.md
+      - Virtual School Open House.md
