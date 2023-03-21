@@ -255,13 +255,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-mdf1">3 Respect (3R1)</td>
-    <td class="tg-9678">Miss Lam Mei Jun<br></td>
-    <td class="tg-9678">lam_mei_jun@moe.edu.sg</td>
+    <td class="tg-9678">Miss Buvaneswary d/o Rengasamy<br></td>
+    <td class="tg-9678">buvaneswary_rengasamy@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
+    <td class="tg-1wig">Ms Fauziah Binte Osman</td>
+    <td class="tg-1wig">fauziah_Osman@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Responsibility (3R2)</td>
@@ -270,8 +270,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
+    <td class="tg-1wig">Mdm Khoo Seok Ling Serene</td>
+    <td class="tg-1wig">Khoo_Seok_Ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Resilience (3R3)</td>
@@ -290,8 +290,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-1wig"><br></td>
-    <td class="tg-1wig"></td>
+    <td class="tg-1wig">Mr Tan Di Jie<br></td>
+    <td class="tg-1wig">tan_di_jie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Care</td>
@@ -300,8 +300,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Ms Fauziah Binte Osman</td>
-    <td class="tg-ycr8">fauziah_osman@moe.edu.sg</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ycr8"></td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Harmony</td>
