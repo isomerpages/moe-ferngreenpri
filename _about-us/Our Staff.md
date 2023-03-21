@@ -394,8 +394,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Mr Khng Jun Xiong</td>
+    <td class="tg-0lax">khng_jun_xiong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">4 Harmony</td>
@@ -479,8 +479,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
+    <td class="tg-1wig">Miss Vanessa Cheng Wan Ting</td>
+    <td class="tg-1wig">Vanessa_Cheng_Wan_Ting@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">5 Care</td>
@@ -499,8 +499,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Mdm Ho Fui Hee</td>
-    <td class="tg-0lax">ho_fui_hee@moe.edu.sg</td>
+    <td class="tg-0lax">Miss Elaine Yeo Yan Ying</td>
+    <td class="tg-0lax">Elaine_Yeo_Yan_Ying@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">5 Discipline </td>
@@ -509,8 +509,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Ho Fui Hee</td>
+    <td class="tg-0lax">ho_fui_hee@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">5  Motivation</td>
