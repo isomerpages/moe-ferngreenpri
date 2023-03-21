@@ -10,23 +10,14 @@ description: ""
 <b>Term/Week: Link to Parents Notification</b>
 
 * T1W10: [8 Mar](/files/Notifications/2023/T1W10%20Parents%20Notification%20(8%20Mar%202023).pdf)
-
 * T1W9: [1 Mar](/files/Notifications/2023/T1W9%20Parents%20Notification%20(1%20Mar%202023).pdf)
-
 * T1W8: [22 Feb](/files/Notifications/2023/T1W8%20Parents%20Notification%20(22%20Feb%202023).pdf)
-
 * T1W7: [15 Feb](/files/Notifications/2023/T1W7%20Parents%20Notification%20(15%20Feb%202023).pdf)
-
 * T1W6: [8 Feb](/files/Notifications/2023/T1W6%20Parents%20Notification%20(8%20Feb%202023).pdf)
-
 * T1W5: [1 Feb](/files/Notifications/2023/T1W5%20Parents%20Notification%20(1%20Feb%202023).pdf)
-
 * T1W4: [25 Jan](/files/Notifications/2023/T1W4%20Parents%20Notification%20(25%20Jan%202023).pdf)
-
 * T1W3: [18 Jan](/files/Notifications/2023/T1W3%20Parents%20Notification%20(18%20Jan%202023).pdf)
-
 * T1W2: [11 Jan](/files/Notifications/2023/T1W2%20Parents%20Notification%20(11%20Jan%202023).pdf)
-
 * T1W1: [4 Jan](/files/Notifications/2023/T1W1%20Parents%20Notification%20(4%20Jan%202023).pdf)
 
 ### Weekly Parents Notifications 2022
