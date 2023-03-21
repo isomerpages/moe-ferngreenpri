@@ -15,16 +15,16 @@ The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin their 
  LOA applies to all Singapore Citizen (SC) and Permanent Resident (PR) children in primary school, secondary school, junior colleges and Millennia Institute.
  
  
-* [Waitlist Application Form](/files/Waitlist%20Application%20Form.pdf)
+* [Waitlist Application Form](/files/Forms%20&%20Other%20Info/Waitlist%20Application%20Form.pdf)
 
 * [Updating of Student's Address Form](https://drive.google.com/file/d/1T4O2gAddN0zS3u0eMhB4fILAriz7EYO7/view)
 
 
 ### Edusave & Giro
 
-* [Information on Edusave](/files/Information%20on%20Edusave.pdf)
+* [Information on Edusave](/files/Forms%20&%20Other%20Info/Information%20on%20Edusave.pdf)
 
-* [Information on Giro](/files/Information%20on%20GIRO.pdf)
+* [Information on Giro](/files/Forms%20&%20Other%20Info/Information%20on%20GIRO.pdf)
 
 ### FAS & NPP
 
