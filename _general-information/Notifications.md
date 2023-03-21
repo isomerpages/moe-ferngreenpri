@@ -7,6 +7,10 @@ description: ""
 
 ### Weekly Parents Notifications 2023
 
+<b>Term/Week: Link to Parents Notification</b>
+
+* T1W1: [4 Jan]()
+
 ### Weekly Parents Notifications 2022
 
 <b>Term/Week: Link to Parents Notification</b>
