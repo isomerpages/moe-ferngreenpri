@@ -5,8 +5,7 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-# MOE Kindergarten
-# @ Fern Green
+# MOE Kindergarten @ Fern Green
 
 ![](/images/MK@Fern%20Green/MOE%20Kindergarten.png)
 
