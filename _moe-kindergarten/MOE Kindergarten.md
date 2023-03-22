@@ -8,7 +8,7 @@ description: ""
 # MOE Kindergarten
 # @ Fern Green
 
-![](/images/MOE%20Kindergarten.png)
+![](/images/MK@Fern%20Green/MOE%20Kindergarten.png)
 
 
 <b>MOE Kindergarten @ Fern Green</b> is in operation within Fern Green Primary School (since January 2019). The kindergarten provides K1 & K2 programmes.  
