@@ -259,24 +259,24 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-a3j2"><span style="color:#222">K1</span></th>
-    <th class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Miss%20Iris%20Lim%20See%20Moi.jpg" alt="Miss Iris Lim See Moi.jpg" width="141" height="211"><br></th>
+    <th class="tg-a3j2"><span style="color:#222">K2 - OB</span></th>
+    <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Miss%20Lim%20See%20Moi%20Iris.jpg" alt="Miss Iris Lim See Moi.jpg" width="141" height="211"><br></th>
     <th class="tg-a3j2">Miss Lim See Moi (Iris)</th>
-    <th class="tg-baqh"><br><br><br><br><br><br>lim_see_moi_a@moe.edu.sg<br></th>
+    <th class="tg-baqh"><br><br><br><br>lim_see_moi_a@moe.edu.sg<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3b8d"><br><br><br><br><br><br><span style="color:#222">K1</span></td>
-    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Ng%20Yan%20Shan.jpg" alt="Ms Ng Yan Shan.jpg" width="144" height="201"></td>
+    <td class="tg-3b8d"><br><br><br><br><br><br><span style="color:#222">K2 - TA & TB</span></td>
+    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Ms%20Ng%20Yan%20Shan.jpg" alt="Ms Ng Yan Shan.jpg" width="144" height="201"></td>
     <td class="tg-bn4z">Ms Ng Yan Shan</td>
-    <td class="tg-baqh"><br><br><br><br><br><br>ng_yan_shan@moe.edu.sg</td>
+    <td class="tg-baqh"><br><br><br>ng_yan_shan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> K1</span></td>
-    <td class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mdm%20Li%20Jinhua.jpg" alt="Mdm Li Jinhua.jpg" width="151" height="225"></td>
-    <td class="tg-lygy"><br><br><br><br><br><br>Mdm Li Jinhua</td>
-    <td class="tg-baqh"><br><br><br><br><br><br>Li_Jinhua@moe.edu.sg</td>
+    <td class="tg-a3j2"><span style="color:#222"> K2 - OA & LA</span></td>
+    <td class="tg-lygy"><img src="/images/MK@Fern%20Green/Mdm%20Li%20Jinhua.jpg" alt="Mdm Li Jinhua.jpg" width="151" height="225"></td>
+    <td class="tg-lygy"><br><br><br><br>Mdm Li Jinhua</td>
+    <td class="tg-baqh"><br><br><br><br>Li_Jinhua@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222">K1 </span></td>
