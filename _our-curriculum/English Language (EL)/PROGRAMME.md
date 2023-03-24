@@ -15,11 +15,8 @@ At Fern Green Primary School, the Whole School Approach would be used to promote
 
 *           Listening
 *           Reading  
-    
 *           Speaking  
-    
-*           Writing  
-    
+*           Writing
 *           Language Use (Grammar & Vocabulary)
 
 
@@ -46,31 +43,29 @@ The Extensive Reading Programme aims to inculcate the habit of reading in studen
 
 Teachers, dressed as characters of stories, conduct storytelling sessions during recess and assembly periods. Students are given the opportunity to reflect and respond to the stories that they have heard by interviewing the _characters_ and participating in post-reading activities.
 
-![](/images/EL3.png)
+![](/images/English/EL3.png)
 
 2 ) D.E.A.R  
 
 D.E.A.R stands for <b>D</b>rop <b>E</b>verything <b>A</b>nd <b>R</b>ead. During the D.E.A.R session, teachers devote time for reading, be it at the class reading corner or the Media Resource Library. Parent volunteers are also recruited in our Reading Friends programme to read to the students. Individualised reading charts are displayed in classrooms to help students keep track of their reading progress.
 
-![](/images/EL4.png)
-![](/images/EL5.png)
-![](/images/EL6.png)
+![](/images/English/EL4.png)
+![](/images/English/EL5.png)
+![](/images/English/EL6.png)
 
 3 ) Reader’s Theatre in Action
 
 Reader’s Theatre in Action is an integrated approach to increase reading motivation, promote performing with a purpose, develop self-confidence and encourage teamwork.
 
-![](/images/EL7.png)
-![](/images/EL8.png)
-
-
+![](/images/English/EL7.png)
+![](/images/English/EL8.png)
 
 <b> Inquiry-based Learning </b>
 
 Inquiry-based learning is infused into the lessons to ignite students’ curiosity for a love of learning. Students spontaneously ask questions about a particular topic which is related with the STELLAR unit. They work collaboratively to find the answers to their questions. They also have the opportunities to make items related to what they learn.
 
-![](/images/EL9.png)
-![](/images/EL10.png)
+![](/images/English/EL9.png)
+![](/images/English/EL10.png)
 
 
 ![](/images/bg-bottom.png)

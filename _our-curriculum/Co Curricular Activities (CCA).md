@@ -15,7 +15,7 @@ CCA are a key component of students’ holistic education. In Fern Green Primary
 
 In line with the School’s Desired Culture of Care and to promote the “Kampung Spirit”, we also aim to build camaraderie among students from diverse backgrounds through interactions during CCA sessions. By learning and interacting with one another, students develop friendships and deepen their sense of belonging to the school and community.
 
-![](/images/CCA.png)
+![](/images/CCA/CCA.png)
 
 ##### **CCA Objectives**
 
@@ -35,37 +35,31 @@ To achieve our desired outcome of providing a broad exposure to various types of
 
 **_Clubs & Societies_**
 
-·         Art Club  
+* Art Club  
+* Infocomm & Media Club
+* Makers’ Club
 
-·         Infocomm & Media Club
-
-·         Makers’ Club
-
-![](/images/CCA2.png)
+![](/images/CCA/CCA2.png)
 
 **_Performing Arts_**  
 
-·         Drama Club                                   
+* Drama Club                                   
+* Modern Dance
+* Show Choir
 
-·         Modern Dance
-
-·         Show Choir
-
-![](/images/CCA3.png)
+![](/images/CCA/CCA3.png)
 
 **_Sports & Games_**
 
-·         Basketball (Boys & Girls)
+* Basketball (Boys & Girls)
+* Football (Boys & Girls)
+* Tchoukball (Boys & Girls)
 
-·         Football (Boys & Girls)
-
-·         Tchoukball (Boys & Girls)
-
-![](/images/CCA4.png)
+![](/images/CCA/CCA4.png)
 
 **_Uniform Group_**
 
-·         Scouts
+* Scouts
 
 ##### **CCA Training Hours**
 

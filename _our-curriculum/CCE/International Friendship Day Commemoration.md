@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 # **INTERNATIONAL FRIENDSHIP DAY COMMEMORATION**
 
-![](/images/IFD.jpeg)
+![](/images/CCE/IFD.jpeg)
 
 Globalisation provides us with the opportunity to appreciate and live together with friends with different traditions, languages, cultures and histories.  It is important to encourage our youth to continue actively deepening the connection with our neighbours by empowering them in this process of celebrating our vibrancy and building our community.
 

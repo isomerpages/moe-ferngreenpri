@@ -11,11 +11,11 @@ The school’s Learning for Life Programme (LLP) ‘<b>Get REAL!@FGPS</b>’ se
 
 <i>Get REAL!@FGPS</i> seeks to
 
-·         Provide opportunities and platforms to create awareness of the world beyond the classrooms.
+* Provide opportunities and platforms to create awareness of the world beyond the classrooms.
 
-·         Inculcate positive sportsmanship, resilience, respect and sense of responsibility for self, others and the community.
+* Inculcate positive sportsmanship, resilience, respect and sense of responsibility for self, others and the community.
 
-·         Develop teamwork and a spirit of adventure.
+* Develop teamwork and a spirit of adventure.
 
 
 <u> <b> Approach </b> </u>
@@ -93,6 +93,6 @@ Team Sports also teach discipline both mentally and physically which is much ali
 
 The school adopts a tiered approach in programming, targeting first the student masses, then the interest groups such as CCA groups. Programmes could be centred around Outdoor Education or Sports or both, depending on the nature of the activities involved.
 
-![](/images/LLP.png)
+![](/images/LLP/LLP.png)
 
 ![](/images/bg-bottom.png)

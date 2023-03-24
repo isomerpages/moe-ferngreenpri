@@ -21,11 +21,9 @@ All these will be done through the Student Development Team consisting of the He
 
 
 ### Discipline matters
-
-
-![](/images/SM1.jpeg)
-![](/images/SM2.jpeg)
-![](/images/SM3.jpeg)
+![](/images/Student%20Management%20(SM)/SM1.jpeg)
+![](/images/Student%20Management%20(SM)/SM2.jpeg)
+![](/images/Student%20Management%20(SM)/SM3.jpeg)
 
 
 ![](/images/bg-bottom.png)

@@ -2,7 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - MOE Kindergarten.md
+      - MOE Kindergarten (MK).md
       - MK@FG.md
       - MK@FG Personnel/.keep
       - MK@FG Personnel/MK@FG Personnel.md
@@ -11,6 +11,5 @@ collections:
       - MK@FG Calendar.md
       - MK@FG Gallery.md
       - KCare@FG.md
-      - MOE Kindergarten (MK).md
       - MK Curriculum.md
       - K1 & Kcare Orientation slides.md

@@ -9,8 +9,6 @@ third_nav_title: Mathematics (MA)
 
 # **Programmes**
 
-
-
 <u><b> Increasing Confidence and Achievement in Numeracy (ICAN) </b></u>
 
 ICAN is targeted at improving the confidence and achievement of students in mathematics by using intervention strategies to tackle 4 key issues: learning gaps, language, motivation and memory.
@@ -31,9 +29,8 @@ Students will be involved in experiential and activity-based learning. They will
 Parents will learn how their children learn Mathematics in the classroom. They will learn to use manipulatives, activities and games to reinforce mathematical concepts and skills with their children and help them to make mathematical connections in real life situations.
 
 <b>For more information</b> <br>
-Singapore Mathematics Curriculum <br>
-[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)
+[Singapore Mathematics Curriculum](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx)
 
-Note: Singapore Mathematics Curriculum link is broken.
+[Primary school subjects and syllabuses | MOE](https://www.moe.gov.sg/primary/curriculum/syllabus)
 
 ![](/images/bg-bottom.png)

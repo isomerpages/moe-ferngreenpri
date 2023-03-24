@@ -16,8 +16,9 @@ third_nav_title: ICT
     
 *   Develop all teachers to be competent lesson designers in creating engaging learning experiences for all our students.
 
-![](/images/ICT1.png)
-![](/images/ICT.png)
+![](/images/ICT/ICT.png)
+
+![](/images/ICT/ICT1.png)
 
 <b>The MRL Department aims to:</b>   
 
@@ -27,6 +28,6 @@ third_nav_title: ICT
     
 *   Work with relevant agencies to organise activities to promote and raise readership.
 
-![](/images/ICT3.png)
+![](/images/ICT/ICT3.png)
 
 ![](/images/bg-bottom.png)

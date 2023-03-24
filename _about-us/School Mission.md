@@ -22,13 +22,10 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-4s56">To Nurture <br><span style="font-weight:bold">Talents,</span> <br><span style="font-weight:bold">Passion for Learning,</span><br><span style="font-weight:bold">Sense of Empath</span>y and<br><span style="font-weight:bold;font-style:italic">Spirit of Adventure.</span></td>
+    <center> <td class="tg-4s56">To Nurture <span style="font-weight:bold">Talents,</span> <br><span style="font-weight:bold">Passion for Learning,</span><br><span style="font-weight:bold">Sense of Empathy </span>and<br><span style="font-weight:bold;font-style:italic">Spirit of Adventure.</span></td>
   </tr>
 </thead>
 </table>
-
-
-
 
 <center> To do this would require the stakeholders of the Fern Green Kampong to work in concert, to take a village approach to nurturing and celebrating all talents and achievements as well as to commit to an inquiry approach to teaching and learning to keep that curiosity alive and to help our children appreciate diversity and find joy in learning. </center>
 

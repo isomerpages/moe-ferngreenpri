@@ -12,8 +12,6 @@ Our environment is our most precious resource and FGPS aims to teach our student
 
 We will do this through the following activities:
 
-  
-
 1.  Upcycling projects  
     
 2.  Poster making  

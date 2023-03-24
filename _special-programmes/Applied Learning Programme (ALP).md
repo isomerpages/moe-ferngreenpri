@@ -15,7 +15,7 @@ The <b>FGPS Maker Education ALP</b> aims to trigger Students’ interest in ST
 
 The <b>FGPS Maker Education ALP</b> will take on a 3-tier learning structure & progressive skill training framework as depicted below:
 
-![](/images/ALP.png)
+![](/images/ALP/ALP%20Framework.png)
 
 <b>ALP Structure</b>
 
