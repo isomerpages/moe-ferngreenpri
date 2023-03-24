@@ -52,7 +52,7 @@ third_nav_title: MK@FG Personnel
 <thead>
   <tr>
     <th class="tg-a3j2"><span style="color:#222">Centre Head</span></th>
-    <th class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mrs%20Elfin%20Loh.jpg" alt="Mrs Elfin Loh.jpg" width="178" height="249"></th>
+    <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Mrs%20Elfin%20Loh-Ng%20Sock%20Cheng.jpg" alt="Mrs Elfin Loh.jpg" width="178" height="249"></th>
     <th class="tg-a3j2"><span style="color:#222">Mrs Elfin Loh-Ng Sock Cheng</span></th>
     <th class="tg-a3j2"><span style="color:#222">elfin_ng_sock_cheng@moe.edu.sg</span></th>
   </tr>
@@ -60,7 +60,7 @@ third_nav_title: MK@FG Personnel
 <tbody>
   <tr>
     <td class="tg-bn4z"><span style="color:#222">Deputy Centre Head</span></td>
-    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Nur%20Asyurah%20Binte%20Mohd%20Roslan.jpg" alt="Ms Nur Asyurah Binte Mohd Roslan.jpg" width="178" height="249"></td>
+    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Nur%20Asyurah%20Binte%20Mohd%20Roslan.jpg" alt="Ms Nur Asyurah Binte Mohd Roslan.jpg" width="178" height="249"></td>
     <td class="tg-bn4z"><span style="color:#222">Ms Nur Asyurah Binte Mohd Roslan</span><br></td>
     <td class="tg-bn4z"><span style="color:#222">Nur_asyurah_mohd_roslan@moe.edu.sg</span></td>
   </tr>
