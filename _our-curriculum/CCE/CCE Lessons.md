@@ -47,27 +47,15 @@ In Experiential Learning Approach, students go through a cycle of experiences, o
 
 Modified Values Clarification Approach involves a step-by-step process that helps students to make well considered decisions. Students are also stimulated to think about and clarify their values through examining their personal feelings and behaviour patterns using rational thinking, empathy and emotional awareness. By applying strategies such as dialoguing and cooperative learning, teachers will guide students to make decisions based on a sound value system that includes values upheld by society. The Responsible Decision Making process includes identifying and evaluating options, making a decision, taking a stand and living according to one’s convictions.
 
-  
-
-  
-
 A process based teaching approach comprises instructional strategies such as:
 
-
-
-• Role-playing
-
-• Cooperative Learning
-
-• Reflection
-
-• Clarify, Sensitive, influence (CSI) questioning process
-
-• Thinking Routines
-
-• Group work
-
-• Circle Processes
+* Role-playing
+* Cooperative Learning
+* Reflection
+* Clarify, Sensitive, influence (CSI) questioning process
+* Thinking Routines
+* Group work
+* Circle Processes
 
 
 ![](/images/bg-bottom.png)
