@@ -177,10 +177,10 @@ third_nav_title: MK@FG Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7ai3"><span style="color:#222">K2 - Orchid A and B</span><br><br></td>
-    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Miss%20Sabrina%20Tan%20Hong%20Zhen.jpg" alt="Miss Sabrina Tan Hong Zhen.jpg" width="139" height="193"><br></td>
-    <td class="tg-7ai3"><span style="color:#222">Miss Sabrina Tan Hong Zhen</span></td>
-    <td class="tg-7ai3"><span style="color:#222">sabrina_tan_hong_zhen@moe.edu.sg</span></td>
+    <td class="tg-7ai3"><span style="color:#222">K1 - DA & DP</span><br><br></td>
+    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Ms%20Ng%20Sihui%20Sandy.jpg" alt="Ms Ng Sihui Sandy.jpg" width="139" height="193"><br></td>
+    <td class="tg-7ai3"><span style="color:#222">Ms Ng Sihui Sandy</span></td>
+    <td class="tg-7ai3"><span style="color:#222">ng_sihui_sandy@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-tsok"><br><br><br><br>K1 – BA & BP <br></td>
@@ -197,19 +197,19 @@ third_nav_title: MK@FG Personnel
   <tr>
     <td class="tg-tsok"><br><br><br><br>K2- LA & LB <br></td>
     <td class="tg-a3j2"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Miss%20Amirah%20Batrisyia%20Osman.jpg" alt="Miss Amirah Batrisyia Osman.jpg" width="140" height="210"></td>
-    <td class="tg-tsok"><br><br><br><br><br>Miss Amirah Batrisyia Osman<span style="color:#222"> </span></td>
-    <td class="tg-tsok"><br><br><br><br><br>Amirah_BATRISYIA_OSMAN@moe.edu.sg<span style="color:#222"> </span></td>
+    <td class="tg-tsok"><br><br><br>Miss Amirah Batrisyia Osman<span style="color:#222"> </span></td>
+    <td class="tg-tsok"><br><br><br>Amirah_BATRISYIA_OSMAN@moe.edu.sg<span style="color:#222"> </span></td>
   </tr>
   <tr>
-    <td class="tg-7ai3"><span style="color:#222">K2- </span><br>Daisy A</td>
-    <td class="tg-bn4z"><span style="color:#222"> </span><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Jiang%20Yun%20Hong%20Lydia.jpg" alt="Ms Jiang Yun Hong Lydia.jpg" width="146" height="202"></td>
+    <td class="tg-7ai3"><span style="color:#222">K1 -DA</td>
+    <td class="tg-bn4z"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Miss%20Jiang%20Yun%20Hong%20Lydia.jpg" alt="Ms Jiang Yun Hong Lydia.jpg" width="146" height="202"></td>
     <td class="tg-7ai3"><span style="color:#222">Miss Jiang Yun Hong Lydia</span></td>
     <td class="tg-7ai3"><span style="color:#222">lydia_jiang_yun_hong@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222">K2-</span><br>Buttercup A</td>
-    <td class="tg-a3j2"><span style="color:#222"> </span><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Mr%20Muhammad%20Idil%20Syazwan%20Bin%20Suaidi.jpg" alt="Mr Muhammad Idil Syazwan Bin Suaidi.jpg" width="145" height="200"></td>
-    <td class="tg-tsok"><br><br><br><br><br>Mr Muhammad Idil Syazwan Bin Suaidi<br><br></td>
+    <td class="tg-1ppo"><span style="color:#222">K2-</span><br>TA & TB</td>
+    <td class="tg-a3j2"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Mr%20Muhammad%20Idil%20Syazwan%20Bin%20Suaidi.jpg" alt="Mr Muhammad Idil Syazwan Bin Suaidi.jpg" width="145" height="200"></td>
+    <td class="tg-tsok"><br><br><br>Mr Muhammad Idil Syazwan Bin Suaidi<br><br></td>
     <td class="tg-1ppo"><span style="color:#222">muhammad_idil_syazwan_suaid@moe.edu.sg</span></td>
   </tr>
 </tbody>
