@@ -109,15 +109,15 @@ third_nav_title: MK@FG Personnel
 <thead>
   <tr>
     <th class="tg-lygy"><br><br><br><br><br><br><span style="background-color:#FFF">Chinese</span> <br>Language</th>
-    <th class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Miss%20Iris%20Lim%20See%20Moi.jpg" alt="Miss Iris Lim See Moi.jpg" width="146" height="217"><br></th>
-    <th class="tg-a3j2"><span style="color:#222">Ms Lim See </span><span style="background-color:#FFF">Moi</span></th>
+    <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Miss%20Lim%20See%20Moi%20Iris.jpg" alt="Miss Iris Lim See Moi.jpg" width="146" height="217"><br></th>
+    <th class="tg-a3j2"><span style="color:#222">Ms Lim See Moi Iris</span></th>
     <th class="tg-a3j2"><span style="color:#222">lim_see_moi_a@moe.edu.sg</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-3b8d"><br><br><br><br><br>English <br>Language</td>
-    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Jiang%20Yun%20Hong%20Lydia.jpg" alt="Ms Jiang Yun Hong Lydia.jpg" width="146" height="204"></td>
+    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Miss%20Jiang%20Yun%20Hong%20Lydia.jpg" alt="Ms Jiang Yun Hong Lydia.jpg" width="146" height="204"></td>
     <td class="tg-bn4z"><span style="color:#222">Ms</span> Jiang Yun Hong Lydia</td>
     <td class="tg-bn4z"><span style="color:#222">lydia_jiang_yun_hong@moe.edu.sg</span></td>
   </tr>
@@ -170,14 +170,14 @@ third_nav_title: MK@FG Personnel
 <thead>
   <tr>
     <th class="tg-tsok"><br><br><br><br>K1- <br>Orchid A and Orchid B<br></th>
-    <th class="tg-lygy"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Alicia%20Chan%20Hui%20Fang.jpg" alt="Ms Alicia Chan Hui Fang.jpg" width="141" height="196"></th>
+    <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Ms%20Chan%20Hui%20Fang%20Alicia.jpg" alt="Ms Alicia Chan Hui Fang.jpg" width="141" height="196"></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">Ms Alicia Chan Hui Fang</span><br></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">chan_hui_fang_alicia@moe.edu.sg</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7ai3"><span style="color:#222">K1- Tulip A and Tulip B</span><br><br></td>
+    <td class="tg-7ai3"><span style="color:#222">K2 - Orchid A and B</span><br><br></td>
     <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Miss%20Sabrina%20Tan%20Hong%20Zhen.jpg" alt="Miss Sabrina Tan Hong Zhen.jpg" width="139" height="193"><br></td>
     <td class="tg-7ai3"><span style="color:#222">Miss Sabrina Tan Hong Zhen</span></td>
     <td class="tg-7ai3"><span style="color:#222">sabrina_tan_hong_zhen@moe.edu.sg</span></td>
