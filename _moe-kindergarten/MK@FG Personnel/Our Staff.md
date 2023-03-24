@@ -169,7 +169,7 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-tsok"><br><br><br><br>K2 - <br>Orchid A and B<br></th>
+    <th class="tg-tsok"><br><br><br><br>K2 - <br>OA & OB<br></th>
     <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Ms%20Chan%20Hui%20Fang%20Alicia.jpg" alt="Ms Alicia Chan Hui Fang.jpg" width="141" height="196"></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">Ms Alicia Chan Hui Fang</span><br></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">chan_hui_fang_alicia@moe.edu.sg</span><br></th>
@@ -183,20 +183,20 @@ third_nav_title: MK@FG Personnel
     <td class="tg-7ai3"><span style="color:#222">sabrina_tan_hong_zhen@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-tsok"><br><br><br><br>K1 – Lily A and<br>Lily B <br></td>
-    <td class="tg-lygy"><br><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Nur%20Umairah%20Qistina%20Binte%20Yusrie.jpg" alt="Ms Nur Umairah Qistina Binte Yusrie.jpg" width="140" height="197"></td>
+    <td class="tg-tsok"><br><br><br><br>K1 – BA & BP <br></td>
+    <td class="tg-lygy"><br><img src="/images/MK@Fern%20Green/Ms%20Nur%20Umairah%20Qistina%20Binte%20Yusrie.jpg" alt="Ms Nur Umairah Qistina Binte Yusrie.jpg" width="140" height="197"></td>
     <td class="tg-tsok"><br><br><br><br>Ms Nur Umairah Qistina Binte Yusrie<span style="color:#222"> </span></td>
     <td class="tg-tsok"><br><br><br><br>nur_umairah_qistina_yusrie@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-6kid"><br><br><br><br><br>K2 – Sunflower A and Daisy B</td>
-    <td class="tg-3b8d"><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Ms%20Tan%20Ruijuan.jpg" alt="Ms Tan Ruijuan.jpg" width="136" height="203"><br></td>
+    <td class="tg-6kid"><br><br><br><br><br>K1 – SA</td>
+    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Mdm%20Tan%20Ruijuan.jpg" alt="Ms Tan Ruijuan.jpg" width="136" height="203"><br></td>
     <td class="tg-6kid"><br><br><br><br><br>Ms Tan Ruijuan<span style="color:#222"> </span></td>
     <td class="tg-6kid"><br><br><br><br><br>tan_ruijuan@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-tsok"><br><br><br><br>K2- Ixora A and Buttercup B <br></td>
-    <td class="tg-a3j2"><span style="color:#222"> </span><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/MK%20Staff/Miss%20Amirah%20Batrisyia%20Osman.jpg" alt="Miss Amirah Batrisyia Osman.jpg" width="140" height="210"></td>
+    <td class="tg-tsok"><br><br><br><br>K2- LA & LB <br></td>
+    <td class="tg-a3j2"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Miss%20Amirah%20Batrisyia%20Osman.jpg" alt="Miss Amirah Batrisyia Osman.jpg" width="140" height="210"></td>
     <td class="tg-tsok"><br><br><br><br><br>Miss Amirah Batrisyia Osman<span style="color:#222"> </span></td>
     <td class="tg-tsok"><br><br><br><br><br>Amirah_BATRISYIA_OSMAN@moe.edu.sg<span style="color:#222"> </span></td>
   </tr>
