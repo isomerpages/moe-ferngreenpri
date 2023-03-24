@@ -267,10 +267,10 @@ third_nav_title: MK@FG Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3b8d"><br><br><br><br><br><br><span style="color:#222">K2 - TA & TB</span></td>
+    <td class="tg-3b8d"><br><br><br><span style="color:#222">K2 - TA & TB</span></td>
     <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Ms%20Ng%20Yan%20Shan.jpg" alt="Ms Ng Yan Shan.jpg" width="144" height="201"></td>
     <td class="tg-bn4z">Ms Ng Yan Shan</td>
-    <td class="tg-baqh"><br><br><br>ng_yan_shan@moe.edu.sg</td>
+    <td class="tg-3b8d"><br><br><br>ng_yan_shan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222"> K2 - OA & LA</span></td>
@@ -282,13 +282,13 @@ third_nav_title: MK@FG Personnel
     <td class="tg-bn4z"><span style="color:#222">K1 - SA & DP</span></td>
     <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Mdm%20Wang%20Hongjie.jpg" alt="Mdm Wang Hongjie.jpg" width="154" height="215"><span style="color:#222">                                      </span></td>
     <td class="tg-bn4z">Mdm Wang Hongjie</td>
-    <td class="tg-baqh"><br><br><br><br>wang_hongjie@moe.edu.sg</td>
+    <td class="tg-3b8d"><br><br><br>wang_hongjie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222"> K1 - IA & BP</span></td>
     <td class="tg-lygy"><img src="/images/MK@Fern%20Green/Mdm%20Xu%20Ran%20Shirley.jpg" alt="Mdm Xu Ran Shirley.jpg" width="157" height="234"></td>
-    <td class="tg-lygy"><br><br><br><br><br><br>Mdm Xu Ran (Shirley)</td>
-    <td class="tg-baqh"><br><br><br><br><br><br>xu_ran_a@moe.edu.sg</td>
+    <td class="tg-lygy"><br><br><br><br>Mdm Xu Ran (Shirley)</td>
+    <td class="tg-baqh"><br><br><br><br>xu_ran_a@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -392,8 +392,8 @@ third_nav_title: MK@FG Personnel
   <tr>
     <td class="tg-a3j2"><span style="color:#222">---</span></td>
     <td class="tg-lygy"><img src="/under construction" alt="Mdm Usha Venkatramani.jpg" width="161" height="240"></td>
-    <td class="tg-lygy"><br><br><br><br>Mdm Usha Venkatramani</td>
-    <td class="tg-baqh"><br><br><br><br>usha_venkatramani_a@moe.edu.sg</td>
+    <td class="tg-lygy"><br><br>Mdm Usha Venkatramani</td>
+    <td class="tg-baqh"><br><br>usha_venkatramani_a@moe.edu.sg</td>
   </tr>
 </thead>
 </table>
