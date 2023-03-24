@@ -169,7 +169,7 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-tsok"><br><br><br><br>K1- <br>Orchid A and Orchid B<br></th>
+    <th class="tg-tsok"><br><br><br><br>K2 - <br>Orchid A and B<br></th>
     <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Ms%20Chan%20Hui%20Fang%20Alicia.jpg" alt="Ms Alicia Chan Hui Fang.jpg" width="141" height="196"></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">Ms Alicia Chan Hui Fang</span><br></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">chan_hui_fang_alicia@moe.edu.sg</span><br></th>
