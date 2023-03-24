@@ -14,6 +14,7 @@ description: ""
 
 A Kindergarten Care service is also available for children enrolled in MOE Kindergarten @ Fern Green.
 
+Please [click HERE](https://www.moe.gov.sg/preschool/moe-kindergarten) for more information
 
 <u><b>Contact Information</b></u>  
 <b>Phone:</b> 6634 1318                                                                         
