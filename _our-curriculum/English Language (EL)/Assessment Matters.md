@@ -10,10 +10,7 @@ third_nav_title: English Language (EL)
 
 <b> Providing timely feedback to students and parents </b>
 
-
-
 We monitor students’ learning through appropriate formal and informal methods so as to provide them with timely and useful feedback for improving learning and closing learning gaps. Some examples of how we use various assessment methods to monitor students’ learning include:
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -50,7 +47,6 @@ We monitor students’ learning through appropriate formal and informal methods 
   </tr>
 </tbody>
 </table>
-
 
 Assessments are bite-sized so that they are manageable for the students and provide the students with a sense of achievement. Feedback is given to students and parents with the use of rubrics and remarks.
 
