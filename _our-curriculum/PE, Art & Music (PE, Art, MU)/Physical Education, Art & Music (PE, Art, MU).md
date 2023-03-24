@@ -24,14 +24,17 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
     
 *   acquiring sports & games and life-skills to sustain a healthy lifestyle.
 
-
 *   immersed in the diverse cultures and practices through the Arts.
 
-![](/images/PE1.png)
-![](/images/PE2.png)
-![](/images/PE3.png)
-![](/images/PE4.png)
-![](/images/PE5.png)
+![](/images/PE/PE1.png)
+
+![](/images/PE/PE2.png)
+
+![](/images/PE/PE3.png)
+
+![](/images/PE/PE4.png)
+
+![](/images/PE/PE5.png)
 
 
 ![](/images/bg-bottom.png)
