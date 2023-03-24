@@ -7,6 +7,6 @@ description: ""
 
 # School Advisory Committee (SAC)
 
-![](/images/SAC.jpeg)
+![](/images/SAC/SAC.jpeg)
 
 ![](/images/bg-bottom.png)
