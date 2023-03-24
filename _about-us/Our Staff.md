@@ -604,7 +604,7 @@ description: ""
     <td class="tg-1wig"> </td>
     <td class="tg-0lax">Miss Lim Lihui</td>
     <td class="tg-0lax">lim_lihui@moe.edu.sg</td>
-  </tr>
+	</tr>
 </tbody>
 </table>
 
@@ -782,9 +782,6 @@ description: ""
     <td class="tg-1wig">Senior School Counsellor</td>
     <td class="tg-0lax">Miss Chiam Pei Ping</td>
     <td class="tg-0lax">chiam_pei_ping@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
 
 
 
@@ -1055,5 +1052,5 @@ description: ""
 </tbody>
 </table>
 
-
+![](/images/bg-bottom.png)
 ![](/images/bg-bottom.png)
