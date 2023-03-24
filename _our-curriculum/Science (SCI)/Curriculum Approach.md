@@ -18,12 +18,12 @@ The teacher is the leader of inquiry in the science classroom who creates a lear
   
 Science is more than the acquisition of a body of knowledge. To enthuse students about what they are studying, hands-on learning is infused in all topics to help them learn fundamental concepts but also engage them in disciplinary thinking to think and act like young scientists where they develop science process skills and attitudes that are essential for scientific inquiry.
 
-![](/images/Sci4.jpeg)
+![](/images/Science/Sci4.jpeg)
 
 # **Learning by Doing**
 In structuring and guiding the learning experience, we also aim to nurture maker mindsets by creating authentic platforms for students to expose our learners a new world of making and solving problems.
 
-![](/images/Sci5.jpeg)
+![](/images/Science/Sci5.jpeg)
 
 The scientific knowledge, skills and processes will be taught in a spiral approach for the 5 themes - Diversity, Cycles, Systems, Energy and Interactions.
 
