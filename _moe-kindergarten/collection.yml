@@ -2,7 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - MOE Kindergarten.md
+      - MOE Kindergarten (MK).md
       - MK@FG.md
       - MK@FG Personnel/.keep
       - MK@FG Personnel/MK@FG Personnel.md
