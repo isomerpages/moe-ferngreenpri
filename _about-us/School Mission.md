@@ -22,7 +22,7 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <center> <td class="tg-4s56">To Nurture <span style="font-weight:bold">Talents,</span> <br><span style="font-weight:bold">Passion for Learning,</span><br><span style="font-weight:bold">Sense of Empath</span>y and<br><span style="font-weight:bold;font-style:italic">Spirit of Adventure.</span></td>
+    <center> <td class="tg-4s56">To Nurture <span style="font-weight:bold">Talents,</span> <br><span style="font-weight:bold">Passion for Learning,</span><br><span style="font-weight:bold">Sense of Empathy </span>and<br><span style="font-weight:bold;font-style:italic">Spirit of Adventure.</span></td>
   </tr>
 </thead>
 </table>
