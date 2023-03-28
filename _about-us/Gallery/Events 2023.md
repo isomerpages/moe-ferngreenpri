@@ -70,6 +70,4 @@ third_nav_title: Gallery
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1fyDWJJ0sqPcRYEKRkMSQZcSs3nAXF_LX?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P1 First Day of School</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P1%20first%20day.jpg" width="284" height="189"></td>
   </tr>
-	
-![](/images/bg-bottom.png)
   <tr>
