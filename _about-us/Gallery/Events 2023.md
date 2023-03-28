@@ -31,8 +31,8 @@ third_nav_title: Gallery
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b4br">Under Construction</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1q4gMHZfhNvX-H5YhF_iwMV2eDamnURzC?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Under Construction</span></a></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><img src="https://ferngreenpri.moe.edu.sg/qql/slot/u775/Gallery/2022/2022-11-17%20Spring%20Cleaning%20Day/IMG_3419.JPG" alt="IMG_3419.JPG" width="284" height="189"></td>
+    <td class="tg-b4br">3 Jan 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1fyDWJJ0sqPcRYEKRkMSQZcSs3nAXF_LX?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P1 First Day of School</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P1%20first%20day.jpg" width="284" height="189"></td>
   </tr>
   <tr>
