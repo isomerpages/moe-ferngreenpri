@@ -30,7 +30,17 @@ third_nav_title: Gallery
   </tr>
 </thead>
 <tbody>
-   <tr>
+<tr>
+    <td class="tg-b4br">13 Feb 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1kF7OeSD0ITb3CQ1mvjc_nN2zVdkK3vkN?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P6 SS LJ to ACM</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P6%20SS%20ACM.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">13 & 14 Feb 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1uViGL8auWfgiP1IsCnUujkNv68ZyOoAU?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Total Defence Day</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20total%20defence%20day.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
     <td class="tg-b4br">30 Jan 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/17UVKtcwCJlWNpfOu4K6rp3KevBgfa8h3?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Fern Green Movement</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20Fern%20Green%20Movement.jpg" width="284" height="189"></td>
