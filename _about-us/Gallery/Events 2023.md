@@ -4,10 +4,9 @@ permalink: /about-us/gallery/2023/
 description: ""
 third_nav_title: Gallery
 ---
-
 ![](/images/Banner.png)
 
-# 2023
+# Events 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
