@@ -30,7 +30,42 @@ third_nav_title: Gallery
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-b4br">24 Mar 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1HDKuIc9sqqENLFtd8dR4yz2MY0uzEnqZ?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Training</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20Prefects%20Training.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">13 - 15 Mar 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1Q6juRR_z0RiQBFx4qklo0QQFOXtYGCmS?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P5 Camp</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P5%20Camp.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">10 Mar 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1ks5O738Th24pBJqklLAE9m6u7FwbihVN?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Recognition by Principal</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20Prefects%20Recognition.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">6 Mar 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1yqh7gp3zczQC_1sbI4ywLFPbymRTIXWh?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">World Water Day</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20world%20water%20day.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">6 Mar 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1HiXtwmNNcevDLgZQ-yGj7sJsj_1eYwyY?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Environment Champion Card</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20environment%20champion.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">27 Feb 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1NRmj-EoG_5lN__cwEVZzzdxLWmqhdWaa?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Happy Toilet</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20happy%20toilet.jpg" width="284" height="189"></td>
+  </tr>   
 <tr>
+    <td class="tg-b4br">17 Feb 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1P4m3-aBUpjwszR3ZoBGSkTg-dthf_js3?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Road Safety</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20road%20safety.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
     <td class="tg-b4br">13 Feb 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1kF7OeSD0ITb3CQ1mvjc_nN2zVdkK3vkN?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P6 SS LJ to ACM</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P6%20SS%20ACM.jpg" width="284" height="189"></td>
@@ -39,6 +74,11 @@ third_nav_title: Gallery
     <td class="tg-b4br">13 & 14 Feb 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1uViGL8auWfgiP1IsCnUujkNv68ZyOoAU?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Total Defence Day</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20total%20defence%20day.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">31 Jan to 1 Mar 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1NqlXq6w2X7XMpt4n1FkI0Ggn8AsUtKLB?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Safe Cycling Programme</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20safe%20cycling.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">30 Jan 2023</td>
