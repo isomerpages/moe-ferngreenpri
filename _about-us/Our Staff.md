@@ -687,9 +687,9 @@ description: ""
     <td class="tg-faf8">tan_miow_qin@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">Chinese </td>
-    <td class="tg-0lax">Mdm Loh Mui Nyuk</td>
-    <td class="tg-0lax">loh_mui_nyuk@moe.edu.sg</td>
+    <td class="tg-1wig">-</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">-</td>
   </tr>
   <tr>
     <td class="tg-mdf1">Malay</td>
