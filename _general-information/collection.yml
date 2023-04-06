@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Notifications 2021.md
       - General Information.md
       - Home Based Learning (HBL).md
       - Announcements.md
