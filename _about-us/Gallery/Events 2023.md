@@ -30,6 +30,16 @@ third_nav_title: Gallery
   </tr>
 </thead>
 <tbody>
+<tr>
+    <td class="tg-b4br">10 Apr 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1baPuPbuc1LsuSth-SpB4a67NB6DfbdT5?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Earth Day</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20earth%20day.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">1 Apr 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1QHjo7TsSHzxTa8I8BNxp23foYd5q5xPW?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">International Friendship Day</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20ifd.jpg" width="284" height="189"></td>
+  </tr>   
 	<tr>
     <td class="tg-b4br">24 Mar 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1HDKuIc9sqqENLFtd8dR4yz2MY0uzEnqZ?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Training</span></a></td>
@@ -71,7 +81,7 @@ third_nav_title: Gallery
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P6%20SS%20ACM.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
-    <td class="tg-b4br">13 & 14 Feb 2023</td>
+    <td class="tg-b4br">13 &amp; 14 Feb 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1uViGL8auWfgiP1IsCnUujkNv68ZyOoAU?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Total Defence Day</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20total%20defence%20day.jpg" width="284" height="189"></td>
   </tr>   
@@ -110,4 +120,4 @@ third_nav_title: Gallery
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1fyDWJJ0sqPcRYEKRkMSQZcSs3nAXF_LX?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P1 First Day of School</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20P1%20first%20day.jpg" width="284" height="189"></td>
   </tr>
-  <tr>
+  <tr></tr></tbody></table>
