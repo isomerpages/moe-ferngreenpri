@@ -43,6 +43,16 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-At Fern Green Primary School, the following Sexuality Education lessons will be taught in 2023:
+![](/images/Sexuality%20Education%20(SED)/2023%20sed%201.jpg)
+![](/images/Sexuality%20Education%20(SED)/2023%20sed%202.jpg)
+![](/images/Sexuality%20Education%20(SED)/2023%20sed%203.jpg)
+![](/images/Sexuality%20Education%20(SED)/2023%20sed%204.jpg)
 
+**Information for Parents**
+
+8. Parents may opt their children out of Sexuality Educarion lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9. Parents who wish to pt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63d37ad78de0970012b9f40d). The completed opt-out form is to be submitted by 07/02/2023.
+
+10. Parents can contact the school at 68343100 or email (ferngreen_ps@moe.edu.sg) for discussion or to seek clarification about the schools's Sexuality Education programme.
 ![](/images/bg-bottom.png)
