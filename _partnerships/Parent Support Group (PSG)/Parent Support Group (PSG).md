@@ -73,7 +73,7 @@ With greater parental involvement, our children will be more motivated and encou
 
 Click the link or scan the QR code to join!
 
-[PSG 2023](https://go.gov.sg/02n0od)
+Link: [PSG 2023](https://go.gov.sg/02n0od)
 ![](/images/PSG/psg%202023.png)
 
 ![](/images/PSG/PSG.jpeg)
