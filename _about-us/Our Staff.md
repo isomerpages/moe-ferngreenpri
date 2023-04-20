@@ -460,7 +460,7 @@ description: ""
   <tr>
     <td class="tg-1wig"> </td>
     <td class="tg-0lax">Ms Ng Wan Wen</td>
-    <td class="tg-0lax">ng_wan_wen@moe.edu.sg</span></td>
+    <td class="tg-0lax">ng_wan_wen@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">5 Resilience (5R3)</td>
@@ -563,7 +563,7 @@ description: ""
   <tr>
     <td class="tg-1wig"> </td>
     <td class="tg-0lax">Miss Ma Shuang</td>
-    <td class="tg-0lax">ma_shuang@moe.edu.sg</span></td>
+    <td class="tg-0lax">ma_shuang@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">6 Resilience (6R3)</td>
@@ -582,8 +582,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Mr Tan Zhi Qiang Jeremy</span></td>
-    <td class="tg-0lax">tan_zhi_qiang_jeremy@moe.edu.sg</span></td>
+    <td class="tg-0lax">Mr Tan Zhi Qiang Jeremy</td>
+    <td class="tg-0lax">tan_zhi_qiang_jeremy@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">6 Care</td>
@@ -679,7 +679,7 @@ description: ""
   <tr>
     <td class="tg-1wig">Mathematics &amp; Music<br></td>
     <td class="tg-0lax">Mdm Lim Mui Wee Alyssa (Mrs Leong)<br></td>
-    <td class="tg-0lax">alyssa_lim_mui_wee@moe.edu.sg</span><br></td>
+    <td class="tg-0lax">alyssa_lim_mui_wee@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-mdf1">Chinese </td>
@@ -702,12 +702,12 @@ description: ""
     <td class="tg-0lax">anisah_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-mdf1">Mathematics & Science</td>
+    <td class="tg-mdf1">Mathematics &amp; Science</td>
     <td class="tg-9678">Mdm Wong Mei Ee</td>
     <td class="tg-faf8">wong_mei_ee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Mathematics & Science</td>
+    <td class="tg-1wig">Mathematics &amp; Science</td>
     <td class="tg-0lax">Ms Jeannette Leong</td>
     <td class="tg-0lax">leong_poh_wan_jeanette@moe.edu.sg</td>
   </tr>
@@ -717,7 +717,7 @@ description: ""
     <td class="tg-faf8">Wee_Gwek_Hiang_Tricia@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">English & Mathematics</td>
+    <td class="tg-1wig">English &amp; Mathematics</td>
     <td class="tg-0lax">Mrs Ng-Ho Woon Lee (Angie) </td>
     <td class="tg-0lax">ho_woon_lee@moe.edu.sg</td>
   </tr>
@@ -736,7 +736,7 @@ description: ""
     <td class="tg-9678">Ms Tan Mui Hiang (Sharmaine) </td>
     <td class="tg-faf8">tan_mui_hiang@moe.edu.sg</td>
   </tr>
-	<td class="tg-1wig">Chinese </td>
+	<tr><td class="tg-1wig">Chinese </td>
     <td class="tg-0lax">Mr Sin Sit Boon (Simon)</td>
     <td class="tg-0lax">sin_sit_boon@moe.edu.sg</td>
   </tr>
@@ -799,7 +799,7 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-ti5h{background-color:#E5E5E5;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</tr></tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-opaw" colspan="3"><span style="color:blue">Heads</span></th>
@@ -807,67 +807,67 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ti5h">Head of Department <br><span style="color:black">English Language<br></td>
+    <td class="tg-ti5h">Head of Department <br><span style="color:black">English Language<br></span></td>
     <td class="tg-9678">Mdm Tan Wan Theng</td>
     <td class="tg-9678">tan_wan_theng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Level Head<br><span style="color:black">English Language </td>
-    <td class="tg-ktyi">Mrs Chua Pei Yeem (Mdm Low Pei Yee)</span></td>
+    <td class="tg-6mtm">Level Head<br><span style="color:black">English Language </span></td>
+    <td class="tg-ktyi">Mrs Chua Pei Yeem (Mdm Low Pei Yee)</td>
     <td class="tg-0lax"> low_pei_yee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Head of Department</span> <br><span style="color:black">Mathematics<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Head of Department</span> <br><span style="color:black">Mathematics<br></span></td>
     <td class="tg-9678">Mdm Tan Sue Ling Kimmy</td>
     <td class="tg-9678">tan_sue_ling_kimmy@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Level Head<br><span style="color:black">Mathematics</td>
+    <td class="tg-6mtm">Level Head<br><span style="color:black">Mathematics</span></td>
     <td class="tg-0lax">Ms Tang Hui Ying<br>(Sandra) </td>
     <td class="tg-0lax">tang_hui_ying@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Head of Department</span> <br><span style="color:black">Mother Tongue Languages<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Head of Department</span> <br><span style="color:black">Mother Tongue Languages<br></span></td>
     <td class="tg-9678">Mdm Chow Jee Soon</td>
     <td class="tg-9678">chow_jee_soon@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm"><span style="color:blue">Subject Head</span> <br><span style="color:black">Malay Language<br></td>
+    <td class="tg-6mtm"><span style="color:blue">Subject Head</span> <br><span style="color:black">Malay Language<br></span></td>
     <td class="tg-0lax">Ms Fauziah Binte Osman</td>
     <td class="tg-0lax">fauziah_osman@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h">Subject Head<br><span style="color:black">Chinese Language </td>
+    <td class="tg-ti5h">Subject Head<br><span style="color:black">Chinese Language </span></td>
     <td class="tg-9678">Ms Ng Wan Wen</td>
     <td class="tg-9678">ng_wen_wan@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-6mtm"><span style="color:blue">Head of Department</span> <br><span style="color:black">Science<br></td>
+    <td class="tg-6mtm"><span style="color:blue">Head of Department</span> <br><span style="color:black">Science<br></span></td>
     <td class="tg-0lax">Mdm Teo Lian Peng (Evelyn)</td>
-    <td class="tg-0lax">teo_lian_peng@moe.edu.sg</span></td>
+    <td class="tg-0lax">teo_lian_peng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Head of Department</span> <br><span style="color:black">ICT &amp; Media Resource Library<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Head of Department</span> <br><span style="color:black">ICT &amp; Media Resource Library<br></span></td>
     <td class="tg-9678"><span style="color:black">-</span></td>
     <td class="tg-9678"><span style="color:black">-</span></td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Level Head<br><span style="color:black">ICT </td>
+    <td class="tg-6mtm">Level Head<br><span style="color:black">ICT </span></td>
     <td class="tg-0lax"> Mrs Tay-Tan Jia Li</td>
     <td class="tg-0lax"> tan_jia_li@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h">Head of Department<br><span style="color:black">Character &amp; Citizenship Education<br></td>
+    <td class="tg-ti5h">Head of Department<br><span style="color:black">Character &amp; Citizenship Education<br></span></td>
     <td class="tg-9678">Mr Lee Lin Ping</td>
     <td class="tg-9678">lee_lin_ping@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Head of Department<br><span style="color:black">Student Management<br></td>
+    <td class="tg-6mtm">Head of Department<br><span style="color:black">Student Management<br></span></td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
   </tr>
   <tr>
-    <td class="tg-ti5h">Year Head<br><span style="color:black">Lower Primary</td>
+    <td class="tg-ti5h">Year Head<br><span style="color:black">Lower Primary</span></td>
     <td class="tg-9678">Mr Mohamed Ridza B Hashim </td>
     <td class="tg-9678">mohamed_ridza_b_hashim@moe.edu.sg </td>
   </tr>
@@ -877,38 +877,38 @@ description: ""
     <td class="tg-0lax">choo_xuewei_stephanie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Year Head</span> <br><span style="color:black">Middle &amp; Upper Primary<br></td>
-    <td class="tg-9678">Mrs Lee-Ng Peck Mui (Cheryl)</span></td>
-    <td class="tg-9678">ng_peck_mui@moe.edu.sg</span></td>
+    <td class="tg-ti5h"><span style="color:blue">Year Head</span> <br><span style="color:black">Middle &amp; Upper Primary<br></span></td>
+    <td class="tg-9678">Mrs Lee-Ng Peck Mui (Cheryl)</td>
+    <td class="tg-9678">ng_peck_mui@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-6mtm">Assistant<br>Year Head<br><span style="color:black">Middle Primary</td>
+    <td class="tg-6mtm">Assistant<br>Year Head<br><span style="color:black">Middle Primary</span></td>
     <td class="tg-0lax">Ms Ang Sing Min Serene</td>
     <td class="tg-0lax">ang_sing_min_serene@moe.edu.sg </td>
   </tr>
   <tr>
-  <tr>
-    <td class="tg-ti5h">Year Head<br><span style="color:black">Middle Primary</td>
+  </tr><tr>
+    <td class="tg-ti5h">Year Head<br><span style="color:black">Middle Primary</span></td>
     <td class="tg-9678">Mdm Khoo Seok Ling Serene</td>
     <td class="tg-9678">khoo_seok_ling@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Assistant<br>Year Head<br><span style="color:black">Upper Primary </td>
+    <td class="tg-6mtm">Assistant<br>Year Head<br><span style="color:black">Upper Primary </span></td>
     <td class="tg-01ax"> Ms Chen Pei Jin</td>
-    <td class="tg-01ax"> Chen_pei_jin@moe.edu.sg</td>
+    <td class="tg-01ax"> chen_peijin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Subject Head</span> <br><span style="color:black">Student Well-being<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Subject Head</span> <br><span style="color:black">Student Well-being<br></span></td>
     <td class="tg-9678">Mr Muhammad Riza Bin Baharudin</td>
     <td class="tg-9678">muhammad_riza_b_baharudin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm"><span style="color:blue">Head of Department</span> <br><span style="color:black">Physical Education<br></td>
+    <td class="tg-6mtm"><span style="color:blue">Head of Department</span> <br><span style="color:black">Physical Education<br></span></td>
     <td class="tg-01ax">Mr Peh Joe Han Camillus</td>
     <td class="tg-01ax">peh_joe_han_camillus@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Subject Head</span> <br><span style="color:black">Co-Curricular Activities<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Subject Head</span> <br><span style="color:black">Co-Curricular Activities<br></span></td>
     <td class="tg-9678">Mr Muhammad Izree Bin Jalil</td>
     <td class="tg-9678">muhammad_izree_jalil@moe.edu.sg</td>
   </tr>
@@ -943,27 +943,27 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Lead Teacher</span> <br><span style="color:black">Mathematics<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Lead Teacher</span> <br><span style="color:black">Mathematics<br></span></td>
     <td class="tg-9678"><span style="color:black">Mdm Tham Sok Theng (Agnes)</span></td>
     <td class="tg-9678"><span style="font-weight:normal;color:black">tham_sok_theng@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Lead Teacher<br><span style="color:black">PE </td>
+    <td class="tg-6mtm">Lead Teacher<br><span style="color:black">PE </span></td>
     <td class="tg-0lax">Mr Mohamad Hairil Johari</td>
     <td class="tg-0lax"> mohamad_hairil_b_johari@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ti5h"><span style="color:blue">Senior Teacher</span> <br><span style="color:black">English Language<br></td>
+    <td class="tg-ti5h"><span style="color:blue">Senior Teacher</span> <br><span style="color:black">English Language<br></span></td>
     <td class="tg-9678">Ms Ivy Leow Gim Chye</td>
     <td class="tg-9678">ivy_leow_gim_chye@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Senior Teacher<br><span style="color:black">Special Educational Needs </td>
+    <td class="tg-6mtm">Senior Teacher<br><span style="color:black">Special Educational Needs </span></td>
     <td class="tg-0lax">Mdm Lee Siew Hoon</td>
     <td class="tg-0lax">lee_siew_hoon@moe.edu.sg  </td>
   </tr>
   <tr>
-    <td class="tg-ti5h">Senior Teacher<br><span style="color:black">Tamil </td>
+    <td class="tg-ti5h">Senior Teacher<br><span style="color:black">Tamil </span></td>
     <td class="tg-9678">Mdm Punitha d/o Murugaiah Maniam</td>
     <td class="tg-9678"> punitha_murugaiah_maniam@moe.edu.sg</td>
   </tr>
