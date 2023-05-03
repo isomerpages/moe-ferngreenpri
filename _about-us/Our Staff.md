@@ -683,8 +683,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-mdf1">Chinese </td>
-    <td class="tg-9678">Mdm Tan Miow Qin</td>
-    <td class="tg-faf8">tan_miow_qin@moe.edu.sg </td>
+    <td class="tg-9678">Ms Liu Miao (Emma)</td>
+    <td class="tg-faf8">@moe.edu.sg </td>
   </tr>
   <tr>
     <td class="tg-1wig">-</td>
