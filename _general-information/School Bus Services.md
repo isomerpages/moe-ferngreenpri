@@ -5,13 +5,16 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-### **BT&TAN Transport Pte Ltd**
+### BT &amp; Tan Transport Pte Ltd
 
-Tel: 6483 7260 / Whatsapp 84841266  
+Address:
+7030 Ang Mo Kio Ave 5 #03-19 Northstar@AMK Singapore 569880
 
-Fax: 64837261
+Email address: [sch2@btntan.com](mailto:sch2@btntan.com)
 
-Email address: [sch2@btntan.com](mailto:sch2@btntan.com)
+Tel: &nbsp;6483 7260 / Whatsapp 84841266  
+
+Fax: 6483 7261
 
 <u><b>Booking of School Bus Services for 2023</b></u>
 
