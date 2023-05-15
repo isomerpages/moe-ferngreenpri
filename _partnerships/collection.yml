@@ -3,9 +3,10 @@ collections:
     output: true
     order:
       - Stakeholders & Partnerships.md
+      - Parent Volunteer (PV).md
+      - Parent Support Group (PSG)/.keep
       - Parent Support Group (PSG)/Parent Support Group (PSG).md
       - Parent Support Group (PSG)/Downloads.md
-      - Parent Support Group (PSG)/.keep
       - Positive Parenting Programme (Triple P).md
       - "Partnership with BCA & KLL: Zero Corridor.md"
       - Partnership with TTSH.md
