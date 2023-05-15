@@ -31,6 +31,11 @@ third_nav_title: Gallery
 </thead>
 <tbody>
 <tr>
+    <td class="tg-b4br">17 Apr 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1Dq0PN43YUpFLMyuTNbhZvQJ5VOimkOB3?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Investiture</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20earth%20day.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
     <td class="tg-b4br">10 Apr 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1baPuPbuc1LsuSth-SpB4a67NB6DfbdT5?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Earth Day</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20earth%20day.jpg" width="284" height="189"></td>
