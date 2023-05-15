@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Volunteer.md
       - Stakeholders & Partnerships.md
       - Parent Support Group (PSG)/Parent Support Group (PSG).md
       - Parent Support Group (PSG)/Downloads.md
