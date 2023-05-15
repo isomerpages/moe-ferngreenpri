@@ -30,6 +30,11 @@ third_nav_title: Gallery
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-b4br">8 May 2023</td>
+    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1_vL2E1xoB5PSozIlPfCb8oeOSj3oUGx2?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Cyber Wellness Talk</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20earth%20day.jpg" width="284" height="189"></td>
+  </tr>   
 <tr>
     <td class="tg-b4br">28 Apr 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1eyRz_4q-vXUCDnd78LjrgTM5lHYf6LI_?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Clean Plate Campaign</span></a></td>
