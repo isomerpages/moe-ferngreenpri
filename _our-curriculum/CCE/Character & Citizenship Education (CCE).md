@@ -8,6 +8,8 @@ third_nav_title: CCE
 
 # **Character & Citizenship Education (CCE)**
 
+![](/images/CCE/character%20&%20citizenship%20education%20committee%202023.jpg)
+
 The school’s CCE curriculum follows MOE’s Framework for 21st Century Competencies and Student Outcomes. It emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.
 
 ![](/images/CCE/CCE.png)
