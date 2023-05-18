@@ -270,7 +270,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-01ax">Mdm Khoo Seok Ling Serene</td>
+    <td class="tg-01ax">Ms Khoo Seok Ling Serene</td>
     <td class="tg-01ax">Khoo_Seok_Ling@moe.edu.sg</td>
   </tr>
   <tr>
@@ -813,7 +813,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-6mtm">Level Head<br><span style="color:black">English Language </span></td>
-    <td class="tg-ktyi">Mrs Chua Pei Yeem (Mdm Low Pei Yee)</td>
+    <td class="tg-ktyi">Mrs Chua Pei Yee (Mdm Low Pei Yee)</td>
     <td class="tg-0lax"> low_pei_yee@moe.edu.sg</td>
   </tr>
   <tr>
@@ -889,7 +889,7 @@ description: ""
   <tr>
   </tr><tr>
     <td class="tg-ti5h">Year Head<br><span style="color:black">Middle Primary</span></td>
-    <td class="tg-9678">Mdm Khoo Seok Ling Serene</td>
+    <td class="tg-9678">Ms Khoo Seok Ling Serene</td>
     <td class="tg-9678">khoo_seok_ling@moe.edu.sg </td>
   </tr>
   <tr>
