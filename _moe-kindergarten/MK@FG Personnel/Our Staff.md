@@ -169,7 +169,7 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-tsok"><br><br><br><br>K2 - <br>OA & OB<br></th>
+    <th class="tg-tsok"><br><br><br><br>K2 - <br>OA &amp; OB<br></th>
     <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Ms%20Chan%20Hui%20Fang%20Alicia.jpg" alt="Ms Alicia Chan Hui Fang.jpg" width="141" height="196"></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">Ms Alicia Chan Hui Fang</span><br></th>
     <th class="tg-tsok"><br><br><br><br><span style="color:#222">chan_hui_fang_alicia@moe.edu.sg</span><br></th>
@@ -177,13 +177,13 @@ third_nav_title: MK@FG Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7ai3"><span style="color:#222">K1 - DA & DP</span><br><br></td>
+    <td class="tg-7ai3"><span style="color:#222">K1 - DA &amp; DP</span><br><br></td>
     <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Ms%20Ng%20Sihui%20Sandy.jpg" alt="Ms Ng Sihui Sandy.jpg" width="139" height="193"><br></td>
     <td class="tg-7ai3"><span style="color:#222">Ms Ng Sihui Sandy</span></td>
     <td class="tg-7ai3"><span style="color:#222">ng_sihui_sandy@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-tsok"><br><br><br><br>K1 – BA & BP <br></td>
+    <td class="tg-tsok"><br><br><br><br>K1 – BA &amp; BP <br></td>
     <td class="tg-lygy"><br><img src="/images/MK@Fern%20Green/Ms%20Nur%20Umairah%20Qistina%20Binte%20Yusrie.jpg" alt="Ms Nur Umairah Qistina Binte Yusrie.jpg" width="140" height="197"></td>
     <td class="tg-tsok"><br><br><br><br>Ms Nur Umairah Qistina Binte Yusrie<span style="color:#222"> </span></td>
     <td class="tg-tsok"><br><br><br><br>nur_umairah_qistina_yusrie@moe.edu.sg </td>
@@ -195,19 +195,19 @@ third_nav_title: MK@FG Personnel
     <td class="tg-6kid"><br><br><br><br><br>tan_ruijuan@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-tsok"><br><br><br><br>K2- LA & LB <br></td>
+    <td class="tg-tsok"><br><br><br><br>K2- LA &amp; LB <br></td>
     <td class="tg-a3j2"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Miss%20Amirah%20Batrisyia%20Osman.jpg" alt="Miss Amirah Batrisyia Osman.jpg" width="140" height="210"></td>
     <td class="tg-tsok"><br><br><br>Miss Amirah Batrisyia Osman<span style="color:#222"> </span></td>
     <td class="tg-tsok"><br><br><br>Amirah_BATRISYIA_OSMAN@moe.edu.sg<span style="color:#222"> </span></td>
   </tr>
   <tr>
-    <td class="tg-7ai3"><span style="color:#222">K1 -DA</td>
+    <td class="tg-7ai3"><span style="color:#222">K1 -DA</span></td>
     <td class="tg-bn4z"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Miss%20Jiang%20Yun%20Hong%20Lydia.jpg" alt="Ms Jiang Yun Hong Lydia.jpg" width="146" height="202"></td>
     <td class="tg-7ai3"><span style="color:#222">Miss Jiang Yun Hong Lydia</span></td>
     <td class="tg-7ai3"><span style="color:#222">lydia_jiang_yun_hong@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><span style="color:#222">K2-</span><br>TA & TB</td>
+    <td class="tg-1ppo"><span style="color:#222">K2-</span><br>TA &amp; TB</td>
     <td class="tg-a3j2"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Mr%20Muhammad%20Idil%20Syazwan%20Bin%20Suaidi.jpg" alt="Mr Muhammad Idil Syazwan Bin Suaidi.jpg" width="145" height="200"></td>
     <td class="tg-tsok"><br><br><br>Mr Muhammad Idil Syazwan Bin Suaidi<br><br></td>
     <td class="tg-1ppo"><span style="color:#222">muhammad_idil_syazwan_suaid@moe.edu.sg</span></td>
@@ -267,25 +267,25 @@ third_nav_title: MK@FG Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3b8d"><br><br><br><span style="color:#222">K2 - TA & TB</span></td>
+    <td class="tg-3b8d"><br><br><br><span style="color:#222">K2 - TA &amp; TB</span></td>
     <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Ms%20Ng%20Yan%20Shan.jpg" alt="Ms Ng Yan Shan.jpg" width="144" height="201"></td>
     <td class="tg-bn4z">Ms Ng Yan Shan</td>
     <td class="tg-3b8d"><br><br><br>ng_yan_shan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> K2 - OA & LA</span></td>
+    <td class="tg-a3j2"><span style="color:#222"> K2 - OA &amp; LA</span></td>
     <td class="tg-lygy"><img src="/images/MK@Fern%20Green/Mdm%20Li%20Jinhua.jpg" alt="Mdm Li Jinhua.jpg" width="151" height="225"></td>
     <td class="tg-lygy"><br><br><br><br>Mdm Li Jinhua</td>
     <td class="tg-baqh"><br><br><br><br>Li_Jinhua@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">K1 - SA & DP</span></td>
+    <td class="tg-bn4z"><span style="color:#222">K1 - SA &amp; DP</span></td>
     <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Mdm%20Wang%20Hongjie.jpg" alt="Mdm Wang Hongjie.jpg" width="154" height="215"><span style="color:#222">                                      </span></td>
     <td class="tg-bn4z">Mdm Wang Hongjie</td>
     <td class="tg-3b8d"><br><br><br>wang_hongjie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> K1 - IA & BP</span></td>
+    <td class="tg-a3j2"><span style="color:#222"> K1 - IA &amp; BP</span></td>
     <td class="tg-lygy"><img src="/images/MK@Fern%20Green/Mdm%20Xu%20Ran%20Shirley.jpg" alt="Mdm Xu Ran Shirley.jpg" width="157" height="234"></td>
     <td class="tg-lygy"><br><br><br><br>Mdm Xu Ran (Shirley)</td>
     <td class="tg-baqh"><br><br><br><br>xu_ran_a@moe.edu.sg</td>
@@ -391,9 +391,9 @@ third_nav_title: MK@FG Personnel
 <thead>
   <tr>
     <td class="tg-a3j2"><span style="color:#222">---</span></td>
-    <td class="tg-lygy"><img src="/under construction" alt="Mdm Usha Venkatramani.jpg" width="161" height="240"></td>
-    <td class="tg-lygy"><br><br>Mdm Usha Venkatramani</td>
-    <td class="tg-baqh"><br><br>usha_venkatramani_a@moe.edu.sg</td>
+    <td class="tg-lygy"><img src="/under construction" alt="dhevasena.jpg" width="161" height="240"></td>
+    <td class="tg-lygy"><br><br>Ms Dhevasena Nagarajan</td>
+    <td class="tg-baqh"><br><br>dhevasena_nagarajan@moe.edu.sg</td>
   </tr>
 </thead>
 </table>
