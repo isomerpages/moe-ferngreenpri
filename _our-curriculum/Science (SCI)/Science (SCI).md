@@ -7,6 +7,7 @@ third_nav_title: Science (SCI)
 ![](/images/Banner.png)
 
 # **Science (SCI)**
+![](/images/Science/science%20committee%202023.jpg)
 
 The Science Department aims to nurture our students:
 
