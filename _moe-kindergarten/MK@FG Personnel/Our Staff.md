@@ -390,8 +390,8 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">---</span></td>
-    <td class="tg-lygy"><img src="/under construction" alt="dhevasena.jpg" width="161" height="240"></td>
+    <td class="tg-a3j2"><span style="color:#222">TL</span></td>
+    <td class="tg-lygy"><img src="/images/MK@Fern%20Green/ms%20dhevasena%20nagarajan%201.jpg" alt="dhevasena.jpg" width="161" height="240"></td>
     <td class="tg-lygy"><br><br>Ms Dhevasena Nagarajan</td>
     <td class="tg-baqh"><br><br>dhevasena_nagarajan@moe.edu.sg</td>
   </tr>
