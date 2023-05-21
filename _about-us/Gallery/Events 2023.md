@@ -33,7 +33,7 @@ third_nav_title: Gallery
 	<tr>
     <td class="tg-b4br">15 May 2023</td>
     <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1FSR77GA7Pj3btRVHAfqwO8MZRhhfDvCW?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Hari Raya Puasa Celebration</span></a></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/20230508_ecg%20talk.jpg" width="284" height="189"></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/fgps%20hari%20raya%20celebration%202023.png" width="284" height="189"></td>
   </tr>   
 <tr>
     <td class="tg-b4br">8 May 2023</td>
