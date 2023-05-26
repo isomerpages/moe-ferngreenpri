@@ -12,20 +12,24 @@ description: ""
 
 
 <b>Fern Green Primary School</b> <br>
-[ferngreen\_ps@moe.edu.sg](mailto:ferngreen_ps@moe.edu.sg)   
+[ferngreen\_ps@moe.edu.sg](mailto:ferngreen_ps@moe.edu.sg)&nbsp;  
 68343100  
 68343116
-
-\* Please visit the page, <i>Our Staff</i> to locate staff's email addresses.
-
 
 <b>MOE Kindergarten @ Fern Green</b>  
 [mk\_ferngreen@moe.edu.sg](mailto:mk_ferngreen@moe.edu.sg)  
 66341318  
 66341381  
   
-[85](https://busrouter.sg/#/services/85), [102](https://busrouter.sg/#/services/102)  
-<b>LRT Station:</b> Kupang Station (SW3)
+[85](https://busrouter.sg/#/services/85),&nbsp;[102](https://busrouter.sg/#/services/102)  
+<b>LRT Station:</b>&nbsp;Kupang Station (SW3)
 
+#### Say It From Your Heart
+Dear Parents, Guardians &amp; Partners,
 
+As we work closely together to support our children, there could be times where a staff member would go the extra mile and make someone's day, and you hope you could express your thoughts and/or appreciation and 'say it from your heart'.
+
+We hope to leverage this platform to allow all to do just that! Please share with us [here](https://go.gov.sg/sayitfromyourheart) if any of our staff members have made an impression during their interactions with you, so we could affirm their efforts and encourage them on!
+
+Thank you in advance for your time!
 ![](/images/bg-bottom.png)

@@ -6,6 +6,15 @@ description: ""
 ![](/images/Banner.png)
 
 
+### Say It From Your Heart @FGPS
+Dear Parents, Guardians &amp; Partners,&nbsp; 
+
+As we work closely together to support our children, there could be times where a staff member would go the extra mile and make someone's day, and you hope you could express your thoughts and/or appreciation and 'say it from your heart'.&nbsp;
+
+We hope to leverage this platform to allow all to do just that! Please share with us [here](https://go.gov.sg/sayitfromyourheart) if any of our staff members have made an impression during their interactions with you, so we could affirm their efforts and encourage them on!&nbsp; 
+
+Thank you in advance for your time!
+
 ### 2023 MOE Kindergarten Open House Registration Exercise
 
 The 2023 MOE Kindergarten (MK) Registration Exercise will open from 17 to 21 February 2023. This year, MKs’ Open Houses will be held in-person on 11 or 18 February 2023.
@@ -44,9 +53,9 @@ For more information on the 2023 MK Open House and Registration Exercise, please
 ### Open House 2022
 
 
-Click [Virtual Tour](https://www.thinglink.com/card/1309157252489281538) to access.  
+Click&nbsp;[Virtual Tour](https://www.thinglink.com/card/1309157252489281538)&nbsp;to access.  
   
-The school will be holding an Open House on <b>Thursday, 7 July 2022, from 8.00am to 9.30am</b> for interested parents with children entering P1 in 2023.   
+The school will be holding an Open House on&nbsp;<b>Thursday, 7 July 2022, from 8.00am to 9.30am</b>&nbsp;for interested parents with children entering P1 in 2023.&nbsp;  
   
 To register for the event, please click on the link below:  
 [Registration for Open House 2022](https://form.gov.sg/62afc59ab1647d001720228d)
