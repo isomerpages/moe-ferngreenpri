@@ -33,4 +33,7 @@ sections:
       subtitle: Join Us!
       description: You are invited to experience the vibrant learning community of
         Fern Green Primary School at our Open House event!
+  - resources:
+      title: Annoucements
+      button: Click here for more info
 ---
