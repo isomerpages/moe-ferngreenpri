@@ -33,7 +33,12 @@ sections:
       subtitle: Join Us!
       description: You are invited to experience the vibrant learning community of
         Fern Green Primary School at our Open House event!
-  - resources:
-      title: Annoucements
-      button: Click here for more info
+  - infopic:
+      title: Say It From Your Heart
+      description: Share with us if any of our staff members have made an impression
+        during their interactions with you, so we could affirm their efforts and
+        encourage them on!
+      button: Share with us here
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Gallery/2022/orientation week.jpeg
 ---
