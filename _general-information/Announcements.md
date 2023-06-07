@@ -5,6 +5,27 @@ description: ""
 ---
 ![](/images/Banner.png)
 
+### Join Us for Our Open House 2023!
+You are invited to experience the vibrant learning community of Fern Green Primary School at our Open House event! 
+
+Date: Thursday, 13 July 2023
+
+Time: 0745 - 0900 hrs
+
+Location: 70 Fernvale Link, Singapore 797538
+
+What to expect:
+* School Tour
+* Meet our Educators
+* Student Showcases
+* Curriculum Highlights
+
+Don’t miss this chance to envision your child’s future at Fern Green Primary School. Mark your calendars to our Open House event and come explore the possibilities!
+
+Please register your intention to participate by scanning the QR Code below:
+
+
+
 
 ### Say It From Your Heart @FGPS
 Dear Parents, Guardians &amp; Partners,&nbsp; 
