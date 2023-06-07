@@ -8,9 +8,6 @@ description: ""
 ### Join Us for Our Open House 2023!
 You are invited to experience the vibrant learning community of Fern Green Primary School at our Open House event! 
 
-
-
-
 <style>
 table, td, th {
   border: 1px solid;
