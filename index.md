@@ -25,4 +25,9 @@ sections:
       title: Announcements
       button: Click here to view all
       url: /general-information/Announcements/
+  - infopic:
+      title: Open House 2023
+      button: Click here to register
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Gallery/2022/2022 racial harmony day.jpg
 ---
