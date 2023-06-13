@@ -139,7 +139,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-mdf1">2 Respect (2R1)</td>
-    <td class="tg-9678"><br>Mr Mohamed Ridza B Hashim</td>
+    <td class="tg-9678">Mr Mohamed Ridza B Hashim</td>
     <td class="tg-9678">mohamed_ridza_b_hashim@moe.edu.sg</td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-mdf1">2 Responsibility (2R2)</td>
-    <td class="tg-9678"><br>Ms Yew Lea Lea Lily</td>
+    <td class="tg-9678">Ms Yew Lea Lea Lily</td>
     <td class="tg-9678">yew_lea_lea_lily@moe.edu.sg</td>
   </tr>
   <tr>
@@ -637,9 +637,9 @@ description: ""
     <td class="tg-faf8">chua_lee_hoon_eleanor@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">English</td>
-    <td class="tg-0lax">Mr Mohamd Sahar Ismail</td>
-    <td class="tg-0lax">mohamd_sahar_ismail@moe.edu.sg</td>
+    <td class="tg-dgl5">Malay</td>
+    <td class="tg-0lax">Miss Astrinka Ryzanto Putri Binte Kamaludin</td>
+    <td class="tg-0lax">astrinka_ryzanti_putri_kamaludin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">English </td>
@@ -662,9 +662,9 @@ description: ""
     <td class="tg-0lax">tan_chin_cheoh@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-mdf1">English &amp; Mathematics </td>
-    <td class="tg-9678">Ms Noraini Aman</td>
-    <td class="tg-faf8"> noraini_aman@moe.edu.sg</td>
+    <td class="tg-mdf1">Malay</td>
+    <td class="tg-9678">Miss Nadya Farah Binte Zaidi</td>
+    <td class="tg-faf8">Nadya_farah_zaidi@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig">English &amp; Mathematics </td>
@@ -684,22 +684,12 @@ description: ""
   <tr>
     <td class="tg-mdf1">Chinese </td>
     <td class="tg-9678">Ms Liu Miao (Emma)</td>
-    <td class="tg-faf8">@moe.edu.sg </td>
+    <td class="tg-faf8">liu_miao_a@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">-</td>
+    <td class="tg-1wig">- </td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">-</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">Malay</td>
-    <td class="tg-9678">Mdm Siti Nurulhuda Binte Md Yunus </td>
-    <td class="tg-faf8">Siti_Nurulhuda_Md_Yunus@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Tamil </td>
-    <td class="tg-0lax">Mrs Anisah Bte Ebrahim</td>
-    <td class="tg-0lax">anisah_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">Mathematics &amp; Science</td>
@@ -722,9 +712,9 @@ description: ""
     <td class="tg-0lax">ho_woon_lee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-mdf1">Malay</td>
-    <td class="tg-9678">Mdm Sapiah Bte Daing Basok</td>
-    <td class="tg-faf8">Sapiah_Daing_Basok@moe.edu.sg</td>
+    <td class="tg-mdf1">-</td>
+    <td class="tg-9678">-</td>
+    <td class="tg-faf8">-</td>
   </tr>
   <tr>
     <td class="tg-1wig">Mathematics</td>
