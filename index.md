@@ -42,4 +42,5 @@ sections:
       button: Share with us here
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Gallery/2022/orientation week.jpeg
+      alt: orientation
 ---
