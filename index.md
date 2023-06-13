@@ -33,6 +33,7 @@ sections:
       subtitle: Join Us!
       description: You are invited to experience the vibrant learning community of
         Fern Green Primary School at our Open House event!
+      alt: racial harmony
   - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
