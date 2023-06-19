@@ -238,7 +238,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222"> Mdm Lee Siew Hoon</span></td>
-    <td class="tg-bn4z"><span style="color:#222"> ST (SEN)</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ST (LN)</span></td>
   </tr>
 </tbody>
 </table>
