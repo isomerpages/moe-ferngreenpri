@@ -948,7 +948,7 @@ description: ""
     <td class="tg-9678">ivy_leow_gim_chye@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-6mtm">Senior Teacher<br><span style="color:black">Special Educational Needs </span></td>
+    <td class="tg-6mtm">Senior Teacher<br><span style="color:black">Learning Needs </span></td>
     <td class="tg-0lax">Mdm Lee Siew Hoon</td>
     <td class="tg-0lax">lee_siew_hoon@moe.edu.sg  </td>
   </tr>
