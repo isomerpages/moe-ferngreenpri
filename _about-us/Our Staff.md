@@ -632,24 +632,24 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mdf1">English</td>
-    <td class="tg-9678">Mrs Eleanor Tan</td>
-    <td class="tg-faf8">chua_lee_hoon_eleanor@moe.edu.sg</td>
+    <td class="tg-mdf1"></td>
+    <td class="tg-9678">Miss Astrinka Ryzanti Putri Binte Kamaludin</td>
+    <td class="tg-faf8">astrinka_ryzanti_putri_kamaludin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Malay</td>
-    <td class="tg-0lax">Miss Astrinka Ryzanto Putri Binte Kamaludin</td>
-    <td class="tg-0lax">astrinka_ryzanti_putri_kamaludin@moe.edu.sg</td>
+    <td class="tg-dgl5"></td>
+    <td class="tg-0lax">Mrs Stephanie Yeo (Mdm Choo)</td>
+    <td class="tg-0lax">choo_xuewei_stephanie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-mdf1">English </td>
-    <td class="tg-9678">Mdm Ong Siew Yee Elizabeth</td>
-    <td class="tg-faf8">ong_siew_yee_elizabeth@moe.edu.sg </td>
+    <td class="tg-mdf1">EL &amp; MA </td>
+    <td class="tg-9678">Mdm Lim Woon Cheng</td>
+    <td class="tg-faf8">lim_woon_cheng@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">English </td>
-    <td class="tg-0lax">Mrs Sharon Lee </td>
-    <td class="tg-0lax">kum_hong_yoke@moe.edu.sg </td>
+    <td class="tg-1wig">EL</td>
+    <td class="tg-0lax">Mdm Ong Siew Yee Elizabeth</td>
+    <td class="tg-0lax">ong_siew_yee_elizabeth@moe.edu.sg </td>
   </tr>
   <tr>
     <td class="tg-mdf1">English &amp; Mathematics </td>
