@@ -280,8 +280,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Ms Lu Ting Ting Deline</td>
-    <td class="tg-0lax">lu_ting_ting@moe.edu.sg</td>
+    <td class="tg-0lax">Miss Natalia Johan</td>
+    <td class="tg-0lax">-</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Integrity</td>
@@ -300,8 +300,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-0lax"></td>
-    <td class="tg-ycr8"></td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-ycr8">-</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Harmony</td>
@@ -310,8 +310,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig"></td>
+    <td class="tg-0lax">Mdm Nurjihan Binti Mohammed Noor</td>
+    <td class="tg-0lax">nurjihan_mohammed_noor@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Discipline</td>
