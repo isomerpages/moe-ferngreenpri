@@ -89,7 +89,7 @@ description: ""
   <tr>
     <td class="tg-9678">  </td>
     <td class="tg-9678">Mr Pang Biao Bin</td>
-    <td class="tg-9678">-</td>
+    <td class="tg-9678">pang_biao_bin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Discipline</td>
@@ -107,9 +107,9 @@ description: ""
     <td class="tg-0lax">ivy_leow_gim_chye@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-faf8"> </td>
-    <td class="tg-faf8"> </td>
-    <td class="tg-faf8"> </td>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">Miss Nadya Farah Binte Zaidi</td>
+    <td class="tg-faf8">nadya_farah_zaidi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -143,9 +143,9 @@ description: ""
     <td class="tg-9678">mohamed_ridza_b_hashim@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Miss Liang Wileen</td>
+    <td class="tg-0lax">liang_wileen@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">2 Responsibility (2R2)</td>
@@ -184,8 +184,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mr Teo Kuan Ping Amos<br></td>
-    <td class="tg-01ax">teo_kuan_ping_amos@moe.edu.sg</td>
+    <td class="tg-0lax">Miss Nuha Binte Ahmad Basharahil<br></td>
+    <td class="tg-01ax">-</td>
   </tr>
   <tr>
     <td class="tg-mdf1">2 Harmony</td>
