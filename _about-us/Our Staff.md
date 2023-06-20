@@ -88,8 +88,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-9678">  </td>
-    <td class="tg-9678">Mrs Stephanie Yeo (Mdm Choo)</td>
-    <td class="tg-9678">choo_xuewei_stephanie@moe.edu.sg</td>
+    <td class="tg-9678">Mr Pang Biao Bin</td>
+    <td class="tg-9678">-</td>
   </tr>
   <tr>
     <td class="tg-1wig">1 Discipline</td>
