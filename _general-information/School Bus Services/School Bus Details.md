@@ -1,7 +1,8 @@
 ---
-title: School Bus Services
-permalink: /general-information/School-Bus-Services/
+title: School Bus Details
+permalink: /general-information/school-bus-details/
 description: ""
+third_nav_title: School Bus Services
 ---
 ![](/images/Banner.png)
 
