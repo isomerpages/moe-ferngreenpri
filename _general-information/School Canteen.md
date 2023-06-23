@@ -7,6 +7,6 @@ description: ""
 
 ## School Canteen
 	
-Please click [HERE](https://drive.google.com/file/d/1heejXsd9mdIev1FukBs6nytvwVmoeuY5/view?usp=sharing) for the canteen menu.
+Please click [here](/files/School%20Canteen/canteen%20menu%202023%20rev%201.pdf) for the canteen menu.
 
 ![](/images/bg-bottom.png)
