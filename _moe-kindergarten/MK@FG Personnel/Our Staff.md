@@ -51,10 +51,10 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-a3j2"><span style="color:#222">Centre Head</span></th>
-    <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Mrs%20Elfin%20Loh-Ng%20Sock%20Cheng.jpg" alt="Mrs Elfin Loh.jpg" width="178" height="249"></th>
-    <th class="tg-a3j2"><span style="color:#222">Mrs Elfin Loh-Ng Sock Cheng</span></th>
-    <th class="tg-a3j2"><span style="color:#222">elfin_ng_sock_cheng@moe.edu.sg</span></th>
+    <th class="tg-a3j2"><span style="color:#222">-</span></th>
+    <th class="tg-lygy"><img src="-" alt="Mrs Elfin Loh.jpg" width="178" height="249"></th>
+    <th class="tg-a3j2"><span style="color:#222">-</span></th>
+    <th class="tg-a3j2"><span style="color:#222">-</span></th>
   </tr>
 </thead>
 <tbody>
@@ -211,6 +211,13 @@ third_nav_title: MK@FG Personnel
     <td class="tg-a3j2"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/Mr%20Muhammad%20Idil%20Syazwan%20Bin%20Suaidi.jpg" alt="Mr Muhammad Idil Syazwan Bin Suaidi.jpg" width="145" height="200"></td>
     <td class="tg-tsok"><br><br><br>Mr Muhammad Idil Syazwan Bin Suaidi<br><br></td>
     <td class="tg-1ppo"><span style="color:#222">muhammad_idil_syazwan_suaid@moe.edu.sg</span></td>
+		  </tr><tr>
+    <td class="tg-7ai3"><span style="color:#222">-</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> </span><img src="/images/MK@Fern%20Green/ms%20afaf%20jaber%20yousef%20aljayousy.jpg" alt="Ms Afaf.jpg" width="146" height="202"></td>
+    <td class="tg-7ai3"><span style="color:#222">Ms Afaf Jaber Yousef Aljayousy</span></td>
+    <td class="tg-7ai3"><span style="color:#222">-</span></td>
+  </tr>
+  <tr>
   </tr>
 </tbody>
 </table>

@@ -240,6 +240,10 @@ description: ""
     <td class="tg-bn4z"><span style="color:#222"> Mdm Lee Siew Hoon</span></td>
     <td class="tg-bn4z"><span style="color:#222"> ST (LN)</span></td>
   </tr>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222">Mr Pang Biao Bin</span></td>
+    <td class="tg-a3j2"><span style="color:#222">ST (MU)</span></td>
+  </tr>
 </tbody>
 </table>
 
