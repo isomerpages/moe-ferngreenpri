@@ -281,7 +281,7 @@ description: ""
   <tr>
     <td class="tg-1wig"> </td>
     <td class="tg-0lax">Miss Natalia Johan</td>
-    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">natalia_johan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Integrity</td>
@@ -300,8 +300,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-1wig"> </td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-ycr8">-</td>
+    <td class="tg-0lax">Miss Astrinka Ryzanti Putri Binte Kamaludin</td>
+    <td class="tg-ycr8">astrinka_ryzanti_putri_kamaludin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-mdf1">3 Harmony</td>
