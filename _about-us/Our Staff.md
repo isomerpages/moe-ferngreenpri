@@ -633,8 +633,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-mdf1"></td>
-    <td class="tg-9678">Miss Astrinka Ryzanti Putri Binte Kamaludin</td>
-    <td class="tg-faf8">astrinka_ryzanti_putri_kamaludin@moe.edu.sg</td>
+    <td class="tg-9678">-</td>
+    <td class="tg-faf8">-</td>
   </tr>
   <tr>
     <td class="tg-dgl5"></td>
@@ -947,6 +947,11 @@ description: ""
     <td class="tg-ti5h">Senior Teacher<br><span style="color:black">Tamil </span></td>
     <td class="tg-9678">Mdm Punitha d/o Murugaiah Maniam</td>
     <td class="tg-9678"> punitha_murugaiah_maniam@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-6mtm">Senior Teacher<br><span style="color:black">Music </span></td>
+    <td class="tg-0lax">Mr Pang Biao Bin</td>
+    <td class="tg-0lax">pang_biao_bin@moe.edu.sg  </td>
   </tr>
 </tbody>
 </table>
