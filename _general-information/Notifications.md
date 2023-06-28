@@ -9,6 +9,7 @@ description: ""
 
 <b>Term/Week: Link to Parents Notification</b>
 
+* T3W1: [28 June](/files/Notifications/2023/t3w1%20parents%20notification%20(28%20jun%202023).pdf)
 * T2W10: [24 May](/files/Notifications/2023/t2w10%20parents%20notification%20(24%20may%202023).pdf)
 * T2W9: [17 May](/files/Notifications/2023/t2w9%20parents%20notification%20(17%20may%202023).pdf)
 * T2W8: [10 May](/files/Notifications/2023/t2w8%20parents%20notification%20(10%20may%202023).pdf)
