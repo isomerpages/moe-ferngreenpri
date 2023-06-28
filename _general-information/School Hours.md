@@ -13,32 +13,32 @@ description: ""
 
 *Children are to report by 7.30am.*
 
-### Recess & Snack Break
+### Recess &amp; Snack Break
 
 **Recess**
-* P1 & P4: 9.30am to 10am
-* P2 & P5: 10am to 10.30am
-* P3 & P6: 10.30am to 11am
+* P1 &amp; P4: 9.30am to 10am
+* P2 &amp; P5: 10am to 10.30am
+* P3 &amp; P6: 10.30am to 11am
 
 **Snack Break**
-* P3 & P6: 8.45am
-* P1 & P4: 11.45am
-* P2 & P5: 12.15pm
+* P3 &amp; P6: 8.45am
+* P1 &amp; P4: 11.45am
+* P2 &amp; P5: 12.15pm
 
 
 ### Dismissal Arrangements
 
-*   P1 & P2: Vehicle Drop-Off Area or Car Porch
+*   P1 &amp; P2: Vehicle Drop-Off Area or Car Porch
 *   P3 - P6: Gate 1, 2 or 4
 
 **Staggered Dismissal Arrangements**
-* 1.25pm (P1 & P2)
-* 1.30pm (P3 & P4)
-* 1.35pm (for P5 & P6)
+* 1.25pm (P1 &amp; P2)
+* 1.30pm (P3 &amp; P4)
+* 1.35pm (for P5 &amp; P6)
 
 ### Gate Opening Hours
 
-Please [click HERE for the Gate Opening Hours](/files/Opening%20Hours_SchoolGates.pdf).
+Please [click HERE for the Gate Opening Hours](/files/School%20Gate/Opening%20Hours_SchoolGates.pdf)
 
 
 ### Office Hours
