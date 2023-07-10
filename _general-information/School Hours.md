@@ -38,7 +38,7 @@ description: ""
 
 ### Gate Opening Hours
 
-Please [click HERE for the Gate Opening Hours](/files/School%20Gate/Opening%20Hours_SchoolGates.pdf)
+Please [click HERE for the Gate Opening Hours](/files/School%20Gate/opening%20hours_schoolgates%202023.pdf)
 
 
 ### Office Hours
