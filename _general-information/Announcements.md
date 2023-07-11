@@ -5,7 +5,8 @@ description: ""
 ---
 ![](/images/Banner.png)
 
-### Join Us for Our Open House 2023!
+### Join Us for Our Open House 2023! 
+#### **Registration is closed.**
 You are invited to experience the vibrant learning community of Fern Green Primary School at our Open House event! 
 
 <style>
@@ -40,8 +41,6 @@ table {
 
 Don’t miss this chance to envision your child’s future at Fern Green Primary School. Mark your calendars to our Open House event and come explore the possibilities!
 
-Please register your intention to participate by scanning the QR Code below:
-![](/images/Annoucements/fgpsopenhouse2023.png)
 We look forward to welcoming you to Fern Green Primary School Open House!
 
 ### Say It From Your Heart @FGPS
