@@ -156,41 +156,38 @@ description: ""
     <td class="tg-bn4z"><span style="color:#222"> Mrs Chua Pei Yee</span></td>
     <td class="tg-bn4z"><span style="color:#222">LH (EL) </span></td>
   </tr>
+
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Muhammad Izree Bin Jalil</span></td>
-    <td class="tg-a3j2"><span style="color:#222">SH (CCA) </span></td>
+    <td class="tg-a3j2"><span style="color:#222"> Ms Fauziah Binte Osman</span></td>
+    <td class="tg-a3j2"><span style="color:#222">SH (ML) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222"> Ms Fauziah Binte Osman</span></td>
-    <td class="tg-bn4z"><span style="color:#222">SH (ML) </span></td>
+    <td class="tg-bn4z"><span style="color:#222">Ms Ng Wan Wen </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> SH (CL)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Ms Ng Wan Wen </span></td>
-    <td class="tg-a3j2"><span style="color:#222"> SH (CL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222"> Mr Muhammad Riza Bin Baharudin</span></td>
+    <td class="tg-a3j2"><span style="color:#222">SH (SWB) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222"> Mr Muhammad Riza Bin Baharudin</span></td>
-    <td class="tg-bn4z"><span style="color:#222">SH (SWB) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Koh Wee Kwang</span></td>
-    <td class="tg-a3j2"><span style="color:#222">Admin Mgr</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mr Ho Hsu Xming Shaun </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Koh Wee Kwang</span></td>
     <td class="tg-bn4z"><span style="color:#222">Admin Mgr</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222"> Mr Siew Lai Lone Gary</span></td>
-    <td class="tg-a3j2"><span style="color:#222">Ops Mgr </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Mr Ho Hsu Xming Shaun </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Admin Mgr</span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mr Tan Teck Chye Andy </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Siew Lai Lone Gary</span></td>
     <td class="tg-bn4z"><span style="color:#222">Ops Mgr </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Ms Yang Siying </span></td>
-    <td class="tg-a3j2"><span style="color:#222"> ICT Mgr</span></td>
+    <td class="tg-a3j2"><span style="color:#222">Mr Tan Teck Chye Andy </span></td>
+    <td class="tg-a3j2"><span style="color:#222">Ops Mgr </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">Ms Yang Siying </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ICT Mgr</span></td>
   </tr>
 </tbody>
 </table>
@@ -243,6 +240,10 @@ description: ""
 	<tr>
     <td class="tg-a3j2"><span style="color:#222">Mr Pang Biao Bin</span></td>
     <td class="tg-a3j2"><span style="color:#222">ST (MU)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mdm Punitha d/o Murugiah Maniam</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ST (TL)</span></td>
   </tr>
 </tbody>
 </table>
