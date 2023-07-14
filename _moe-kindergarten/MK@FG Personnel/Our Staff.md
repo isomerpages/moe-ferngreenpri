@@ -52,7 +52,7 @@ third_nav_title: MK@FG Personnel
 <thead>
   <tr>
     <th class="tg-a3j2"><span style="color:#222">-</span></th>
-    <th class="tg-lygy"><img src="-" alt="Mrs Elfin Loh.jpg" width="178" height="249"></th>
+    <th class="tg-lygy"><img src="-" alt="-" width="178" height="249"></th>
     <th class="tg-a3j2"><span style="color:#222">-</span></th>
     <th class="tg-a3j2"><span style="color:#222">-</span></th>
   </tr>
@@ -266,7 +266,7 @@ third_nav_title: MK@FG Personnel
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-a3j2"><span style="color:#222">K2 - OB</span></th>
+    <th class="tg-a3j2"><span style="color:#222">-</span></th>
     <th class="tg-lygy"><img src="/images/MK@Fern%20Green/Miss%20Lim%20See%20Moi%20Iris.jpg" alt="Miss Iris Lim See Moi.jpg" width="141" height="211"><br></th>
     <th class="tg-a3j2">Miss Lim See Moi (Iris)</th>
     <th class="tg-baqh"><br><br><br><br>lim_see_moi_a@moe.edu.sg<br></th>
@@ -296,6 +296,11 @@ third_nav_title: MK@FG Personnel
     <td class="tg-lygy"><img src="/images/MK@Fern%20Green/Mdm%20Xu%20Ran%20Shirley.jpg" alt="Mdm Xu Ran Shirley.jpg" width="157" height="234"></td>
     <td class="tg-lygy"><br><br><br><br>Mdm Xu Ran (Shirley)</td>
     <td class="tg-baqh"><br><br><br><br>xu_ran_a@moe.edu.sg</td>
+  </tr>
+	    <tr><td class="tg-bn4z"><span style="color:#222">K2 - OB &amp; LB</span></td>
+    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/ms%20chen%20ping.jpg" alt="Ms Chen Ping.jpg" width="154" height="215"><span style="color:#222">                                      </span></td>
+    <td class="tg-bn4z">Ms Chen Ping</td>
+    <td class="tg-3b8d"><br><br>chen_ping_a@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
