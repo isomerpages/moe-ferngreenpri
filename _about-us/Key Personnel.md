@@ -38,8 +38,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><span style="color:#222">Ms Kong Yee Loon</span></th>
-    <th class="tg-a3j2"><span style="color:#222">Principal</span></th>
+    <td class="tg-a3j2"><span style="color:#222">Ms Kong Yee Loon</span></td>
+    <td class="tg-a3j2"><span style="color:#222">Principal</span></td>
   </tr>
 </thead>
 <tbody>
