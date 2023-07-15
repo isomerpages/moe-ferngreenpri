@@ -3,10 +3,6 @@ title: School Uniform & Supplier
 permalink: /general-information/School-Uniform-and-Supplier/
 description: ""
 ---
-![](/images/Banner.png)
-
-### **School Uniform Supplier**
-
 
 <b>Shanghai School Uniforms Pte Ltd</b>
 
@@ -117,6 +113,3 @@ Details of the online purchase and other purchase options are as follows:
   </tr>
 </tbody>
 </table>
-
-
-![](/images/bg-bottom.png)
