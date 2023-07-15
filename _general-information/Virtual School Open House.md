@@ -3,7 +3,6 @@ title: Virtual School Open House
 permalink: /general-information/Virtual-School-Open-House/
 description: ""
 ---
-![](/images/Banner.png)
 
 ### Virtual School Open House
 
@@ -25,4 +24,3 @@ Note: FGPS Virtual Open House 2021 - Slides on Character Citizenship Education f
 [FGPS Virtual Open House 2021 - Slides on PE Art Music PAL.pdf](/files/Quick%20Download/FGPS%20Virtual%20Open%20House%202021%20-%20Slides%20on%20PE%20Art%20Music%20%20PAL.pdf)
 
 [FGPS Virtual Open House 2021 - Slides on Student Management.pdf](/files/Quick%20Download/FGPS%20Virtual%20Open%20House%202021%20-%20Slides%20on%20Student%20Management.pdf)
-![](/images/bg-bottom.png)

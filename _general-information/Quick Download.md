@@ -3,7 +3,6 @@ title: Quick Download
 permalink: /general-information/Quick-Download/
 description: ""
 ---
-![](/images/Banner.png)
 
 ### Downloads
 
@@ -16,5 +15,3 @@ description: ""
 * [First Day of School - Raising Ready, Steady Readers (3 Jan 2023).pdf ](/files/Quick%20Download/First%20Day%20of%20School%20-%20Raising%20Ready,%20Steady%20Readers%20(3%20Jan%202023).pdf)
 * [First Day of School - Funtastic Math@FGPS (3 Jan 2023).pdf ](/files/Quick%20Download/First%20Day%20of%20School%20-%20Funtastic%20Math@FGPS%20(3%20Jan%202023).pdf)
 * [First Day of School - Fun With Mother Tongue Languages (3 Jan 2023).pdf ](/files/Quick%20Download/First%20Day%20of%20School%20-%20Fun%20With%20Mother%20Tongue%20Languages%20(3%20Jan%202023).pdf)
-
-![](/images/bg-bottom.png)

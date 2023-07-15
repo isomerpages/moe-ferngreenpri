@@ -3,7 +3,6 @@ title: Notifications
 permalink: /general-information/Notifications/
 description: ""
 ---
-![](/images/Banner.png)
 
 ### Weekly Parents Notifications 2023
 
@@ -122,4 +121,3 @@ description: ""
 * T1W3: [20 Jan](/files/Notifications/2021/T1W3%20Parents%20Notification%20(20%20Jan%202021)_final.pdf) (<b>Attachment</b>: [Triple P Level 2 Seminars](/files/Notifications/2021/L2%20Seminar%20Infographic%20-%20Run%201.pdf))
 * T1W2: [13 Jan](/files/Notifications/2021/T1W2%20Parents%20Notification%20(13%20JAN%202021).pdf) [14 Jan](/files/Notifications/2021/T1W2%20Parents%20Notification%20(14%20JAN%202021).pdf)
 * T1W1: [6 Jan](/files/Notifications/2021/T1W1%20Parents%20Notification%20(6%20JAN%202021).pdf)
-![](/images/bg-bottom.png)

@@ -3,7 +3,6 @@ title: School Dental Services
 permalink: /general-information/School-Dental-Services/
 description: ""
 ---
-![](/images/Banner.png)
 
 <u><b>Operating Hours</b></u>  
 
@@ -78,5 +77,3 @@ If your child requires <u><b>URGENT</b></u> dental treatment during clinic clo
 <b>Note to Parents/Guardians</b>
 
 Parents/Guardians are to contact the staff at the buddy clinics or mini referral centre before making a trip as some of these dental clinics are not open every day.
-
-![](/images/bg-bottom.png)

@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/Principal-Message/
 description: ""
 ---
-# Principal's Message
 
 ![](/images/Staff/Ms%20Kong%20Yee%20Loon.png)
 
@@ -27,4 +26,3 @@ All children need caring adults to guide and support them.&nbsp; By partnering c
 
 Ms Kong Yee Loon  
 Principal
-![](/images/bg-bottom.png)

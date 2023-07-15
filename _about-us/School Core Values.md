@@ -3,7 +3,6 @@ title: School Core Values
 permalink: /about-us/School-Core-Values/
 description: ""
 ---
-# **Our Core Values**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -46,6 +45,3 @@ Your child is caring if he acts with kindness and compassion, and contributes to
 
 ### **Harmony**  
 Your child values harmony if he seeks inner happiness and promotes social cohesion. He appreciates the unity and diversity of a multicultural society.
-
-
-![](/images/bg-bottom.png)

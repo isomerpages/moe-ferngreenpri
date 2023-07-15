@@ -3,10 +3,6 @@ title: Bookshop Services
 permalink: /general-information/Bookshop-Services/
 description: ""
 ---
-![](/images/Banner.png)
-
-### <u><b>Bookshop Service Provider</b></u>
-
 
 <b>CASCO EDUCATIONAL SUPPLY PTE LTD</b> 
 
@@ -27,6 +23,3 @@ Online Purchase: Online ordering commence from <b>18th Nov 2022 (Primary 2 - 5)
 Parents will need to book appointment at [https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/](https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/) prior to the visit for On-site Purchase and self-collection at bookshop.
 
 Please [click HERE](https://drive.google.com/drive/folders/1URsuBY_GgXG2De8LlNEmMY3loO7rnc2P?usp=share_link) for more  details.
-
-
-![](/images/bg-bottom.png)

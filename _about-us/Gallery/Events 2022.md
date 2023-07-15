@@ -4,7 +4,6 @@ permalink: /about-us/gallery/2022/
 description: ""
 third_nav_title: Gallery
 ---
-![](/images/Banner.png)
 
 # Events 2022
 
@@ -237,6 +236,3 @@ third_nav_title: Gallery
   </tr>
 </tbody>
 </table>
-
-
-![](/images/bg-bottom.png)

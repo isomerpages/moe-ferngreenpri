@@ -3,8 +3,6 @@ title: School Mission
 permalink: /about-us/School-Mission/
 description: ""
 ---
-# **Our School Mission**
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,6 +24,3 @@ description: ""
 </table>
 
 <center> To do this would require the stakeholders of the Fern Green Kampong to work in concert, to take a village approach to nurturing and celebrating all talents and achievements as well as to commit to an inquiry approach to teaching and learning to keep that curiosity alive and to help our children appreciate diversity and find joy in learning. </center>
-
-
-![](/images/bg-bottom.png)

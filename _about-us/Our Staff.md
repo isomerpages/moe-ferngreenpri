@@ -3,9 +3,7 @@ title: Our Staff
 permalink: /about-us/Our-Staff/
 description: ""
 ---
-![](/images/Banner.png)
 
-# **Our Staff**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -1037,6 +1035,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-![](/images/bg-bottom.png)
-![](/images/bg-bottom.png)

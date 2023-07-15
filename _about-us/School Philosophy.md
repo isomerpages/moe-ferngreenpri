@@ -3,9 +3,7 @@ title: School Philosophy
 permalink: /about-us/School-Philosophy/
 description: ""
 ---
-![](/images/Banner.png)
 
-# **Our Philosophy**
 
 Fern Green Primary School is designed as a school within a garden. Sited within an oasis of greenery, the school environment beckons Students into its fold to partake in exciting learning activities that are in store for all learners.
 
@@ -20,6 +18,3 @@ Our instructional approaches begin with <b>Inquiry</b>. Through the use of thou
   
 
 The school would leverage School-Home-Community Partnership to avail our children of a holistic learning experience. We hope to work closely with Parents to reinforce values taught as well as foster our children's motivation to learn and ask questions, and encourage them to pursue what they love.
-
-
-![](/images/bg-bottom.png)

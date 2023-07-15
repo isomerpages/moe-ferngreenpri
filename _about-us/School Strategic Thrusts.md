@@ -3,8 +3,6 @@ title: School Strategic Thrusts
 permalink: /about-us/School-Strategic-Thrusts/
 description: ""
 ---
-# **School Strategic Thrusts**
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,5 +33,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-![](/images/bg-bottom.png)
