@@ -3,7 +3,6 @@ title: Announcements
 permalink: /general-information/Announcements/
 description: ""
 ---
-![](/images/Banner.png)
 
 ### Join Us for Our Open House 2023! 
 #### **Registration is closed.**
@@ -96,5 +95,3 @@ The school will be holding an Open House on&nbsp;<b>Thursday, 7 July 2022, from 
   
 To register for the event, please click on the link below:  
 [Registration for Open House 2022](https://form.gov.sg/62afc59ab1647d001720228d)
-
-![](/images/bg-bottom.png)
