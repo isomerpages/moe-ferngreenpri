@@ -3,13 +3,11 @@ title: Learning for Life Programme (LLP)
 permalink: /special-programmes/Learning-for-Life-Programme-LLP/
 description: ""
 ---
-![](/images/Banner.png)
-
 # LEARNING FOR LIFE PROGRAMME (LLP)
 
-The school’s Learning for Life Programme (LLP) ‘<b>Get REAL!@FGPS</b>’ serves to equip all students with the essential life skills or 21CC and the social emotional competencies via a suite of programmes targeting at building the necessary social emotional competencies in our future leaders and advocates. This will also be done in alignment with the R3ICH values at the core of the 21CC framework to ensure students do not seek only to excel in their chosen fields, but are also motivated to serve and lead others. This is also in alignment with the School Core Values (Respect, Responsibility, Resilience, Integrity, Care, Harmony), and the desired School Culture of Care and Discipline anchored on trust and quality relationships.
+The school’s Learning for Life Programme (LLP) ‘<b>Get REAL!@FGPS</b>’&nbsp;serves to equip all students with the essential life skills or 21CC and the social emotional competencies via a suite of programmes targeting at building the necessary social emotional competencies in our future leaders and advocates. This will also be done in alignment with the R3ICH values at the core of the 21CC framework to ensure students do not seek only to excel in their chosen fields, but are also motivated to serve and lead others. This is also in alignment with the School Core Values (Respect, Responsibility, Resilience, Integrity, Care, Harmony), and the desired School Culture of Care and Discipline anchored on trust and quality relationships.
 
-<i>Get REAL!@FGPS</i> seeks to
+<i>Get REAL!@FGPS</i>&nbsp;seeks to
 
 * Provide opportunities and platforms to create awareness of the world beyond the classrooms.
 
@@ -21,7 +19,7 @@ The school’s Learning for Life Programme (LLP) ‘<b>Get REAL!@FGPS</b>’ se
 <u> <b> Approach </b> </u>
 
 
-<u> <b> Get REAL!@FGPS (Relate, Explore, Acquire for Life) </b> </u>
+<u> <b> Get REAL!@FGPS (Relate,&nbsp;Explore,&nbsp;Acquire for&nbsp;Life) </b> </u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -67,7 +65,7 @@ The school’s Learning for Life Programme (LLP) ‘<b>Get REAL!@FGPS</b>’ se
 
 <b> Get Real! – Go Outdoor! </b>
 
-Modelling closely after Place-Based Education (PBE), we believe that the various platforms which encompass elements of fun and exploration can be leveraged to allow students to appreciate and make connections to the world and life around them, thus acquiring essential life skills in the physical, mental and affective domains.  
+Modelling closely after Place-Based Education (PBE), we believe that the various platforms which encompass elements of fun and exploration can be leveraged to allow students to appreciate and make connections to the world and life around them, thus acquiring essential life skills in the physical, mental and affective domains.&nbsp;&nbsp;
 
 PBE is an approach to learning that takes advantage of geography to create authentic, meaningful and engaged learning for students.
 
@@ -84,7 +82,7 @@ All students will undergo various key milestone programmes designed to impart es
 
 <b> Get Real! – Do Sports! </b>
 
-The school’s approach to promoting an active lifestyle is through positive peer influence. It embraces the idea of team sports as a way to motivate students to develop essential life skills and social emotional competencies through respectful play. Playing team sports at a young age allows children to work together to achieve goals and build skills such as teamwork and leadership. Team sports boost self-esteem and confidence. They also build positive relationships among parents, teachers and teammates, and allow for opportunities to develop critical thinking skills.
+The school’s approach to promoting an active lifestyle is through positive peer influence. It embraces the idea of team sports as a way to motivate students to develop essential life skills and social emotional competencies through respectful play. Playing team sports at a young age allows children to work together to achieve goals and build skills such as teamwork and leadership. Team sports boost self-esteem and confidence. They also build positive relationships&nbsp;among parents, teachers and teammates, and allow for opportunities to develop critical thinking skills.
 
 Team Sports also teach discipline both mentally and physically which is much aligned with our desired School Culture of Care and Discipline. By the end of their primary school education with the school, our students would have been exposed to 5 different team sports. The variety of sports offered will allow them to discover their strengths and areas for growth and possibly discover an interest to further develop their potential as they progress to secondary schools.
 
@@ -94,5 +92,4 @@ Team Sports also teach discipline both mentally and physically which is much ali
 The school adopts a tiered approach in programming, targeting first the student masses, then the interest groups such as CCA groups. Programmes could be centred around Outdoor Education or Sports or both, depending on the nature of the activities involved.
 
 ![](/images/LLP/LLP.png)
-
 ![](/images/bg-bottom.png)
