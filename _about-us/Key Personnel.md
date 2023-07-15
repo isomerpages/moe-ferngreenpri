@@ -3,9 +3,6 @@ title: Key Personnel
 permalink: /about-us/Key-Personnel/
 description: ""
 ---
-![](/images/Banner.png)
-
-# **Our Key Personnel**
 
 ![](/images/Staff/key%20personnel%202023.jpg)
 
@@ -247,6 +244,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
-![](/images/bg-bottom.png)
