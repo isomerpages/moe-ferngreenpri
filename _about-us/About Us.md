@@ -15,7 +15,7 @@ description: ""
 .tg .tg-c7xj{border-color:#ffffff;color:#009901;font-size:26px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 
-![](/images/bg-bottom.png)<table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-vjkc">Welcome to</th>
