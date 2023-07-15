@@ -3,9 +3,7 @@ title: School Song
 permalink: /about-us/School-Song/
 description: ""
 ---
-![](/images/Banner.png)
 
-# **Our School Song**
 <i>Composed by: Jake Goh </i> <br>
 <i>Lyrics by: Jake Goh & Staff of FGPS (2019) </i>
 
@@ -55,5 +53,3 @@ Fern Green Primary School
 We are bright <br>
 We are bold <br>
 Fern Green Primary School
-
-![](/images/bg-bottom.png)
