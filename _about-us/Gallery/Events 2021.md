@@ -4,7 +4,6 @@ permalink: /about-us/gallery/2021/
 description: ""
 third_nav_title: Gallery
 ---
-![](/images/Banner.png)
 
 # Events 2021
 
@@ -154,6 +153,3 @@ third_nav_title: Gallery
   </tr>
 </tbody>
 </table>
-
-
-![](/images/bg-bottom.png)
