@@ -4,7 +4,6 @@ permalink: /general-information/school-bus-details/
 description: ""
 third_nav_title: School Bus Services
 ---
-![](/images/Banner.png)
 
 ### BT &amp; Tan Transport Pte Ltd
 
@@ -45,5 +44,3 @@ Fax: 6483 7261
 
 
 Should you have any queries, you may contact the School Bus Services Provider directly.
-
-![](/images/bg-bottom.png)
