@@ -3,7 +3,6 @@ title: Forms & other info (Edusave & Giro, etc)
 permalink: /general-information/Forms-and-other-info-Edusave-and-Giro-etc/
 description: ""
 ---
-![](/images/Banner.png)
 
 ### Forms
 
@@ -33,5 +32,3 @@ The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin their 
 * [eFAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)  
   
 * [Information on FAS](https://www.moe.gov.sg/financial-matters/financial-assistance)
-
-![](/images/bg-bottom.png)
