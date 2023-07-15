@@ -3,9 +3,6 @@ title: MK@FG Gallery
 permalink: /moe-kindergarten/MKatFGGallery/
 description: ""
 ---
-![](/images/Banner.png)
-
-
 # MK@FG Gallery
 
 
@@ -66,7 +63,7 @@ description: ""
     <td class="tg-fe9f"><span style="color:#222"> </span><span style="font-style:normal">February</span><br><br><br></td>
     <td class="tg-zowy"><a href="https://drive.google.com/drive/folders/1gkorWx6C2CVoga_9rqHjt5lwGfd0kkdX"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">K1 Learning Journey - Bishan Park (All about Senses) </span></a></td>
     <td class="tg-vjhv"><img src="/images/MK@Fern%20Green/MK%20Gallery/Senses%207.jpg" alt="Senses 7.jpg" width="296" height="394">
-  </tr>
+  </td></tr>
 </tbody>
 </table>
 
