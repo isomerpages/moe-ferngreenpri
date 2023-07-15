@@ -3,7 +3,6 @@ title: Homework Policy
 permalink: /general-information/Homework-Policy/
 description: ""
 ---
-![](/images/Banner.png)
 
 There are 3 broad Categories of Homework that Teachers may assign to students. These are:  
 
@@ -69,5 +68,3 @@ When assigning homework, Teachers in Fern Green Primary School (FGPS) adhere to 
 Please note that time for learning of Spelling and Dictation has not been factored into the timing as students are provided with spelling lists for early preparation.
 
 To protect family time, minimal homework will be set for completion during School and Public Holidays during term time.
-
-![](/images/bg-bottom.png)
