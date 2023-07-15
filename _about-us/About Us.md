@@ -3,7 +3,6 @@ title: About Us
 permalink: /about-us/About-Us/
 description: ""
 ---
-# ABOUT US
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
