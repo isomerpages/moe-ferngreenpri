@@ -3,7 +3,6 @@ title: School Hours
 permalink: /general-information/School-Hours/
 description: ""
 ---
-![](/images/Banner.png)
 
 ### School Hours
 
@@ -49,5 +48,3 @@ Please [click HERE for the Gate Opening Hours](/files/School%20Gate/opening%20ho
 
 <u><b>School Holidays</b></u>  
 8.00am to 5.00pm
-
-![](/images/bg-bottom.png)
