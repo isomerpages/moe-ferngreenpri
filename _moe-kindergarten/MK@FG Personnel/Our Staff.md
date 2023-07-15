@@ -457,4 +457,3 @@ third_nav_title: MK@FG Personnel
   </tr>
 </thead>
 </table>
-![](/images/bg-bottom.png)
