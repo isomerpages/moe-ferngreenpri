@@ -38,22 +38,22 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Ms Kong Yee Loon</span></td>
-    <td class="tg-a3j2"><span style="color:#222">Principal</span></td>
+    <td class="tg-bn4z"><span style="color:#222">Ms Kong Yee Loon</span></td>
+    <td class="tg-bn4z"><span style="color:#222">Principal</span></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Mr See Kok Kiong </span></td>
-    <td class="tg-a3j2"><span style="color:#222"> VP (Acad)</span><br></td>
+    <td class="tg-bn4z"><span style="color:#222">Mr See Kok Kiong </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> VP (Acad)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Mdm Kylicia Soo Geok Ling </span></td>
-    <td class="tg-a3j2"><span style="color:#222">VP (Acad) </span></td>
+    <td class="tg-bn4z"><span style="color:#222">Mdm Kylicia Soo Geok Ling </span></td>
+    <td class="tg-bn4z"><span style="color:#222">VP (Acad) </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222">Mrs Andrea Tan</span></td>
-    <td class="tg-a3j2"><span style="color:#222">VP (Admin) </span></td>
+    <td class="tg-bn4z"><span style="color:#222">Mrs Andrea Tan</span></td>
+    <td class="tg-bn4z"><span style="color:#222">VP (Admin) </span></td>
   </tr>
 </tbody>
 </table>
