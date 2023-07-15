@@ -3,7 +3,6 @@ title: Key Personnel
 permalink: /about-us/Key-Personnel/
 description: ""
 ---
-
 ![](/images/Staff/key%20personnel%202023.jpg)
 
 <style type="text/css">
