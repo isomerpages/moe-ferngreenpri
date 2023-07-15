@@ -18,4 +18,3 @@ Please&nbsp;[click HERE](https://www.moe.gov.sg/preschool/moe-kindergarten)&nbsp
 <b>Phone:</b>&nbsp;6634 1318                                                                         
 <b>Fax:</b>&nbsp;6634 1381  
 <b>Email:</b>&nbsp;mk_ferngreen@moe.edu.sg
-![](/images/bg-bottom.png)
