@@ -3,8 +3,6 @@ title: About Us
 permalink: /about-us/About-Us/
 description: ""
 ---
-![](/images/Banner.png)
-
 # ABOUT US
 
 <style type="text/css">
@@ -16,7 +14,8 @@ description: ""
 .tg .tg-vjkc{border-color:#ffffff;font-size:26px;font-style:italic;text-align:left;vertical-align:top}
 .tg .tg-c7xj{border-color:#ffffff;color:#009901;font-size:26px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+
+![](/images/bg-bottom.png)<table class="tg">
 <thead>
   <tr>
     <th class="tg-vjkc">Welcome to</th>
@@ -35,8 +34,4 @@ description: ""
   <tr>
     <td class="tg-c7xj">ஃபெர்ன் கிரீன் தொடக்கப்பள்ளி</td>
   </tr>
-</tbody>
-</table>
-
-
-![](/images/bg-bottom.png)
+</tbody></table>

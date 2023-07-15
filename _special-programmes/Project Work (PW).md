@@ -3,8 +3,6 @@ title: Project Work (PW)
 permalink: /special-programmes/Project-Work-PW/
 description: ""
 ---
-![](/images/Banner.png)
-
 # PROJECT WORK (PW)
 
 AN OVERVIEW
@@ -22,13 +20,13 @@ In Fern Green, our approach to Project Work is anchored by the Inquiry-based Lea
 PROJECT THEMES
 --------------
 
-In line with our school’s eco-commitment to an urgent global emergency of climate change, the themes for the project work across the years will be nested in the overarching theme of “Conservation and Biodiversity”.  We hope that this would allow our children the space to begin to discern the desired course of human action for our generations to come, and inspire them to take the first step towards advocating for the change they would like to see.   
+In line with our school’s eco-commitment to an urgent global emergency of climate change, the themes for the project work across the years will be nested in the overarching theme of “Conservation and Biodiversity”.&nbsp; We hope that this would allow our children the space to begin to discern the desired course of human action for our generations to come, and inspire them to take the first step towards advocating for the change they would like to see.&nbsp;  
   
 
 OUR STUDENTS’ WORK
 ------------------
 
-In 2021 Primary 3 IPW, students were tasked to create a 3D Infographic to raise awareness of the importance of conservation of their ‘adopted’ endangered animal. To inculcate the importance of upcycling to conserve our scarce resources, this infographic should be made using recycled materials and have a functional use (e.g., can be used as a pencil holder). Here are some samples of students’ work.
+In 2021 Primary 3 IPW, students were tasked to create a 3D Infographic to raise awareness of the importance of conservation of their ‘adopted’ endangered animal. To inculcate the importance of upcycling to conserve our scarce resources, this infographic should be made using recycled materials and have a functional use (e.g., can be used as a pencil holder).&nbsp;Here are some samples of students’ work.
 
 <b> Samples of 2021 Primary 3 IPW students’ work: </b>
 

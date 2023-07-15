@@ -3,30 +3,17 @@ title: KCare@FG
 permalink: /moe-kindergarten/KCareatFG/
 description: ""
 ---
-![](/images/Banner.png)
-
 # KCare@FG
 
 
-Centre Supervisor    : Ms Ang Pei Ting Careen
+**Centre Supervisor:** Ms Gayu
 
-Email                       : careen@rafflesstudentcare.com
+**Email:** [Gayathry@rafflesstudentcare.com](mailto:Gayathry@rafflesstudentcare.com)
 
+**Contact Number:**
+8774 8145 (WhatsApp)
   
 
-Senior Teacher        : Ong Lay Hoon Angelia
+**General Enquiries:** KCFG@rafflesstudentcare.com
 
-Email                        : angelia@rafflesstudentcare.com
-
-  
-
-Contact Numbers: 
-
-*   8774 8145 (WhatsApp)
-*   6634 1510 (Main Line)
-
-  
-General enquiries: KCFG@rafflesstudentcare.com
-
-
-![](/images/bg-bottom.png)
+For more information, please click [here](https://sites.google.com/moe.edu.sg/mkferngreen/kcare?authuser=0).

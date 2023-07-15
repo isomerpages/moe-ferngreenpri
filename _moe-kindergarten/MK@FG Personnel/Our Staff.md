@@ -4,9 +4,6 @@ permalink: /moe-kindergarten/MKatFG-Personnel/Our-Staff/
 description: ""
 third_nav_title: MK@FG Personnel
 ---
-![](/images/Banner.png)
-
-
 # Our Staff
 
 
@@ -460,6 +457,3 @@ third_nav_title: MK@FG Personnel
   </tr>
 </thead>
 </table>
-
-
-![](/images/bg-bottom.png)
