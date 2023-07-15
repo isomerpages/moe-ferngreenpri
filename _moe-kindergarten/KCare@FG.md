@@ -17,4 +17,3 @@ description: ""
 **General Enquiries:** KCFG@rafflesstudentcare.com
 
 For more information, please click [here](https://sites.google.com/moe.edu.sg/mkferngreen/kcare?authuser=0).
-![](/images/bg-bottom.png)
