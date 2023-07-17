@@ -33,6 +33,3 @@ In 2021 Primary 3 IPW, students were tasked to create a 3D Infographic to raise 
 ![](/images/Project%20Work%20(PW)/PW1.jpeg)
 ![](/images/Project%20Work%20(PW)/PW2.jpeg)
 ![](/images/Project%20Work%20(PW)/PW3.jpeg)
-
-
-![](/images/bg-bottom.png)
