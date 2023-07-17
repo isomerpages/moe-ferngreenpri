@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Environmental-Education/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # ENVIRONMENTAL EDUCATION
 
@@ -19,5 +18,3 @@ We will do this through the following activities:
 3.  Cleaning their immediate environment (classrooms)  
     
 4.  Canteen clean up
-
-![](/images/bg-bottom.png)
