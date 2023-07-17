@@ -4,7 +4,6 @@ permalink: /our-curriculum/ICT/Programmes/
 description: ""
 third_nav_title: ICT
 ---
-![](/images/Banner.png)
 
 # **Programmes**
 
@@ -36,5 +35,3 @@ To achieve the Department’s goals, students will be  
 * Thematic displays of books
 
 * Thematic books reviews and competitions
-
-![](/images/bg-bottom.png)

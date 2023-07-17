@@ -3,7 +3,6 @@ title: Partnership with TTSH
 permalink: /stakeholders-and-partnerships/Partnership-with-TTSH/
 description: ""
 ---
-![](/images/Banner.png)
 
 # Partnership with TTSH
 
@@ -17,5 +16,3 @@ The school took part in TTSH’s Project Hong Bao fundraising activity this Luna
 To instill the value of Care in our students, the school collaborated with Tan Tock Seng Hospital to commemorate Nurses Day this year. Nurses play an important role in caring for patients and ensuring that they are well supported during the recovery process. For the Nurses' Day on 1 August, our students will learn about what nurses do and how they are so important in Patients’ recovery process. The children will also design a card and pen down notes of appreciation to appreciate the efforts of our nurses.
 
 <figure><img src="/images/TTSH/Notes%20of%20Appreciation%20for%20Nurses%202018.jpg" style="width:125%"><figcaption> Notes of Appreciation for the nurses on Nurses' Day 2018.</figcaption></figure>
-
-![](/images/bg-bottom.png)

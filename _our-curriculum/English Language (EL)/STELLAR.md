@@ -4,7 +4,6 @@ permalink: /our-curriculum/English-Language-EL/STELLAR/
 description: ""
 third_nav_title: English Language (EL)
 ---
-![](/images/Banner.png)
 
 # **STELLAR**
 
@@ -18,6 +17,3 @@ In the lower primary classrooms, students experience shared reading with their t
 [www.stellarliteracy.sg](http://www.stellarliteracy.sg/)
 
 ![](/images/English/EL2.jpeg)
-
-
-![](/images/bg-bottom.png)

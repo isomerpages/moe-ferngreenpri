@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Values-in-Action-VIA/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **Values in Action (VIA)**
 
@@ -28,5 +27,3 @@ FGPS’s values of Respect, Responsibility, Resilience, Integrity, Care and Harm
   
 
 We inculcate values in our students through a variety of programs including Form-teacher Guidance Period (FTGP), Environment Education and CCE lessons conducted in Mother Tongue. This year, we are focusing on the value of Care. Students will learn about care through our partnerships with charitable organisations (such as TTSH Community Fund) and the community (such as Southeast CDC for the Walk for Rice program.)
-
-![](/images/bg-bottom.png)

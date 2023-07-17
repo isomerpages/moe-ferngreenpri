@@ -4,9 +4,6 @@ permalink: /stakeholders-and-partnerships/Parent-Support-Group-PSG/Parent-Suppor
 description: ""
 third_nav_title: Parent Support Group (PSG)
 ---
-![](/images/Banner.png)
-
-# &nbsp;Parent Support Group (PSG)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,5 +74,3 @@ Link: [PSG 2023](https://go.gov.sg/02n0od)
 ![](/images/PSG/psg%202023.png)
 
 ![](/images/PSG/PSG.jpeg)
-
-![](/images/bg-bottom.png)

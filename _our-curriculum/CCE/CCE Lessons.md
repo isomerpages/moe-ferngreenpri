@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/CCE-Lessons/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **CCE LESSONS**
 
@@ -56,6 +55,3 @@ A process based teaching approach comprises instructional strategies such as:
 * Thinking Routines
 * Group work
 * Circle Processes
-
-
-![](/images/bg-bottom.png)

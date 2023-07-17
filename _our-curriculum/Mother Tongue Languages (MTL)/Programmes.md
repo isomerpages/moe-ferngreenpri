@@ -4,7 +4,6 @@ permalink: /our-curriculum/Mother-Tongue-Languages-MTL/Programmes/
 description: ""
 third_nav_title: Mother Tongue Languages (MTL)
 ---
-![](/images/Banner.png)
 
 # **Programmes**
 
@@ -33,6 +32,3 @@ third_nav_title: Mother Tongue Languages (MTL)
     
 *   <b>Partnering Parents in Education</b>   
     Parents are the first teachers of children. By sharing knowledge and tips on supervision of learning, parents are better equipped to support their children learn in learning, henceforth, enjoy success.    
-
-		
-![](/images/bg-bottom.png)

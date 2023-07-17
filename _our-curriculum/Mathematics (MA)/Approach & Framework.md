@@ -4,7 +4,6 @@ permalink: /our-curriculum/Mathematics-MA/Approach-and-Framework/
 description: ""
 third_nav_title: Mathematics (MA)
 ---
-![](/images/Banner.png)
 
 # **Approach & Framework**
 <b>Curriculum</b>
@@ -48,5 +47,3 @@ As mathematics is hierarchical in nature, a “spiral approach” is adopted in 
 *   Use of the mini whiteboard/technology to respond individually, and during pair and group work
 
 ![](/images/Mathematics/Math5.png)
-
-![](/images/bg-bottom.png)

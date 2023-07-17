@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Student-Leadership/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **Student Leadership**
 
@@ -33,5 +32,3 @@ Key leaders undergo a rigorous selection process and are expected to be role mod
 3) Application (We give upper primary students a chance to be involved in working on fund raising, school improvement or environmental protection projects)
 
 Environmental protection projects can be in the form of beach cleaning, park cleaning or Assembly talks to peers on how to protect the environment
-
-![](/images/bg-bottom.png)

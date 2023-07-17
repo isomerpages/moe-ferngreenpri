@@ -4,7 +4,6 @@ permalink: /our-curriculum/ICT/Information-and-Communications-Technology-ICT/
 description: ""
 third_nav_title: ICT
 ---
-![](/images/Banner.png)
 
 # **Information &amp; Communications Technology (ICT)**
 
@@ -31,5 +30,3 @@ third_nav_title: ICT
 *   Work with relevant agencies to organise activities to promote and raise readership.
 
 ![](/images/ICT/ICT3.png)
-
-![](/images/bg-bottom.png)

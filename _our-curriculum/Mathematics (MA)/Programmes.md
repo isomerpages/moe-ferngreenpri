@@ -4,7 +4,6 @@ permalink: /our-curriculum/Mathematics-MA/Programmes/
 description: ""
 third_nav_title: Mathematics (MA)
 ---
-![](/images/Banner.png)
 
 
 # **Programmes**
@@ -32,5 +31,3 @@ Parents will learn how their children learn Mathematics in the classroom. They w
 [Singapore Mathematics Curriculum](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx)
 
 [Primary school subjects and syllabuses | MOE](https://www.moe.gov.sg/primary/curriculum/syllabus)
-
-![](/images/bg-bottom.png)

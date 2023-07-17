@@ -3,7 +3,6 @@ title: Sexuality Education (SEd)
 permalink: /our-curriculum/Sexuality-Education-SEd/
 description: ""
 ---
-![](/images/Banner.png)
 
 # MOE SEXUALITY EDUCATION (SED)
 
@@ -57,4 +56,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 9. Parents who wish to pt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63d37ad78de0970012b9f40d). The completed opt-out form is to be submitted by 07/02/2023.
 
 10. Parents can contact the school at 68343100 or email (ferngreen_ps@moe.edu.sg) for discussion or to seek clarification about the schools's Sexuality Education programme.
-![](/images/bg-bottom.png)
