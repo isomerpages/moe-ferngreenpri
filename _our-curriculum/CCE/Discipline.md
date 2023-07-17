@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Discipline/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **DISCIPLINE**
 
@@ -85,5 +84,3 @@ When a student breaks a school rule, he / she will reflect on:
   </tr>
 </tbody>
 </table>
-
-![](/images/bg-bottom.png)
