@@ -3,7 +3,6 @@ title: "Partnership with BCA & KLL: Zero Corridor"
 permalink: /stakeholders-and-partnerships/Partnership-with-BCA-and-KLL-Zero-Corridor/
 description: ""
 ---
-![](/images/Banner.png)
 
 
 # Partnership with BCA & KLL: Zero Corridor
@@ -16,5 +15,3 @@ The Zero Corridor is a proud product of the collaboration between Fern Green Pri
 Leveraging the GreenSeeds Funds, an initiative by BCA and KLL, the school seeks to champion green efforts with its grounds-up ideas on up-cycling waste materials, and through educating the students and the public on the importance of preserving our nature.
 
 ![](/images/BCA%20&%20KLL/Zero2.png)
-
-![](/images/bg-bottom.png)
