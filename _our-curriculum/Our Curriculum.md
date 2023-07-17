@@ -3,10 +3,6 @@ title: Our Curriculum
 permalink: /our-curriculum/our-curriculum/
 description: ""
 ---
-![](/images/Banner.png)
-
-# **Our Curriculum**
-
 
 <u><b> Curricular Planning Philosophy - <i>Learning by Doing</i> </b></u>
 
@@ -25,5 +21,3 @@ Our instructional approaches begin with inquiry. Through the use of thought-prov
 Inquiry is not unique to education. The real world outside the classrooms is filled with experts in diverse disciplines who are themselves thoughtful inquirers. These scientists, artists, writers, entrepreneurs and social-preneurs all investigate questions, issues, problems or ideas. Within the school setting, our students engage in inquiry through participating in problem-based learning during Math lessons, carrying out science research projects or tackling a writing assignment that requires them to think the way an event planner does and put forth a proposal.
 
 As facilitators of learning, our teachers will help our students by structuring and guiding the learning experience. They will engage our students to think about and understand the relevance and context of what they learn through skilful and intentional use of face time with students and convert most classroom experiences into collaborative problem solving. <i>In order to carry out this role, all our teachers will be trained in inquiry-based and problem-based learning.</i>
-
-![](/images/bg-bottom.png)
