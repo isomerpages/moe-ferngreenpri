@@ -4,7 +4,6 @@ permalink: /our-curriculum/PE-Art-and-Music-PE-Art-MU/Programmes/
 description: ""
 third_nav_title: PE, Art & Music (PE, Art, MU)
 ---
-![](/images/Banner.png)
 
 # **PROGRAMMES**
 
@@ -30,5 +29,3 @@ third_nav_title: PE, Art & Music (PE, Art, MU)
 *   Primary 1 & 2: Ethnic Percussion based on Singapore’s Cultures   
 *   Primary 3 & 4: Intro to Ukulele   
 *   Primary 5 & 6: ICT Based Music Creation
-
-![](/images/bg-bottom.png)
