@@ -3,7 +3,6 @@ title: Co Curricular Activities (CCA)
 permalink: /our-curriculum/Co-Curricular-Activities-CCA/
 description: ""
 ---
-![](/images/Banner.png)
 
 # **CO-CURRICULAR ACTIVITIES (CCA)**
 
@@ -64,5 +63,3 @@ To achieve our desired outcome of providing a broad exposure to various types of
 ##### **CCA Training Hours**
 
 Every Tuesday, 2.15 p.m. to 4.15 p.m.
-
-![](/images/bg-bottom.png)
