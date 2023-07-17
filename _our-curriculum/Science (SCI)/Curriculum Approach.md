@@ -4,7 +4,6 @@ permalink: /our-curriculum/Science-SCI/Curriculum-Approach/
 description: ""
 third_nav_title: Science (SCI)
 ---
-![](/images/Banner.png)
 
 # **Curriculum Approach**
 Our science instructional approach begins with inquiry. 
@@ -26,5 +25,3 @@ In structuring and guiding the learning experience, we also aim to nurture maker
 ![](/images/Science/Sci5.jpeg)
 
 The scientific knowledge, skills and processes will be taught in a spiral approach for the 5 themes - Diversity, Cycles, Systems, Energy and Interactions.
-
-![](/images/bg-bottom.png)
