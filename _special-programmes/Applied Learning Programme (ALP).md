@@ -217,4 +217,3 @@ The&nbsp;<b>FGPS Maker Education ALP</b>&nbsp;will take on a 3-tier learning str
   </tr>
 </tbody>
 </table>
-![](/images/bg-bottom.png)
