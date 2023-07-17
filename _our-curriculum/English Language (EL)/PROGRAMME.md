@@ -4,7 +4,6 @@ permalink: /our-curriculum/English-Language-EL/PROGRAMME/
 description: ""
 third_nav_title: English Language (EL)
 ---
-![](/images/Banner.png)
 
 # **PROGRAMME**
 
@@ -66,6 +65,3 @@ Inquiry-based learning is infused into the lessons to ignite students’ curiosi
 
 ![](/images/English/EL9.png)
 ![](/images/English/EL10.png)
-
-
-![](/images/bg-bottom.png)
