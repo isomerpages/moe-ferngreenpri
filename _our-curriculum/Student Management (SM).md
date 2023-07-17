@@ -3,7 +3,6 @@ title: Student Management (SM)
 permalink: /our-curriculum/Student-Management-SM/
 description: ""
 ---
-![](/images/Banner.png)
 
 # **Student Management (SM)**
 
@@ -24,6 +23,3 @@ All these will be done through the Student Development Team consisting of the He
 ![](/images/Student%20Management%20(SM)/SM1.jpeg)
 ![](/images/Student%20Management%20(SM)/SM2.jpeg)
 ![](/images/Student%20Management%20(SM)/SM3.jpeg)
-
-
-![](/images/bg-bottom.png)
