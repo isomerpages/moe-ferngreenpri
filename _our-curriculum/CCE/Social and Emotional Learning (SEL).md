@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Social-and-Emotional-Learning-SEL/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **Social and Emotional Learning (SEL)**
 
@@ -19,5 +18,3 @@ third_nav_title: CCE
 4.  Social-awareness – Discerns different perspectives, recognizes and appreciates diversity.  
     
 5.  Responsible decision making – identifies and analyses the implications and consequences of a decision made based on moral consideration
-
-![](/images/bg-bottom.png)
