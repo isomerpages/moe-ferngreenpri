@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Character-Citizenship-Education-CCE/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **Character & Citizenship Education (CCE)**
 
@@ -25,5 +24,3 @@ The school’s CCE curriculum follows MOE’s Framework for 21st Century Compete
 The CCE department in the school is structured as follows:
 
 ![](/images/CCE/CCE2.png)
-
-![](/images/bg-bottom.png)
