@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/National-Education-NE/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # **National Education (NE)**
 
@@ -26,5 +25,3 @@ We aim to meaningfully and appropriately engage our young to feel a genuine sens
 3) Racial Harmony Day
 
 4) National Day Celebrations
-
-![](/images/bg-bottom.png)
