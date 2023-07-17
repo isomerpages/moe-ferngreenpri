@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Cyberwellness/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Banner.png)
 
 # CYBERWELLNESS
 
@@ -38,5 +37,3 @@ Students need to:
 
 
 The school will be organising a series of activities including assembly talks and a colouring competition to increase awareness of cyberwellness among the students.
-
-![](/images/bg-bottom.png)
