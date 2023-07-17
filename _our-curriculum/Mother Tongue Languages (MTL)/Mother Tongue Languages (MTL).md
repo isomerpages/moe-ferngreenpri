@@ -4,7 +4,6 @@ permalink: /our-curriculum/Mother-Tongue-Languages-MTL/Mother-Tongue-Languages-M
 description: ""
 third_nav_title: Mother Tongue Languages (MTL)
 ---
-![](/images/Banner.png)
 
 # **Mother Tongue Languages (MTL)**
 
@@ -31,5 +30,3 @@ Mother Tongue is a living language. It is used and valued in our society. To hel
 *   Students from diverse background have different needs. To cater to such needs, Differentiate Instructions will be applied to ensure pupils achieve the learning outcomes.  
     
 *   To arouse the curiosity of students, inquiry-based learning will be the key approach to engage students in self-directed learning while they explore the area of interest in the given topics.
-
-![](/images/bg-bottom.png)
