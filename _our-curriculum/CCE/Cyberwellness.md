@@ -4,7 +4,6 @@ permalink: /our-curriculum/CCE/Cyberwellness/
 description: ""
 third_nav_title: CCE
 ---
-
 # CYBERWELLNESS
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
@@ -37,3 +36,10 @@ Students need to:
 
 
 The school will be organising a series of activities including assembly talks and a colouring competition to increase awareness of cyberwellness among the students.
+
+### Information for Parents
+Gaming Addiction: What are signs of gaming and internet addiction? What can you do to help?
+
+Click on the [link](https://drive.google.com/file/d/1aunGXAutiCmpIP2ngmyoBuJbUT3AGGOI/view) to find out more.
+
+
