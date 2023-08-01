@@ -4,8 +4,6 @@ permalink: /our-curriculum/Co-Curricular-Activities-CCA/
 description: ""
 ---
 
-# **CO-CURRICULAR ACTIVITIES (CCA)**
-
 ### **Co-Curricular Activities (CCA)**
 
 (CCAs are offered from Primary 3 level onwards)
@@ -62,4 +60,4 @@ To achieve our desired outcome of providing a broad exposure to various types of
 
 ##### **CCA Training Hours**
 
-Every Tuesday, 2.15 p.m. to 4.15 p.m.
+Every Tuesday, 2.30 p.m. to 4.30 p.m.
