@@ -2,14 +2,14 @@ collections:
   general-information:
     output: true
     order:
-      - Parents Gateway/Update Contact Details in Parents Gateway.md
-      - Parents Gateway/.keep
       - General Information.md
       - Home Based Learning (HBL).md
       - Announcements.md
       - School Calendar.md
       - Notifications.md
       - Quick Download.md
+      - Parents Gateway/.keep
+      - Parents Gateway/Update Contact Details in Parents Gateway.md
       - Forms & other info (Edusave & Giro, etc).md
       - School Rules.md
       - Homework Policy.md
