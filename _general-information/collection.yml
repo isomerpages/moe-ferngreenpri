@@ -2,26 +2,26 @@ collections:
   general-information:
     output: true
     order:
+      - Announcements.md
+      - Bookshop Services.md
+      - E Learning.md
+      - Forms & other info (Edusave & Giro, etc).md
       - General Information.md
       - Home Based Learning (HBL).md
-      - E Learning.md
-      - Announcements.md
-      - School Calendar.md
+      - Homework Policy.md
       - Notifications.md
-      - Quick Download.md
       - Parents Gateway/.keep
       - Parents Gateway/Onboarding.md
       - Parents Gateway/Update Contact Details in Parents Gateway.md
-      - Forms & other info (Edusave & Giro, etc).md
-      - School Rules.md
-      - Homework Policy.md
-      - School Hours.md
-      - School Uniform & Supplier.md
-      - Bookshop Services.md
+      - Quick Download.md
       - School Bus Services/.keep
       - School Bus Services/School Bus Service.md
-      - School Dental Services.md
-      - Student Care Services.md
+      - School Calendar.md
       - School Canteen.md
+      - School Dental Services.md
+      - School Hours.md
       - School Newsletters.md
+      - School Rules.md
+      - School Uniform & Supplier.md
+      - Student Care Services.md
       - Virtual School Open House.md
