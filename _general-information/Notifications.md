@@ -3,11 +3,36 @@ title: Notifications
 permalink: /general-information/Notifications/
 description: ""
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bn4z{background-color:#F1F6DF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">T3W10</span></td>
+    <td class="tg-bn4z"><span style="color:#222">[30 Aug](/files/Notifications/2023/t3w10%20parents%20notification%20(30%20aug%202023).pdf)</span></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">Mr See Kok Kiong </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> VP (Acad)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">Mdm Kylicia Soo Geok Ling </span></td>
+    <td class="tg-bn4z"><span style="color:#222">VP (Acad) </span></td>
+  </tr>
+  <tr>
+
 ### Weekly Parents Notifications 2023
 
 <b>Term/Week: Link to Parents Notification</b>
 
-* T3W10: [30 Aug](/files/Notifications/2023/t3w10%20parents%20notification%20(30%20aug%202023).pdf)
+* T3W10: 
 * T3W9: [23 Aug](/files/Notifications/2023/t3w9%20parents%20notification%20(23%20aug%202023).pdf)
 * T3W8: [16 Aug](/files/Notifications/2023/t3w8%20parents%20notification%20(16%20aug%202023).pdf)
 * T3W7: [8 Aug](/files/Notifications/2023/t3w7%20parents%20notification%20(8%20aug%202023).pdf)
