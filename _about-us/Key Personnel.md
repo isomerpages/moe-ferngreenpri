@@ -124,7 +124,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222"> Mrs Cheryl Lee-Ng Peck Mui</span></td>
-    <td class="tg-bn4z"><span style="color:#222">YH (MUP) </span></td>
+    <td class="tg-bn4z"><span style="color:#222">YH (UP) </span></td>
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222">Miss Chen Pei Jin</span></td>
