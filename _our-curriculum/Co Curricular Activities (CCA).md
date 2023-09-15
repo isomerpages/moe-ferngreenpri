@@ -3,7 +3,6 @@ title: Co Curricular Activities (CCA)
 permalink: /our-curriculum/Co-Curricular-Activities-CCA/
 description: ""
 ---
-
 ### **Co-Curricular Activities (CCA)**
 
 (CCAs are offered from Primary 3 level onwards)
@@ -35,6 +34,7 @@ To achieve our desired outcome of providing a broad exposure to various types of
 * Art Club  
 * Infocomm & Media Club
 * Makers’ Club
+* Outdoor Adventure Club
 
 ![](/images/CCA/CCA2.png)
 
