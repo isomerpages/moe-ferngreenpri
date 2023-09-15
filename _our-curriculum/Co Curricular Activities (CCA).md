@@ -43,6 +43,7 @@ To achieve our desired outcome of providing a broad exposure to various types of
 * Drama Club                                   
 * Modern Dance
 * Show Choir
+* Guitar Ensemble
 
 ![](/images/CCA/CCA3.png)
 
@@ -51,6 +52,7 @@ To achieve our desired outcome of providing a broad exposure to various types of
 * Basketball (Boys & Girls)
 * Football (Boys & Girls)
 * Tchoukball (Boys & Girls)
+* Floorball (Boys & Girls)
 
 ![](/images/CCA/CCA4.png)
 
