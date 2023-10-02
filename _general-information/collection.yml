@@ -2,9 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Notifications/.keep
-      - Notifications/2022.md
-      - Notifications/2021.md
       - Announcements.md
       - Bookshop Services.md
       - E Learning.md
@@ -12,6 +9,9 @@ collections:
       - General Information.md
       - Home Based Learning (HBL).md
       - Homework Policy.md
+      - Notifications/.keep
+      - Notifications/2022.md
+      - Notifications/2021.md
       - Parents Gateway/.keep
       - Parents Gateway/Onboarding.md
       - Parents Gateway/Update Contact Details in Parents Gateway.md
