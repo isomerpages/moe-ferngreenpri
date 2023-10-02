@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - Notifications/Notifications.md
+      - Notifications/2021.md
       - Notifications/.keep
       - Announcements.md
       - Bookshop Services.md
