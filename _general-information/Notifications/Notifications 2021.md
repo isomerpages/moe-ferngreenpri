@@ -1,10 +1,9 @@
 ---
-title: "Notifications 2021"
+title: Notifications 2021
 permalink: /general-information/notifications/2021/
 description: ""
 third_nav_title: Notifications
 ---
-
 ### Weekly Parents Notifications 2021
 
 <b>Term/Week: Link to Parents Notification</b>
