@@ -5,8 +5,6 @@ description: ""
 ---
 ### Weekly Parents Notifications 2023
 
-<b>Term/Week: Link to Parents Notification</b>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,8 +27,6 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-
-<h2>HTML Table</h2>
 
 <table>
   <tr>
