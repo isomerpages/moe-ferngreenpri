@@ -57,20 +57,36 @@ tr:nth-child(even) {
     <td>T3W8</td>
     <td><a href="/files/Notifications/2023/t3w8%20parents%20notification%20(16%20aug%202023).pdf" target="_blank">16 Aug 2023</td>
   </tr>
+    <td>T3W7</td>
+    <td><a href="/files/Notifications/2023/t3w7%20parents%20notification%20(8%20aug%202023).pdf" target="_blank">8 Aug 2023</td>
+  </tr>
+     <td>T3W6</td>
+    <td><a href="/files/Notifications/2023/t3w6%20parents%20notification%20(2%20aug%202023).pdf" target="_blank">2 Aug 2023</td>
+  </tr>
+    <td>T3W5</td>
+    <td><a href="/files/Notifications/2023/t3w5%20parents%20notification%20(26%20jul%202023).pdf" target="_blank">26 July 2023</td>
+  </tr>
+    <td>T3W4</td>
+    <td><a href="/files/Notifications/2023/t3w4%20parents%20notification%20(19%20jul%202023).pdf" target="_blank">19 July 2023</td>
+  </tr>
+    <td>T3W3</td>
+    <td><a href="/files/Notifications/2023/t3w3%20parents%20notification%20(12%20jul%202023).pdf" target="_blank">12 July 2023</td>
+  </tr>
+    <td>T3W2</td>
+    <td><a href="/files/Notifications/2023/t3w2%20parents%20notification%20(5%20jul%202023).pdf" target="_blank">5 July 2023</td>
+  </tr>
+    <td>T3W1</td>
+    <td><a href="/files/Notifications/2023/t3w1%20parents%20notification%20(28%20jun%202023).pdf" target="_blank">28 June 2023</td>
+  </tr>
+    <td>T2W10</td>
+    <td><a href="/files/Notifications/2023/t2w10%20parents%20notification%20(24%20may%202023).pdf" target="_blank">24 May 2023</td>
+  </tr>
 </table>
 
 </body>
 </html>
- 
 
-* T3W7: [8 Aug](/files/Notifications/2023/t3w7%20parents%20notification%20(8%20aug%202023).pdf)
-* T3W6: [2 Aug](/files/Notifications/2023/t3w6%20parents%20notification%20(2%20aug%202023).pdf)
-* T3W5: [26 July](/files/Notifications/2023/t3w5%20parents%20notification%20(26%20jul%202023).pdf)
-* T3W4: [19 July](/files/Notifications/2023/t3w4%20parents%20notification%20(19%20jul%202023).pdf)
-* T3W3: [12 July](/files/Notifications/2023/t3w3%20parents%20notification%20(12%20jul%202023).pdf)
-* T3W2: [5 July](/files/Notifications/2023/t3w2%20parents%20notification%20(5%20jul%202023).pdf)
-* T3W1: [28 June](/files/Notifications/2023/t3w1%20parents%20notification%20(28%20jun%202023).pdf)
-* T2W10: [24 May](/files/Notifications/2023/t2w10%20parents%20notification%20(24%20may%202023).pdf)
+
 * T2W9: [17 May](/files/Notifications/2023/t2w9%20parents%20notification%20(17%20may%202023).pdf)
 * T2W8: [10 May](/files/Notifications/2023/t2w8%20parents%20notification%20(10%20may%202023).pdf)
 * T2W7: [3 May](/files/Notifications/2023/t2w7%20parents%20notification%20(3%20may%202023).pdf)
