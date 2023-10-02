@@ -7,12 +7,66 @@ description: ""
 
 <b>Term/Week: Link to Parents Notification</b>
 
-* T4W3: [27 Sep](/files/Notifications/2023/t4w3%20parents%20notification%20(27%20sep%202023).pdf)
-* T4W2: [20 Sep](/files/Notifications/2023/t4w2%20parents%20notification%20(20%20sep%202023).pdf)
-* T4W1: [13 Sep](/files/Notifications/2023/t4w1%20parents%20notification%20(13%20sep%202023).pdf)
-* T3W10: [30 Aug](/files/Notifications/2023/t3w10%20parents%20notification%20(30%20aug%202023).pdf)
-* T3W9: [23 Aug](/files/Notifications/2023/t3w9%20parents%20notification%20(23%20aug%202023).pdf)
-* T3W8: [16 Aug](/files/Notifications/2023/t3w8%20parents%20notification%20(16%20aug%202023).pdf)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Term/Week</th>
+    <th>Link to Parents Notification</th>
+  </tr>
+  <tr>
+    <td>T4W3</td>
+    <td><a href="/files/Notifications/2023/t4w3%20parents%20notification%20(27%20sep%202023).pdf" target="_blank">27 Sep 2023</a></td>
+  </tr>
+  <tr>
+    <td>T4W2</td>
+    <td><a href="/files/Notifications/2023/t4w2%20parents%20notification%20(20%20sep%202023).pdf" target="_blank">20 Sep 2023</td>
+  </tr>
+  <tr>
+    <td>T4W1</td>
+    <td><a href="/files/Notifications/2023/t4w1%20parents%20notification%20(13%20sep%202023).pdf" target="_blank">13 Sep 2023</td>
+  </tr>
+  <tr>
+    <td>T3W10</td>
+    <td><a href="/files/Notifications/2023/t3w10%20parents%20notification%20(30%20aug%202023).pdf" target="_blank">30 Aug 2023</td>
+  </tr>
+  <tr>
+    <td>T3W9</td>
+    <td><a href="/files/Notifications/2023/t3w9%20parents%20notification%20(23%20aug%202023).pdf" target="_blank">23 Aug 2023</td>
+  </tr>
+  <tr>
+    <td>T3W8</td>
+    <td><a href="/files/Notifications/2023/t3w8%20parents%20notification%20(16%20aug%202023).pdf" target="_blank">16 Aug 2023</td>
+  </tr>
+</table>
+
+</body>
+</html>
+ 
+
 * T3W7: [8 Aug](/files/Notifications/2023/t3w7%20parents%20notification%20(8%20aug%202023).pdf)
 * T3W6: [2 Aug](/files/Notifications/2023/t3w6%20parents%20notification%20(2%20aug%202023).pdf)
 * T3W5: [26 July](/files/Notifications/2023/t3w5%20parents%20notification%20(26%20jul%202023).pdf)
