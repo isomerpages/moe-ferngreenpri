@@ -16,8 +16,8 @@ table {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+  text-align: center;
+  padding: 20px;
 }
 
 tr:nth-child(even) {
@@ -148,15 +148,19 @@ tr:nth-child(even) {
     <td>T1W5</td>
     <td><a href="/files/Notifications/2023/T1W5%20Parents%20Notification%20(1%20Feb%202023).pdf" target="_blank">1 Feb 2023</a></td>
   </tr>
+  <tr>
     <td>T1W4</td>
     <td><a href="/files/Notifications/2023/T1W4%20Parents%20Notification%20(25%20Jan%202023).pdf" target="_blank">25 Jan 2023</a></td>
   </tr>
+  <tr>
     <td>T1W3</td>
     <td><a href="/files/Notifications/2023/T1W3%20Parents%20Notification%20(18%20Jan%202023).pdf" target="_blank">18 Jan 2023</a></td>
   </tr>
+  <tr>
     <td>T1W2</td>
     <td><a href="/files/Notifications/2023/T1W2%20Parents%20Notification%20(11%20Jan%202023).pdf" target="_blank">11 Jan 2023</a></td>
   </tr>
+  <tr>
     <td>T1W1</td>
     <td><a href="/files/Notifications/2023/T1W1%20Parents%20Notification%20(4%20Jan%202023).pdf" target="_blank">4 Jan 2023</a></td>
   </tr>
