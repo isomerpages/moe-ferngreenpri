@@ -4,6 +4,21 @@ permalink: /general-information/Announcements/
 description: ""
 ---
 
+### The President's Award for Teachers (PAT) and the Outstanding Youth in Education Award (OYEA) 2024 
+Every year, President’s Award for Teachers (PAT) and the Outstanding Youth in Education Award (OYEA) are given out to teachers in Singapore to recognise their professional excellence. Both PAT and OYEA are national awards.
+
+PAT pays tribute to experienced teachers for their role in moulding the future of our nation. These teachers are role models for the teaching profession as they demonstrate a deep passion for teaching, and they inspire both their students and peers through their words and deeds.
+
+
+OYEA recognises young teachers who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. These teachers personify youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Educators born on or after 30 June 1989 are eligible for the award.
+
+
+
+Nominations for PAT 2024 and OYEA 2024 are now open and will close on Wednesday, 10 January 2024.
+
+We would like to invite you and your child/ward to submit your nomination(s) for one or more deserving teacher(s) by clicking on the URLs or scanning the QR codes below. Your nomination(s) will be a source of encouragement for the teacher(s).
+
+
 ### Join Us for Our Open House 2023! 
 #### **Registration is closed.**
 You are invited to experience the vibrant learning community of Fern Green Primary School at our Open House event! 
@@ -19,8 +34,6 @@ table {
 }
 </style>
 
-
-
 <table>
   <tbody><tr>
     <th>Date</th>
@@ -35,8 +48,6 @@ table {
     <td>70 Fernvale Link, Singapore 797538</td>
   </tr>
 </tbody></table>
-
-
 
 Don’t miss this chance to envision your child’s future at Fern Green Primary School. Mark your calendars to our Open House event and come explore the possibilities!
 
@@ -76,22 +87,6 @@ The 55 MKs participating in the 2023 MK Registration Exercise will hold their op
 For more information on the 2023 MK Open House and Registration Exercise, please visit [here](https://www.moe.gov.sg/preschool/moe-kindergarten).
 
 
-### The Outstanding Youth in Education Award (OYEA) 2023
-
-![](/images/Annoucements/OYEA%202023%20School%20Broadcast%20JPEG.jpg)
-
-
-### The President's Award for Teachers (PAT) 2023
-
-![](/images/Annoucements/PAT%202023%20School%20Broadcast%20JPEG.jpg)
-
-
-### Open House 2022
-
+### Open House Virtual Tour
 
 Click&nbsp;[Virtual Tour](https://www.thinglink.com/card/1309157252489281538)&nbsp;to access.  
-  
-The school will be holding an Open House on&nbsp;<b>Thursday, 7 July 2022, from 8.00am to 9.30am</b>&nbsp;for interested parents with children entering P1 in 2023.&nbsp;  
-  
-To register for the event, please click on the link below:  
-[Registration for Open House 2022](https://form.gov.sg/62afc59ab1647d001720228d)
