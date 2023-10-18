@@ -24,12 +24,14 @@ tr:nth-child(even) {
 }
 </style>
 
-
-
 <table>
   <tbody><tr>
     <th>Term/Week</th>
     <th>Link to Parents Notification</th>
+  </tr>
+		<tr>
+    <td>T4W6</td>
+    <td><a href="" target="_blank">18 Oct 2023</a></td>
   </tr>
 		 <tr>
     <td>T4W5</td>
