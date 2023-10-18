@@ -3,11 +3,12 @@ title: Announcements
 permalink: /general-information/Announcements/
 description: ""
 ---
-
 ### The President's Award for Teachers (PAT) and the Outstanding Youth in Education Award (OYEA) 2024 
 Every year, President’s Award for Teachers (PAT) and the Outstanding Youth in Education Award (OYEA) are given out to teachers in Singapore to recognise their professional excellence. Both PAT and OYEA are national awards.
 
 PAT pays tribute to experienced teachers for their role in moulding the future of our nation. These teachers are role models for the teaching profession as they demonstrate a deep passion for teaching, and they inspire both their students and peers through their words and deeds.
+
+
 
 
 OYEA recognises young teachers who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. These teachers personify youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Educators born on or after 30 June 1989 are eligible for the award.
@@ -89,4 +90,4 @@ For more information on the 2023 MK Open House and Registration Exercise, please
 
 ### Open House Virtual Tour
 
-Click&nbsp;[Virtual Tour](https://www.thinglink.com/card/1309157252489281538)&nbsp;to access.  
+Click&nbsp;[Virtual Tour](https://www.thinglink.com/card/1309157252489281538)&nbsp;to access.
