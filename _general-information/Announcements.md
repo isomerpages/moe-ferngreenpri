@@ -8,7 +8,7 @@ Every year, President’s Award for Teachers (PAT) and the Outstanding Youth in 
 
 PAT pays tribute to experienced teachers for their role in moulding the future of our nation. These teachers are role models for the teaching profession as they demonstrate a deep passion for teaching, and they inspire both their students and peers through their words and deeds.
 
-
+![](http://www.example.com/image.jpg)
 
 
 OYEA recognises young teachers who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. These teachers personify youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Educators born on or after 30 June 1989 are eligible for the award.
