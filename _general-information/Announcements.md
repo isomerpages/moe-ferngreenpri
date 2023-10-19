@@ -8,12 +8,11 @@ Every year, President’s Award for Teachers (PAT) and the Outstanding Youth in 
 
 PAT pays tribute to experienced teachers for their role in moulding the future of our nation. These teachers are role models for the teaching profession as they demonstrate a deep passion for teaching, and they inspire both their students and peers through their words and deeds.
 
-![](http://www.example.com/image.jpg)
-
+![](/images/Annoucements/pat%202024.jpg)
 
 OYEA recognises young teachers who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. These teachers personify youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Educators born on or after 30 June 1989 are eligible for the award.
 
-
+![](/images/Annoucements/oyea%202024.jpg)
 
 Nominations for PAT 2024 and OYEA 2024 are now open and will close on Wednesday, 10 January 2024.
 
