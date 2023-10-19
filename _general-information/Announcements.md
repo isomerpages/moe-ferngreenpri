@@ -22,6 +22,11 @@ We would like to invite you and your child/ward to submit your nomination(s) for
 
 [OYEA 2024](https://go.gov.sg/oyea2024)
 
+For queries and/or feedback about the awards, please send them to
+MOE_AST_PAT@moe.gov.sg (PAT 2024) or MOE_AST_OYEA@moe.gov.sg (OYEA 2024).
+
+Thank you for your support in recognising the contribution and impact of our teachers!
+
 
 ### Join Us for Our Open House 2023! 
 #### **Registration is closed.**
