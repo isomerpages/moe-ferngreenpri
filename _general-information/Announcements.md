@@ -16,7 +16,11 @@ OYEA recognises young teachers who have shown admirable passion for teaching, an
 
 Nominations for PAT 2024 and OYEA 2024 are now open and will close on Wednesday, 10 January 2024.
 
-We would like to invite you and your child/ward to submit your nomination(s) for one or more deserving teacher(s) by clicking on the URLs or scanning the QR codes below. Your nomination(s) will be a source of encouragement for the teacher(s).
+We would like to invite you and your child/ward to submit your nomination(s) for one or more deserving teacher(s) by clicking on the URLs. Your nomination(s) will be a source of encouragement for the teacher(s).
+
+[PAT 2024](https://go.gov.sg/pat2024)
+
+[OYEA 2024](https://go.gov.sg/oyea2024)
 
 
 ### Join Us for Our Open House 2023! 
