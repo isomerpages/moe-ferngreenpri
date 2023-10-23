@@ -34,6 +34,11 @@ third_nav_title: Gallery
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023-10-17%20p1%20orientation.JPG" width="284" height="189"></td>
   </tr>   
 	<tr>
+    <td class="tg-b4br">5 October 2023</td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/kPw9mVpt271zXXqF9"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Children's Day Celebration</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023-10-17%20p1%20orientation.JPG" width="284" height="189"></td>
+  </tr>   
+	<tr>
     <td class="tg-b4br">15 May 2023</td>
     <td class="tg-riya"><a href="https://photos.app.goo.gl/YYipdkCHqRJ5NEvF9"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Hari Raya Puasa Celebration</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/fgps%20hari%20raya%20celebration%202023.png" width="284" height="189"></td>
