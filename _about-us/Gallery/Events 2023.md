@@ -46,7 +46,7 @@ third_nav_title: Gallery
 	<tr>
     <td class="tg-b4br">13 July 2023</td>
     <td class="tg-riya"><a href="https://photos.app.goo.gl/wfDcX7iCGhnrXbwT7"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Open House</span></a></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/national%20day%20celebration%202023.JPG" width="284" height="189"></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/open%20house%202023.JPG" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">15 May 2023</td>
