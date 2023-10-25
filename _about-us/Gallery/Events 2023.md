@@ -44,6 +44,21 @@ third_nav_title: Gallery
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/national%20day%20celebration%202023.JPG" width="284" height="189"></td>
   </tr>   
 	<tr>
+    <td class="tg-b4br">13 July 2023</td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/wfDcX7iCGhnrXbwT7"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Open House</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/open%20house%202023.JPG" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">10 July 2023</td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/Uu5R8jiPS5r5UDzw8"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Nurses' Day</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/nurses%20day%202023.jpeg" width="284" height="189"></td>
+  </tr>   
+	<tr>
+    <td class="tg-b4br">8 July 2023</td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/jjw4AxyP1Vqmxpvm8"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">P5 NE Show</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/p5%20ne%20show%202023.jpg" width="284" height="189"></td>
+  </tr>   
+	<tr>
     <td class="tg-b4br">15 May 2023</td>
     <td class="tg-riya"><a href="https://photos.app.goo.gl/YYipdkCHqRJ5NEvF9"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Hari Raya Puasa Celebration</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/fgps%20hari%20raya%20celebration%202023.png" width="284" height="189"></td>
