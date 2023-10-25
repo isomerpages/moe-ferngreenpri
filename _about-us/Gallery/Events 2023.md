@@ -65,37 +65,37 @@ third_nav_title: Gallery
   </tr>   
 <tr>
     <td class="tg-b4br">8 May 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/12U6DP4igMesJ8df9b8Tu35gUBbke6GBx?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">ECG Talk (Beekeeper)</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/LaqDq9CSL4hWeSpn9"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">ECG Talk (Beekeeper)</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/20230508_ecg%20talk.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">8 May 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1_vL2E1xoB5PSozIlPfCb8oeOSj3oUGx2?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Cyber Wellness Talk</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/yqkEF2yGA1xWNqe48"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Cyber Wellness Talk</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/cyber%20wellness%20talk%202023.jpg" width="284" height="189"></td>
   </tr>   
 <tr>
     <td class="tg-b4br">28 Apr 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1eyRz_4q-vXUCDnd78LjrgTM5lHYf6LI_?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Clean Plate Campaign</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/QqN5RJwE1ZVqYnJMA"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Clean Plate Campaign</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/clean%20plate%20campaign%202023.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">17 Apr 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1Dq0PN43YUpFLMyuTNbhZvQJ5VOimkOB3?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Investiture</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/czGvJx2sYqdRHWi1A"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Investiture</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/20230417_prefects%20investiture.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">10 Apr 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1baPuPbuc1LsuSth-SpB4a67NB6DfbdT5?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Earth Day</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/5vvYYexwMRnsfdHFA"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Earth Day</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20earth%20day.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">1 Apr 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1QHjo7TsSHzxTa8I8BNxp23foYd5q5xPW?usp=share_link"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">International Friendship Day</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/6FW5Soyz6uwHyz9X9"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">International Friendship Day</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20ifd.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
     <td class="tg-b4br">24 Mar 2023</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1HDKuIc9sqqENLFtd8dR4yz2MY0uzEnqZ?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Training</span></a></td>
+    <td class="tg-riya"><a href="https://photos.app.goo.gl/XNLFaWwNSmWU4wUH9"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Prefects Training</span></a></td>
     <td class="tg-fxx4"><span style="color:#222"> </span><img src="/images/Gallery/2023/2023%20Prefects%20Training.jpg" width="284" height="189"></td>
   </tr>   
 	<tr>
