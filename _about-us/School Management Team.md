@@ -1,6 +1,6 @@
 ---
-title: Key Personnel
-permalink: /about-us/Key-Personnel/
+title: School Management Team
+permalink: /about-us/school-management-team/
 description: ""
 ---
 ![](/images/Staff/key%20personnel%202023.jpg)
