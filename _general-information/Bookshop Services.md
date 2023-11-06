@@ -2,24 +2,15 @@
 title: Bookshop Services
 permalink: /general-information/Bookshop-Services/
 description: ""
+variant: markdown
 ---
-
 <b>CASCO EDUCATIONAL SUPPLY PTE LTD</b> 
 
-Tel: <b>6547 4204</b>
+Tel:&nbsp;<b>6547 4204</b>
 
   
-For Booklists for 2023 P1, P2, P3, P4, P5 and P6, please [click HERE](https://drive.google.com/drive/folders/1URsuBY_GgXG2De8LlNEmMY3loO7rnc2P?usp=share_link).
+P1 to P6 Booklists for Year 2024, please [click here.](https://drive.google.com/drive/folders/1u1D_W9VIKjTg-iK2Fg0xETGBXv8aQ9Pw?usp=sharing)
 
-<b>1\. Primary 1:</b>  
+The sale of school textbook/resources will be held in the school from **20 Nov - 15 Dec** (excluding 11-13 Dec for students on FAS).
 
-Online Purchase: Online ordering commence from <b>7th Nov 2022 (Primary 1 only)</b> and cut off on 20th Dec 2022.
-
-<b>2\. Primary 2 – 6:</b>  
-
-Online Purchase: Online ordering commence from <b>18th Nov 2022 (Primary 2 - 5)</b> and cut off on 20th Dec 2022.
-
-
-Parents will need to book appointment at [https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/](https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/) prior to the visit for On-site Purchase and self-collection at bookshop.
-
-Please [click HERE](https://drive.google.com/drive/folders/1URsuBY_GgXG2De8LlNEmMY3loO7rnc2P?usp=share_link) for more  details.
+The [appointment](https://smex-ctp.trendmicro.com/wis/clicktime/v1/query?url=www.fgps.cascoedusupply.com.sg&amp;umid=a6ecb81f-775e-4879-a331-36d661d8fdad&amp;auth=e929269a55a0d32e6216ace4b2af01825e2bf518-0b02ae86ea5f4156cd2a9782f4969b2ae2afc8b8) for school bookshop online store will be open on 6 November 2023. 
