@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - MOE Kindergarten (MK).md
-      - MK@FG.md
       - MK@FG Personnel/.keep
       - MK@FG Personnel/MK@FG Personnel.md
       - MK@FG Personnel/Our Staff.md
       - MK@FG and KCare Hours.md
+      - MK@FG Downloads.md
