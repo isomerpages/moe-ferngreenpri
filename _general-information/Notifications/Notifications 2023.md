@@ -3,6 +3,7 @@ title: Notifications 2023
 permalink: /general-information/notifications/2023/
 description: ""
 third_nav_title: Notifications
+variant: markdown
 ---
 ### Weekly Parents Notifications 2023
 
@@ -28,6 +29,10 @@ tr:nth-child(even) {
   <tbody><tr>
     <th>Term/Week</th>
     <th>Link to Parents Notification</th>
+  </tr>
+			<tr>
+    <td>T4W9</td>
+    <td><a href="[](/files/Notifications/2023/t4w9%20parents%20notification%20(8%20nov%202023).pdf)" target="_blank">8 Nov 2023</a></td>
   </tr>
 		<tr>
     <td>T4W8</td>
