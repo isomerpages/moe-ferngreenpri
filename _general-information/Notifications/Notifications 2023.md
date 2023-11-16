@@ -30,6 +30,10 @@ tr:nth-child(even) {
     <th>Term/Week</th>
     <th>Link to Parents Notification</th>
   </tr>
+		<tr>
+    <td>T4W10</td>
+    <td><a href="/files/Notifications/2023/T4W10_Parents_Notification__15_Nov_2023_.pdf&quot;" target="_blank">15 Nov 2023</a></td>
+  </tr>
 			<tr>
     <td>T4W9</td>
     <td><a href="/files/Notifications/2023/t4w9%20parents%20notification%20(8%20nov%202023).pdf" target="_blank">8 Nov 2023</a></td>
