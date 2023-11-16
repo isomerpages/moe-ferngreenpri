@@ -32,7 +32,7 @@ tr:nth-child(even) {
   </tr>
 		<tr>
     <td>T4W10</td>
-    <td><a href="/files/Notifications/2023/T4W10_Parents_Notification__15_Nov_2023_.pdf&quot;" target="_blank">15 Nov 2023</a></td>
+    <td><a href="/files/Notifications/2023/T4W10_Parents_Notification__15_Nov_2023_.pdf" target="_blank">15 Nov 2023</a></td>
   </tr>
 			<tr>
     <td>T4W9</td>
