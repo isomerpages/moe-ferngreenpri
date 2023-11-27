@@ -2,8 +2,8 @@
 title: School Hours
 permalink: /general-information/School-Hours/
 description: ""
+variant: markdown
 ---
-
 ### School Hours
 
 **Monday to Friday**
@@ -15,14 +15,14 @@ description: ""
 ### Recess &amp; Snack Break
 
 **Recess**
-* P1 &amp; P4: 9.30am to 10am
-* P2 &amp; P5: 10am to 10.30am
-* P3 &amp; P6: 10.30am to 11am
+* P2 &amp; P6: 9.30am to 10.00am
+* P1 &amp; P5: 10.00am to 10.30am
+* P3 &amp; P4: 10.30am to 11.00am
 
 **Snack Break**
-* P3 &amp; P6: 8.45am
-* P1 &amp; P4: 11.45am
-* P2 &amp; P5: 12.15pm
+* P3 &amp; P4: 8.45am
+* P2 &amp; P6: 11.45am
+* P1 &amp; P5: 12.15pm
 
 
 ### Dismissal Arrangements
