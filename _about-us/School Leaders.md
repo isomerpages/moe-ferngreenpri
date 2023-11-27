@@ -2,9 +2,8 @@
 title: School Leaders
 permalink: /about-us/School-Leaders/
 description: ""
+variant: markdown
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,14 +52,11 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-baqh"><img src="-" style="width:100%">-</th>
-    <th class="tg-0lax">-
-  </th></tr>
+
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><img src="/images/MK@Fern%20Green/Nur%20Asyurah%20Binte%20Mohd%20Roslan.jpg" style="width:100%"><br><span style="font-weight:bold">Deputy Centre Head</span></td>
+    <td class="tg-baqh"><img src="/images/MK@Fern%20Green/Nur%20Asyurah%20Binte%20Mohd%20Roslan.jpg" style="width:100%"><br><span style="font-weight:bold">Centre Head</span></td>
     <td class="tg-ktyi"><span style="color:#000;background-color:#FFF">I began my career in the Early Childhood industry as an English teacher in a local kindergarten for 3 years before joining a private Montessori childcare for 8 years. I rose from being a Senior Teacher to a Lead-Mentor Teacher before being appointed as Principal when the centre expanded their operations in 2018. In October 2020, I joined the Ministry of Education and was appointed the Deputy Centre Head for MOE Kindergarten @ Fern Green Primary.</span><br><br><span style="color:#000;background-color:#FFF">I believe that every child is unique with their own individual strength. Children gain knowledge from interacting with people and things around them. As educators, we have the responsibility to scaffold learning in an environment that is warm and inviting which also helps to promote self-discovery and foster the children’s natural sense of curiosity. The African proverb,  “It takes a whole village to raise a child”,  resonates with me. Having a strong home-school partnership is important to allow our children to blossom in a supportive and safe environment, and reach their full potential.</span> </td>
   </tr>
 </tbody>
