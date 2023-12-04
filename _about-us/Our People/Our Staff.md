@@ -20,7 +20,8 @@ variant: markdown
 | 1 Integrity (1I) | Mrs Tay-Tan Jia Li | tan_jia_li@moe.edu.sg |
 | 1 Care (1C) | Mdm Maheswari D/O Rajaratanam | maheswari_mohanavelu@moe.edu.sg |
 | 1 Care (1C) | Mr Alfred Kriswano Sutjiadi | alfred_kriswano_sutjiadi@moe.edu.sg |
-
+| 1 Harmony (1H) | Mdm Suzana Mohamed Gasaly | - |
+| 1 Harmony (1H) | Ms Lim Soo Liam | lim_soo_liam@moe.edu.sg |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
