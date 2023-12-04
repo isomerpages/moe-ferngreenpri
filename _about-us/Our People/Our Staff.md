@@ -38,14 +38,14 @@ variant: markdown
 | 2 Resilience (2R3) | Miss Tan Ai Yun | tan_ai_yun@moe.edu.sg |
 | 2 Integrity (2I) | Mrs Sundar | mahalakshumi_g_gopidoss@moe.edu.sg |
 | 2 Integrity (2I) | Ms Rizalia Bte Abdul Rahim | rizalia_abdul_rahim@moe.edu.sg |
-| 2 Care (2C) | Mdm Maheswari D/O Rajaratanam | maheswari_mohanavelu@moe.edu.sg |
-| 2 Care (2C) | Mr Alfred Kriswano Sutjiadi | alfred_kriswano_sutjiadi@moe.edu.sg |
-| 2 Harmony (2H) | Mdm Suzana Mohamed Gasaly | - |
-| 2 Harmony (2H) | Ms Lim Soo Liam | lim_soo_liam@moe.edu.sg |
-| 2 Discipline (2D) | Miss Toh Wei Ting | toh_wei_ting@moe.edu.sg |
-| 2 Discipline (2D) | Ms Khoo Seok Ling Serene | Khoo_Seok_Ling@moe.edu.sg |
-| 2 Motivation (2M) | Miss Gan Jumi | gan_jumi@moe.edu.sg |
-| 2 Motivation (2M) | Miss Buvaneswary d/o Rengasamy | buvaneswary_rengasamy@moe.edu.sg |
+| 2 Care (2C) | Mdm Freda Paul | freda_paul@moe.edu.sg |
+| 2 Care (2C) | Ms Chen Pei Jin | chen_peijin@moe.edu.sg |
+| 2 Harmony (2H) | Miss Kirubaashini D/O Kanesan | kirubaashini_kanesan@moe.edu.sg |
+| 2 Harmony (2H) | Mr Pang Biao Bin | pang_biao_bin@moe.edu.sg |
+| 2 Discipline (2D) | - | - |
+| 2 Discipline (2D) | Mrs Lim (Mdm Celine Celestine Goh) | celine_celestine_goh@moe.edu.sg |
+| 2 Motivation (2M) | Ms Ivy Leow Gim Chye | ivy_leow_gim_chye@moe.edu.sg |
+| 2 Motivation (2M) | Miss Nadya Farah Binte Zaidi | nadya_farah_zaidi@moe.edu.sg |
 | | |
 
 
