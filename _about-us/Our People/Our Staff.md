@@ -58,12 +58,12 @@ variant: markdown
 | 3 Resilience (3R3) | Mdm Nazira Nisa Bte Abul Hassan | nazira_nisa_abul_hassan@moe.edu.sg |
 | 3 Integrity (3I) | Miss Chua Poh Khim (Deanna) | chua_poh_khim@moe.edu.sg |
 | 3 Integrity (3I) | Mrs Ang-Tan Sok Kiang | tan_sok_kiang_a@moe.edu.sg |
-| 3 Care (3C) | Mdm Freda Paul | freda_paul@moe.edu.sg |
-| 3 Care (3C) | Ms Chen Pei Jin | chen_peijin@moe.edu.sg |
-| 3 Harmony (3H) | Miss Kirubaashini D/O Kanesan | kirubaashini_kanesan@moe.edu.sg |
-| 3 Harmony (3H) | Mr Pang Biao Bin | pang_biao_bin@moe.edu.sg |
-| 3 Discipline (3D) | - | - |
-| 3 Discipline (3D) | Mrs Lim (Mdm Celine Celestine Goh) | celine_celestine_goh@moe.edu.sg |
+| 3 Care (3C) | Miss Nadirah Binte Jamri | nadirah_jamri@moe.edu.sg |
+| 3 Care (3C) | Miss Lim Lihui | lim_lihui@moe.edu.sg |
+| 3 Harmony (3H) | Miss Heng Peck Hoon | heng_peck_hoon@moe.edu.sg |
+| 3 Harmony (3H) | Mdm Aidah Binte Hosni | - |
+| 3 Discipline (3D) | Miss Nurashikin Binte Tugiman | nurashikin_tugiman@moe.edu.sg |
+| 3 Discipline (3D) | Mdm Teo Lian Peng (Evelyn) | teo_lian_peng@moe.edu.sg |
 
 
 <style type="text/css">
