@@ -66,4 +66,5 @@ third_nav_title: Our People
 | ST MU | Mr Pang Biao Bin |
 | ST Art | Mdm Chen Xiangling Jess |
 | ST ML | Mdm Aidah Binte Hosni |
+| ST LP | Miss Gan Jumi |
 | | | 
