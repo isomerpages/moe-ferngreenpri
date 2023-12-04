@@ -46,10 +46,6 @@ variant: markdown
     <td class="tg-bn4z"><span style="color:#222"> VP (Acad)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mdm Kylicia Soo Geok Ling </span></td>
-    <td class="tg-bn4z"><span style="color:#222">VP (Acad) </span></td>
-  </tr>
-  <tr>
     <td class="tg-bn4z"><span style="color:#222">Mrs Andrea Tan</span></td>
     <td class="tg-bn4z"><span style="color:#222">VP (Admin) </span></td>
   </tr>
@@ -104,7 +100,7 @@ variant: markdown
     <td class="tg-bn4z"><span style="color:#222"> HOD (MTL)</span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222"> Mr Lee Lin Ping</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> Miss Chen Sujing Natalie</span></td>
     <td class="tg-bn4z"><span style="color:#222">HOD (CCE) </span></td>
   </tr>
   <tr>
@@ -159,7 +155,10 @@ variant: markdown
     <td class="tg-bn4z"><span style="color:#222"> Mrs Chua Pei Yee</span></td>
     <td class="tg-bn4z"><span style="color:#222">LH (EL) </span></td>
   </tr>
-
+<tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mrs Stephanie Yeo</span></td>
+    <td class="tg-bn4z"><span style="color:#222">LH (PE) (Internal)</span></td>
+  </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222"> Ms Fauziah Binte Osman</span></td>
     <td class="tg-bn4z"><span style="color:#222">SH (ML) </span></td>
@@ -247,6 +246,14 @@ variant: markdown
 	<tr>
     <td class="tg-bn4z"><span style="color:#222"> Mdm Punitha d/o Murugiah Maniam</span></td>
     <td class="tg-bn4z"><span style="color:#222"> ST (TL)</span></td>
+  </tr>
+		<tr>
+    <td class="tg-bn4z"><span style="color:#222">Mdm Aidah Binte Hosni</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ST (ML)</span></td>
+  </tr>
+		<tr>
+    <td class="tg-bn4z"><span style="color:#222">Mdm Chen Xiangling Jess</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> ST (Art)</span></td>
   </tr>
 </tbody>
 </table>
