@@ -2,6 +2,7 @@
 title: School Management Team
 permalink: /about-us/school-management-team/
 description: ""
+variant: markdown
 ---
 ![](/images/Staff/key%20personnel%202023.jpg)
 
@@ -110,33 +111,41 @@ description: ""
     <td class="tg-bn4z"><span style="color:#222"> Mr Peh Joe Han Camillus</span></td>
     <td class="tg-bn4z"><span style="color:#222">HOD (PE)</span></td>
   </tr>
+	 <tr>
+    <td class="tg-bn4z"><span style="color:#222"> Miss Mastura Bte Samsuddin</span></td>
+    <td class="tg-bn4z"><span style="color:#222">HOD (ICT)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Yeo Zhong Wei</span></td>
+    <td class="tg-bn4z"><span style="color:#222">HOD (Innovation)</span></td>
+  </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222"> Mrs Yap-Tan Huey Teck Michelle</span></td>
     <td class="tg-bn4z"><span style="color:#222">SSD </span></td>
   </tr>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222"> Mr Mohamed Ridza B Hashim</span></td>
-    <td class="tg-bn4z"><span style="color:#222">YH (LP) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mrs Stephanie Yeo (Mdm Choo) </span></td>
-    <td class="tg-bn4z"><span style="color:#222">AYH (LP) </span></td>
-  </tr>
-  <tr>
+	<tr>
     <td class="tg-bn4z"><span style="color:#222"> Mrs Cheryl Lee-Ng Peck Mui</span></td>
     <td class="tg-bn4z"><span style="color:#222">YH (UP) </span></td>
   </tr>
   <tr>
-    <td class="tg-bn4z"><span style="color:#222">Miss Chen Pei Jin</span></td>
+    <td class="tg-bn4z"><span style="color:#222">Ms Ang Sing Min Serene</span></td>
     <td class="tg-bn4z"><span style="color:#222">AYH (UP) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mr Mohamed Ridza B Hashim</span></td>
+    <td class="tg-bn4z"><span style="color:#222">YH (MP) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bn4z"><span style="color:#222">Mrs Ang -Tan Sok Kiang </span></td>
+    <td class="tg-bn4z"><span style="color:#222">AYH (MP) (internal)</span></td>
   </tr>
    <tr>
     <td class="tg-bn4z"><span style="color:#222">Ms Khoo Seok Ling Serene </span></td>
-    <td class="tg-bn4z"><span style="color:#222"> YH (MP)</span></td>
+    <td class="tg-bn4z"><span style="color:#222"> YH (LP)</span></td>
   </tr>
 	<tr>
-    <td class="tg-bn4z"><span style="color:#222">Ms Ang Sing Min Serene </span></td>
-    <td class="tg-bn4z"><span style="color:#222"> AYH (MP)</span></td>
+    <td class="tg-bn4z"><span style="color:#222">Miss Chen Pei Jin </span></td>
+    <td class="tg-bn4z"><span style="color:#222"> AYH (LP)</span></td>
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222"> Ms Tang Hui Ying Sandra</span></td>
