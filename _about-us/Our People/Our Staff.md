@@ -82,6 +82,22 @@ variant: markdown
 | 4 Discipline (4D) | Miss Kasmawati Binte Masood | kasmawati_masood@moe.edu.sg |
 | 4 Discipline (4D) | Ms Normah Binte Arshad | normah_arshad@moe.edu.sg |
 
+| P5 |  |  |
+| -------- | -------- | -------- |
+| 5 Respect (5R1) | Miss Nur Yuhanis Binte Yusof | nur_yuhanis_yusof@moe.edu.sg |
+| 5 Respect (5R1) | Mrs Yap-Tan Huey Teck (Michelle) | tan_huey_teck@moe.edu.sg |
+| 5 Responsibility (5R2) | Miss Chen Sujing Natalie | - |
+| 5 Responsibility (5R2) | Mr Tan Zhi Qiang Jeremy | tan_zhi_qiang_jeremy@moe.edu.sg |
+| 5 Resilience (5R3) | Mr Yeo Zhong Wei | - |
+| 5 Resilience (5R3) | Miss Ma Shuang | ma_shuang@moe.edu.sg |
+| 5 Integrity (5I) | Mdm Tan Wan Theng | tan_wan_theng@moe.edu.sg |
+| 5 Integrity (5I) | Miss Sakinah Binte Mohamed Mohsen | sakinah_mohamed_mohsen@moe.edu.sg |
+| 5 Care (5C) | Miss Danamalar Kanagasabai | - |
+| 5 Care (5C) | Mr Mohamad Hairil Bin Johari  | mohamad_hairil_b_johari@moe.edu.sg |
+| 5 Harmony (5H) | Ms Liang Wileen | liang_wileen@moe.edu.sg |
+| 5 Harmony (5H) | Ms Ang Sing Min Serene | ang_sing_min_serene@moe.edu.sg |
+| 5 Discipline (5D) | Miss Mastura Bte Samsuddin | - |
+| 5 Discipline (5D) | Miss Liao Yongmei | liao_yongmei@moe.edu.sg |
 
 
 <style type="text/css">
