@@ -24,7 +24,8 @@ variant: markdown
 | 1 Harmony (1H) | Ms Lim Soo Liam | lim_soo_liam@moe.edu.sg |
 | 1 Discipline (1D) | Miss Toh Wei Ting | toh_wei_ting@moe.edu.sg |
 | 1 Discipline (1D) | Ms Khoo Seok Ling Serene | Khoo_Seok_Ling@moe.edu.sg |
-
+| 1 Motivation (1M) | Miss Gan Jumi | gan_jumi@moe.edu.sg |
+| 1 Motivation (1M) | Miss Buvaneswary d/o Rengasamy | buvaneswary_rengasamy@moe.edu.sg |
 
 
 <style type="text/css">
