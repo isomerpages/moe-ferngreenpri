@@ -3,7 +3,25 @@ title: Our Staff
 permalink: /about-us/Our-Staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
+#### **Form Teachers for 2024**
+
+
+| P1 |  |  |
+| -------- | -------- | -------- |
+| 1 Respect (1R1) | Ms Yew Lea Lea Lily | yew_lea_lea_lily@moe.edu.sg |
+| 1 Respect (1R1) | Mdm Chow Jee Soon | chow_jee_soon@moe.edu.sg |
+| 1 Responsibility (1R2) | Ms Nuha Binte Ahmad Basharahil | nuha_ahmad_basharahil@moe.edu.sg |
+| 1 Responsibility (1R2) | Mdm Lee Siew Hoon | lee_siew_hoon@moe.edu.sg |
+| 1 Resilience (1R3) | Mdm Nur Atiqah Binte Sheik Mohsen | - |
+| 1 Resilience (1R3) | Mr Tan Di Jie | tan_di_jie@moe.edu.sg |
+| 1 Integrity (1I) | Miss Lim Li Ying, Clarice | lim_li_ying_clarice@moe.edu.sg |
+| 1 Integrity (1I) | Mrs Tay-Tan Jia Li | tan_jia_li@moe.edu.sg |
+| 1 Care (1C) | Mdm Maheswari D/O Rajaratanam | maheswari_mohanavelu@moe.edu.sg |
+| 1 Care (1C) | Mr Alfred Kriswano Sutjiadi | alfred_kriswano_sutjiadi@moe.edu.sg |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -21,7 +39,7 @@ third_nav_title: Our People
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-opaw" colspan="3"><span style="color:blue">Form Teachers</span></th>
+    <th class="tg-opaw" colspan="3"><span style="color:blue">Form Teachers for 2024</span></th>
   </tr>
 </thead>
 <tbody>
