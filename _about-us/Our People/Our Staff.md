@@ -76,11 +76,11 @@ variant: markdown
 | 4 Integrity (4I) | Mdm Mahalingam Kanagheswari | - |
 | 4 Integrity (4I) | Miss Huang Wanyi Hazel | huang_wanyi_hazel@moe.edu.sg |
 | 4 Care (4C) | Mdm Ng Hui Lan | ng_hui_lan@moe.edu.sg |
-| 4 Care (4C) | Miss Lim Lihui | lim_lihui@moe.edu.sg |
-| 4 Harmony (4H) | Miss Heng Peck Hoon | heng_peck_hoon@moe.edu.sg |
-| 4 Harmony (4H) | Mdm Aidah Binte Hosni | - |
-| 4 Discipline (4D) | Miss Nurashikin Binte Tugiman | nurashikin_tugiman@moe.edu.sg |
-| 4 Discipline (4D) | Mdm Teo Lian Peng (Evelyn) | teo_lian_peng@moe.edu.sg |
+| 4 Care (4C) | Mdm Chen Xiangling Jess | chen_xiangling@moe.edu.sg |
+| 4 Harmony (4H) | Ms Nurjihan Binti Mohammed Noor | nurjihan_Mohammed_Noor@moe.edu.sg |
+| 4 Harmony (4H) | Mdm Tan Sue Ling Kimmy | tan_sue_ling_kimmy@moe.edu.sg |
+| 4 Discipline (4D) | Miss Kasmawati Binte Masood | kasmawati_masood@moe.edu.sg |
+| 4 Discipline (4D) | Ms Normah Binte Arshad | normah_arshad@moe.edu.sg |
 
 
 <style type="text/css">
