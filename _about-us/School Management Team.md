@@ -155,9 +155,17 @@ variant: markdown
     <td class="tg-bn4z"><span style="color:#222"> Mrs Chua Pei Yee</span></td>
     <td class="tg-bn4z"><span style="color:#222">LH (EL) </span></td>
   </tr>
+	<tr>
+    <td class="tg-bn4z"><span style="color:#222"> Mdm Yeo Hwee Hwee</span></td>
+    <td class="tg-bn4z"><span style="color:#222">LH (SCI) </span></td>
+  </tr>
 <tr>
     <td class="tg-bn4z"><span style="color:#222"> Mrs Stephanie Yeo</span></td>
     <td class="tg-bn4z"><span style="color:#222">LH (PE) (Internal)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-bn4z"><span style="color:#222">Ms Brammi Ragupathy</span></td>
+    <td class="tg-bn4z"><span style="color:#222">LH (CCE)</span></td>
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222"> Ms Fauziah Binte Osman</span></td>
