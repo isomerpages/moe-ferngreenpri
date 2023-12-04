@@ -26,6 +26,29 @@ variant: markdown
 | 1 Discipline (1D) | Ms Khoo Seok Ling Serene | Khoo_Seok_Ling@moe.edu.sg |
 | 1 Motivation (1M) | Miss Gan Jumi | gan_jumi@moe.edu.sg |
 | 1 Motivation (1M) | Miss Buvaneswary d/o Rengasamy | buvaneswary_rengasamy@moe.edu.sg |
+| | |
+
+| P2 |  |  |
+| -------- | -------- | -------- |
+| 2 Respect (2R1) | Miss Wong Su-Rin Daphne | wong_su-rin_daphne@moe.edu.sg |
+| 2 Respect (2R1) | - | - |
+| 2 Responsibility (2R2) | Mrs Lim-So Kah Li | lim-so_kah_li@moe.edu.sg |
+| 2 Responsibility (2R2) | Mdm Punitha d/o Murugaiah Maniam | punitha_murugaiah_maniam@moe.edu.sg |
+| 2 Resilience (2R3) | Miss Ashika Begum Binte Mohamed Ali | ashika_begum_mohamed_ali@moe.edu.sg |
+| 2 Resilience (2R3) | Miss Tan Ai Yun | tan_ai_yun@moe.edu.sg |
+| 2 Integrity (2I) | Mrs Sundar | mahalakshumi_g_gopidoss@moe.edu.sg |
+| 2 Integrity (2I) | Ms Rizalia Bte Abdul Rahim | rizalia_abdul_rahim@moe.edu.sg |
+| 2 Care (2C) | Mdm Maheswari D/O Rajaratanam | maheswari_mohanavelu@moe.edu.sg |
+| 2 Care (2C) | Mr Alfred Kriswano Sutjiadi | alfred_kriswano_sutjiadi@moe.edu.sg |
+| 2 Harmony (2H) | Mdm Suzana Mohamed Gasaly | - |
+| 2 Harmony (2H) | Ms Lim Soo Liam | lim_soo_liam@moe.edu.sg |
+| 2 Discipline (2D) | Miss Toh Wei Ting | toh_wei_ting@moe.edu.sg |
+| 2 Discipline (2D) | Ms Khoo Seok Ling Serene | Khoo_Seok_Ling@moe.edu.sg |
+| 2 Motivation (2M) | Miss Gan Jumi | gan_jumi@moe.edu.sg |
+| 2 Motivation (2M) | Miss Buvaneswary d/o Rengasamy | buvaneswary_rengasamy@moe.edu.sg |
+| | |
+
+
 
 
 <style type="text/css">
