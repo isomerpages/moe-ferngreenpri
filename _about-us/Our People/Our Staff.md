@@ -75,7 +75,7 @@ variant: markdown
 | 4 Resilience (4R3) | Miss Durrah Binte Ahmad | durrah_ahmad@moe.edu.sg |
 | 4 Integrity (4I) | Mdm Mahalingam Kanagheswari | - |
 | 4 Integrity (4I) | Miss Huang Wanyi Hazel | huang_wanyi_hazel@moe.edu.sg |
-| 4 Care (4C) | Miss Nadirah Binte Jamri | nadirah_jamri@moe.edu.sg |
+| 4 Care (4C) | Mdm Ng Hui Lan | ng_hui_lan@moe.edu.sg |
 | 4 Care (4C) | Miss Lim Lihui | lim_lihui@moe.edu.sg |
 | 4 Harmony (4H) | Miss Heng Peck Hoon | heng_peck_hoon@moe.edu.sg |
 | 4 Harmony (4H) | Mdm Aidah Binte Hosni | - |
