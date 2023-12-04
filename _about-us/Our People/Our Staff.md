@@ -65,100 +65,22 @@ variant: markdown
 | 3 Discipline (3D) | Miss Nurashikin Binte Tugiman | nurashikin_tugiman@moe.edu.sg |
 | 3 Discipline (3D) | Mdm Teo Lian Peng (Evelyn) | teo_lian_peng@moe.edu.sg |
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
-.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-h3wc{background-color:#e5e5e5;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-qv16" colspan="3"><span style="color:black">P3    </span> <span style="color:black"> </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-mdf1">3 Respect (3R1)</td>
-    <td class="tg-9678">Miss Buvaneswary d/o Rengasamy<br></td>
-    <td class="tg-9678">buvaneswary_rengasamy@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-01ax">Ms Fauziah Binte Osman</td>
-    <td class="tg-01ax">fauziah_Osman@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">3 Responsibility (3R2)</td>
-    <td class="tg-9678">Mrs Maggie Yune (Mdm Wong Mei Qi Maggie)</td>
-    <td class="tg-9678">wong_mei_qi_maggie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-01ax">Ms Khoo Seok Ling Serene</td>
-    <td class="tg-01ax">Khoo_Seok_Ling@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">3 Resilience (3R3)</td>
-    <td class="tg-9678">Mr Muhammad Izree Bin Jalil</td>
-    <td class="tg-9678">muhammad_izree_jalil@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Miss Natalia Johan</td>
-    <td class="tg-0lax">natalia_johan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">3 Integrity</td>
-    <td class="tg-9678">Miss Huang Wanyi Hazel</td>
-    <td class="tg-h3wc">huang_wanyi_hazel@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-01ax">Mr Tan Di Jie<br></td>
-    <td class="tg-01ax">tan_di_jie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">3 Care</td>
-    <td class="tg-9678">Mdm Ng Hui Lan</td>
-    <td class="tg-9678">ng_hui_lan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Miss Astrinka Ryzanti Putri Binte Kamaludin</td>
-    <td class="tg-ycr8">astrinka_ryzanti_putri_kamaludin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">3 Harmony</td>
-    <td class="tg-9678">Mr Chow Ngai Nga</td>
-    <td class="tg-9678">chow_ngai_nga@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Mdm Nurjihan Binti Mohammed Noor</td>
-    <td class="tg-0lax">nurjihan_mohammed_noor@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">3 Discipline</td>
-    <td class="tg-9678">Miss Choy Wen Qian</td>
-    <td class="tg-9678">choy_wen_qian@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig"> </td>
-    <td class="tg-0lax">Miss Kasmawati Binte Masood</td>
-    <td class="tg-ycr8">kasmawati_masood@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+| P4 |  |  |
+| -------- | -------- | -------- |
+| 4 Respect (4R1) | Mr Chow Ngai Nga | chow_ngai_nga_a@moe.edu.sg |
+| 4 Respect (4R1) | Ms Fauziah Binte Osman | fauziah_osman@moe.edu.sg |
+| 4 Responsibility (4R2) | Mrs Maggie Yune | wong_mei_qi_maggie@moe.edu.sg |
+| 4 Responsibility (4R2) | Mr Mohamed Ridza B Hashim | mohamed_ridza_b_hashim@moe.edu.sg |
+| 4 Resilience (4R3) | Mr Khng Jun Xiong | khng_jun_xiong@moe.edu.sg |
+| 4 Resilience (4R3) | Miss Durrah Binte Ahmad | durrah_ahmad@moe.edu.sg |
+| 4 Integrity (4I) | Mdm Mahalingam Kanagheswari | - |
+| 4 Integrity (4I) | Miss Huang Wanyi Hazel | huang_wanyi_hazel@moe.edu.sg |
+| 4 Care (4C) | Miss Nadirah Binte Jamri | nadirah_jamri@moe.edu.sg |
+| 4 Care (4C) | Miss Lim Lihui | lim_lihui@moe.edu.sg |
+| 4 Harmony (4H) | Miss Heng Peck Hoon | heng_peck_hoon@moe.edu.sg |
+| 4 Harmony (4H) | Mdm Aidah Binte Hosni | - |
+| 4 Discipline (4D) | Miss Nurashikin Binte Tugiman | nurashikin_tugiman@moe.edu.sg |
+| 4 Discipline (4D) | Mdm Teo Lian Peng (Evelyn) | teo_lian_peng@moe.edu.sg |
 
 
 <style type="text/css">
