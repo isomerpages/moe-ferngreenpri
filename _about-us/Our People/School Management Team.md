@@ -7,7 +7,7 @@ third_nav_title: Our People
 ---
 ![](/images/Staff/key%20personnel%202023.jpg)
 
-### **School Leaders**
+#### **School Leaders**
 
 | | |
 | -------- | -------- |
