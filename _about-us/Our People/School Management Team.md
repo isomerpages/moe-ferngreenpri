@@ -7,24 +7,13 @@ third_nav_title: Our People
 ---
 ![](/images/Staff/key%20personnel%202023.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t6eb{border-color:#ffffff;color:#e89d16;font-size:28px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-t6eb">School Leaders</td>
-  </tr>
-</thead>
-</table>
+### **School Leaders**
 
-
-
+| | |
+| -------- | -------- |
+| Principal | Ms Kong Yee Loon |
+| Vice-Principal (Acad) | Mr See Kok Kiong |
+| Vice-Principal (Admin) | Mrs Andrea Tan |
 
 
 <style type="text/css">
@@ -36,23 +25,6 @@ third_nav_title: Our People
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222">Ms Kong Yee Loon</span></td>
-    <td class="tg-bn4z"><span style="color:#222">Principal</span></td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mr See Kok Kiong </span></td>
-    <td class="tg-bn4z"><span style="color:#222"> VP (Acad)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222">Mrs Andrea Tan</span></td>
-    <td class="tg-bn4z"><span style="color:#222">VP (Admin) </span></td>
-  </tr>
-</tbody>
-</table>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -62,7 +34,7 @@ third_nav_title: Our People
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-t6eb{border-color:#ffffff;color:#e89d16;font-size:28px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</thead></table><table class="tg">
 <thead>
   <tr>
     <td class="tg-t6eb">Heads &amp; Managers</td>
@@ -70,6 +42,12 @@ third_nav_title: Our People
 </thead>
 </table>
 
+	
+| School Leaders | |
+| -------- | -------- |
+| Principal | Ms Kong Yee Loon |
+| Vice-Principal (Acad) | Mr See Kok Kiong |
+| Vice-Principal (Admin) | Mrs Andrea Tan |	
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
