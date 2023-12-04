@@ -22,6 +22,10 @@ variant: markdown
 | 1 Care (1C) | Mr Alfred Kriswano Sutjiadi | alfred_kriswano_sutjiadi@moe.edu.sg |
 | 1 Harmony (1H) | Mdm Suzana Mohamed Gasaly | - |
 | 1 Harmony (1H) | Ms Lim Soo Liam | lim_soo_liam@moe.edu.sg |
+| 1 Discipline (1D) | Miss Toh Wei Ting | toh_wei_ting@moe.edu.sg |
+| 1 Discipline (1D) | Ms Khoo Seok Ling Serene | Khoo_Seok_Ling@moe.edu.sg |
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
