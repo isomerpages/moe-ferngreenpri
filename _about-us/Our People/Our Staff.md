@@ -107,16 +107,16 @@ variant: markdown
 | 6 Responsibility (6R2) | Ms Ng Wan Wen | ng_wan_wen@moe.edu.sg |
 | 6 Resilience (6R3) | Miss Ong Li Lian | ong_li_lian@moe.edu.sg |
 | 6 Resilience (6R3) | Mdm Yeo Hwee Hwee | yeo_hwee_hwee@moe.edu.sg |
-| 6 Integrity (6I) |  |  |
-| 6 Integrity (6I) |  |  |
-| 6 Care (6C) | | - |
-| 6 Care (6C) |  |  |
-| 6 Harmony (6H) |  |  |
-| 6 Harmony (6H) |  |  |
-| 6 Discipline (6D) |  | - |
-| 6 Discipline (6D) |  | |
-| 6 Discipline (6M) |  | - |
-| 6 Discipline (6M) |  |  |
+| 6 Integrity (6I) | Mdm Tham Sok Theng (Agnes) | tham_sok_theng@moe.edu.sg |
+| 6 Integrity (6I) | Ms Vanessa Cheng Wan Ting | vanessa_cheng_wan_ting@moe.edu.sg |
+| 6 Care (6C) | Mrs Lee-Ng Peck Mui (Cheryl) | ng_peck_mui@moe.edu.sg |
+| 6 Care (6C) | Mdm Alice Ooi Chen Ai | alice_ooi_chen_ai@moe.edu.sg |
+| 6 Harmony (6H) | Ms Elaine Yeo Yan Ying | elaine_yeo_yan_ying@moe.edu.sg |
+| 6 Harmony (6H) | Mr Muhammad Riza Bin Baharudin | muhammad_riza_b_baharudin@moe.edu.sg |
+| 6 Discipline (6D) | Ms Koo Yuet Hong | koo_yuet_hong@moe.edu.sg |
+| 6 Discipline (6D) | Mdm Ho Fui Hee | ho_fui_hee@moe.edu.sg |
+| 6 Discipline (6M) | Mdm Nurul Farhana Bte Suradi | nurul_farhana_suradi@moe.edu.sg |
+| 6 Discipline (6M) | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
 
 
 <style type="text/css">
