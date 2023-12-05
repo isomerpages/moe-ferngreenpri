@@ -64,6 +64,7 @@ variant: markdown
 | 3 Harmony (3H) | Mdm Aidah Binte Hosni | - |
 | 3 Discipline (3D) | Miss Nurashikin Binte Tugiman | nurashikin_tugiman@moe.edu.sg |
 | 3 Discipline (3D) | Mdm Teo Lian Peng (Evelyn) | teo_lian_peng@moe.edu.sg |
+| | |
 
 | P4 |  |  |
 | -------- | -------- | -------- |
@@ -81,6 +82,7 @@ variant: markdown
 | 4 Harmony (4H) | Mdm Tan Sue Ling Kimmy | tan_sue_ling_kimmy@moe.edu.sg |
 | 4 Discipline (4D) | Miss Kasmawati Binte Masood | kasmawati_masood@moe.edu.sg |
 | 4 Discipline (4D) | Ms Normah Binte Arshad | normah_arshad@moe.edu.sg |
+| | |
 
 | P5 |  |  |
 | -------- | -------- | -------- |
@@ -98,6 +100,7 @@ variant: markdown
 | 5 Harmony (5H) | Ms Ang Sing Min Serene | ang_sing_min_serene@moe.edu.sg |
 | 5 Discipline (5D) | Miss Mastura Bte Samsuddin | - |
 | 5 Discipline (5D) | Miss Liao Yongmei | liao_yongmei@moe.edu.sg |
+| | |
 
 | P6 |  |  |
 | -------- | -------- | -------- |
@@ -117,6 +120,7 @@ variant: markdown
 | 6 Discipline (6D) | Mdm Ho Fui Hee | ho_fui_hee@moe.edu.sg |
 | 6 Discipline (6M) | Mdm Nurul Farhana Bte Suradi | nurul_farhana_suradi@moe.edu.sg |
 | 6 Discipline (6M) | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
+| | |
 
 
 <style type="text/css">
