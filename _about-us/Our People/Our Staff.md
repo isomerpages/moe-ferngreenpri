@@ -99,6 +99,25 @@ variant: markdown
 | 5 Discipline (5D) | Miss Mastura Bte Samsuddin | - |
 | 5 Discipline (5D) | Miss Liao Yongmei | liao_yongmei@moe.edu.sg |
 
+| P6 |  |  |
+| -------- | -------- | -------- |
+| 6 Respect (6R1) | Ms Oh Siew Lian Cindy | oh_siew_lian_cindy@moe.edu.sg |
+| 6 Respect (6R1) | Mrs Chua Pei Yee | low_pei_yee@moe.edu.sg |
+| 6 Responsibility (6R2) | Miss Chen Sujing Natalie | - |
+| 6 Responsibility (6R2) | Mr Tan Zhi Qiang Jeremy | tan_zhi_qiang_jeremy@moe.edu.sg |
+| 6 Resilience (5R3) | Mr Yeo Zhong Wei | - |
+| 5 Resilience (5R3) | Miss Ma Shuang | ma_shuang@moe.edu.sg |
+| 5 Integrity (5I) | Mdm Tan Wan Theng | tan_wan_theng@moe.edu.sg |
+| 5 Integrity (5I) | Miss Sakinah Binte Mohamed Mohsen | sakinah_mohamed_mohsen@moe.edu.sg |
+| 5 Care (5C) | Miss Danamalar Kanagasabai | - |
+| 5 Care (5C) | Mr Mohamad Hairil Bin Johari  | mohamad_hairil_b_johari@moe.edu.sg |
+| 5 Harmony (5H) | Ms Liang Wileen | liang_wileen@moe.edu.sg |
+| 5 Harmony (5H) | Ms Ang Sing Min Serene | ang_sing_min_serene@moe.edu.sg |
+| 5 Discipline (5D) | Miss Mastura Bte Samsuddin | - |
+| 5 Discipline (5D) | Miss Liao Yongmei | liao_yongmei@moe.edu.sg |
+| 6 Discipline (6M) |  | - |
+| 6 Discipline (6M) |  |  |
+
 
 
 <style type="text/css">
