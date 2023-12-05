@@ -105,8 +105,8 @@ variant: markdown
 | 6 Respect (6R1) | Mrs Chua Pei Yee | low_pei_yee@moe.edu.sg |
 | 6 Responsibility (6R2) | Ms Brammi Ragupathy | brammi_ragupathy@moe.edu.sg |
 | 6 Responsibility (6R2) | Ms Ng Wan Wen | ng_wan_wen@moe.edu.sg |
-| 6 Resilience (6R3) |  | - |
-| 5 Resilience (6R3) |  |  |
+| 6 Resilience (6R3) | Miss Ong Li Lian | ong_li_lian@moe.edu.sg |
+| 6 Resilience (6R3) |  |  |
 | 6 Integrity (6I) | Mdm Tan Wan Theng | tan_wan_theng@moe.edu.sg |
 | 6 Integrity (6I) | Miss Sakinah Binte Mohamed Mohsen | sakinah_mohamed_mohsen@moe.edu.sg |
 | 6 Care (6C) | Miss Danamalar Kanagasabai | - |
@@ -183,19 +183,9 @@ variant: markdown
     <td class="tg-0lax">seah_hock_kwee@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-mdf1">CL</td>
-    <td class="tg-9678">Ms Liu Miao (Emma)</td>
-    <td class="tg-faf8">liu_miao_a@moe.edu.sg </td>
-  </tr>
-  <tr>
     <td class="tg-1wig">CL</td>
     <td class="tg-0lax">Mr Sin Sit Boon (Simon)</td>
     <td class="tg-0lax">sin_sit_boon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">MA &amp; SCI</td>
-    <td class="tg-9678">Mdm Wong Mei Ee</td>
-    <td class="tg-faf8">wong_mei_ee@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-1wig">MA &amp; SCI</td>
@@ -216,11 +206,6 @@ variant: markdown
     <td class="tg-mdf1">MA</td>
     <td class="tg-9678">Mrs  Bettina Chiang</td>
     <td class="tg-faf8">Bettina_Chiang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">MA</td>
-    <td class="tg-0lax">Ms Tan Mui Hiang (Sharmaine)</td>
-    <td class="tg-0lax">tan_mui_hiang@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
