@@ -106,15 +106,15 @@ variant: markdown
 | 6 Responsibility (6R2) | Ms Brammi Ragupathy | brammi_ragupathy@moe.edu.sg |
 | 6 Responsibility (6R2) | Ms Ng Wan Wen | ng_wan_wen@moe.edu.sg |
 | 6 Resilience (6R3) | Miss Ong Li Lian | ong_li_lian@moe.edu.sg |
-| 6 Resilience (6R3) |  |  |
-| 6 Integrity (6I) | Mdm Tan Wan Theng | tan_wan_theng@moe.edu.sg |
-| 6 Integrity (6I) | Miss Sakinah Binte Mohamed Mohsen | sakinah_mohamed_mohsen@moe.edu.sg |
-| 6 Care (6C) | Miss Danamalar Kanagasabai | - |
-| 6 Care (6C) | Mr Mohamad Hairil Bin Johari  | mohamad_hairil_b_johari@moe.edu.sg |
-| 6 Harmony (6H) | Ms Liang Wileen | liang_wileen@moe.edu.sg |
-| 6 Harmony (6H) | Ms Ang Sing Min Serene | ang_sing_min_serene@moe.edu.sg |
-| 6 Discipline (6D) | Miss Mastura Bte Samsuddin | - |
-| 6 Discipline (6D) | Miss Liao Yongmei | liao_yongmei@moe.edu.sg |
+| 6 Resilience (6R3) | Mdm Yeo Hwee Hwee | yeo_hwee_hwee@moe.edu.sg |
+| 6 Integrity (6I) |  |  |
+| 6 Integrity (6I) |  |  |
+| 6 Care (6C) | | - |
+| 6 Care (6C) |  |  |
+| 6 Harmony (6H) |  |  |
+| 6 Harmony (6H) |  |  |
+| 6 Discipline (6D) |  | - |
+| 6 Discipline (6D) |  | |
 | 6 Discipline (6M) |  | - |
 | 6 Discipline (6M) |  |  |
 
