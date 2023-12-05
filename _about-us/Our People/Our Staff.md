@@ -141,16 +141,7 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-mdf1"></td>
-    <td class="tg-9678">-</td>
-    <td class="tg-faf8">-</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"></td>
-    <td class="tg-0lax">Mrs Stephanie Yeo (Mdm Choo)</td>
-    <td class="tg-0lax">choo_xuewei_stephanie@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td class="tg-mdf1">EL &amp; MA </td>
     <td class="tg-9678">Mdm Lim Woon Cheng</td>
