@@ -122,7 +122,9 @@ variant: markdown
 | 6 Discipline (6M) | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
 | | |
 
-| Non-Form Teachers |  |  |
+
+#### **Non-Form Teachers**
+|  |  |  |
 | -------- | -------- | -------- |
 | EL & MA | Mdm Lim Woon Cheng | lim_woon_cheng@moe.edu.sg |
 | EL | Mdm Ong Siew Yee Elizabeth | ong_siew_yee_elizabeth@moe.edu.sg |
@@ -140,7 +142,8 @@ variant: markdown
 | | |
 
 
-| AEDs & School Counsellor |  |  |
+#### **AEDs & School Counsellor**
+|  |  |  |
 | -------- | -------- | -------- |
 | SEN Officer | Mdm Shantha Maheswari d/o Rajasegaran  | shantha_maheswari_rajasegaran@moe.edu.sg |
 | SEN Officer | Ms Subashini D/O Mahadevan | subashini_mahadevan@moe.edu.sg |
@@ -148,8 +151,8 @@ variant: markdown
 | Senior School Counsellor | Miss Chiam Pei Ping | chiam_pei_ping@moe.edu.sg |
 | | |
 
-
-| School Leadership Team |  |  |
+#### **School Leadership Team**
+|  |  |  |
 | -------- | -------- | -------- |
 | Fern Green Primary School Leaders | ferngreen_ps@moe.edu.sg  |
 |MOE Kindergarten Centre Heads | mk_ferngreen@moe.edu.sg |
