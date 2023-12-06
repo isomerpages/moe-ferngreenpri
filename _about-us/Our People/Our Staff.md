@@ -229,12 +229,21 @@ variant: markdown
 </style>
 
 
+| Allied Educators &amp; School Counsellor |  |  |
+| -------- | -------- | -------- |
+| SEN Officer | Mdm Shantha Maheswari d/o Rajasegaran  | shantha_maheswari_rajasegaran@moe.edu.sg |
+| SEN Officer | Ms Subashini D/O Mahadevan | subashini_mahadevan@moe.edu.sg |
+| SEN Officer | Miss Koh Shu Yi | koh_shu_yi@moe.edu.sg |
+| Senior School Counsellor | Miss Chiam Pei Ping | chiam_pei_ping@moe.edu.sg |
+| | |
 
+		
 
 | School Leadership Team |  |  |
 | -------- | -------- | -------- |
 | Fern Green Primary School Leaders | ferngreen_ps@moe.edu.sg  |
-|MOE Kindergarten Centre Heads | mk_ferngreen@moe.edu.sg |<table class="tg">
+|MOE Kindergarten Centre Heads | mk_ferngreen@moe.edu.sg |
+| | |<table class="tg">
 <thead>
   <tr>
     <th class="tg-opaw" colspan="3"><span style="color:blue">Allied Educators &amp; School Counsellor</span></th>
