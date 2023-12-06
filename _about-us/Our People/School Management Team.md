@@ -43,8 +43,8 @@ third_nav_title: Our People
 | LH CCE | Ms Brammi Ragupathy |	brammi_ragupathy@moe.edu.sg |
 | LH ICT | Mrs Tay-Tan Jia Li |	tan_jia_li@moe.edu.sg |
 | SH ML | Ms Fauziah Binte Osman | fauziah_osman@moe.edu.sg |
-| SH SWB | Mr Muhammad Riza Bin Baharudin |
-| Admin Mgr | Mr Koh Wee Kwang | muhammad_riza_b_baharudin@moe.edu.sg |
+| SH SWB | Mr Muhammad Riza Bin Baharudin | muhammad_riza_b_baharudin@moe.edu.sg |
+| Admin Mgr | Mr Koh Wee Kwang | koh_wee_kwang@moe.edu.sg |
 | Admin Mgr | Mr Ho Hsu Xming Shaun |	shaun_ho@moe.edu.sg |
 | Ops Mgr | Mr Siew Lai Lone Gary |	siew_lai_lone@moe.edu.sg |
 | Ops Mgr  | Mr Tan Teck Chye Andy  | tan_teck_chye@moe.edu.sg |
