@@ -122,114 +122,25 @@ variant: markdown
 | 6 Discipline (6M) | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
 | | |
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-30nr{color:#00F;font-size:15px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
-.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
-.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-30nr" colspan="3"><span style="color:blue">Non Form Teachers</span></th>
-  </tr>
-</thead>
-<tbody>
- 
-  <tr>
-    <td class="tg-mdf1">EL &amp; MA </td>
-    <td class="tg-9678">Mdm Lim Woon Cheng</td>
-    <td class="tg-faf8">lim_woon_cheng@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">EL</td>
-    <td class="tg-0lax">Mdm Ong Siew Yee Elizabeth</td>
-    <td class="tg-0lax">ong_siew_yee_elizabeth@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">MA &amp; MU</td>
-    <td class="tg-9678">Mdm Lim Mui Wee Alyssa (Mrs Leong)</td>
-    <td class="tg-faf8">alyssa_lim_mui_wee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">EL &amp; MA</td>
-    <td class="tg-0lax">Mr Leo Wen Xiang Kenneth</td>
-    <td class="tg-0lax">leo_wen_xiang_kenneth@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">EL</td>
-    <td class="tg-9678">Mrs Sharon Lee (Ms Kum Hong Yoke)</td>
-    <td class="tg-faf8">kum_hong_yoke@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">EL &amp; MA</td>
-    <td class="tg-0lax">Mrs Tan Chin Cheoh</td>
-    <td class="tg-0lax">tan_chin_cheoh@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">EL</td>
-    <td class="tg-9678">Mrs Eleanor Tan</td>
-    <td class="tg-faf8">chua_lee_hoon_eleanor@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">MA &amp; SCI<br></td>
-    <td class="tg-0lax">Mr Don Seah Hock Kwee<br></td>
-    <td class="tg-0lax">seah_hock_kwee@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">CL</td>
-    <td class="tg-0lax">Mr Sin Sit Boon (Simon)</td>
-    <td class="tg-0lax">sin_sit_boon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">MA &amp; SCI</td>
-    <td class="tg-0lax">Ms Jeannette Leong</td>
-    <td class="tg-0lax">leong_poh_wan_jeanette@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">MA</td>
-    <td class="tg-9678">Mdm Tricia Wee Gwek Hiang </td>
-    <td class="tg-faf8">Wee_Gwek_Hiang_Tricia@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">EL &amp; MA</td>
-    <td class="tg-0lax">Mrs Ng-Ho Woon Lee (Angie) </td>
-    <td class="tg-0lax">ho_woon_lee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">MA</td>
-    <td class="tg-9678">Mrs  Bettina Chiang</td>
-    <td class="tg-faf8">Bettina_Chiang@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+| Non-Form Teachers |  |  |
+| -------- | -------- | -------- |
+| EL & MA | Mdm Lim Woon Cheng | lim_woon_cheng@moe.edu.sg |
+| EL | Mdm Ong Siew Yee Elizabeth | ong_siew_yee_elizabeth@moe.edu.sg |
+| MA & MU | Mdm Lim Mui Wee Alyssa (Mrs Leong) | alyssa_lim_mui_wee@moe.edu.sg |
+| EL & MA | Mr Leo Wen Xiang Kenneth | leo_wen_xiang_kenneth@moe.edu.sg |
+| EL | Mrs Sharon Lee (Ms Kum Hong Yoke) | kum_hong_yoke@moe.edu.sg |
+| EL & MA | Mrs Tan Chin Cheoh | tan_chin_cheoh@moe.edu.sg |
+| EL | Mrs Eleanor Tan | chua_lee_hoon_eleanor@moe.edu.sg |
+| MA & SCI | Mr Don Seah Hock Kwee | seah_hock_kwee@moe.edu.sg |
+| CL | Mr Sin Sit Boon (Simon) | sin_sit_boon@moe.edu.sg |
+| MA & SCI | Ms Jeanette Leong | leong_poh_wan_jeanette@moe.edu.sg |
+| MA | Mdm Tricia Wee Gwek Hiang | Wee_Gwek_Hiang_Tricia@moe.edu.sg |
+| EL & MA | Mrs Ng-Ho Woon Lee (Angie) | ho_woon_lee@moe.edu.sg |
+| MA | Mrs Bettina Chiang | Bettina_Chiang@moe.edu.sg |
+| | |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-opaw{color:#00F;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
-.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-
-
-| Allied Educators &amp; School Counsellor |  |  |
+| AEDs & School Counsellor |  |  |
 | -------- | -------- | -------- |
 | SEN Officer | Mdm Shantha Maheswari d/o Rajasegaran  | shantha_maheswari_rajasegaran@moe.edu.sg |
 | SEN Officer | Ms Subashini D/O Mahadevan | subashini_mahadevan@moe.edu.sg |
@@ -237,35 +148,9 @@ variant: markdown
 | Senior School Counsellor | Miss Chiam Pei Ping | chiam_pei_ping@moe.edu.sg |
 | | |
 
-		
 
 | School Leadership Team |  |  |
 | -------- | -------- | -------- |
 | Fern Green Primary School Leaders | ferngreen_ps@moe.edu.sg  |
 |MOE Kindergarten Centre Heads | mk_ferngreen@moe.edu.sg |
-| | |<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-opaw" colspan="3"><span style="color:blue">Allied Educators &amp; School Counsellor</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-mdf1">SEN Officer</td>
-    <td class="tg-9678">Mdm Shantha Maheswari d/o Rajasegaran</td>
-    <td class="tg-9678">shantha_maheswari_rajasegaran@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">SEN Officer</td>
-    <td class="tg-0lax">Ms Subashini D/O Mahadevan</td>
-    <td class="tg-0lax">subashini_mahadevan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">SEN Officer</td>
-    <td class="tg-9678">Miss Koh Su Yi</td>
-    <td class="tg-9678">koh_shu_yi@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Senior School Counsellor</td>
-    <td class="tg-0lax">Miss Chiam Pei Ping</td>
-    <td class="tg-0lax">chiam_pei_ping@moe.edu.sg</td></tr></tbody></table>
+| | |
