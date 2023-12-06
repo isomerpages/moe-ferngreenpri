@@ -54,8 +54,8 @@ third_nav_title: Our People
 
 #### **Lead & Senior Teachers**
 	
-| | |
-| -------- | -------- |
+| | | |
+| -------- | -------- | -------- |
 | LT MA | Mdm Agnes Tham | tham_sok_theng@moe.edu.sg |
 | LT PE |  Mr Mohamad Hairil Johar | mohamad_hairil_b_johari@moe.edu.sg |
 | ST EL | Ms Ivy Leow Gim Chye | ivy_leow_gim_chye@moe.edu.sg |
