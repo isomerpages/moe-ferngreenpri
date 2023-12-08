@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Service Providers/Student Care Services.md
       - Service Providers/School Uniform & Supplier.md
       - Service Providers/School Dental Services.md
       - Service Providers/School Canteen.md
