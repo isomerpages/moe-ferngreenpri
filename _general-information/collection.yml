@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Service Providers/Bookshop Services.md
       - Service Providers/.keep
       - Announcements.md
       - E Learning.md
