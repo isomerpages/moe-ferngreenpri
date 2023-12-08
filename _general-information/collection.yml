@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Service Providers/School Dental Services.md
       - Service Providers/School Canteen.md
       - Service Providers/Bookshop Services.md
       - Service Providers/.keep
