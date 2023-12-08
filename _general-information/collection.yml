@@ -2,12 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Service Providers/.keep
-      - Service Providers/Bookshop Services.md
-      - Service Providers/School Canteen.md
-      - Service Providers/School Dental Services.md
-      - Service Providers/School Uniform & Supplier.md
-      - Service Providers/Student Care Services.md
       - Announcements.md
       - E Learning.md
       - Forms & other info (Edusave & Giro, etc).md
@@ -22,6 +16,12 @@ collections:
       - Parents Gateway/Onboarding.md
       - Parents Gateway/Update Contact Details in Parents Gateway.md
       - Quick Download.md
+      - Service Providers/.keep
+      - Service Providers/Bookshop Services.md
+      - Service Providers/School Canteen.md
+      - Service Providers/School Dental Services.md
+      - Service Providers/School Uniform & Supplier.md
+      - Service Providers/Student Care Services.md
       - School Bus Services/.keep
       - School Bus Services/School Bus Service.md
       - School Calendar.md
