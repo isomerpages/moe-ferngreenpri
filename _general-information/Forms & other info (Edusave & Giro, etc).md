@@ -2,33 +2,6 @@
 title: Forms & other info (Edusave & Giro, etc)
 permalink: /general-information/Forms-and-other-info-Edusave-and-Giro-etc/
 description: ""
+variant: tiptap
 ---
-
-### Forms
-
-
-* [Online Application Form for Leave of Absence (LOA) for Returning Singaporeans](https://form.gov.sg/60c16dbf08be5f0012bbaf06)  
-
-The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin their school after they return from overseas. 
-
- LOA applies to all Singapore Citizen (SC) and Permanent Resident (PR) children in primary school, secondary school, junior colleges and Millennia Institute.
- 
- 
-* [Waitlist Application Form](/files/Forms%20&%20Other%20Info/Waitlist%20Application%20Form.pdf)
-
-* [Updating of Student's Address Form](https://drive.google.com/file/d/1T4O2gAddN0zS3u0eMhB4fILAriz7EYO7/view)
-
-
-### Edusave & Giro
-
-* [Information on Edusave](/files/Forms%20&%20Other%20Info/Information%20on%20Edusave.pdf)
-
-* [Information on Giro](/files/Forms%20&%20Other%20Info/Information%20on%20GIRO.pdf)
-
-### FAS & NPP
-
-  
-* [FAS & NPP application form (hardcopy)](https://drive.google.com/drive/folders/15UKO8IA7yUeUBgoJlPmoo_gtFKvdoF09?usp=sharing)  
-* [eFAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)  
-  
-* [Information on FAS](https://www.moe.gov.sg/financial-matters/financial-assistance)
+<h3>Forms</h3><ul data-tight="true" class="tight"><li><p><a href="https://form.gov.sg/60c16dbf08be5f0012bbaf06" rel="noopener noreferrer nofollow" target="_blank">Online Application Form for Leave of Absence (LOA) for Returning Singaporeans</a></p></li></ul><p>The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin their school after they return from overseas.</p><p>LOA applies to all Singapore Citizen (SC) and Permanent Resident (PR) children in primary school, secondary school, junior colleges and Millennia Institute.</p><ul><li><p><a href="/files/Forms%20&amp;%20Other%20Info/Waitlist%20Application%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a></p></li><li><p><a href="https://drive.google.com/file/d/1T4O2gAddN0zS3u0eMhB4fILAriz7EYO7/view" rel="noopener noreferrer nofollow" target="_blank">Updating of Student's Address Form</a></p></li></ul><h3>Edusave &amp; Giro</h3><ul><li><p><a href="/files/Forms%20&amp;%20Other%20Info/Information%20on%20Edusave.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Edusave</a></p></li><li><p><a href="/files/Forms%20&amp;%20Other%20Info/Information%20on%20GIRO.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Giro</a></p></li></ul><h3>FAS &amp; NPP</h3><ul><li><p><a href="https://drive.google.com/drive/folders/15UKO8IA7yUeUBgoJlPmoo_gtFKvdoF09?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FAS &amp; NPP application form (hardcopy)</a></p></li><li><p><a href="https://form.gov.sg/632432ba67747a0011d4a0cc" rel="noopener noreferrer nofollow" target="_blank">eFAS Application Form</a></p></li><li><p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Information on FAS</a></p></li></ul><p></p>

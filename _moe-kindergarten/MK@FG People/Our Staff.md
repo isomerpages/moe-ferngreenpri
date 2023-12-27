@@ -2,7 +2,8 @@
 title: Our Staff
 permalink: /moe-kindergarten/MKatFG-Personnel/Our-Staff/
 description: ""
-third_nav_title: MK@FG Personnel
+third_nav_title: MK@FG People
+variant: markdown
 ---
 # Our Staff
 
@@ -47,16 +48,9 @@ third_nav_title: MK@FG Personnel
 <col style="width: 271px">
 </colgroup>
 <thead>
+</thead><tbody>
   <tr>
-    <th class="tg-a3j2"><span style="color:#222">-</span></th>
-    <th class="tg-lygy"><img src="-" alt="-" width="178" height="249"></th>
-    <th class="tg-a3j2"><span style="color:#222">-</span></th>
-    <th class="tg-a3j2"><span style="color:#222">-</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bn4z"><span style="color:#222">Deputy Centre Head</span></td>
+    <td class="tg-bn4z"><span style="color:#222">Centre Head</span></td>
     <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Nur%20Asyurah%20Binte%20Mohd%20Roslan.jpg" alt="Ms Nur Asyurah Binte Mohd Roslan.jpg" width="178" height="249"></td>
     <td class="tg-bn4z"><span style="color:#222">Ms Nur Asyurah Binte Mohd Roslan</span><br></td>
     <td class="tg-bn4z"><span style="color:#222">Nur_asyurah_mohd_roslan@moe.edu.sg</span></td>
@@ -187,9 +181,9 @@ third_nav_title: MK@FG Personnel
   </tr>
   <tr>
     <td class="tg-6kid"><br><br><br><br><br>K1 – SA</td>
-    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Mdm%20Tan%20Ruijuan.jpg" alt="Ms Tan Ruijuan.jpg" width="136" height="203"><br></td>
-    <td class="tg-6kid"><br><br><br><br><br>Ms Tan Ruijuan<span style="color:#222"> </span></td>
-    <td class="tg-6kid"><br><br><br><br><br>tan_ruijuan@moe.edu.sg </td>
+    <td class="tg-3b8d"><img src="---" alt="Ms Tan Ruijuan.jpg" width="136" height="203"><br></td>
+    <td class="tg-6kid"><br><br><br><br><br>---<span style="color:#222"> </span></td>
+    <td class="tg-6kid"><br><br><br><br><br>--- </td>
   </tr>
   <tr>
     <td class="tg-tsok"><br><br><br><br>K2- LA &amp; LB <br></td>
@@ -284,9 +278,9 @@ third_nav_title: MK@FG Personnel
   </tr>
   <tr>
     <td class="tg-bn4z"><span style="color:#222">K1 - SA &amp; DP</span></td>
-    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/Mdm%20Wang%20Hongjie.jpg" alt="Mdm Wang Hongjie.jpg" width="154" height="215"><span style="color:#222">                                      </span></td>
-    <td class="tg-bn4z">Mdm Wang Hongjie</td>
-    <td class="tg-3b8d"><br><br><br>wang_hongjie@moe.edu.sg</td>
+    <td class="tg-3b8d"><img src="---" alt="Mdm Wang Hongjie.jpg" width="154" height="215"><span style="color:#222">                                      </span></td>
+    <td class="tg-bn4z">---</td>
+    <td class="tg-3b8d"><br><br><br>---</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222"> K1 - IA &amp; BP</span></td>
@@ -295,9 +289,9 @@ third_nav_title: MK@FG Personnel
     <td class="tg-baqh"><br><br><br><br>xu_ran_a@moe.edu.sg</td>
   </tr>
 	    <tr><td class="tg-bn4z"><span style="color:#222">K2 - OB &amp; LB</span></td>
-    <td class="tg-3b8d"><img src="/images/MK@Fern%20Green/ms%20chen%20ping.jpg" alt="Ms Chen Ping.jpg" width="154" height="215"><span style="color:#222">                                      </span></td>
-    <td class="tg-bn4z">Ms Chen Ping</td>
-    <td class="tg-3b8d"><br><br>chen_ping_a@moe.edu.sg</td>
+    <td class="tg-3b8d"><img src="---" alt="Ms Chen Ping.jpg" width="154" height="215"><span style="color:#222"></span></td>
+    <td class="tg-bn4z">---</td>
+    <td class="tg-3b8d"><br><br>---</td>
   </tr>
 </tbody>
 </table>

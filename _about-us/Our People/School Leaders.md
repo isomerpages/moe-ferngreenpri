@@ -3,6 +3,7 @@ title: School Leaders
 permalink: /about-us/School-Leaders/
 description: ""
 variant: markdown
+third_nav_title: Our People
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

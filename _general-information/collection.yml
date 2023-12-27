@@ -3,10 +3,8 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Bookshop Services.md
       - E Learning.md
       - Forms & other info (Edusave & Giro, etc).md
-      - General Information.md
       - Home Based Learning (HBL).md
       - Homework Policy.md
       - Notifications/.keep
@@ -17,14 +15,15 @@ collections:
       - Parents Gateway/Onboarding.md
       - Parents Gateway/Update Contact Details in Parents Gateway.md
       - Quick Download.md
-      - School Bus Services/.keep
-      - School Bus Services/School Bus Service.md
+      - Service Providers/.keep
+      - Service Providers/Bookshop Services.md
+      - Service Providers/School Bus Services.md
+      - Service Providers/School Canteen.md
+      - Service Providers/School Dental Services.md
+      - Service Providers/School Uniform Supplier.md
+      - Service Providers/Student Care Services.md
       - School Calendar.md
-      - School Canteen.md
-      - School Dental Services.md
       - School Hours.md
       - School Newsletters.md
       - School Rules.md
-      - School Uniform & Supplier.md
-      - Student Care Services.md
       - Virtual School Open House.md
