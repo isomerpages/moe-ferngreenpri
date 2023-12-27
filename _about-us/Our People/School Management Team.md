@@ -25,9 +25,9 @@ third_nav_title: Our People
 | HOD SCI | Mdm Teo Lian Peng Evelyn | teo_lian_peng@moe.edu.sg |
 | HOD MTL | Mdm Chow Jee Soon | chow_jee_soon@moe.edu.sg |
 | HOD PE | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
-| HOD CCE | Miss Chen Sujing Natalie | - |
-| HOD ICT | Miss Mastura Bte Samsuddin | - |
-| HOD Innovation | Mr Yeo Zhong Wei |	- |
+| HOD CCE | Miss Chen Sujing Natalie | chen_sujing@moe.edu.sg |
+| HOD ICT | Miss Mastura Bte Samsuddin | mastura_samsuddin@moe.edu.sg |
+| HOD Innovation | Mr Yeo Zhong Wei |	yeo_zhong_wei@moe.edu.sg |
 | SSD | Mrs Yap-Tan Huey Teck Michelle | tan_huey_teck@moe.edu.sg |
 | YH UP | Mrs Cheryl Lee-Ng Peck Mui | ng_peck_mui@moe.edu.sg |
 | AYH UP | Ms Ang Sing Min Serene | ang_sing_min_serene@moe.edu.sg |
