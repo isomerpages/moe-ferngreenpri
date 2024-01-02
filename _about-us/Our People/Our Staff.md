@@ -109,7 +109,7 @@ variant: markdown
 | 6 Responsibility (6R2) | Ms Brammi Ragupathy | brammi_ragupathy@moe.edu.sg |
 | 6 Responsibility (6R2) | Ms Ng Wan Wen | ng_wan_wen@moe.edu.sg |
 | 6 Resilience (6R3) | Miss Ong Li Lian | ong_li_lian@moe.edu.sg |
-| 6 Resilience (6R3) | Mdm Yeo Hwee Hwee | yeo_hwee_hwee@moe.edu.sg |
+| 6 Resilience (6R3) | Ms Yeo Hwee Hwee | yeo_hwee_hwee@moe.edu.sg |
 | 6 Integrity (6I) | Mdm Tham Sok Theng (Agnes) | tham_sok_theng@moe.edu.sg |
 | 6 Integrity (6I) | Ms Vanessa Cheng Wan Ting | vanessa_cheng_wan_ting@moe.edu.sg |
 | 6 Care (6C) | Mrs Lee-Ng Peck Mui (Cheryl) | ng_peck_mui@moe.edu.sg |
