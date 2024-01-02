@@ -37,7 +37,7 @@ third_nav_title: Our People
 | AYH LP | Miss Chen Pei Jin |	chen_peijin@moe.edu.sg |
 | LH EL | Mrs Chua Pei Yee| low_pei_yee@moe.edu.sg |
 | LH MA | Ms Tang Hui Ying Sandra | tang_hui_ying@moe.edu.sg |
-| LH SCI | Mdm Yeo Hwee Hwee | yeo_hwee_hwee@moe.edu.sg |
+| LH SCI | Ms Yeo Hwee Hwee | yeo_hwee_hwee@moe.edu.sg |
 | LH CL | Ms Ng Wan Wen | ng_wan_wen@moe.edu.sg |
 | LH PE | Mrs Stephanie Yeo | choo_xuewei_stephanie@moe.edu.sg |
 | LH CCE | Ms Brammi Ragupathy |	brammi_ragupathy@moe.edu.sg |
