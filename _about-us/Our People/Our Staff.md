@@ -161,6 +161,7 @@ variant: markdown
 | SEN Officer | Ms Subashini D/O Mahadevan | subashini_mahadevan@moe.edu.sg |
 | SEN Officer | Miss Koh Shu Yi | koh_shu_yi@moe.edu.sg |
 | Senior School Counsellor | Miss Chiam Pei Ping | chiam_pei_ping@moe.edu.sg |
+| School Counsellor | Miss Petra Lim YiQi | - |
 | | |
 
 #### **School Leadership Team**
