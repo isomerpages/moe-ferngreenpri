@@ -141,6 +141,16 @@ variant: markdown
 | MA | Mrs Bettina Chiang | Bettina_Chiang@moe.edu.sg |
 | - | Miss Farah Adzlin Kasmany | farah_adzlin_kasmany@moe.edu.sg |
 | - | Ms Susan Sng Sim Neo | susan_sng@moe.edu.sg |
+| - | Mdm Hairon Bibi | hairon_bibi_zahiruddin@moe.edu.sg |
+| - | Miss Lim Su Xin | - |
+| - | Mdm Tan Siew Choo Cynthia (Mrs Swee) | - |
+| - | Mrs Chia Kwee Eng | chia_kwee_eng@moe.edu.sg |
+| - | Mdm Aisah Bte Mohd Osman | - |
+| - | Ms Tan Si Yu, Amelia | - |
+| - | Mr Muhammad Sadik Bin Jamil | muhammad_sadik_jamil@moe.edu.sg |
+| - | Mr Ng Shi Kai Thomas | Ng_Shi_Kai_Thomas@moe.edu.sg |
+| - | Mdm Yao Xiaofeng | yao_xiaofeng@moe.edu.sg |
+| - | Mrs Kannan Kiruthika | - |
 | | |
 
 
