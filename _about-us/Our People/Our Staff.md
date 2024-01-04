@@ -14,13 +14,13 @@ variant: markdown
 | 1 Black | Mdm Chow Jee Soon | chow_jee_soon@moe.edu.sg |
 | 1 Blue | Ms Nuha Binte Ahmad Basharahil | nuha_ahmad_basharahil@moe.edu.sg |
 | 1 Blue | Mdm Lee Siew Hoon | lee_siew_hoon@moe.edu.sg |
-| 1 Green | Mdm Nur Atiqah Binte Sheik Mohsen | - |
+| 1 Green | Mdm Nur Atiqah Binte Sheik Mohsen | nur_atiqah_sheik_mohsen@moe.edu.sg |
 | 1 Green | Mr Tan Di Jie | tan_di_jie@moe.edu.sg |
 | 1 Orange | Miss Lim Li Ying, Clarice | lim_li_ying_clarice@moe.edu.sg |
 | 1 Orange | Mrs Tay-Tan Jia Li | tan_jia_li@moe.edu.sg |
 | 1 Pink | Mdm Maheswari D/O Rajaratanam | maheswari_mohanavelu@moe.edu.sg |
 | 1 Pink | Mr Alfred Kriswano Sutjiadi | alfred_kriswano_sutjiadi@moe.edu.sg |
-| 1 Purple | Mdm Suzana Mohamed Gasaly | - |
+| 1 Purple | Mdm Suzana Mohamed Gasaly | suzana_mohamed_gasaly@moe.edu.sg |
 | 1 Purple | Ms Lim Soo Liam | lim_soo_liam@moe.edu.sg |
 | 1 Red | Miss Toh Wei Ting | toh_wei_ting@moe.edu.sg |
 | 1 Red | Ms Khoo Seok Ling Serene | Khoo_Seok_Ling@moe.edu.sg |
@@ -53,7 +53,7 @@ variant: markdown
 | 3 Respect (3R1) | Mr Mohamad Raizal Bin Abdul Rahim | mohamad_raizal_abdul_rahim@moe.edu.sg |
 | 3 Respect (3R1) | Mrs Stephanie Yeo (Mdm Choo) | choo_xuewei_stephanie@moe.edu.sg |
 | 3 Responsibility (3R2) | Mdm Ng Hui Li | ng_hui_li@moe.edu.sg |
-| 3 Responsibility (3R2) | Miss Ong Bee Hua | - |
+| 3 Responsibility (3R2) | Miss Ong Bee Hua | ong_bee_hua@moe.edu.sg |
 | 3 Resilience (3R3) | Mrs Sharon Ho (Mdm Tan Su Yin Sharon) | tan_su_yin_sharon@moe.edu.sg |
 | 3 Resilience (3R3) | Mdm Nazira Nisa Bte Abul Hassan | nazira_nisa_abul_hassan@moe.edu.sg |
 | 3 Integrity (3I) | Miss Chua Poh Khim (Deanna) | chua_poh_khim@moe.edu.sg |
@@ -61,7 +61,7 @@ variant: markdown
 | 3 Care (3C) | Miss Nadirah Binte Jamri | nadirah_jamri@moe.edu.sg |
 | 3 Care (3C) | Miss Lim Lihui | lim_lihui@moe.edu.sg |
 | 3 Harmony (3H) | Miss Heng Peck Hoon | heng_peck_hoon@moe.edu.sg |
-| 3 Harmony (3H) | Mdm Aidah Binte Hosni | - |
+| 3 Harmony (3H) | Mdm Aidah Binte Hosni | aidah_hosni@moe.edu.sg |
 | 3 Discipline (3D) | Miss Nurashikin Binte Tugiman | nurashikin_tugiman@moe.edu.sg |
 | 3 Discipline (3D) | Mdm Teo Lian Peng (Evelyn) | teo_lian_peng@moe.edu.sg |
 | | |
@@ -74,7 +74,7 @@ variant: markdown
 | 4 Responsibility (4R2) | Mr Mohamed Ridza B Hashim | mohamed_ridza_b_hashim@moe.edu.sg |
 | 4 Resilience (4R3) | Mr Khng Jun Xiong | khng_jun_xiong@moe.edu.sg |
 | 4 Resilience (4R3) | Miss Durrah Binte Ahmad | durrah_ahmad@moe.edu.sg |
-| 4 Integrity (4I) | Mdm Mahalingam Kanagheswari | - |
+| 4 Integrity (4I) | Mdm Mahalingam Kanagheswari | mahalingam_kanagheswari@moe.edu.sg |
 | 4 Integrity (4I) | Miss Huang Wanyi Hazel | huang_wanyi_hazel@moe.edu.sg |
 | 4 Care (4C) | Mdm Ng Hui Lan | ng_hui_lan@moe.edu.sg |
 | 4 Care (4C) | Mdm Chen Xiangling Jess | chen_xiangling@moe.edu.sg |
@@ -94,7 +94,7 @@ variant: markdown
 | 5 Resilience (5R3) | Miss Ma Shuang | ma_shuang@moe.edu.sg |
 | 5 Integrity (5I) | Mdm Tan Wan Theng | tan_wan_theng@moe.edu.sg |
 | 5 Integrity (5I) | Miss Sakinah Binte Mohamed Mohsen | sakinah_mohamed_mohsen@moe.edu.sg |
-| 5 Care (5C) | Miss Danamalar Kanagasabai | - |
+| 5 Care (5C) | Miss Danamalar Kanagasabai | danamalar_kanagasabai@moe.edu.sg |
 | 5 Care (5C) | Mr Mohamad Hairil Bin Johari  | mohamad_hairil_b_johari@moe.edu.sg |
 | 5 Harmony (5H) | Ms Liang Wileen | liang_wileen@moe.edu.sg |
 | 5 Harmony (5H) | Ms Ang Sing Min Serene | ang_sing_min_serene@moe.edu.sg |
@@ -118,8 +118,8 @@ variant: markdown
 | 6 Harmony (6H) | Mr Muhammad Riza Bin Baharudin | muhammad_riza_b_baharudin@moe.edu.sg |
 | 6 Discipline (6D) | Ms Koo Yuet Hong | koo_yuet_hong@moe.edu.sg |
 | 6 Discipline (6D) | Mdm Ho Fui Hee | ho_fui_hee@moe.edu.sg |
-| 6 Discipline (6M) | Mdm Nurul Farhana Bte Suradi | nurul_farhana_suradi@moe.edu.sg |
-| 6 Discipline (6M) | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
+| 6 Motivation (6M) | Mdm Nurul Farhana Bte Suradi | nurul_farhana_suradi@moe.edu.sg |
+| 6 Motivation (6M) | Mr Peh Joe Han Camillus | peh_joe_han_camillus@moe.edu.sg |
 | | |
 
 
@@ -139,6 +139,8 @@ variant: markdown
 | MA | Mdm Tricia Wee Gwek Hiang | Wee_Gwek_Hiang_Tricia@moe.edu.sg |
 | EL & MA | Mrs Ng-Ho Woon Lee (Angie) | ho_woon_lee@moe.edu.sg |
 | MA | Mrs Bettina Chiang | Bettina_Chiang@moe.edu.sg |
+| - | Miss Farah Adzlin Kasmany | farah_adzlin_kasmany@moe.edu.sg |
+| - | Ms Susan Sng Sim Neo | susan_sng@moe.edu.sg |
 | | |
 
 
