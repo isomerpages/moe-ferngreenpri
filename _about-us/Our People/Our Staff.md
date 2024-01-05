@@ -7,7 +7,6 @@ variant: markdown
 ---
 #### **Form Teachers for 2024**
 
-
 | P1 |  |  |
 | -------- | -------- | -------- |
 | 1 Black | Ms Yew Lea Lea Lily | yew_lea_lea_lily@moe.edu.sg |
