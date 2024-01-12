@@ -2,9 +2,9 @@ collections:
   general-information:
     output: true
     order:
-      - Forms.md
       - Announcements.md
       - E Learning.md
+      - Forms.md
       - Home Based Learning (HBL).md
       - Homework Policy.md
       - Notifications/.keep
