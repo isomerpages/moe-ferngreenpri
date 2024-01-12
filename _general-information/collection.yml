@@ -2,15 +2,15 @@ collections:
   general-information:
     output: true
     order:
-      - Forms/Edusave.md
-      - Forms/GIRO.md
-      - Forms/.keep
       - Announcements.md
       - E Learning.md
+      - Forms/.keep
+      - Forms/Edusave.md
+      - Forms/GIRO.md
       - Home Based Learning (HBL).md
       - Homework Policy.md
-      - Notifications/Notifications 2024.md
       - Notifications/.keep
+      - Notifications/Notifications 2024.md
       - Notifications/Notifications 2023.md
       - Notifications/Notifications 2022.md
       - Notifications/Notifications 2021.md
