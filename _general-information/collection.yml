@@ -4,10 +4,10 @@ collections:
     order:
       - Announcements.md
       - E Learning.md
-      - Forms/Waitlist.md
       - Forms/.keep
       - Forms/Edusave.md
       - Forms/GIRO.md
+      - Forms/Waitlist.md
       - Home Based Learning (HBL).md
       - Homework Policy.md
       - Notifications/.keep
