@@ -4,11 +4,11 @@ collections:
     order:
       - Announcements.md
       - E Learning.md
-      - Forms & other info (Edusave & Giro, etc).md
+      - Forms.md
       - Home Based Learning (HBL).md
       - Homework Policy.md
-      - Notifications/Notifications 2024.md
       - Notifications/.keep
+      - Notifications/Notifications 2024.md
       - Notifications/Notifications 2023.md
       - Notifications/Notifications 2022.md
       - Notifications/Notifications 2021.md
@@ -25,6 +25,5 @@ collections:
       - Service Providers/Student Care Services.md
       - School Calendar.md
       - School Hours.md
-      - School Newsletters.md
       - School Rules.md
       - Virtual School Open House.md
