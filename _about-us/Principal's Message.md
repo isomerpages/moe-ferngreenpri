@@ -2,27 +2,6 @@
 title: Principal's Message
 permalink: /about-us/Principal-Message/
 description: ""
+variant: tiptap
 ---
-
-![](/images/Staff/Ms%20Kong%20Yee%20Loon.png)
-
-In a letter to Robert Hooke in 1675, Isaac Newton made his most famous statement: “If I have seen further, it is by standing&nbsp;on the shoulders of giants.” Pioneering work is never easy and entails dedication, hard work and a strong sense of purpose.&nbsp; The founding principal, Mrs May Tang, envisioned students of Fern Green to be “<b>reflective inquirers, aspiring advocates and steadfast leaders”</b>.&nbsp;&nbsp;The Fern Green team and I will honour her legacy and continue to build on the strong foundation laid by Mrs Tang and the pioneer team to achieve our vision.  
-
-At Fern Green, we place the student in the centre of what we do.&nbsp;&nbsp;We believe that all children&nbsp;are born unique with inherent personalities, preferences, innate strengths and capacity to grow and develop.&nbsp; We seek to illuminate every student’s strength and talent and to ignite in them the passion for learning and discover their purpose to serve others.&nbsp;&nbsp;The OECD Learning Compass 2030 has identified three transformative competencies that students need to be future-ready, contribute to and thrive in an increasingly complex world.&nbsp; The transformative competencies are:
-
-a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Creating new value</u>
-
-This means innovating to shape better lives.&nbsp; Through cultivating the&nbsp;<b>habits of reflection and inquiry</b>, our students learn to challenge the status quo and try to think out of the box for new solutions.
-
-b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Reconciling tensions and dilemmas</u>
-
-<b>Anchoring them in sound values</b>&nbsp;such as respect, care and resilience, students learn to empathize, consider opposing viewpoints and build sound arguments amidst uncertainty and complexity.
-
-c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Taking responsibility</u>
-
-Students learn to be&nbsp;<b>responsible leaders</b>&nbsp;who advocate for causes that will make a positive difference to Singapore and the world.
-
-All children need caring adults to guide and support them.&nbsp; By partnering closely with parents and partners, and coordinating effort on many levels, we give all Fern Green students the roots (sound values, right attitudes and dispositions, stable, joyful and stimulating learning environments) and wings (future-ready transformative competencies) to fly.&nbsp; Let’s work hand in hand to help all our Fern Green students take flight.
-
-Ms Kong Yee Loon  
-Principal
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Ms%20Kong%20Yee%20Loon.png"></div><p>At Fern Green, we believe that education is not just about acquiring knowledge but also about helping our students discover their inner aspirations and nurturing them. Our school vision ‘Reflective Inquirers, Aspiring Advocates, Steadfast Leaders’ encapsulates the essence of what we hope all our Fern Green students will be.</p><p>Reflective Inquirers: As reflective inquirers, students are encouraged to engage in thoughtful and careful consideration of their thoughts, actions and experiences and the world around them. They should ask questions, seek answers, and explore. They are guided to learn from experiences and seek improvements.&nbsp; Many of our students’ aspirations may begin as questions, and it is through their curiosity and reflection that they will embark on their unique paths to discover their aspirations.</p><p>Aspiring Advocates: The term "advocate" implies taking a stand, speaking up for what one believes in, and striving to make the world a better place. We believe every Fern Green student has the potential to be an advocate for positive changes. &nbsp;Their aspirations may revolve around making a positive difference in their schoolmates’ lives and even society. &nbsp;Our role is to equip them with the character, mindset, knowledge, skills and courage to pursue those noble aspirations.</p><p>Steadfast Leaders: Leadership is not about a title; it is about actions and influence. We call upon our students to become steadfast leaders – to be upstanding individuals who role model the way, inspire others, and effect positive changes.</p><p>Some of our students already have clear dreams and aspirations, while others may be unsure, and we tell them that it is fine.&nbsp; Their aspirations are like seeds planted in their hearts. It is okay if they have not fully sprouted yet but they will with time and care.</p><p>Fern Green seeks to work hand in hand with our students’ families, our partners and key stakeholders like our Parent Support Group and School Advisory Committee to provide the nurturing environment in our students’ journey of self-discovery.&nbsp; The journey of self-discovery and growth will enable our students to have greater understanding of their strengths, unique talents and interests for them to achieve their aspirations.</p><p>On behalf of my colleagues in Fern Green, we would like to express our deepest appreciation to our parents and partners for your strong support and we wish everyone a wonderful year ahead.</p><p>Warm Regards,</p><p>Ms Kong Yee Loon</p>
