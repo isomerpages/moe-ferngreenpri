@@ -3,35 +3,6 @@ title: Physical Education, Art & Music (PE, Art, MU)
 permalink: /our-curriculum/PE-Art-and-Music-PE-Art-MU/Physical-Education-Art-Music-PE-Art-MU/
 description: ""
 third_nav_title: PE, Art & Music (PE, Art, MU)
+variant: tiptap
 ---
-
-# **Physical Education, Art & Music (PE, Art, MU)**
-
-![](/images/PE/physical%20education,%20art%20&%20music%20committee%202023.jpg)
-### **The PE / Art / Music Department aims to:**   
-
-*   Provide a positive and joyful PE learning experience leading to a sustained healthy lifestyle.  
-    
-*   Provide appreciation of Visual and Performing Arts.  
-    
-*   Inculcate positive sportsmanship, resilience, respect and sports safety for both others and self in PE, Art and Music lessons.   
-    
-*   Develop PE, Art & Music teachers to be competent, confident and efficient educators.
-
-### **To achieve the Department’s goals, students will be**
-
-*   experiencing key milestones programmes in the areas of Physical Education, Art and Music.   
-    
-*   acquiring sports & games and life-skills to sustain a healthy lifestyle.
-
-*   immersed in the diverse cultures and practices through the Arts.
-
-![](/images/PE/PE1.png)
-
-![](/images/PE/PE2.png)
-
-![](/images/PE/PE3.png)
-
-![](/images/PE/PE4.png)
-
-![](/images/PE/PE5.png)
+<h3></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PAM 2024" src="/images/PE/Physical_Education__Art___Music_Committee.jpg"></div><h3><strong>The PE / Art / Music Department aims to:</strong></h3><ul><li><p>Provide a positive and joyful PE learning experience leading to a sustained healthy lifestyle.</p></li><li><p>Provide appreciation of Visual and Performing Arts.</p></li><li><p>Inculcate positive sportsmanship, resilience, respect and sports safety for both others and self in PE, Art and Music lessons.</p></li><li><p>Develop PE, Art &amp; Music teachers to be competent, confident and efficient educators.</p></li></ul><h3><strong>To achieve the Department’s goals, students will be</strong></h3><ul><li><p>experiencing key milestones programmes in the areas of Physical Education, Art and Music.</p></li><li><p>acquiring sports &amp; games and life-skills to sustain a healthy lifestyle.</p></li><li><p>immersed in the diverse cultures and practices through the Arts.</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE1.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE2.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE3.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE4.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/PE5.png"></div><p></p>
