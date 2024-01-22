@@ -3,24 +3,6 @@ title: Character & Citizenship Education (CCE)
 permalink: /our-curriculum/CCE/Character-Citizenship-Education-CCE/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-
-# **Character & Citizenship Education (CCE)**
-
-![](/images/CCE/character%20&%20citizenship%20education%20committee%202023.jpg)
-
-The school’s CCE curriculum follows MOE’s Framework for 21st Century Competencies and Student Outcomes. It emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.
-
-![](/images/CCE/CCE.png)
-
-1.  Core Values refer to the foundation of character and provide the compass for moral behaviour  
-    
-2.  Social and emotional competencies provide the skills, knowledge and dispositions that enable the students to manage self and relationships and make responsible decisions  
-    
-3.  Citizenship skills enable students to function effectively as global citizens and stay rooted to Singapore
-
-----
-
-The CCE department in the school is structured as follows:
-
-![](/images/CCE/CCE2.png)
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CCE 2024" src="/images/CCE/Character___Citizenship_Education_Committee.jpg"></div><p>The school’s CCE curriculum follows MOE’s Framework for 21st Century Competencies and Student Outcomes. It emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE.png"></div><ol><li><p>Core Values refer to the foundation of character and provide the compass for moral behaviour</p></li><li><p>Social and emotional competencies provide the skills, knowledge and dispositions that enable the students to manage self and relationships and make responsible decisions</p></li><li><p>Citizenship skills enable students to function effectively as global citizens and stay rooted to Singapore</p></li></ol><hr><p>The CCE department in the school is structured as follows:</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE2.png"></div><p></p>

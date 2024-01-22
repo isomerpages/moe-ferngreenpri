@@ -3,30 +3,6 @@ title: Information & Communications Technology (ICT)
 permalink: /our-curriculum/ICT/Information-and-Communications-Technology-ICT/
 description: ""
 third_nav_title: ICT
+variant: tiptap
 ---
-
-# **Information &amp; Communications Technology (ICT)**
-
-![](/images/ICT/information%20&amp;%20communications%20technology%20committee%202023.jpg)
-
-<b>The ICT Department aims to:</b> 
-
-*   Support the School in harnessing an energetic learning environment that embraces technology in promoting collaboration, creative thinking and innovation amongst our learning community.&nbsp;  
-    
-*   Lead the School in testing and using the latest available digital resources in enhancing teaching/learning activities, administration and operation processes.&nbsp;  
-    
-*   Develop all teachers to be competent lesson designers in creating engaging learning experiences for all our students.
-
-![](/images/ICT/ICT.png)
-
-![](/images/ICT/ICT1.png)
-
-<b>The MRL Department aims to:</b>&nbsp;  
-
-*   Support the School in developing good reading culture and promote the joy of reading to the school learning community.&nbsp;  
-    
-*   Develop the school library books collection and reading resources to cater to students’ reading needs.&nbsp;  
-    
-*   Work with relevant agencies to organise activities to promote and raise readership.
-
-![](/images/ICT/ICT3.png)
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ICT 2024" src="/images/ICT/Information___Communication_Technology___Library_Committee.jpg"></div><p><strong>The ICT Department aims to:</strong></p><ul><li><p>Support the School in harnessing an energetic learning environment that embraces technology in promoting collaboration, creative thinking and innovation amongst our learning community.&nbsp;</p></li><li><p>Lead the School in testing and using the latest available digital resources in enhancing teaching/learning activities, administration and operation processes.&nbsp;</p></li><li><p>Develop all teachers to be competent lesson designers in creating engaging learning experiences for all our students.</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT1.png"></div><p><strong>The MRL Department aims to:</strong>&nbsp;</p><ul><li><p>Support the School in developing good reading culture and promote the joy of reading to the school learning community.&nbsp;</p></li><li><p>Develop the school library books collection and reading resources to cater to students’ reading needs.&nbsp;</p></li><li><p>Work with relevant agencies to organise activities to promote and raise readership.</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT3.png"></div><p></p>
