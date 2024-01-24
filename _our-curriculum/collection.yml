@@ -4,21 +4,22 @@ collections:
     order:
       - Our Curriculum.md
       - English Language (EL)/.keep
-      - English Language (EL)/English Language (EL).md
+      - English Language (EL)/Overview.md
+      - English Language (EL)/Programme.md
       - English Language (EL)/PROGRAMME.md
       - English Language (EL)/STELLAR.md
       - English Language (EL)/Assessment Matters.md
       - Mathematics (MA)/.keep
-      - Mathematics (MA)/Mathematics (MA).md
+      - Mathematics (MA)/Overview.md
       - Mathematics (MA)/Approach & Framework.md
       - Mathematics (MA)/Programmes.md
       - Science (SCI)/.keep
-      - Science (SCI)/Science (SCI).md
+      - Science (SCI)/Overview.md
       - Science (SCI)/Curriculum Approach.md
       - Science (SCI)/Science Curriculum.md
       - Science (SCI)/Science Holistic Assessment.md
       - Mother Tongue Languages (MTL)/.keep
-      - Mother Tongue Languages (MTL)/Mother Tongue Languages (MTL).md
+      - Mother Tongue Languages (MTL)/Overview.md
       - Mother Tongue Languages (MTL)/Programmes.md
       - ICT/.keep
       - ICT/Information & Communications Technology (ICT).md

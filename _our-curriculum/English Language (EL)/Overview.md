@@ -1,6 +1,6 @@
 ---
-title: English Language (EL)
-permalink: /our-curriculum/English-Language-EL/English-Language-EL/
+title: Overview
+permalink: /our-curriculum/english-language-el/overview/
 description: ""
 third_nav_title: English Language (EL)
 variant: tiptap

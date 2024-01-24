@@ -26,6 +26,15 @@ sections:
       button: Click here to view all
       url: /general-information/Announcements/
   - infopic:
+      title: MK@FG Open House 2024
+      subtitle: You are invited!
+      id: infopic
+      description: Come join us for a tour around the centre and fun-filled activities!
+      button: Click here to register
+      url: https://form.gov.sg/654c2c4128c6d00011d38319
+      image: /images/MK@Fern Green/Open_House_2024.jpg
+      alt: MK Open House 2024
+  - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
         during their interactions with you, so we could affirm their efforts and

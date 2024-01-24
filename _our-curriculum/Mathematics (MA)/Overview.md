@@ -1,6 +1,6 @@
 ---
-title: Mathematics (MA)
-permalink: /our-curriculum/Mathematics-MA/Mathematics-MA/
+title: Overview
+permalink: /our-curriculum/mathematics-ma/overview/
 description: ""
 third_nav_title: Mathematics (MA)
 variant: tiptap

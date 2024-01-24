@@ -1,6 +1,6 @@
 ---
-title: Mother Tongue Languages (MTL)
-permalink: /our-curriculum/Mother-Tongue-Languages-MTL/Mother-Tongue-Languages-MTL/
+title: Overview
+permalink: /our-curriculum/mother-tongue-languages-mtl/overview/
 description: ""
 third_nav_title: Mother Tongue Languages (MTL)
 variant: tiptap

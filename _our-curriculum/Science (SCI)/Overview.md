@@ -1,6 +1,6 @@
 ---
-title: Science (SCI)
-permalink: /our-curriculum/Science-SCI/Science-SCI/
+title: Overview
+permalink: /our-curriculum/science-sci/overview/
 description: ""
 third_nav_title: Science (SCI)
 variant: tiptap
