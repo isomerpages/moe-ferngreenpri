@@ -3,153 +3,374 @@ title: Events 2021
 permalink: /about-us/gallery/2021/
 description: ""
 third_nav_title: Gallery
+variant: tiptap
 ---
-
-# Events 2021
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-riya{background-color:#ECECEC;color:#1FA4A0;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2hhi">Date</th>
-    <th class="tg-2hhi">Event</th>
-    <th class="tg-2hhi">Gallery</th>
-  </tr>
-</thead>
+<p></p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-b4br">17 Nov 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1kYp7FAPmJa95hg1chxO3BPMZamPiGBSs?usp=sharing">P3 Music Makers Project</a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/music%20makers.jpg" width="161" height="215"></td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">15 Nov 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1swxjtH5GDdZuYt5aDqgxY0zyBWHq-J3K?usp=sharing">Artlympic Day</a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/Artlympic.jpg" width="271" height="202"></td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 14 Oct 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/14-kJUdH_qSEyjRmfD4G9enTYHJ1rx5NG?usp=sharing">Clean Plate Campaign</a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/clean%20plate.jpg" width="271" height="202"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">1 Sep 2021 </td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1CCdbugp6GDkvIMVqttSh3T0JDD34yobX?usp=sharing">Class Meeting Term 3 </a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/class%20meeting.jpg" width="272" height="203"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">25 Aug 2021 </td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1nhhyQ6VNzaFa__GJaaB1NbMjBcnPEhyj?usp=sharing">ECG Talk</a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/ECG.jpg" width="268" height="267"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">25 Aug 2021 </td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1x-zk0L3ctmugHw1aYkOqZ5vGuA8iVGCJ?usp=sharing">Cyber Wellness Talk</a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/cyberwellness%20talk.jpg" width="195" height="260"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">24 Aug 2021 </td>
-    <td class="tg-b4br"> <a href="https://drive.google.com/drive/folders/1cIW9qcI7kK6OLnRyIv0SrsdBRCdbP4Nq?usp=sharing">P4 SS Virtual Tour</a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/P4%20SS%20tour.jpg" width="265" height="198"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">6 Aug 2021 </td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1OYt7KCkqDUiO_A9Iez3IaCbz2ELwYgir?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">National Day Celebration</span></a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/ndp.jpg" width="241" height="180"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">21 July 2021 </td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/16QpVqC4hEu8AJ39vxAdMvl62Lk1t7Jvm?usp=sharing">Racial Harmony Day</a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/racial%20harmony%20day.jpg" width="241" height="241"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 7 July 2021</td>
-    <td class="tg-b4br"> Nurses Day</td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/nurses%20day.jpg" width="261" height="146"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">28 April 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1TuU1sIFZ_z6vOwuQB2BCqiM0SMOWSCOK?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0;background-color:#ECECEC">4th Prefects' Investiture</span></a><br></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/prefect%20investiture.jpg" width="273" height="204"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">26 April 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1F1_jS5gs0nV6NGyOWy6vRrfUB8pdbsff?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Student Leadership Training</span></a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/P1%20student%20leadership.jpg" width="282" height="158"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 21 April 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1iIAmiO70Fw6DBpiNq6GMet4ZbbaW1ec2?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0;background-color:#ECECEC">Earth Day</span></a><span style="background-color:#ECECEC"> </span> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/earth%20day.jpg" width="224" height="223"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 7 April 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1sUTY2NtfMciNB6bZeCTB1ldNBu-yn2A9?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">International Friendship Day</span></a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/IFD.jpg" width="237" height="191"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 1 April 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/file/d/1zef_ecKtYNfQZX_hdIEYYJMtfH7obmLj/view?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0;background-color:#ECECEC">Safe Cycling Programme</span></a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/safecycling.jpg" width="301" height="225"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">10 March 2021 </td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1HgIy6fCxVK1BnAYUlbz6RSkhyxe5LlAH?usp=sharing">World Water Day</a> </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/world%20water%20day.jpg" width="264" height="316"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 24 Feb 2021</td>
-    <td class="tg-b4br">Student Leadership Training</td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/student%20leadership.jpg" width="265" height="198"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 11 Feb 2021</td>
-    <td class="tg-riya"><a href="https://drive.google.com/drive/folders/1GIe3cJjFxmYoyowNg8MzbrZaa6Fzo16N?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#1FA4A0">Chinese New Year Celebration</span></a></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/CNY.jpg" width="265" height="199"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">10 Feb 2021 </td>
-    <td class="tg-b4br">Total Defence Day </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/Total%20Defence%20Day.jpg" width="269" height="197"></td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">28 Jan 2021 </td>
-    <td class="tg-b4br">Engagement Session on Rising Sea Levels<br></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/Terra.jpg" width="276" height="207"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 27 Jan 2021</td>
-    <td class="tg-b4br">Tan Tock Seng Hospital Hong Bao Donation Drive <br></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/TTSH.jpeg" width="272" height="204"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">13 Jan 2021 </td>
-    <td class="tg-b4br">The Fern Green Movement  <br></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/Fern%20Green%20Movement.jpg" width="263" height="196"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">5 Jan 2021 </td>
-    <td class="tg-b4br">Promoting the Joy of Learning<br></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/Joy%20of%20learning.jpg" alt="joy of learning.jpg" width="210" height="280"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">5 Jan 2021 </td>
-    <td class="tg-b4br">Buddy Programme for P1 Level <br></td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/Buddy%20Program.jpg" width="224" height="298"> </td>
-  </tr>
-  <tr>
-    <td class="tg-b4br"> 4 Jan 2021</td>
-    <td class="tg-b4br">First Day of School for P1 Level </td>
-    <td class="tg-b4br"><img src="/images/Gallery/2021/First%20Day%20of%20School%20for%20P1%20Level.jpg" width="257" height="171"> </td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Gallery</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Nov 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1kYp7FAPmJa95hg1chxO3BPMZamPiGBSs?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P3 Music Makers Project</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="215" width="161" src="/images/Gallery/2021/music%20makers.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Nov 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1swxjtH5GDdZuYt5aDqgxY0zyBWHq-J3K?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Artlympic Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="202" width="271" src="/images/Gallery/2021/Artlympic.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Oct 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/14-kJUdH_qSEyjRmfD4G9enTYHJ1rx5NG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Clean Plate Campaign</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="202" width="271" src="/images/Gallery/2021/clean%20plate.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Sep 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1CCdbugp6GDkvIMVqttSh3T0JDD34yobX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Class Meeting Term 3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="203" width="272" src="/images/Gallery/2021/class%20meeting.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Aug 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1nhhyQ6VNzaFa__GJaaB1NbMjBcnPEhyj?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">ECG Talk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="267" width="268" src="/images/Gallery/2021/ECG.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Aug 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1x-zk0L3ctmugHw1aYkOqZ5vGuA8iVGCJ?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Talk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="260" width="195" src="/images/Gallery/2021/cyberwellness%20talk.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Aug 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1cIW9qcI7kK6OLnRyIv0SrsdBRCdbP4Nq?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P4 SS Virtual Tour</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="198" width="265" src="/images/Gallery/2021/P4%20SS%20tour.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Aug 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1OYt7KCkqDUiO_A9Iez3IaCbz2ELwYgir?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">National Day Celebration</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="180" width="241" src="/images/Gallery/2021/ndp.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 July 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/16QpVqC4hEu8AJ39vxAdMvl62Lk1t7Jvm?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="241" width="241" src="/images/Gallery/2021/racial%20harmony%20day.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 July 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurses Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="146" width="261" src="/images/Gallery/2021/nurses%20day.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 April 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1TuU1sIFZ_z6vOwuQB2BCqiM0SMOWSCOK?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4th Prefects' Investiture</a></strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="204" width="273" src="/images/Gallery/2021/prefect%20investiture.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 April 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1F1_jS5gs0nV6NGyOWy6vRrfUB8pdbsff?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Training</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="158" width="282" src="/images/Gallery/2021/P1%20student%20leadership.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 April 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1iIAmiO70Fw6DBpiNq6GMet4ZbbaW1ec2?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Earth Day</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="223" width="224" src="/images/Gallery/2021/earth%20day.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 April 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1sUTY2NtfMciNB6bZeCTB1ldNBu-yn2A9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">International Friendship Day</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="191" width="237" src="/images/Gallery/2021/IFD.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 April 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/file/d/1zef_ecKtYNfQZX_hdIEYYJMtfH7obmLj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Safe Cycling Programme</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="225" width="301" src="/images/Gallery/2021/safecycling.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 March 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1HgIy6fCxVK1BnAYUlbz6RSkhyxe5LlAH?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">World Water Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="316" width="264" src="/images/Gallery/2021/world%20water%20day.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Feb 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leadership Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="198" width="265" src="/images/Gallery/2021/student%20leadership.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Feb 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1GIe3cJjFxmYoyowNg8MzbrZaa6Fzo16N?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebration</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="199" width="265" src="/images/Gallery/2021/CNY.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Feb 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Total Defence Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="197" width="269" src="/images/Gallery/2021/Total%20Defence%20Day.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engagement Session on Rising Sea Levels
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="207" width="276" src="/images/Gallery/2021/Terra.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jan 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital Hong Bao Donation Drive
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="204" width="272" src="/images/Gallery/2021/TTSH.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jan 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Fern Green Movement
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="196" width="263" src="/images/Gallery/2021/Fern%20Green%20Movement.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promoting the Joy of Learning
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="280" width="210" alt="joy of learning.jpg" src="/images/Gallery/2021/Joy%20of%20learning.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buddy Programme for P1 Level
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="298" width="224" src="/images/Gallery/2021/Buddy%20Program.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Jan 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Day of School for P1 Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="171" width="257" src="/images/Gallery/2021/First%20Day%20of%20School%20for%20P1%20Level.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
