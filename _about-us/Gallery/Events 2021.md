@@ -163,7 +163,7 @@ variant: tiptap
 <p>28 April 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1TuU1sIFZ_z6vOwuQB2BCqiM0SMOWSCOK?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4th Prefects' Investiture</a></strong>
+<p><strong><a href="https://drive.google.com/drive/folders/1TuU1sIFZ_z6vOwuQB2BCqiM0SMOWSCOK?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4th Prefects' Investiture</a></strong> 
 <br>
 </p>
 </td>
