@@ -21,10 +21,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023-11-17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/25eVLAgh8vb6GTEz7" rel="noopener noreferrer nofollow" target="_blank">Awards Presentation Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023-11-16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/nbE5r5kjjcJz5Xip6" rel="noopener noreferrer nofollow" target="_blank">Spring Cleaning Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023-11-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://photos.app.goo.gl/GASFc3YHaxdDjc8A6" rel="noopener noreferrer nofollow" target="_blank">Advocates with Heart Fiesta</a>
+<p><strong><a href="https://photos.app.goo.gl/GASFc3YHaxdDjc8A6" rel="noopener noreferrer nofollow" target="_blank">Advocates with Heart Fiesta</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +60,7 @@ variant: tiptap
 <p>2023-11-06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://photos.app.goo.gl/9PRRG1BpgLEQnChg9" rel="noopener noreferrer nofollow" target="_blank">Deepavali Celebration</a>
+<p><strong><a href="https://photos.app.goo.gl/9PRRG1BpgLEQnChg9" rel="noopener noreferrer nofollow" target="_blank">Deepavali Celebration</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +72,7 @@ variant: tiptap
 <p>2023-11-03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://photos.app.goo.gl/WCt7RuTh15UC5X8v7" rel="noopener noreferrer nofollow" target="_blank">P6 Celebrates</a>
+<p><strong><a href="https://photos.app.goo.gl/WCt7RuTh15UC5X8v7" rel="noopener noreferrer nofollow" target="_blank">P6 Celebrates</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +84,7 @@ variant: tiptap
 <p>2023-10-30 to 2023-11-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://photos.app.goo.gl/Zh7SaXueu8p7qAqy5" rel="noopener noreferrer nofollow" target="_blank">FGPS Olympic Day</a>
+<p><strong><a href="https://photos.app.goo.gl/Zh7SaXueu8p7qAqy5" rel="noopener noreferrer nofollow" target="_blank">FGPS Olympic Day</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
