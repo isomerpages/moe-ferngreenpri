@@ -2,7 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
-      - Special Programmes.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Project Work (PW).md
