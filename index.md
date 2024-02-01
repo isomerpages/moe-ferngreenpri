@@ -32,7 +32,7 @@ sections:
       description: Come join us for a tour around the centre and fun-filled activities!
       button: Click here to register
       url: https://form.gov.sg/654c2c4128c6d00011d38319
-      image: /images/MK@Fern Green/Open_House_2024.jpg
+      image: /images/MK@Fern Green/WhatsApp_Image_2024_01_29_at_6_16_47_PM.jpeg
       alt: MK Open House 2024
   - infopic:
       title: Say It From Your Heart
