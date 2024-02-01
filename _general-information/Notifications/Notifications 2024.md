@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Notifications
 ---
 <h4><strong>Weekly Parents Notifications 2024</strong></h4>
-<p></p>
 <table>
 <tbody>
 <tr>
