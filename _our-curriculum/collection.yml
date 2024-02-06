@@ -2,10 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - PE, Art & Music 2(PE, Art, MU)/.keep
-      - PE, Art & Music 2(PE, Art, MU)/Programmes.md
-      - PE, Art & Music 2(PE, Art, MU)/Physical Education, Art & Music (PE, Art,
-        MU).md
       - Our Curriculum.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
@@ -46,6 +42,10 @@ collections:
       - CCE/Values Talks.md
       - CCE/Student Leaders Cohort Leadership Training.md
       - Student Management (SM).md
+      - PE, Art & Music 2(PE, Art, MU)/.keep
+      - PE, Art & Music 2(PE, Art, MU)/Programmes.md
+      - PE, Art & Music 2(PE, Art, MU)/Physical Education, Art & Music (PE, Art,
+        MU).md
       - PE, Art & Music (PE, Art, MU)/.keep
       - PE, Art & Music (PE, Art, MU)/Physical Education, Art & Music (PE, Art,
         MU).md
