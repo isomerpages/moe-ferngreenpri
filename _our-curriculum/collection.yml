@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - PE, Art & Music 2(PE, Art, MU)/Programmes.md
       - PE, Art & Music 2(PE, Art, MU)/.keep
       - Our Curriculum.md
       - English Language (EL)/.keep
