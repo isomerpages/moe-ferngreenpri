@@ -41,6 +41,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/IMG_2479.JPG">
+</div>
 </td>
 </tr>
 <tr>
@@ -53,6 +56,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/20231116_123110.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -65,6 +71,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/IMG_2325.JPG">
+</div>
 </td>
 </tr>
 <tr>
@@ -77,6 +86,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/20231106_104947__1_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -89,6 +101,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/IMG_2167.JPG">
+</div>
 </td>
 </tr>
 <tr>
@@ -101,6 +116,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/IMG_2044.JPG">
+</div>
 </td>
 </tr>
 <tr>
