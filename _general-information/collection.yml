@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - P1 Registration.md
       - Announcements.md
       - E Learning.md
       - Forms.md
@@ -16,6 +15,7 @@ collections:
       - Parents Gateway/.keep
       - Parents Gateway/Onboarding.md
       - Parents Gateway/Update Contact Details in Parents Gateway.md
+      - P1 Registration.md
       - Quick Download.md
       - Service Providers/.keep
       - Service Providers/Bookshop Services.md
