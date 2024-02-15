@@ -284,7 +284,7 @@ variant: tiptap
 <p>Mr Muhammad Rizdwan Bin Rosman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>muhammad_rizdwan_rosman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1328,7 +1328,7 @@ variant: tiptap
 <p>Miss Lim Su Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>lim_su_xin_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1339,7 +1339,7 @@ variant: tiptap
 <p>Mdm Tan Siew Choo Cynthia (Mrs Swee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>tan_siew_choo_cynthia_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1361,7 +1361,7 @@ variant: tiptap
 <p>Mdm Aisah Bte Mohd Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>aisah_mohd_osman_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1372,7 +1372,7 @@ variant: tiptap
 <p>Ms Tan Si Yu, Amelia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>tan_si_yu_amelia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1416,7 +1416,7 @@ variant: tiptap
 <p>Mrs Kannan Kiruthika</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>kannan_kiruthika@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
