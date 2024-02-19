@@ -29,7 +29,8 @@ third_nav_title: For Students
 <p>Student iCON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
 </td>
 </tr>
 <tr>
