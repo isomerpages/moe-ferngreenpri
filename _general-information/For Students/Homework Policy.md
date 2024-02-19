@@ -2,13 +2,13 @@
 title: Homework Policy
 permalink: /general-information/Homework-Policy/
 description: ""
+third_nav_title: For Students
 ---
-
 There are 3 broad Categories of Homework that Teachers may assign to students. These are:  
 
-*   Practice Exercises which aim to help students to reinforce, recall and practise newly acquired skills or concepts   
+*   Practice Exercises which aim to help students to reinforce, recall and practise newly acquired skills or concepts&nbsp;  
     
-*   Preparatory Homework which requires students to source for and read background information to prepare them for future lessons on a specific topic or subject.   
+*   Preparatory Homework which requires students to source for and read background information to prepare them for future lessons on a specific topic or subject.&nbsp;  
     
 *   Extension Homework which encourages students to pursue knowledge individually and imaginatively. It may include writing a book review, painting a picture, doing a research, or retrieving information from the internet  
     
@@ -24,7 +24,7 @@ When assigning homework, Teachers in Fern Green Primary School (FGPS) adhere to 
 *   Homework assignment needs to take into account students’ other commitments such as involvement in CCA and afternoon classes  
     
 
-<u>Homework Load</u>   
+<u>Homework Load</u>&nbsp;  
 (note: the indicated time for homework completion is with reference to an average worker)
 
 
