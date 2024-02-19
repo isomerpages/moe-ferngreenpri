@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - General/Announcements.md
       - General/.keep
       - For Parents/.keep
       - For Parents/Forms.md
