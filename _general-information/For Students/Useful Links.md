@@ -51,6 +51,15 @@ third_nav_title: For Students
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>eZhishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ezhishi.com/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com/Contents/</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
