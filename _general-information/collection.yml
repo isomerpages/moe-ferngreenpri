@@ -2,10 +2,10 @@ collections:
   general-information:
     output: true
     order:
-      - For Parents/Quick Download.md
-      - For Parents/P1 Registration.md
-      - For Parents/Forms.md
       - For Parents/.keep
+      - For Parents/Forms.md
+      - For Parents/P1 Registration.md
+      - For Parents/Quick Download.md
       - Announcements.md
       - E Learning.md
       - Home Based Learning (HBL).md
