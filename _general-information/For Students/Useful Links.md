@@ -42,6 +42,15 @@ third_nav_title: For Students
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MySkillsFuture Portal (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
