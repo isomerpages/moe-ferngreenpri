@@ -2,8 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - For Students/Homework Policy.md
-      - For Students/.keep
       - General/.keep
       - General/Announcements.md
       - General/School Calendar.md
@@ -14,6 +12,8 @@ collections:
       - For Parents/Forms.md
       - For Parents/P1 Registration.md
       - For Parents/Quick Download.md
+      - For Students/.keep
+      - For Students/Homework Policy.md
       - E Learning.md
       - Home Based Learning (HBL).md
       - Notifications/.keep
