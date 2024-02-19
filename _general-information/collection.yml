@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - For Parents.md
       - Announcements.md
       - E Learning.md
       - Forms.md
