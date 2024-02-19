@@ -2,12 +2,12 @@ collections:
   general-information:
     output: true
     order:
-      - General/Virtual School Open House.md
-      - General/School Rules.md
-      - General/School Hours.md
-      - General/School Calendar.md
-      - General/Announcements.md
       - General/.keep
+      - General/Announcements.md
+      - General/School Calendar.md
+      - General/School Hours.md
+      - General/School Rules.md
+      - General/Virtual School Open House.md
       - For Parents/.keep
       - For Parents/Forms.md
       - For Parents/P1 Registration.md
