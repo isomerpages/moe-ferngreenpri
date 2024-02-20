@@ -4,7 +4,6 @@ collections:
     order:
       - Announcements.md
       - General/.keep
-      - General/School Calendar.md
       - General/School Hours.md
       - General/School Rules.md
       - General/Virtual School Open House.md
