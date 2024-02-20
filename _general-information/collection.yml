@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General/.keep
-      - General/Announcements.md
       - General/School Calendar.md
       - General/School Hours.md
       - General/School Rules.md
