@@ -2,11 +2,12 @@ collections:
   general-information:
     output: true
     order:
-      - Virtual School Open House.md
-      - School Rules.md
-      - School Hours.md
-      - School Calendar.md
       - Announcements.md
+      - Notifications/.keep
+      - Notifications/Notifications 2024.md
+      - Notifications/Notifications 2023.md
+      - Notifications/Notifications 2022.md
+      - Notifications/Notifications 2021.md
       - General/.keep
       - For Parents/.keep
       - For Parents/Forms.md
@@ -18,11 +19,9 @@ collections:
       - For Students/Useful Links.md
       - E Learning.md
       - Home Based Learning (HBL).md
-      - Notifications/.keep
-      - Notifications/Notifications 2024.md
-      - Notifications/Notifications 2023.md
-      - Notifications/Notifications 2022.md
-      - Notifications/Notifications 2021.md
+      - School Calendar.md
+      - School Hours.md
+      - School Rules.md
       - Service Providers/.keep
       - Service Providers/Bookshop Services.md
       - Service Providers/School Uniform Supplier.md
@@ -30,3 +29,4 @@ collections:
       - Service Providers/School Canteen.md
       - Service Providers/School Dental Services.md
       - Service Providers/Student Care Services.md
+      - Virtual School Open House.md
