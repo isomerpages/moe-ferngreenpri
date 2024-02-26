@@ -2,7 +2,7 @@
 title: Homework Policy
 permalink: /general-information/Homework-Policy/
 description: ""
-third_nav_title: For Students
+third_nav_title: For Parents
 ---
 There are 3 broad Categories of Homework that Teachers may assign to students. These are:  
 
