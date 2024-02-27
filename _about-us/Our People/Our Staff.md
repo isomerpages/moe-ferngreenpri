@@ -1130,7 +1130,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Non-Form Teachers</strong></h4>
+<h4><strong>Subject Teachers</strong></h4>
 <table>
 <tbody>
 <tr>
