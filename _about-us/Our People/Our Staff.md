@@ -1245,112 +1245,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Yee Elizabeth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_siew_yee_elizabeth@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Mui Wee Alyssa (Mrs Leong)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>alyssa_lim_mui_wee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Lee (Ms Kum Hong Yoke)</p>
+<p>Ms Susan Sng Sim Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kum_hong_yoke@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Eleanor Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_lee_hoon_eleanor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Don Seah Hock Kwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seah_hock_kwee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sin Sit Boon (Simon)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sin_sit_boon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jeanette Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_poh_wan_jeanette@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tricia Wee Gwek Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wee_Gwek_Hiang_Tricia@moe.edu.sg</p>
+<p>susan_sng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1362,39 +1263,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_woon_lee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Bettina Chiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bettina_Chiang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Farah Adzlin Kasmany</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>farah_adzlin_kasmany@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Susan Sng Sim Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>susan_sng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1421,6 +1289,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Farah Adzlin Kasmany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>farah_adzlin_kasmany@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MA &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1428,6 +1307,39 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_siew_choo_cynthia_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Yee Elizabeth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_siew_yee_elizabeth@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Eleanor Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_lee_hoon_eleanor@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL &amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Lee (Ms Kum Hong Yoke)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kum_hong_yoke@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1443,6 +1355,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MA &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tricia Wee Gwek Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee_Gwek_Hiang_Tricia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Bettina Chiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bettina_Chiang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1450,6 +1384,39 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>aisah_mohd_osman_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Mui Wee Alyssa (Mrs Leong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alyssa_lim_mui_wee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA &amp; SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Don Seah Hock Kwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seah_hock_kwee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA &amp; SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeanette Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_poh_wan_jeanette@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1490,10 +1457,32 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Sin Sit Boon (Simon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sin_sit_boon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Yao Xiaofeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yao_xiaofeng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nurhairiah Abdul Malik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurhairiah_abdul_malik@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1505,17 +1494,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kannan_kiruthika@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
