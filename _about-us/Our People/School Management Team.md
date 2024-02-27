@@ -471,7 +471,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST LN</p>
+<p>ST LN (SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Siew Hoon</p>
@@ -482,7 +482,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Educational Support</p>
+<p>ST LN (ES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Celine Celestine Goh (Mrs Lim)</p>
