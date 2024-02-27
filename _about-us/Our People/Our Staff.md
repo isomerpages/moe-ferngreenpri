@@ -1146,6 +1146,72 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MA &amp; SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammmad Izree Bin Jalil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_izree_jalil@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA &amp; SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Hui Ying (Sandra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_hui_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Alice Ooi Chen Ai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alice_ooi_chen_ai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL &amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Yi Qian Brenda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_yi_qian_brenda@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL &amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yap Yiow Zhoong, Alistair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yap_yiow_zhoong_alistair@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TL &amp; CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss J Harreini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>j_harreini@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1153,6 +1219,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_woon_cheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leo Wen Xiang Kenneth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leo_wen_xiang_kenneth@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Chin Cheoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chin_cheoh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1179,13 +1267,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leo Wen Xiang Kenneth</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leo_wen_xiang_kenneth@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1201,13 +1289,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Chin Cheoh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chin_cheoh@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
