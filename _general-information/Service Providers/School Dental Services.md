@@ -75,32 +75,19 @@ treatment during clinic closure, please call:</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fernvale Primary School</p>
+<p>Oasis Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://maps.google.com/?q=1+Fernvale+Lane&amp;entry=gmail&amp;source=g&amp;litebox=1" rel="noopener noreferrer nofollow" target="_blank">1 Fernvale Lane</a> S(797701)</p>
+<p><a href="https://www.bing.com/ck/a?!&amp;&amp;p=5ce0c3c2b2141d2fJmltdHM9MTcwOTE2NDgwMCZpZ3VpZD0xOTk5OWExNy1mOWQzLTY4ZjYtMjJjMC04ZTA1Zjg5NjY5NzgmaW5zaWQ9NTc0MQ&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=19999a17-f9d3-68f6-22c0-8e05f8966978&amp;u=a1L21hcHM_Jm1lcGk9MTI3fn5Vbmtub3dufkFkZHJlc3NfTGluayZ0eT0xOCZxPU9hc2lzJTIwUHJpbWFyeSUyMFNjaG9vbCZzcz15cGlkLllOODE2Mng0MTYwOTA1ODE5MDA3OTQ2NjQ4JnBwb2lzPTEuNDA0Mzc2MDI5OTY4MjYxN18xMDMuOTExMzY5MzIzNzMwNDdfT2FzaXMlMjBQcmltYXJ5JTIwU2Nob29sX1lOODE2Mng0MTYwOTA1ODE5MDA3OTQ2NjQ4fiZjcD0xLjQwNDM3Nn4xMDMuOTExMzY5JnY9MiZzVj0xJkZPUk09TVBTUlBM&amp;ntb=1" rel="noopener noreferrer nofollow" target="_blank">71 Edgefield Plains Punggol 828716</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6425 7517</p>
+<p>8940 6503</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sengkang Green Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://maps.google.com/?q=15+Fernvale+Road&amp;entry=gmail&amp;source=g&amp;litebox=1" rel="noopener noreferrer nofollow" target="_blank">15 Fernvale Road</a> S(797636)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6241 8954</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Springdale Primary School</p>
@@ -109,7 +96,22 @@ treatment during clinic closure, please call:</p>
 <p><a href="https://maps.google.com/?q=71+Anchorvale+Link&amp;entry=gmail&amp;source=g&amp;litebox=1" rel="noopener noreferrer nofollow" target="_blank">71 Anchorvale Link</a> S(544799)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6315 7874</p>
+<p>9015 3654</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Valour Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>49 Punggol Central
+<br>Singapore 828728</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9113 7654</p>
 </td>
 </tr>
 </tbody>
