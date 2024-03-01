@@ -1,5 +1,5 @@
 ---
-title: E Learning
+title: eLearning
 permalink: /general-information/e-learning/
 description: ""
 variant: tiptap
