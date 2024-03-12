@@ -59,28 +59,5 @@ and technological skills while exercising Cyber Wellness&nbsp;&nbsp;</p>
 a range of digital tools to create digital artifact and solutions​</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT1.png">
-</div>
-<p><strong>The MRL Department aims to:</strong>&nbsp;</p>
-<ul>
-<li>
-<p>Support the School in developing good reading culture and promote the
-joy of reading to the school learning community.&nbsp;</p>
-</li>
-<li>
-<p>Develop the school library books collection and reading resources to cater
-to students’ reading needs.&nbsp;</p>
-</li>
-<li>
-<p>Work with relevant agencies to organise activities to promote and raise
-readership.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT3.png">
-</div>
+<p></p>
 <p></p>
