@@ -92,4 +92,7 @@ experiences</p>
 <p><strong>Learners and innovators who</strong> continually develop and deepen
 their digital literacy and technological skills</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_02_2024.jpg">
+</div>
 <p></p>
