@@ -60,4 +60,36 @@ a range of digital tools to create digital artifact and solutions​</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ict 2024.jpg">
+</div>
+<p></p>
+<h4><strong>Professional development and strategies for teachers:</strong></h4>
+<ul>
+<li>
+<p><strong>Student Learning Space &amp; EdTech tools training</strong>
+</p>
+</li>
+<li>
+<p><strong>ePedagogy</strong>
+</p>
+</li>
+</ul>
+<p>Our professional development and strategies for <strong>Teachers </strong>aim
+to achieve the following outcomes:</p>
+<ul>
+<li>
+<p><strong>Collaborative contributors who </strong>embrace a culture of teamwork,
+sharing, adoption and adaptation of digital resources and best practices
+for teaching with technology</p>
+</li>
+<li>
+<p><strong>Pedagogically proficient, data literate learning designers who</strong> are
+proficient in using e-Pedagogy to design effective tech-enabled learning
+experiences</p>
+</li>
+</ul>
+<p><strong>Learners and innovators who</strong> continually develop and deepen
+their digital literacy and technological skills</p>
+<p></p>
 <p></p>
