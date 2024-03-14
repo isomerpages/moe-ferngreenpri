@@ -1,0 +1,14 @@
+logo: /images/logo.svg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Partnerships
+    collection: partnerships
+  - title: General Information
+    collection: general-information
+  - title: MK@Fern Green
+    url: https://sites.google.com/moe.edu.sg/mkferngreen/highlights

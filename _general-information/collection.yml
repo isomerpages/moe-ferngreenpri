@@ -1,0 +1,30 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - Announcements.md
+      - Notifications/.keep
+      - Notifications/Notifications 2024.md
+      - Notifications/Notifications 2023.md
+      - Notifications/Notifications 2022.md
+      - Notifications/Notifications 2021.md
+      - For Parents/.keep
+      - For Parents/Forms.md
+      - For Parents/Homework Policy.md
+      - For Parents/Parents Gateway.md
+      - For Parents/P1 Registration.md
+      - For Parents/Quick Download.md
+      - For Students/.keep
+      - For Students/Useful Links.md
+      - eLearning.md
+      - School Calendar.md
+      - School Hours.md
+      - School Rules.md
+      - Service Providers/.keep
+      - Service Providers/Bookshop Services.md
+      - Service Providers/School Uniform Supplier.md
+      - Service Providers/School Bus Services.md
+      - Service Providers/School Canteen.md
+      - Service Providers/School Dental Services.md
+      - Service Providers/Student Care Services.md
+      - Virtual School Open House.md

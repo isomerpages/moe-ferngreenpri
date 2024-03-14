@@ -1,0 +1,11 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - MK@FG Open House 2024.md
+      - MOE Kindergarten (MK).md
+      - MK@FG People/.keep
+      - MK@FG People/MK@FG School Leaders.md
+      - MK@FG People/Our Staff.md
+      - MK@FG and KCare Hours.md
+      - MK@FG Downloads.md
