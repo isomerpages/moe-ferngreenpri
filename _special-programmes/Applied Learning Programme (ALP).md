@@ -58,12 +58,12 @@ participate in projects based on a thematic approach:·
 <p>Employing Opportunities during White Spaces, Modular Enrichment periods,
 and After-Class sessions to develop:
 <br>
-<br><strong>Innovative and thinking skills</strong>
+<br><strong>Innovative and thinking skills</strong> 
 <br>· P1 &amp; P2: Tinkering and Exploration
 <br>· P3 &amp; P4: Problem Solving
 <br>· P5 &amp; P6: Design Thinking
 <br>
-<br><strong>Hand and Computing skills</strong>
+<br><strong>Hand and Computing skills</strong> 
 <br>· P1 &amp; P2: Cutting/Folding/Sticking skills with beginners’ materials:
 paper, textile, card boards.
 <br>· P3 &amp; P4: Exposure to Sawing/Drilling/Screwing/Knitting skill with
