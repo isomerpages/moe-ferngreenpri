@@ -14,12 +14,12 @@ sections:
         - title: Calendar
           description: ""
           url: /general-information/School-Calendar/
-        - title: Quick Download
+        - title: For Parents
           description: ""
-          url: /general-information/Quick-Download/
-        - title: Quick Links
-          description: Healthy Meals in Schools
-          url: https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
+          url: https://www.ferngreenpri.moe.edu.sg/general-information/forms/
+        - title: For Students
+          description: Useful Links
+          url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       title: Fern Green Primary School
   - infobar:
       title: Announcements
