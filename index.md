@@ -19,6 +19,7 @@ sections:
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       title: Fern Green Primary School
+      variant: center
   - infobar:
       title: Announcements
       button: Click here to view all
