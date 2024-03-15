@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/FGPS Homepage.jpg
-      button: Contact Us
-      url: /our-school/contact-us/
       key_highlights:
         - title: Calendar
           description: ""
