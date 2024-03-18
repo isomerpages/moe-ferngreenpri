@@ -1,6 +1,6 @@
 ---
-title: PROGRAMME
-permalink: /our-curriculum/English-Language-EL/PROGRAMME/
+title: PROGRAMMES
+permalink: /our-curriculum/English-Language-EL/PROGRAMMES/
 description: ""
 third_nav_title: English Language (EL)
 ---
