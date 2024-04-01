@@ -20,6 +20,29 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-01-19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://photos.app.goo.gl/HXqLDvAnbvkssG968" rel="noopener noreferrer nofollow" target="_blank">Evacuation Exercise</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-01-03 to 05</p>
 </td>
 <td rowspan="1" colspan="1">
