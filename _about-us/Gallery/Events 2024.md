@@ -68,6 +68,18 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024-03-05 to 26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/4oSw67NQzt8rzFQ58" rel="noopener noreferrer nofollow" target="_blank">P1 ICT Baseline Training</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-02-28</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +179,19 @@ third_nav_title: Gallery
 <p>2024-01-19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://photos.app.goo.gl/HXqLDvAnbvkssG968" rel="noopener noreferrer nofollow" target="_blank">Evacuation Exercise</a></strong>
+<p><a href="https://photos.app.goo.gl/HXqLDvAnbvkssG968" rel="noopener noreferrer nofollow" target="_blank">Evacuation Exercise</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-01-10 to 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/cqey51Je6af2squu8" rel="noopener noreferrer nofollow" target="_blank">P2 ICT Baseline Training</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +203,7 @@ third_nav_title: Gallery
 <p>2024-01-03 to 05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://photos.app.goo.gl/akrXFKePCR116Jy49" rel="noopener noreferrer nofollow" target="_blank">Orientation Week: Ignite and Shine!</a></strong>
+<p><a href="https://photos.app.goo.gl/akrXFKePCR116Jy49" rel="noopener noreferrer nofollow" target="_blank">Orientation Week: Ignite and Shine!</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +218,7 @@ third_nav_title: Gallery
 <p>2024-01-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://photos.app.goo.gl/MtEBinDXUSbnZuDCA" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School</a></strong>
+<p><a href="https://photos.app.goo.gl/MtEBinDXUSbnZuDCA" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
