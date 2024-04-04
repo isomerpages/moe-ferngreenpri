@@ -210,6 +210,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>22 May 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://photos.app.goo.gl/GHdyJK4k1uhU2wDW6" rel="noopener noreferrer nofollow" target="_blank">Assembly Music Performance</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/SMM09458.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 May 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,6 +233,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2023/20230518_105552.jpg">
+</div>
 </td>
 </tr>
 <tr>
