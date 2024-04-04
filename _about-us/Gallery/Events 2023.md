@@ -325,7 +325,7 @@ variant: tiptap
 <p>13 - 15 Mar 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1Q6juRR_z0RiQBFx4qklo0QQFOXtYGCmS?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">P5 Camp</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/pxrVJHFRxx6ynVbM9" rel="noopener noreferrer nofollow" target="_blank">P5 Camp</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,7 +339,7 @@ variant: tiptap
 <p>10 Mar 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1ks5O738Th24pBJqklLAE9m6u7FwbihVN?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Prefects Recognition by Principal</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/U9ogqU1v5iuxwmmT8" rel="noopener noreferrer nofollow" target="_blank">Prefects Recognition by Principal</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -465,7 +465,7 @@ variant: tiptap
 <p>20 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1mL-FvIU3MSJ-46-Nn4thG7EhTtzwMhsD?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebration</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/h6qXKcc7AKF6mNTP7" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebration</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
