@@ -28,6 +28,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/math week.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -40,6 +43,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/pinnacle award.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -52,6 +58,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p4 camp.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -64,6 +73,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/fun science.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -76,6 +88,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p1 ict.jpg">
+</div>
 </td>
 </tr>
 <tr>
