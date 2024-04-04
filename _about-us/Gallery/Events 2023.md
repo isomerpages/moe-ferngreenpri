@@ -210,6 +210,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 May 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://photos.app.goo.gl/K4epr1gCw779zJ5T6" rel="noopener noreferrer nofollow" target="_blank">Fun Science @ Recess</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15 May 2023</p>
 </td>
 <td rowspan="1" colspan="1">
