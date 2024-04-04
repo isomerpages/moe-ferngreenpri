@@ -367,7 +367,7 @@ variant: tiptap
 <p>6 Mar 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1HiXtwmNNcevDLgZQ-yGj7sJsj_1eYwyY?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Environment Champion Card</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/KsW8et8EusWjBzxr8" rel="noopener noreferrer nofollow" target="_blank">Environment Champion Card</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,7 +381,7 @@ variant: tiptap
 <p>27 Feb 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1NRmj-EoG_5lN__cwEVZzzdxLWmqhdWaa?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Happy Toilet</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/E4azZ2hEDgsnocEs8" rel="noopener noreferrer nofollow" target="_blank">Happy Toilet</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -395,7 +395,7 @@ variant: tiptap
 <p>17 Feb 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1P4m3-aBUpjwszR3ZoBGSkTg-dthf_js3?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Road Safety</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/4LEDeWGFoVt7WQmz7" rel="noopener noreferrer nofollow" target="_blank">Road Safety</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,7 +409,7 @@ variant: tiptap
 <p>13 Feb 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1kF7OeSD0ITb3CQ1mvjc_nN2zVdkK3vkN?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">P6 SS LJ to ACM</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/NMokNF8isbTJkb4V9" rel="noopener noreferrer nofollow" target="_blank">P6 SS LJ to ACM</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,7 +423,7 @@ variant: tiptap
 <p>13 &amp; 14 Feb 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1uViGL8auWfgiP1IsCnUujkNv68ZyOoAU?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/Utj4DfXxhyReVkNNA" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -437,7 +437,7 @@ variant: tiptap
 <p>31 Jan to 1 Mar 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1NqlXq6w2X7XMpt4n1FkI0Ggn8AsUtKLB?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Safe Cycling Programme</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/8AFhpcHfyZXuo5BRA" rel="noopener noreferrer nofollow" target="_blank">Safe Cycling Programme</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +451,7 @@ variant: tiptap
 <p>30 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/17UVKtcwCJlWNpfOu4K6rp3KevBgfa8h3?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Fern Green Movement</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/PKuekxjzMUJL7Vtr9" rel="noopener noreferrer nofollow" target="_blank">Fern Green Movement</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -479,7 +479,7 @@ variant: tiptap
 <p>16 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1GigA4FDTghxN5_wGByppAcNfXhSHg3-3?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">TTSH Hong Bao Project</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/6bXBAwJybNcTc4Sv5" rel="noopener noreferrer nofollow" target="_blank">TTSH Hong Bao Project</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -493,7 +493,7 @@ variant: tiptap
 <p>16 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1baoSosaTOwYgJ9PFzuIPzLLTG5AqIX81?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Prefects Training</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/M9keDSDPm4P5E7ax7" rel="noopener noreferrer nofollow" target="_blank">Prefects Training</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -507,7 +507,7 @@ variant: tiptap
 <p>4 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1-2p55I1XbxyyhgkZxBWMMSKSSATh1fzl?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">P1 Buddy Program</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/UazQxtKpPQuXRp9b8" rel="noopener noreferrer nofollow" target="_blank">P1 Buddy Program</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -521,7 +521,7 @@ variant: tiptap
 <p>3 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1fyDWJJ0sqPcRYEKRkMSQZcSs3nAXF_LX?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/CSXAMH3zKHZGeSbF8" rel="noopener noreferrer nofollow" target="_blank">P1 First Day of School</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
