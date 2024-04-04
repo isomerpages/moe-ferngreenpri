@@ -23,7 +23,8 @@ third_nav_title: Gallery
 <p>2024-04-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://photos.app.goo.gl/Cx2ZbHuoQ8AnwNfi8" rel="noopener noreferrer nofollow" target="_blank">Roving Art Truck</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
