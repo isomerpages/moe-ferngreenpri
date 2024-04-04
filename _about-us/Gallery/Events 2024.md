@@ -112,6 +112,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/tdd recess.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -124,6 +127,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/Chinese_New_Year_Photo_Collage_2024.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -136,6 +142,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p2 safe cycling.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -148,6 +157,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p2 music milestone.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -160,6 +172,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p1 safe cycling.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -172,6 +187,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p1 music milestone.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -184,6 +202,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/evacuation exercise.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -196,6 +217,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p2 ict .jpg">
+</div>
 </td>
 </tr>
 <tr>
