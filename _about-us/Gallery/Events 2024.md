@@ -20,6 +20,21 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024-04-02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/Cx2ZbHuoQ8AnwNfi8" rel="noopener noreferrer nofollow" target="_blank">Roving Art Truck</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/roving art truck.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-03-25 to 28</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,6 +43,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/math week.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -40,6 +58,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/pinnacle award.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -52,6 +73,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p4 camp.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -64,6 +88,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/fun science.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -76,6 +103,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p1 ict.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -88,6 +118,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/p2 doodlechamps.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -100,6 +133,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/student leadership training 1.jpg">
+</div>
 </td>
 </tr>
 <tr>

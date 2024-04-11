@@ -19,6 +19,24 @@ third_nav_title: Notifications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>T2W4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2024/T2W4_Parents_Notification__2024_04_11_.pdf" rel="noopener noreferrer nofollow" target="_blank">11 April 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2024/T2W3_Parents_Notification__2024_04_03_.pdf" rel="noopener noreferrer nofollow" target="_blank">3 April 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>T2W2</p>
 </td>
 <td rowspan="1" colspan="1">
