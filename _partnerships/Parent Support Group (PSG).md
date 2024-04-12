@@ -85,6 +85,7 @@ FGPS now! Play an active role in your children’s school experiences and
 growth.</p>
 <p>With greater parental involvement, our children will be more motivated
 and encouraged to do better. Our PSG welcomes new members!</p>
+<p></p>
 <p>Click the link or scan the QR code to join!</p>
 <p>Link: <a href="https://go.gov.sg/02n0od" rel="noopener noreferrer nofollow" target="_blank">PSG 2024</a>
 </p>
