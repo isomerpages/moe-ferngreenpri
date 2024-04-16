@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Wan Teng&nbsp;
-<br>Mr Vincent Kwa</p>
+<br>Ms Alfidadewi</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Health Promotion Board Contact No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6435 3782</p>
+<p>6435 3500</p>
 </td>
 </tr>
 </tbody>
