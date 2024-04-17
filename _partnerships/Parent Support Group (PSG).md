@@ -92,6 +92,6 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <p>Link: <a href="https://go.gov.sg/02n0od" rel="noopener noreferrer nofollow" target="_blank">PSG 2024</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%202023.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG/psg%202023.png">
 </div>
 <p></p>
