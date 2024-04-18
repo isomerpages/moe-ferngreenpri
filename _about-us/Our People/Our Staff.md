@@ -1179,24 +1179,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MU</p>
+<p>ML &amp; CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alice Ooi Chen Ai</p>
+<p>Miss Nurashikin Binte Tugiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alice_ooi_chen_ai@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lim Yi Qian Brenda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_yi_qian_brenda@moe.edu.sg</p>
+<p>nurashikin_tugiman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1204,29 +1193,7 @@ variant: tiptap
 <p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Yiow Zhoong, Alistair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yap_yiow_zhoong_alistair@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TL &amp; CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss J Harreini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>j_harreini@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Woon Cheng</p>
+<p>Mdm Lim Woon Cheng (Mrs Ho)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_woon_cheng@moe.edu.sg</p>
@@ -1303,7 +1270,7 @@ variant: tiptap
 <p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Farah Adzlin Kasmany</p>
+<p>Ms Farah Adzlin Kasmany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>farah_adzlin_kasmany@moe.edu.sg</p>
@@ -1355,13 +1322,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
+<p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chia Kwee Eng</p>
+<p>Ms Peh Peck Hoon, Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_kwee_eng@moe.edu.sg</p>
+<p>peh_peck_hoon_wendy_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1439,6 +1406,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_si_yu_amelia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA &amp; SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Danamalar Kanagasabai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Danamalar_Kanagasabai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
