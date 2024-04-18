@@ -216,7 +216,7 @@ third_nav_title: Our People
 <p>YH LP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Seok Ling Serene</p>
+<p>Mdm Khoo Seok Ling Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>khoo_seok_ling@moe.edu.sg</p>
