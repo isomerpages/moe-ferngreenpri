@@ -226,7 +226,7 @@ variant: tiptap
 <p>2 Respect (2R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Su-Rin Daphne</p>
+<p>Ms Wong Su-Rin Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_su-rin_daphne@moe.edu.sg</p>
@@ -237,7 +237,7 @@ variant: tiptap
 <p>2 Respect (2R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Ai Yun</p>
+<p>Mdm Tan Ai Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ai_yun@moe.edu.sg</p>
@@ -292,7 +292,7 @@ variant: tiptap
 <p>2 Integrity (2I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sundar</p>
+<p>Mrs Sundar (Mdm Mahalakshumi d/o Govindaswami)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mahalakshumi_g_gopidoss@moe.edu.sg</p>
@@ -303,7 +303,7 @@ variant: tiptap
 <p>2 Integrity (2I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rizalia Bte Abdul Rahim</p>
+<p>Mdm Rizalia Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rizalia_abdul_rahim@moe.edu.sg</p>
@@ -362,6 +362,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>celine_celestine_goh@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Discipline (2D)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Yi Qian Brenda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_yi_qian_brenda@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -428,7 +439,7 @@ variant: tiptap
 <p>3 Respect (3R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Stephanie Yeo (Mdm Choo)</p>
+<p>Ms Choo Xuewei Stephanie (Mrs Yeo)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>choo_xuewei_stephanie@moe.edu.sg</p>
@@ -549,10 +560,10 @@ variant: tiptap
 <p>3 Discipline (3D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nurashikin Binte Tugiman</p>
+<p>Miss J Harreini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurashikin_tugiman@moe.edu.sg</p>
+<p>j_harreini@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -652,10 +663,10 @@ variant: tiptap
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Durrah Binte Ahmad</p>
+<p>Mr Yap Yiow Zhoong, Alistair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>durrah_ahmad@moe.edu.sg</p>
+<p>yap_yiow_zhoong_alistair@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -696,7 +707,7 @@ variant: tiptap
 <p>4 Care (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Xiangling Jess</p>
+<p>Mdm Chen Xiangling (Mrs Jess Low)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_xiangling@moe.edu.sg</p>
@@ -740,7 +751,7 @@ variant: tiptap
 <p>4 Discipline (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Normah Binte Arshad</p>
+<p>Mrs Khairul (Ms Normah Binte Arshad)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>normah_arshad@moe.edu.sg</p>
