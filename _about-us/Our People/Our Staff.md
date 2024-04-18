@@ -1421,17 +1421,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Sadik Bin Jamil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_sadik_jamil@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1465,24 +1454,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ML</p>
+<p>TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nurhairiah Abdul Malik</p>
+<p>Mdm Ramiah Sarosi (Mrs Victor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurhairiah_abdul_malik@moe.edu.sg</p>
+<p>ramiah_sarosi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TL</p>
+<p>MU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kannan Kiruthika</p>
+<p>Ms Lai Hui Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kannan_kiruthika@moe.edu.sg</p>
+<p>lai_hui_ming@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharmilasooria Sooria Demudu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sharmilasooria_sooria_demudu@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1536,10 +1536,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Wee Shuan Eunice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_wee_shuan_eunice@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chiam Pei Ping</p>
+<p>Ms Chiam Pei Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chiam_pei_ping@moe.edu.sg</p>
