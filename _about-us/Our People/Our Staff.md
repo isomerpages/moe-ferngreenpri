@@ -35,10 +35,10 @@ variant: tiptap
 <p>1 Respect (1R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chow Jee Soon</p>
+<p>Mdm Alice Ooi Chen Ai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chow_jee_soon@moe.edu.sg</p>
+<p>alice_ooi_chen_ai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ variant: tiptap
 <p>1 Discipline (1D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Seok Ling Serene</p>
+<p>Mdm Khoo Seok Ling Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Khoo_Seok_Ling@moe.edu.sg</p>
