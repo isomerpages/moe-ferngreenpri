@@ -427,17 +427,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Hairil Johar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamad_hairil_b_johari@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST EL</p>
 </td>
 <td rowspan="1" colspan="1">
