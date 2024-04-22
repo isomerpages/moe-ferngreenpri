@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FGPS Homepage.jpg
+      background: /images/WhatsApp_Image_2024_04_22_at_1_23_12_PM.jpg
       key_highlights:
         - title: Calendar
           description: ""
