@@ -216,7 +216,7 @@ third_nav_title: Our People
 <p>YH LP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Seok Ling Serene</p>
+<p>Mdm Khoo Seok Ling Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>khoo_seok_ling@moe.edu.sg</p>
@@ -423,17 +423,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_sok_theng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Hairil Johar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamad_hairil_b_johari@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
