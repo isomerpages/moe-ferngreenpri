@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FGPS Homepage.jpg
+      background: /images/School_Website_Landing_Page___Values_Gif.gif
       key_highlights:
         - title: Calendar
           description: ""
@@ -19,7 +19,7 @@ sections:
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       title: Fern Green Primary School
-      variant: center
+      variant: image
   - infobar:
       title: Announcements
       button: Click here to view all
