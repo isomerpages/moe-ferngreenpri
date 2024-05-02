@@ -39,5 +39,5 @@ sections:
       description: Be Part of the 10th Anniversary Celebrations
       button: for more info
       url: https://sites.google.com/moe.edu.sg/mkferngreen/mk-turns-10?authuser=0
-      alt: Image alt text
+      image: /images/MK@Fern Green/MK_10.png
 ---
