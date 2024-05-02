@@ -33,4 +33,11 @@ sections:
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Gallery/2022/orientation week.jpeg
       alt: orientation
+  - infopic:
+      title: MK Turns 10!
+      id: infopic
+      description: Be Part of the 10th Anniversary Celebrations
+      button: for more info
+      url: https://sites.google.com/moe.edu.sg/mkferngreen/mk-turns-10?authuser=0
+      alt: Image alt text
 ---
