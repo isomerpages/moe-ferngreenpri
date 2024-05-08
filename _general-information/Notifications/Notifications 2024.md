@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Notifications
 ---
 <h4><strong>Weekly Parents Notifications 2024</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -16,6 +20,24 @@ third_nav_title: Notifications
 <p><strong>Link to Parents Notification</strong>
 </p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2024/T2W8_Parents_Notification__2024_05_08_.pdf" rel="noopener noreferrer nofollow" target="_blank">8 May 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2024/T2W7_Parents_Notification__2024_05_02_.pdf" rel="noopener noreferrer nofollow" target="_blank">2 May 2024</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

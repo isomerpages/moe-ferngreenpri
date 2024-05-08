@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FGPS Homepage.jpg
+      background: /images/School_Website_Landing_Page___Values_Gif.gif
       key_highlights:
         - title: Calendar
           description: ""
@@ -19,7 +19,7 @@ sections:
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       title: Fern Green Primary School
-      variant: center
+      variant: image
   - infobar:
       title: Announcements
       button: Click here to view all
@@ -32,5 +32,13 @@ sections:
       button: Share with us here
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Gallery/2022/orientation week.jpeg
-      alt: orientation
+      alt: say it from your heart
+  - infopic:
+      title: MK Turns 10!
+      id: infopic
+      description: Be Part of the 10th Anniversary Celebrations
+      button: for more info
+      url: https://sites.google.com/moe.edu.sg/mkferngreen/mk-turns-10?authuser=0
+      image: /images/MK@Fern Green/MK_10.png
+      alt: MK 10
 ---
