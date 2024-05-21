@@ -25,6 +25,14 @@ sections:
       button: Click here to view all
       url: /general-information/Announcements/
   - infopic:
+      title: Open House 2024
+      subtitle: Welcome!
+      id: infopic
+      description: Join us on 9 July 2024. Limited slots available!
+      button: Click here to register
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      alt: Image alt text
+  - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
         during their interactions with you, so we could affirm their efforts and
