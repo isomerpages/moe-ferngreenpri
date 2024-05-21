@@ -74,7 +74,7 @@ third_nav_title: Service Providers
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire: School Polo Shirt and PE Shorts.
-<br><em>Students can continue to put on their PE attire for the whole day.</em>
+<br><em>Students can continue to put on their PE attire for the whole day.</em> 
 <br>
 </p>
 </td>
@@ -90,7 +90,7 @@ third_nav_title: Service Providers
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire: School Polo Shirt and Shorts.
-<br><em>Students can continue to put on their PE attire for the whole day.</em>
+<br><em>Students can continue to put on their PE attire for the whole day.</em> 
 <br>
 </p>
 </td>
@@ -133,11 +133,11 @@ concerns during PE lessons.</p>
 <p>Note: Name Tag (<strong>1cm above School Crest</strong> for School Polo
 Tee; <strong>1 cm above pocket slit</strong> for School Shirt)
 <br>
-<br><strong><u>For School Polo Tee</u></strong>
+<br><strong><u>For School Polo Tee</u></strong> 
 <br>
 <br>
 <br>
-<br><strong><u>For School Shirt</u></strong>
+<br><strong><u>For School Shirt</u></strong> 
 <br>
 </p>
 </td>
