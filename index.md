@@ -28,9 +28,10 @@ sections:
       title: Open House 2024
       subtitle: Welcome!
       id: infopic
-      description: Join us on 9 July 2024. Limited slots available!
+      description: Come join us and learn more about the school. Limited slots available!
       button: Click here to register
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/FGPS_Open_House_Flyer.png
   - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
