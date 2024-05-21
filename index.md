@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Website_Landing_Page___Values_Gif.gif
+      background: /images/Sch_Website_Landing_Page.gif
       key_highlights:
         - title: Calendar
           description: ""
