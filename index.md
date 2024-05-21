@@ -39,6 +39,7 @@ sections:
       button: Register your interest
       url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us?authuser=0
       alt: MK Tour
+      image: /images/MK@Fern Green/MK_Tour.png
   - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
