@@ -32,6 +32,7 @@ sections:
       button: Click here to register
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Annoucements/FGPS_Open_House_Flyer.png
+      alt: Open House 2024
   - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
