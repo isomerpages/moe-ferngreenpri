@@ -33,6 +33,13 @@ sections:
       image: /images/Annoucements/FGPS_Open_House_Flyer.png
       alt: Open House 2024
   - infopic:
+      title: MK@FG School Tour
+      id: infopic
+      description: Join Us for the MK@FG Tour!
+      button: Register your interest
+      url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us?authuser=0
+      alt: MK Tour
+  - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
         during their interactions with you, so we could affirm their efforts and
