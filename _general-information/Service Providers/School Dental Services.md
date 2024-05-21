@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Service Providers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +24,7 @@ variant: tiptap
 <p>Child Consent Portal:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://childconsent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Childconsent.hpb.gov.sg</a></strong>&nbsp;</p>
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +58,13 @@ variant: tiptap
 <h4><strong>Buddy Clinics</strong></h4>
 <p>If your child requires&nbsp;<strong><u>URGENT</u></strong>&nbsp;dental
 treatment during clinic closure, please call:</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
