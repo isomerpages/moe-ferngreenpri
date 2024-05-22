@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PAM 2024" src="/images/PE/Physical_Education__Art___Music_Committee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/Physical_Education__Art___Music_Committee.jpg">
 </div>
 <h3><strong>The PE / Art / Music Department aims to:</strong></h3>
 <ul>
@@ -48,5 +48,15 @@ Art and Music.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/WhatsApp_Image_2024_05_17_at_10_30_51_AM.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/IMG_6720_copy.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/DSC01343_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/Music_Enrichment_copy.jpg">
+</div>
 <p></p>
