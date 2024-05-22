@@ -40,4 +40,13 @@ Art and Music.</p>
 <p>immersed in the diverse cultures and practices through the Arts.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/Roving_Art_Truck.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/WhatsApp_Image_2024_05_17_at_10_30_51_AM.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
