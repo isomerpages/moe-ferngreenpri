@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Website_Landing_Page___Values_Gif.gif
+      background: /images/Sch_Website_Landing_Page.gif
       key_highlights:
         - title: Calendar
           description: ""
@@ -18,12 +18,28 @@ sections:
         - title: For Students
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
-      title: Fern Green Primary School
-      variant: image
+      variant: center
   - infobar:
       title: Announcements
       button: Click here to view all
       url: /general-information/Announcements/
+  - infopic:
+      title: Open House 2024
+      subtitle: Welcome!
+      id: infopic
+      description: Come join us and learn more about the school. Limited slots available!
+      button: Click here to register
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/FGPS_Open_House_Flyer.png
+      alt: Open House 2024
+  - infopic:
+      title: MK@FG School Tour
+      id: infopic
+      description: Join Us for the MK@FG Tour!
+      button: Register your interest
+      url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us?authuser=0
+      alt: MK Tour
+      image: /images/MK@Fern Green/MK_Tour.png
   - infopic:
       title: Say It From Your Heart
       description: Share with us if any of our staff members have made an impression
