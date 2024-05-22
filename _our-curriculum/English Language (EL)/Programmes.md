@@ -110,8 +110,15 @@ ask questions, and seek answers.&nbsp;&nbsp;</p>
 Garden and National Orchid Garden, students ask questions about flowers
 and leaves, conduct experiments to change the colours of flowers, and create
 art pieces with flowers and leaves.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_11.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_12.png">
+</div>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_13.png">
+</div>
 <p></p>
