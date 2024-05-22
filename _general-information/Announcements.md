@@ -5,10 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Open House 2024</strong></h2>
-<p>Date: Tuesday, 9 July 2024&nbsp;</p>
-<p>Time: 2.30pm to 4.00pm&nbsp;</p>
+<p>Date: Tuesday, 9 July 2024</p>
+<p>Time: 2.30pm to 4.00pm</p>
 <p>Venue: Fern Green Primary School (PAL Rooms)</p>
-<p>To register your interest, please click <a href="https://form.gov.sg/6613a2c1e281fab4f18645e6" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Fern Green Primary School is having an Open House, which will include
+a sharing and Q&amp;A session with the School Principal and a school tour
+with CCAs in action. Kindly register your interest via this link: <a href="https://form.gov.sg/6613a2c1e281fab4f18645e6" rel="noopener noreferrer nofollow" target="_blank">Open House 2024 at Fern Green Primary School | FormSG</a> by
+Friday, 28 June 2024, so we could forward the event details to all successful
+registrants (via email) by Friday, 5 July 2024.</p>
+<p>Please also note that registration will close once we have reached the
+maximum number of registrations for the event. All briefing materials will
+also be uploaded to the school website after the event.</p>
+<p>We look forward to meeting you at our Open House. Do email us at <a rel="noopener noreferrer nofollow" target="_blank">ferngreen_ps@moe.edu.sg</a> or
+contact us at 68343100 if you have any query.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/FGPS_Open_House_Flyer_with_MK_v4.png">
+</div>
 <h2><strong>Say It From Your Heart @FGPS</strong></h2>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
