@@ -121,4 +121,22 @@ art pieces with flowers and leaves.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_13.png">
 </div>
+<h4><strong>Debate Training</strong>&nbsp;</h4>
+<p>To develop competencies in oral communication, students take part in the
+Wits and Words debate competitions organised by the Gifted Education Branch.
+They undergo debate training to develop communication skills, logical reasoning
+and the ability to think on their feet. To hone their public speaking,
+they present current affairs in the monthly ‘News in Brief’ on stage to
+all students.&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_15.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_16.png">
+</div>
 <p></p>
