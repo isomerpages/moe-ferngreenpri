@@ -81,7 +81,7 @@ on 30 August 2021.</p>
 </tbody>
 </table>
 <h4><strong>Timeline</strong></h4>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Timeline.jpg">
+</div>
 <p></p>
