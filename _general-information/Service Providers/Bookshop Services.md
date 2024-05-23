@@ -35,7 +35,8 @@ third_nav_title: Service Providers
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am - 3pm (Closed during School Holidays)</p>
+<p>9am - 3pm</p>
+<p>(Closed during School Holidays)</p>
 </td>
 </tr>
 </tbody>
