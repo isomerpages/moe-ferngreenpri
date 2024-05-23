@@ -6,7 +6,11 @@ variant: tiptap
 third_nav_title: Service Providers
 ---
 <h4><strong>BL Marketing Pte Ltd</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -28,10 +32,10 @@ third_nav_title: Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operating Hours (School Term):</p>
+<p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am - 3pm</p>
+<p>9am - 3pm (Closed during School Holidays)</p>
 </td>
 </tr>
 </tbody>
