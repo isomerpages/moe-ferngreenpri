@@ -26,7 +26,7 @@ sections:
       description: Come join us and learn more about the school. Limited slots available!
       button: Click here to register
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/FGPS_Open_House_Flyer.png
+      image: /images/FGPS_Open_House_Flyer_with_MK_website_2.png
       alt: Open House 2024
   - infopic:
       title: MK@FG School Tour
