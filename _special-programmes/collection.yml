@@ -2,7 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
-      - Trips for Internationalisation Experience (TIE).md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Project Work (PW).md
+      - Trips for Internationalisation Experience (TIE).md
