@@ -19,10 +19,6 @@ sections:
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       variant: center
-  - infobar:
-      title: Announcements
-      button: Click here to view all
-      url: /general-information/Announcements/
   - infopic:
       title: Open House 2024
       subtitle: Welcome!
