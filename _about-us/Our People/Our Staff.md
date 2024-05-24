@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h4><strong>Form Teachers for 2024</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -208,7 +213,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -410,7 +420,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -590,7 +605,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -770,7 +790,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -939,7 +964,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1142,19 +1172,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Subject Teachers</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MA &amp; SCI</p>
@@ -1219,39 +1243,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chin_cheoh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Susan Sng Sim Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>susan_sng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng-Ho Woon Lee (Angie)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ho_woon_lee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hairon Bibi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hairon_bibi_zahiruddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1424,17 +1415,6 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Shi Kai Thomas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng_Shi_Kai_Thomas@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Sin Sit Boon (Simon)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1474,21 +1454,15 @@ variant: tiptap
 <p>lai_hui_ming@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sharmilasooria Sooria Demudu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharmilasooria_sooria_demudu@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>AEDs &amp; School Counsellor</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1570,7 +1544,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>School Leadership Team</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

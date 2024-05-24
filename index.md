@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Sch_Website_Landing_Page.gif
+      background: /images/Sch_Website_Landing_Page_v2.gif
       key_highlights:
         - title: Calendar
           description: ""
@@ -19,10 +19,6 @@ sections:
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       variant: center
-  - infobar:
-      title: Announcements
-      button: Click here to view all
-      url: /general-information/Announcements/
   - infopic:
       title: Open House 2024
       subtitle: Welcome!
@@ -30,7 +26,7 @@ sections:
       description: Come join us and learn more about the school. Limited slots available!
       button: Click here to register
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/FGPS_Open_House_Flyer.png
+      image: /images/FGPS_Open_House_Flyer_with_MK_website_2.png
       alt: Open House 2024
   - infopic:
       title: MK@FG School Tour
@@ -47,7 +43,7 @@ sections:
         encourage them on!
       button: Share with us here
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Gallery/2022/orientation week.jpeg
+      image: /images/Thank_you_Card.png
       alt: say it from your heart
   - infopic:
       title: MK Turns 10!
