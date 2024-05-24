@@ -107,6 +107,16 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mentoring Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
