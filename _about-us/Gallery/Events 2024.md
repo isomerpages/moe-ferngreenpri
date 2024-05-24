@@ -25,10 +25,35 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024-05-23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/rXKD1ir9c97S6bvt9" rel="noopener noreferrer nofollow" target="_blank">ALP Tinkering Thursdays @ FGPS</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-05-21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/kGy4QSctnFzxr2M87" rel="noopener noreferrer nofollow" target="_blank">EL Fiesta Recess Activities</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-05-20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/ujwJXXL3R5beJr6DA" rel="noopener noreferrer nofollow" target="_blank">Characters Alive Day</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
