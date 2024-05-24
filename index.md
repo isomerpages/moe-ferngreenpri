@@ -43,7 +43,7 @@ sections:
         encourage them on!
       button: Share with us here
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Gallery/2022/orientation week.jpeg
+      image: /images/Thank_you_Card.png
       alt: say it from your heart
   - infopic:
       title: MK Turns 10!
