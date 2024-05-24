@@ -6,7 +6,12 @@ third_nav_title: Gallery
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -383,20 +388,6 @@ variant: tiptap
 <p>6 Mar 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/drive/folders/1yqh7gp3zczQC_1sbI4ywLFPbymRTIXWh?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">World Water Day</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="189" width="284" src="/images/Gallery/2023/2023%20world%20water%20day.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Mar 2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://photos.app.goo.gl/KsW8et8EusWjBzxr8" rel="noopener noreferrer nofollow" target="_blank">Environment Champion Card</a></strong>
 </p>
 </td>
@@ -523,7 +514,7 @@ variant: tiptap
 <p>16 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://photos.app.goo.gl/M9keDSDPm4P5E7ax7" rel="noopener noreferrer nofollow" target="_blank">Prefects Training</a></strong>
+<p><strong><a href="https://photos.app.goo.gl/M9keDSDPm4P5E7ax7" rel="noopener noreferrer nofollow" target="_blank">Prefects woTraining</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
