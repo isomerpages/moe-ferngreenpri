@@ -4,7 +4,10 @@ permalink: /stakeholders-and-partnerships/Parent-Support-Group-PSG/Parent-Suppor
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -94,4 +97,74 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG/psg%202023.png">
 </div>
+<p></p>
+<h4><strong>PSG EXCO Members</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mentoring Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Paulyn Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Chee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarina Binte Mohamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Erin Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Well-Being Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Michelle Tee</p>
+<p>Mdm Duen Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Project Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Sian Veon</p>
+<p>Mdm Paulin Phang</p>
+<p>Mdm Sajidah Begum</p>
+<p>Mdm Serene Pek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
