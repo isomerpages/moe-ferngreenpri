@@ -2,9 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities (CCA)/.keep
-      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
-      - Co Curricular Activities (CCA)/Clubs & Societies.md
       - Our Curriculum.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
@@ -45,4 +42,7 @@ collections:
       - PE, Art & Music (PAM)/Physical Education, Art & Music (PE, Art, MU).md
       - PE, Art & Music (PAM)/Programmes.md
       - Student Management (SM).md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Clubs & Societies.md
       - Sexuality Education (SEd).md
