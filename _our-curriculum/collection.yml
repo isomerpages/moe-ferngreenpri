@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Sports & Games/.keep
       - Our Curriculum.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
@@ -49,4 +48,5 @@ collections:
       - Co Curricular Activities (CCA)/Performing Arts.md
       - Co Curricular Activities (CCA)/Sports & Games.md
       - Co Curricular Activities (CCA)/Uniform Groups.md
+      - Sports & Games/.keep
       - Sexuality Education (SEd).md
