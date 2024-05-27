@@ -64,6 +64,20 @@ become tangible and comprehensible. This concrete-pictorial-abstract (CPA)
 approach fosters deeper understanding, critical thinking, and problem-solving
 skills, ensuring that mathematical principles are not just memorized but
 internalized for real-world applications.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Learning_by_doing_and_Problem_based_Learning_Write_up___Photo_1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Learning_by_doing_and_Problem_based_Learning_Write_up___Photo_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Learning_by_doing_and_Problem_based_Learning_Write_up___Photo_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Learning_by_doing_and_Problem_based_Learning_Write_up___Photo_4.png">
+</div>
 <p><strong><u>&nbsp;</u></strong>
 </p>
