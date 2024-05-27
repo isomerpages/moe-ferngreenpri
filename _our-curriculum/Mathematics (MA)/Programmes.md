@@ -32,6 +32,33 @@ application to their daily lives. We also had activities which ranged from
 Math escape room, movie screening and making of Math thinking hats. These
 enriching learning experiences helped to develop our students to be motivated
 Math learners, confident problem solvers and reflective Math thinkers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Picture3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Picture4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Picture6.png">
+</div>
 <h4><strong>P1 Mathematics Parent’s Workshop</strong></h4>
 <p>Parents will learn how their children learn Mathematics in the classroom.
 They will learn to use manipulatives, activities and games to reinforce
