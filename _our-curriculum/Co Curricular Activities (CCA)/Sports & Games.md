@@ -13,7 +13,13 @@ third_nav_title: Co Curricular Activities (CCA)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball_1.jpg">
 </div>
 <h4><strong>Football (Boys &amp; Girls)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SMM__38__copy.jpg">
+</div>
 <h4><strong>Tchoukball (Boys &amp; Girls)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
