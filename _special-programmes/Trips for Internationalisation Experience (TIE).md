@@ -11,6 +11,8 @@ focus on ASEAN countries and sensitises them to the place of Singapore
 in the world. It also helps to strengthen students’ commitment and rootedness
 to Singapore.</p>
 <h4>Penang, Malaysia</h4>
+<p>School: <strong>SK Balik Pulau School</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE/WhatsApp_Image_2024_05_24_at_1_19_03_PM.jpg">
 </div>
