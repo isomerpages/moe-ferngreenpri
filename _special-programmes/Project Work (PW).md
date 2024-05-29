@@ -42,4 +42,19 @@ have a functional use (e.g., can be used as a pencil holder).&nbsp;Here
 are some samples of students’ work.</p>
 <p><strong>Samples of 2023 Primary 3 IPW students’ work:</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project Work (PW)/PW1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project Work (PW)/PW2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project Work (PW)/PW3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project Work (PW)/PW4.jpg">
+</div>
 <p></p>
