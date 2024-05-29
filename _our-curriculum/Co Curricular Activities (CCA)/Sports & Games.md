@@ -12,10 +12,29 @@ third_nav_title: Co Curricular Activities (CCA)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball_1.jpg">
 </div>
-<p></p>
-<p></p>
 <h4><strong>Football (Boys &amp; Girls)</strong></h4>
+<p></p>
 <h4><strong>Tchoukball (Boys &amp; Girls)</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Tchoukball_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Tchoukball_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Floorball (Boys &amp; Girls)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
