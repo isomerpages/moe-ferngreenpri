@@ -82,4 +82,14 @@ and values as they strive to preserve nature.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/IMG_20240524_WA0019.jpg">
 </div>
+<h4><strong>Wordsmiths' Club</strong></h4>
+<p>The Wordsmiths' Club is where English language lovers come together to
+explore the power of words and enhance their linguistic skills. Our dynamic
+club offers a variety of activities designed to challenge and inspire our
+members. From engaging in thought-provoking debates to mastering the strategic
+nuances of Scrabble, we provide a platform for students to excel in both
+spoken and written forms of communication. In addition to honing language
+abilities, the club emphasises the development of essential social and
+self-management skills. Through collaborative activities and structured
+discussions, members become critical inquirers and effective communicators.&nbsp;</p>
 <p></p>
