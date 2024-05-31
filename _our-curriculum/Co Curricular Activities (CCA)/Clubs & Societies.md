@@ -6,6 +6,15 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
 <h4><strong>Art Club</strong></h4>
+<p>Art Club brings together students from diverse backgrounds and experiences
+to deepen their sense of belonging in the community. Prior knowledge and
+skills are not a requisite to join the CCA, but a sense of commitment and
+dedication are strongly encouraged. Through art making and art appreciation,
+students learn more about themselves and their interactions with others.
+Students visited the Sengkang Riverside Park to hone their life drawing
+skills and made close observations. These experiences shape their character,
+develop values and 21<sup>st</sup> century competencies for them to thrive
+in the current world.&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
