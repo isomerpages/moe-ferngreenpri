@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Our Curriculum
     collection: our-curriculum
+  - title: Ccas
+    collection: ccas
   - title: Special Programmes
     collection: special-programmes
   - title: Partnerships
@@ -12,5 +14,3 @@ links:
     collection: general-information
   - title: MK@Fern Green
     url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us
-  - title: Ccas
-    collection: ccas
