@@ -2,8 +2,8 @@ collections:
   ccas:
     output: true
     order:
-      - Uniform Groups.md
-      - Sports & Games.md
-      - Performing Arts.md
-      - Clubs & Societies.md
       - Co Curricular Activities (CCA).md
+      - Clubs & Societies.md
+      - Performing Arts.md
+      - Sports & Games.md
+      - Uniform Groups.md
