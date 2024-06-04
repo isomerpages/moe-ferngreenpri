@@ -214,13 +214,81 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>P1 – Jacob Ballas Children’s Garden</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P1_SS_LJ.jpg">
+</div>
 <p></p>
 </li>
 <li>
 <p>P2 – National Orchid Garden</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p>P3 – Singapore Mobility Gallery</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_2.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p>P4 – Geylang Serai Heritage Gallery &amp; Kreta Ayer Heritage Gallery</p>
@@ -232,4 +300,5 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <p>P6 – Asian Civilisations Museum</p>
 </li>
 </ul>
+<p></p>
 <p></p>
