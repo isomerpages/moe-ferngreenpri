@@ -5,23 +5,30 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-# **National Education (NE)**
-
-In FGPS, we believe that
-
-*   NE is important for nurturing future citizens, to inspire in our young a sense of belonging to the nation, and guide them to be knowledgeable about local and global issues. This develops our young to better understand, appreciate and commit to their role as responsible and caring citizens, and be loyal to what the nation stands for.&nbsp;  
-    
-*   NE is infused into classroom-based lessons like Character and Citizenship Education, Social Studies, English and Mother Tongue Languages and the four NE commemorative days, Learning Journeys and Values in Action.&nbsp;  
-    
-We aim to meaningfully and appropriately engage our young to feel a genuine sense of commitment and conviction to one another and to what we stand for collectively as Singaporeans.
-
- 
-<u>NE Commemorative Days</u>
-
-1) Total Defence Day
-
-2) International Friendship Day
-
-3) Racial Harmony Day
-
-4) National Day Celebrations
+<p>The National Education (NE) programme in FGPS aims to provide opportunities
+and experiences for our students to explore their identity as Singaporeans
+and arrive at a common set of ideals and values.</p>
+<p>The Social Studies (SS) curriculum in FGPS seeks to ignite students’ curiosity
+to inquire into real-world issues that concerns their lives. Through inquiry
+and authentic learning experiences, the curriculum helps students attain
+relevant knowledge and understanding about these issues, develop critical
+and reflective thinking skills, and appreciate multiple perspectives.</p>
+<p>NESS @ FGPS includes:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>NE Commemorative Days</p>
+</li>
+<li>
+<p>Total Defence Day</p>
+</li>
+<li>
+<p>International Friendship Day</p>
+</li>
+<li>
+<p>Racial Harmony Day</p>
+</li>
+<li>
+<p>National Day</p>
+</li>
+</ol>
+<p></p>
