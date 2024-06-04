@@ -206,4 +206,30 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </tbody>
 </table>
 <p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>SS Cohort Learning Journeys</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 – Jacob Ballas Children’s Garden</p>
+<p></p>
+</li>
+<li>
+<p>P2 – National Orchid Garden</p>
+</li>
+<li>
+<p>P3 – Singapore Mobility Gallery</p>
+</li>
+<li>
+<p>P4 – Geylang Serai Heritage Gallery &amp; Kreta Ayer Heritage Gallery</p>
+</li>
+<li>
+<p>P5 – Indian Heritage Centre</p>
+</li>
+<li>
+<p>P6 – Asian Civilisations Museum</p>
+</li>
+</ul>
 <p></p>
