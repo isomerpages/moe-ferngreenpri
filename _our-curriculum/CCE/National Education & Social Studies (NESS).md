@@ -292,6 +292,39 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </li>
 <li>
 <p>P4 – Geylang Serai Heritage Gallery &amp; Kreta Ayer Heritage Gallery</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_1.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
 <p>P5 – Indian Heritage Centre</p>
