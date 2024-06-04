@@ -9,8 +9,7 @@ variant: tiptap
 in school and at home. Students learn to be socially responsible citizens
 who contribute actively through the learning and application of values,
 knowledge, and skills.</p>
-<p><strong>&nbsp;Programmes &amp; Events</strong>
-</p>
+<h4><strong>&nbsp;Programmes &amp; Events</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Tock Seng Hospital (TTSH) Project Hong Bao</p>
