@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
-<h4><strong>Drama Club</strong></h4>
 <p>The Drama Club ignites creativity through theatrical expression, fostering
 a vibrant community of performers and enthusiasts. Through rehearsals and
 productions, members explore diverse roles, hone acting skills, and cultivate
