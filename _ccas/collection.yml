@@ -1,0 +1,24 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Co Curricular Activities (CCA).md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Infocomm & Media Club.md
+      - Clubs & Societies/Makers’ Club.md
+      - Clubs & Societies/Outdoor Adventure Club.md
+      - Clubs & Societies/Wordsmiths' Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Harmonica Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Show Choir.md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball (Boys & Girls).md
+      - Sports & Games/Football (Boys & Girls).md
+      - Sports & Games/Floorball (Boys & Girls).md
+      - Sports & Games/Tchoukball (Boys & Girls).md
+      - Uniform Groups/.keep
+      - Uniform Groups/Scouts.md
