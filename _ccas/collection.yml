@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/Floorball (Boys & Girls).md
       - Sports & Games/Tchoukball (Boys & Girls).md
       - Sports & Games/Football (Boys & Girls).md
       - Sports & Games/Basketball (Boys & Girls).md
