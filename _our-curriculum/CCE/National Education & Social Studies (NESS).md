@@ -16,7 +16,8 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <p>NESS @ FGPS includes:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>NE Commemorative Days</p>
+<p><strong>NE Commemorative Days</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -168,7 +169,8 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>P5 NE Show</p>
+<p><strong>P5 NE Show</strong>
+</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
