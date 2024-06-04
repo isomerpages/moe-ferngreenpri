@@ -14,6 +14,9 @@ the teaching and learning of the core values and social-emotional competencies
 with a focus on developing a sense of purpose in our students. A holistic
 approach to CCE is adopted where students are given multiple learning experiences
 to internalise values, social-emotional competencies, and citizenship dispositions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE_Framework.png">
+</div>
 <p>We aim to develop in our students:</p>
 <ul data-tight="true" class="tight">
 <li>
