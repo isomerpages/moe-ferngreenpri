@@ -2,11 +2,11 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/.keep
+      - Sports & Games/Basketball (Boys & Girls).md
+      - Sports & Games/Football (Boys & Girls).md
       - Sports & Games/Floorball (Boys & Girls).md
       - Sports & Games/Tchoukball (Boys & Girls).md
-      - Sports & Games/Football (Boys & Girls).md
-      - Sports & Games/Basketball (Boys & Girls).md
-      - Sports & Games/.keep
       - Performing Arts/.keep
       - Performing Arts/Drama Club.md
       - Performing Arts/Guitar Ensemble.md
