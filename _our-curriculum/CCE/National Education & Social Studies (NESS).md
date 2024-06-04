@@ -34,7 +34,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,22 +74,21 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/IFD_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/IFD_2.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/IFD_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/IFD_4.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -118,12 +117,12 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/RHD_4.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_5.jpg">
 </div>
 </td>
 </tr>
@@ -155,7 +154,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SMM09722_copy.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/SMM09722_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +198,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_4_copy.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_4_copy.jpg">
 </div>
 </td>
 </tr>
@@ -208,7 +207,8 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>SS Cohort Learning Journeys</p>
+<p><strong>SS Cohort Learning Journeys</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -265,7 +265,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +307,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_2.jpg">
 </div>
 </th>
 </tr>
@@ -368,7 +368,7 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P6_LJ_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/P6_LJ_2.jpg">
 </div>
 </th>
 </tr>
