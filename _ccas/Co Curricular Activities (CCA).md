@@ -74,7 +74,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/CCA3.png">
 </div>
 <p><strong><em>Sports &amp; Games</em></strong>
 </p>
