@@ -44,6 +44,7 @@ designs on their own tote bags!</p>
 <h4><strong>Represent School for NSG/ Performance</strong></h4>
 <p>The art club students participated in the Singapore Art Festival Exhibition
 2023.&nbsp;</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art2.png">
+</div>
 <p></p>
