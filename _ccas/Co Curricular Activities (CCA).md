@@ -64,13 +64,13 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Drama Club</p>
 </li>
 <li>
+<p>Guitar Ensemble</p>
+</li>
+<li>
 <p>Modern Dance</p>
 </li>
 <li>
 <p>Show Choir</p>
-</li>
-<li>
-<p>Guitar Ensemble</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
