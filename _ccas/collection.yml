@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/Guitar Ensemble.md
       - Performing Arts/Show Choir.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/Drama Club.md
