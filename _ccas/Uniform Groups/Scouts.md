@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Uniform Groups
 ---
-<h4><strong>Scouts</strong></h4>
 <p>Fern Green Cub Scouts strives to transform students into responsible,
 confident and resilient leaders through its values-based educational programme.
 A Cub Scout is expected to uphold the Scout Promise and Scout Law, both
