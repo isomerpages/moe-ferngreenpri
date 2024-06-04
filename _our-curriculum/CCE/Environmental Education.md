@@ -29,7 +29,7 @@ to influence others to be more environmentally conscious.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/20230130_074124.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/20230130_074124.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ to influence others to be more environmentally conscious.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/IMG_20230925_WA0008.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCE/IMG_20230925_WA0008.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ to influence others to be more environmentally conscious.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/20230327_073747.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/20230327_073747.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ to influence others to be more environmentally conscious.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/IMG_20230925_WA0036.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCE/IMG_20230925_WA0036.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
