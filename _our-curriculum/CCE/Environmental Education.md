@@ -3,18 +3,20 @@ title: Environmental Education
 permalink: /our-curriculum/CCE/Environmental-Education/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-
-# ENVIRONMENTAL EDUCATION
-
-Our environment is our most precious resource and FGPS aims to teach our students to be not only environmentally aware but environmentally active. Our students will learn to reduce, reuse and upcycle. They will learn how they can play a role in reducing environmental damage to our earth and what they can do to influence others to be more environmentally conscious.
-
-We will do this through the following activities:
-
-1.  Upcycling projects  
-    
-2.  Poster making  
-    
-3.  Cleaning their immediate environment (classrooms)  
-    
-4.  Canteen clean up
+<p>Our environment is our most precious resource and FGPS aims to teach our
+students to be active advocates for the environment. Students learn to
+reduce, reuse, and recycle. They also learn how they can play an active
+role in reducing environmental damage to our planet and what they can do
+to influence others to be more environmentally conscious.</p>
+<p>Environment Education @ FGPS includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fern Green Movement</p>
+</li>
+<li>
+<p>Love Your Food Programme</p>
+</li>
+</ul>
+<p></p>
