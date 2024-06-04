@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCE 2024" src="/images/CCE/Character___Citizenship_Education_Committee.jpg">
 </div>
