@@ -34,6 +34,7 @@ language of music.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar_1.jpg">
 </div>
+<h4><strong>Achievements/ Accomplishments</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guitar_2.jpg">
