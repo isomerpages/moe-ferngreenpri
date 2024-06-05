@@ -35,3 +35,24 @@ keep track of their growth and to share these experiences with their peers
 and parents.&nbsp;&nbsp;</p>
 <p>Fern Green Cub Scouts warmly welcomes students from all backgrounds and
 interests to join us.&nbsp;&nbsp;</p>
+<h4><strong>Achievements/ Accomplishments</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts5.png">
+</div>
+<p></p>
