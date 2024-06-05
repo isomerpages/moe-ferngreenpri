@@ -35,9 +35,18 @@ to participate.&nbsp;</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball_1.jpg">
+</div>
+<h4><strong>Represent School for NSG/ Performances</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 SPSSC Basketball League Games Senior Division&nbsp;</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/bball1.png">
 </div>
 <p></p>

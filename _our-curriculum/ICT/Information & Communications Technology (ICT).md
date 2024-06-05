@@ -59,11 +59,9 @@ and technological skills while exercising Cyber Wellness&nbsp;&nbsp;</p>
 a range of digital tools to create digital artifact and solutions​</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ict 2024.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ICT/ict 2024.jpg">
 </div>
-<p></p>
 <h4><strong>Professional development and strategies for teachers:</strong></h4>
 <ul>
 <li>
@@ -91,7 +89,6 @@ experiences</p>
 </ul>
 <p><strong>Learners and innovators who</strong> continually develop and deepen
 their digital literacy and technological skills</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_02_2024.jpg">
 </div>
