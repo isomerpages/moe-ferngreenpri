@@ -135,6 +135,109 @@ related to themes related to festivals, authors, events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Library4.png">
 </div>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>School Online Public Access Catalogue (OPAC) and School E-Resource Repository (SERR).</strong>
+</p>
+</li>
+</ol>
+<p>As our school also hopes to develop students’ competencies in distilling
+and discerning information online, we have introduced students to the OPAC
+and SERR platforms. Through these official platforms, students are able
+to perform a search of books and resources available in the school library
+as well as access a virtual library to extend on their learning and love
+of reading through multimodal reading resources.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Library5.png">
+</div>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong> <u>Useful Links</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Links</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fern Green Primary School Library OPAC (Online Public Access Catalogue)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It performs a search of books and resources available in the school library
+at this website.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/ferngreenpri/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The School eResource Repository (SERR)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It is a virtual school library.&nbsp;It aims to promote recreational reading
+as well as support learning for students across various subject areas.&nbsp;The
+repository provides easy access to&nbsp;online resources.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NLB Overdrive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://nlb.overdrive.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Storyline Online</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy videos of children’s books read aloud alongside creatively produced
+illustrations at Storyline Online.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.storylineonline.net/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NLB DiscoveReads&nbsp;(Children &amp; Teens Services)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
