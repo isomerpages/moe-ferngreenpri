@@ -19,7 +19,20 @@ performers a chance to shine and express themselves creatively.&nbsp;&nbsp;</p>
 community functions, including the PassionArts Festival cum National Day
 Celebration at Fernvale CC in 2023 and the Fernvale Mothers’ Day Celebrations
 in 2024.&nbsp;&nbsp;</p>
+<h4><strong>Achievements/ Accomplishments</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show_Choir.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir2.png">
+</div>
+<h4><strong>Represent School for NSG/ Performances</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir4.png">
 </div>
 <p></p>
