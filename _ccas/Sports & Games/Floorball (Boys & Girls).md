@@ -54,5 +54,7 @@ and pride.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/floorball1.png">
 </div>
 <h4><strong>Represent School for NSG/ Performances</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/floorball2.png">
+</div>
 <p></p>
