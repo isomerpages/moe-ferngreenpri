@@ -170,7 +170,8 @@ of reading through multimodal reading resources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fern Green Primary School Library OPAC (Online Public Access Catalogue)</p>
+<p><strong>Fern Green Primary School Library OPAC (Online Public Access Catalogue)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>It performs a search of books and resources available in the school library
@@ -185,7 +186,8 @@ at this website.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The School eResource Repository (SERR)</p>
+<p><strong>The School eResource Repository (SERR)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>It is a virtual school library.&nbsp;It aims to promote recreational reading
@@ -201,7 +203,8 @@ repository provides easy access to&nbsp;online resources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NLB Overdrive</p>
+<p><strong>NLB Overdrive</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://nlb.overdrive.com/</a>
@@ -210,7 +213,8 @@ repository provides easy access to&nbsp;online resources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Storyline Online</p>
+<p><strong>Storyline Online</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enjoy videos of children’s books read aloud alongside creatively produced
@@ -225,7 +229,8 @@ illustrations at Storyline Online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NLB DiscoveReads&nbsp;(Children &amp; Teens Services)</p>
+<p><strong>NLB DiscoveReads&nbsp;(Children &amp; Teens Services)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Access&nbsp;<a href="https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main" rel="noopener noreferrer nofollow" target="_blank">storytelling videos</a>,&nbsp;
@@ -238,13 +243,14 @@ Singpass <strong><a href="https://account.nlb.gov.sg/" rel="noopener noreferrer 
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unite for Literacy</p>
+<p><strong>Unite for Literacy</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enjoy simple books at Unite for Literacy</p>
@@ -258,7 +264,8 @@ Singpass <strong><a href="https://account.nlb.gov.sg/" rel="noopener noreferrer 
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Audible</p>
+<p><strong>Audible</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enjoy free (for a limited time) audio books at Audible</p>
@@ -272,7 +279,8 @@ Singpass <strong><a href="https://account.nlb.gov.sg/" rel="noopener noreferrer 
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Geographic Kids</p>
+<p><strong>National Geographic Kids</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/</a>
