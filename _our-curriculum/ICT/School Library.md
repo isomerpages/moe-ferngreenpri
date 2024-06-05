@@ -105,6 +105,10 @@ and do book-related activities</p>
 <p>Library supports other departments’ programmes and activities e.g. EL
 Fiesta, MTL Fortnight and Math Week by promoting books related to their
 programmes.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Library1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Library2.png">
+</div>
 <p></p>
