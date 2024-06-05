@@ -53,14 +53,26 @@ by parent volunteers. Play a Kahoot! game on stories. Guess a character
 using an AI chatbot. Capture memories with fellow characters at a photo
 booth. These fun-filled activities nudge the hearts of young readers to
 explore the world of books.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_4.png">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_5.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_5.png">
 </div>
-<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_6.png">
 </div>
