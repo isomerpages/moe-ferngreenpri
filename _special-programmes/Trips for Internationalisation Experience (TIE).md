@@ -16,6 +16,10 @@ to Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE/WhatsApp_Image_2024_05_24_at_1_19_03_PM.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE/WhatsApp_Image_2024_06_03_at_12_47_44__1_.jpg">
+</div>
 <h4>Beijing, China</h4>
 <p>School: <strong>Beijing No. 20 High School</strong>
 </p>
