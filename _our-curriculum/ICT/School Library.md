@@ -71,6 +71,40 @@ read, collaborate and learn.</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students are allowed to borrow two English books and two Mother Tongue
+books using their Student Card.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>Library Activities and Programmes</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Class Library Visits</strong>
+</p>
+</li>
+</ol>
+<p>Getting students to experience the joy of reading is a regular part of
+the school’s curriculum.</p>
+<p>A period (one for English, one for Mother Tongue) is set aside every fortnight
+for our reading programme. Students enjoy a range of activities during
+these periods. These include storytelling and book recommendations. In
+alternative weeks, students are brought to the library to borrow books
+and do book-related activities</p>
+<p>Library supports other departments’ programmes and activities e.g. EL
+Fiesta, MTL Fortnight and Math Week by promoting books related to their
+programmes.</p>
+<p></p>
+<p></p>
 <p></p>
