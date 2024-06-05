@@ -111,4 +111,27 @@ programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Library2.png">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Book Talks during Assembly</strong>
+</p>
+</li>
+</ol>
+<p>Students enjoy various reading assembly programmes aimed at nurturing
+a love of reading in them. These include book talks by the School Library
+Team, Book Buzz by the National Library Board (NLB) and book talks by local
+authors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Library3.png">
+</div>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Thematic Displays in the Library</strong>
+</p>
+</li>
+</ol>
+<p>Purpose of Thematic Displays: to provide information and promote books
+related to themes related to festivals, authors, events.</p>
+<p></p>
+<p></p>
 <p></p>
