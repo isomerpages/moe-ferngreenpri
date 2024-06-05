@@ -78,20 +78,33 @@ explore the world of books.&nbsp;</p>
 </div>
 <p>Teachers tell exciting stories through books and puppets in the school
 library, kindling the imagination of young minds.&nbsp;&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_7.png">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_9.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_8.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_9.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_10.png">
 </div>
 <p>Class activities expound on benefits that reading brings about, generating
 readers’ interest in learning the language. A tale spun collaboratively
@@ -123,15 +136,13 @@ Garden and National Orchid Garden, students ask questions about flowers
 and leaves, conduct experiments to change the colours of flowers, and create
 art pieces with flowers and leaves.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_11.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_11.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_12.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_12.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_13.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_13.png">
 </div>
 <h4><strong>Debate Training</strong>&nbsp;</h4>
 <p>To develop competencies in oral communication, students take part in the
@@ -141,14 +152,14 @@ and the ability to think on their feet. To hone their public speaking,
 they present current affairs in the monthly ‘News in Brief’ on stage to
 all students.&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_14.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_14.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_15.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_15.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_Pic_16.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_16.png">
 </div>
 <p></p>
