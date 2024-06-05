@@ -67,6 +67,9 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Guitar Ensemble</p>
 </li>
 <li>
+<p>Harmonica Ensemble</p>
+</li>
+<li>
 <p>Modern Dance</p>
 </li>
 <li>
