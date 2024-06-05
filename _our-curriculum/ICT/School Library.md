@@ -152,7 +152,7 @@ of reading through multimodal reading resources.</p>
 </div>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><strong> <u>Useful Links</u></strong>
+<p><strong><u>Useful Links</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -226,9 +226,56 @@ illustrations at Storyline Online.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NLB DiscoveReads&nbsp;(Children &amp; Teens Services)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Access&nbsp;<a href="https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main" rel="noopener noreferrer nofollow" target="_blank">storytelling videos</a>,&nbsp;
+<a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p" rel="noopener noreferrer nofollow" target="_blank">e-books</a>,&nbsp;<a href="https://childrenandteens.nlb.gov.sg/book-recommendations/recommend-primary" rel="noopener noreferrer nofollow" target="_blank">book recommendations</a>&nbsp;and
+other reading-related resources at NLB discoveReads. You will need an account
+to borrow e-books. Students may sign up for an account with their parent’s
+Singpass <strong><a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://childrenandteens.nlb.gov.sg/</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unite for Literacy</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy simple books at Unite for Literacy</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.uniteforliteracy.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audible</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy free (for a limited time) audio books at Audible</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">stories.audible.com/discovery</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Geographic Kids</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/</a>
 </p>
 </td>
 </tr>
