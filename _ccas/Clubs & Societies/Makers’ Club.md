@@ -15,11 +15,32 @@ and teaching seniors craftwork at the Active Ageing Centre as part of a
 VIA project, further enriches their learning experience. This CCA empowers
 students to work both independently and collaboratively, preparing them
 for success in the modern world.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Makers_Club_1.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Makers_Club_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Makers_Club_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements/ Accomplishments</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/makers1.png">
+</div>
+<p>Using Strawbees to create a pyramid&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/makers2.png">
 </div>
 <p></p>
