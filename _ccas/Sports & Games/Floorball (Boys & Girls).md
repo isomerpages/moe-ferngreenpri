@@ -50,40 +50,9 @@ together.&nbsp;&nbsp;</p>
 School Games, where they proudly represent Fern Green Primary with determination
 and pride.&nbsp;</p>
 <h4><strong>Achievements/ Accomplishments</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/IMG_20240524_WA0026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/floorball1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<h4><strong>Represent School for NSG/ Performances</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/IMG_20240524_WA0025.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/IMG_20240524_WA0024.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/IMG_20240524_WA0014.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
