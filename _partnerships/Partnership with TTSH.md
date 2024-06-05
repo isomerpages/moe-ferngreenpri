@@ -25,7 +25,7 @@ our students will learn about what nurses do and how they are so important
 in Patients’ recovery process. The children will also design a card and
 pen down notes of appreciation to appreciate the efforts of our nurses.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TTSH/WhatsApp_Image_2023_08_03_at_9_57_29_AM.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/TTSH/WhatsApp_Image_2023_08_03_at_9_57_29_AM.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
