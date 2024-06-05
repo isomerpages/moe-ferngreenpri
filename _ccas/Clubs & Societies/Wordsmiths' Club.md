@@ -14,3 +14,22 @@ spoken and written forms of communication. In addition to honing language
 abilities, the club emphasises the development of essential social and
 self-management skills. Through collaborative activities and structured
 discussions, members become critical inquirers and effective communicators.&nbsp;</p>
+<h4><strong>Achievements/ Accomplishments</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participation in Wits and Words 2024&nbsp;</p>
+</li>
+<li>
+<p>Good Speaker Award&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ww2.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ww1.png">
+</div>
+<p></p>
