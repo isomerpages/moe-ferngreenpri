@@ -23,7 +23,7 @@ on their learning process. Students would also be provided with opportunities
 to leverage the affordances of technology to learn, research, and/or reflect
 at home.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project%20Work%20(PW)/PW.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Project%20Work%20(PW)/PW.jpeg">
 </div>
 <h4><strong>Project Themes</strong></h4>
 <p>In line with our school’s eco-commitment to an urgent global emergency
