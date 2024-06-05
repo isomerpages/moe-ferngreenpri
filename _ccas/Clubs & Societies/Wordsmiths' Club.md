@@ -28,7 +28,6 @@ discussions, members become critical inquirers and effective communicators.&nbsp
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ww2.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ww1.png">
 </div>
