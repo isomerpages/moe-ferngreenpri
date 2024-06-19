@@ -9,7 +9,7 @@ variant: tiptap
 here:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf</a>
 </p>
 </li>
 <li>
