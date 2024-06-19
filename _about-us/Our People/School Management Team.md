@@ -5,12 +5,15 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Key_Personnel.jpg">
 </div>
 <h4><strong>School Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +58,12 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>Management Team</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -84,10 +92,10 @@ third_nav_title: Our People
 <p>HOD MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Sue Ling Kimmy</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sue_ling_kimmy@moe.edu.sg</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -95,10 +103,10 @@ third_nav_title: Our People
 <p>HOD SCI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Lian Peng Evelyn</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_lian_peng@moe.edu.sg</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -401,7 +409,12 @@ third_nav_title: Our People
 </tbody>
 </table>
 <h4><strong>Lead &amp; Senior Teachers</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
