@@ -586,10 +586,10 @@ variant: tiptap
 <p>3 Discipline (3D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Lian Peng (Evelyn)</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_lian_peng@moe.edu.sg</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -749,10 +749,10 @@ variant: tiptap
 <p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Sue Ling Kimmy</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sue_ling_kimmy@moe.edu.sg</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -1521,13 +1521,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chiam Pei Ping</p>
+<p>Petra Lim YiQi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chiam_pei_ping@moe.edu.sg</p>
+<p>petra_lim_yiqi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
