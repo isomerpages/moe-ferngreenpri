@@ -19,7 +19,7 @@ to the school and community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA.png">
 </div>
-<h5><strong>CCA Objectives</strong></h5>
+<h4><strong>CCA Objectives</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;To provide students with a platform to discover
 their interests and talents&nbsp;to help them live a balanced lifestyle
 in adulthood.</p>
@@ -32,7 +32,7 @@ of CCA opportunities for future specialisation.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;To capitalise on teachable moments to help students
 make connections of values, skills and competencies learnt and their CCA
 experiences.</p>
-<h5><strong>CCAs of Fern Green Primary School</strong></h5>
+<h4><strong>Our CCAs</strong></h4>
 <p>To achieve our desired outcome of providing a broad exposure to various
 types of CCA opportunities, our school is offering the following CCAs:</p>
 <p><strong><em>Clubs &amp; Societies</em></strong>
@@ -105,5 +105,227 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Scouts</p>
 </li>
 </ul>
-<h5><strong>CCA Training Hours</strong></h5>
+<h4><strong>CCA Training Hours</strong></h4>
 <p>Every Tuesday, 2.30 p.m. to 4.30 p.m.</p>
+<h4><strong>CCA Teacher-In-Charge Contacts</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of</strong>
+</p>
+<p><strong>Teacher-In-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Art Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Hazel Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">huang_wanyi_hazel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Hui Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_hui_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Heng Peck Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">heng_peck_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Floorball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alfred</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">alfred_kriswano_sutjiadi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Izree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_izree_jalil@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guitar Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Lihui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_lihui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Harmonica Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Di Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_di_jie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Infocomm &amp; Media Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Sakinah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">sakinah_mohamed_mohsen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Makers Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Fui Hee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ho_fui_hee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Modern Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rizalia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">rizalia_abdul_rahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Outdoor Adventure Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_zhi_qiang_jeremy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scouts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khng Jun Xiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">khng_jun_xiong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Show Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Deanna Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_poh_khim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tchoukball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yew_lea_lea_lily@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wordsmiths’ Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Kiru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kirubaashini_kanesan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
