@@ -121,9 +121,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of</strong>
-</p>
-<p><strong>Teacher-In-Charge</strong>
+<p><strong>Name of Teacher-In-Charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
