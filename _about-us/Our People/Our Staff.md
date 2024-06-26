@@ -1231,7 +1231,7 @@ variant: tiptap
 <p>Mrs Anne Wong-Ying Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>anne_wong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1528,7 +1528,7 @@ variant: tiptap
 <p>Mdm Tan Koon Loo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_koon_loo_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
