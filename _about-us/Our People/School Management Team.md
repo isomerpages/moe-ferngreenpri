@@ -44,7 +44,7 @@ third_nav_title: Our People
 <p>Vice-Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kylicia Soo Geok Ling</p>
+<p>Mdm Kylicia Soo</p>
 </td>
 </tr>
 <tr>
