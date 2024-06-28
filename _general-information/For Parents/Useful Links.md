@@ -32,12 +32,11 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guidance on</p>
-<p>Screen Use in</p>
-<p>Children</p>
+<p>Guidance on Screen Use in Children</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Useful Links (Parents)/for_upload_guidance_on_screen_use_in_children_17_aug_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance on Screen Use</a>
+</p>
 </td>
 </tr>
 <tr>
