@@ -13,6 +13,16 @@ third_nav_title: For Parents
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Link</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
 <p>Measure to deal with screen time and device</p>
