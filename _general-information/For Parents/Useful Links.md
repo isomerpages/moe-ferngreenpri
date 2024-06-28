@@ -32,11 +32,29 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Guidance on</p>
+<p>Screen Use in</p>
+<p>Children</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Gusto Media</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.gusto.sg/media-coverage/" rel="noopener noreferrer nofollow" target="_blank">https://www.gusto.sg/media-coverage/</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
