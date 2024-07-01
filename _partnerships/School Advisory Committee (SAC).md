@@ -44,15 +44,7 @@ Outcomes of Education; and</p>
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwok Kiat Loon Melvin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Steven Ong Peow</p>
+<p>Mr Yap Xi Ming</p>
 </td>
 </tr>
 <tr>
@@ -61,22 +53,6 @@ Outcomes of Education; and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kong Yee Loon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Andrea Ng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Paulyn Lim Poh Ling</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +76,15 @@ Outcomes of Education; and</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Zeng Pei Yuan</p>
+<p>Mr Toe Tiong Hock</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zeng Pei Yuan</p>
 </td>
 </tr>
 </tbody>
