@@ -61,10 +61,10 @@ on 30 August 2021.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soo Geok Ling, Kylicia</p>
+<p>Mdm Kylicia Soo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021 to 2023</p>
+<p>2021 to Present</p>
 </td>
 </tr>
 <tr>
