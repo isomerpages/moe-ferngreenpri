@@ -1522,13 +1522,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ART</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Koon Loo</p>
+<p>Ms Ang Lee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_koon_loo_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
