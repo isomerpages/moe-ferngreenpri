@@ -525,4 +525,37 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
+<h4><strong>School Leadership Team</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fern Green Primary School Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ferngreen_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Kindergarten Centre Heads</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mk_ferngreen@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
