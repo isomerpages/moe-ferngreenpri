@@ -107,5 +107,5 @@ together during her tenure.​</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/School Leaders/Ms Kong Yee Loon.jpg">
 </div>
 <p>Ms Kong Yee Loon&nbsp;was&nbsp;appointed&nbsp;Principal of&nbsp;Fern Green&nbsp;Primary
-School on 22 October 2022.&nbsp;Find out more on the <a href="https://www.ferngreenpri.moe.edu.sg/about-us/Principal-Message/" class="Hyperlink SCXP255317452 BCX8" rel="noreferrer" target="_blank"><u>Principal’s Message</u></a>​</p>
+School on 22 October 2022.&nbsp;Discover more in the <a href="https://www.ferngreenpri.moe.edu.sg/about-us/Principal-Message/" class="Hyperlink SCXP255317452 BCX8" rel="noreferrer" target="_blank"><u>Principal’s Message.</u></a>​</p>
 <p></p>
