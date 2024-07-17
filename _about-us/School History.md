@@ -85,7 +85,10 @@ on 30 August 2021.</p>
 </tbody>
 </table>
 <h4><strong>Principals: Past&nbsp;and&nbsp;Present</strong></h4>
-<p><strong>​Mrs May Tang-Chim Lee Mai (2018 to 2022)​</strong>
+<p><strong>​</strong>
+</p>
+<p></p>
+<p><strong>Mrs May Tang-Chim Lee Mai (2018 to 2022)​</strong>
 </p>
 <p>Mrs May Tang-Chim Lee Mai was the pioneering principal of Fern Green Primary
 School.&nbsp;She was instrumental in the&nbsp;shaping of the school’s identity.
