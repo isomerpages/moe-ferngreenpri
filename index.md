@@ -19,14 +19,13 @@ sections:
           description: Useful Links
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       variant: center
-  - infopic:
+  - infobar:
       title: Highlights of Open House 2024
       subtitle: Welcome!
-      id: infopic
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/FGPS_Open_House_2024_Highlights.jpg
-      alt: Open House 2024
-      button: Click here to view
+      id: infobar
+      description: <iframe height="315" width="560" allowfullscreen="true"
+        frameborder="0"
+        src="https://www.youtube.com/embed/BIgyxCozZWk?si=3UE-KNKPS_9GB3BM"></iframe>
   - infopic:
       title: MK@FG School Tour
       id: infopic
@@ -44,11 +43,4 @@ sections:
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Thank_you_Card.png
       alt: say it from your heart
-  - infobar:
-      title: Highlights of Open House 2024
-      subtitle: Welcome!
-      id: infobar
-      description: <iframe height="315" width="560" allowfullscreen="true"
-        frameborder="0"
-        src="https://www.youtube.com/embed/BIgyxCozZWk?si=3UE-KNKPS_9GB3BM"></iframe>
 ---
