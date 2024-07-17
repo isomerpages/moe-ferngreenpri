@@ -24,8 +24,9 @@ sections:
       subtitle: Welcome!
       id: infopic
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/FGPS_Open_House_Flyer_with_MK_website_2.png
+      image: /images/FGPS_Open_House_2024_Highlights.jpg
       alt: Open House 2024
+      button: Click here to view
   - infopic:
       title: MK@FG School Tour
       id: infopic
