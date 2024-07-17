@@ -137,7 +137,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,16 +146,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Goh Cheo Tee (Kelly)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurhidayah Binte Shabirin</p>
 </td>
