@@ -20,7 +20,7 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       variant: center
   - infopic:
-      title: Highlights of FGPS Open House 2024
+      title: Open House 2024
       subtitle: Welcome!
       id: infopic
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
