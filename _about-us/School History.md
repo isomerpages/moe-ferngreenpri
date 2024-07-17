@@ -49,18 +49,18 @@ on 30 August 2021.</p>
 <p>Vice-Principals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Andrea Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019 to Present</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr See Kok Kiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2018 to Present</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Andrea Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019 to Present</p>
 </td>
 </tr>
 <tr>
