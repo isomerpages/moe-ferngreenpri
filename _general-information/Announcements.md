@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Highlights of Open House 2024</strong></h2>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BIgyxCozZWk?si=3UE-KNKPS_9GB3BM"></iframe>
+</div>
 <h2><strong>Say It From Your Heart @FGPS</strong></h2>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
