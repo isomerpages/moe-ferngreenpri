@@ -44,4 +44,12 @@ sections:
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Thank_you_Card.png
       alt: say it from your heart
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <iframe height="315" width="560" allowfullscreen="true"
+        frameborder="0"
+        src="https://www.youtube.com/embed/BIgyxCozZWk?si=3UE-KNKPS_9GB3BM"></iframe>
+      button: Button Text
 ---
