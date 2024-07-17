@@ -45,11 +45,10 @@ sections:
       image: /images/Thank_you_Card.png
       alt: say it from your heart
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Highlights of Open House 2024
+      subtitle: Welcome!
       id: infobar
       description: <iframe height="315" width="560" allowfullscreen="true"
         frameborder="0"
         src="https://www.youtube.com/embed/BIgyxCozZWk?si=3UE-KNKPS_9GB3BM"></iframe>
-      button: Button Text
 ---
