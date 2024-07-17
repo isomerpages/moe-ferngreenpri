@@ -89,9 +89,6 @@ on 30 August 2021.</p>
 <p><strong>Mrs May Tang-Chim Lee Mai (2018 to 2022)​</strong>
 </p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/IMG_2163.jpg">
-</div>
 <p>Mrs May Tang-Chim Lee Mai was the pioneering principal of Fern Green Primary
 School.&nbsp;She was instrumental in the&nbsp;shaping of the school’s identity.
 The school&nbsp;vision,&nbsp;mission, uniform, crest and song were put
@@ -100,9 +97,6 @@ together during her tenure.​</p>
 <p><strong>Ms Kong Yee Loon (2022 to Present)​</strong>
 </p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Leaders/IMG_4127.jpg">
-</div>
 <p>Ms Kong Yee Loon&nbsp;was&nbsp;appointed&nbsp;Principal of&nbsp;Fern Green&nbsp;Primary
 School on 22 October 2022.&nbsp;<a href="https://www.ferngreenpri.moe.edu.sg/about-us/Principal-Message/" class="Hyperlink SCXP255317452 BCX8" rel="noreferrer" target="_blank"><u>Principal’s Message (</u></a>
 <a href="https://www.ferngreenpri.moe.edu.sg/about-us/Principal-Message/" rel="noopener noreferrer nofollow" target="_blank"><u>moe.edu.sg</u>
