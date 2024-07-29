@@ -6,8 +6,40 @@ third_nav_title: Service Providers
 variant: tiptap
 ---
 <h3><strong>Raffles Student Care Learning Centre LLP</strong></h3>
-<table>
+<p><strong>Centre Opening Hours</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Term: 1.00 pm to 7.00 pm (Monday to Friday)</p>
+</li>
+<li>
+<p>School Holiday: 7.00 am to 7.00 pm (Monday to Friday)</p>
+</li>
+</ul>
+<p><strong>Student Care Fee</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School/Holiday per month: $237.35 (wef year 2024)</p>
+</li>
+<li>
+<p>Student Care Fee Assistance (SCFA) by MSF are available for pupils who
+need financial assistance. Terms and conditions apply.</p>
+</li>
+</ul>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Student Care Centre Contact</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Centre Supervisor:</p>
@@ -21,7 +53,7 @@ variant: tiptap
 <p>Assistant Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kalpana</p>
+<p>Ms Nur Khalisah</p>
 </td>
 </tr>
 <tr>
@@ -34,28 +66,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Facebook:</p>
+<p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/RafflesStudentCare/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/RafflesStudentCare/</a>
+<p><a href="mailto:admin@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">FG@rafflesstudentcare.com</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Email:</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="mailto:admin@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">admin@rafflesstudentcare.com</a>
+<td rowspan="1" colspan="2">
+<p>For more information on Raffles Student Care Learning Centre LLP, do visit
+us at <a rel="noopener noreferrer nofollow" target="_blank">Rafflesstudentcare.com</a>
 </p>
-</li>
-<li>
-<p><a href="mailto:admin@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">FG@rafflesstudentcare.com</a>
-</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
