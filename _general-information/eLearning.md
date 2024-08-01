@@ -4,9 +4,10 @@ permalink: /general-information/e-learning/
 description: ""
 variant: tiptap
 ---
-<h4><strong>e-Learning Day on Friday, 8 March 2024</strong></h4>
-<p>The school has designated Friday, 8 March 2024 as our e-Learning Day to
-prepare students for emergency school closures due to unforeseen circumstances.</p>
+<h4><strong>e-Learning Day on Tuesday &amp; Wednesday, 13 &amp; 14 August 2024</strong></h4>
+<p>The school has designated Tuesday &amp; Wednesday, 13 &amp; 14 August
+2024, as our e-Learning Day to prepare students for emergency school closures
+due to unforeseen circumstances.</p>
 <p>The key objectives of the e-Learning Day are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
