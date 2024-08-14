@@ -49,6 +49,19 @@ P1 registration exercise</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fern Green Primary School in Sengkang opens its doors to first batch of
+240 pupils</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/singapore/education/fern-green-primary-school-in-sengkang-opens-its-doors-to-first-batch-of-240" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/education/fern-green-primary-school-in-sengkang-opens-its-doors-to-first-batch-of-240</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
