@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Staff.md
       - Announcements.md
       - Notifications/.keep
       - Notifications/Notifications 2024.md
