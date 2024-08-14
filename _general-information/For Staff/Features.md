@@ -51,6 +51,19 @@ P1 registration exercise</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Five primary schools filled about half their places by end of Phase 1
+of P1 registration exercise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/singapore/five-primary-schools-filled-about-half-their-places-by-the-end-of-phase-1" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/five-primary-schools-filled-about-half-their-places-by-the-end-of-phase-1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
