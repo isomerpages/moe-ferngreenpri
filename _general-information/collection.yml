@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Staff/Useful Links.md
       - For Staff/Features.md
       - For Staff/.keep
       - Announcements.md
