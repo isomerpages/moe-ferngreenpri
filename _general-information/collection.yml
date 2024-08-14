@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - For Staff/For Staff.md
+      - For Staff/Features.md
       - For Staff/.keep
       - Announcements.md
       - Notifications/.keep
