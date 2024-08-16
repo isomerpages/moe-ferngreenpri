@@ -2,8 +2,8 @@ collections:
   general-information:
     output: true
     order:
-      - Media.md
       - Announcements.md
+      - Media.md
       - Notifications/.keep
       - Notifications/Notifications 2024.md
       - Notifications/Notifications 2023.md
