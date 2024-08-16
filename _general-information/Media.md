@@ -1,9 +1,8 @@
 ---
-title: Features
-permalink: /for-staff/features/
+title: Media
+permalink: /media/
 variant: tiptap
 description: ""
-third_nav_title: For Staff
 ---
 <table style="minWidth: 75px">
 <colgroup>

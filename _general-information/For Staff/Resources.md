@@ -1,6 +1,6 @@
 ---
-title: Useful Links
-permalink: /useful-links/
+title: Resources
+permalink: /resources/
 variant: tiptap
 description: ""
 third_nav_title: For Staff

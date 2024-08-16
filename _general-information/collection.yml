@@ -3,23 +3,23 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Media.md
       - Notifications/.keep
       - Notifications/Notifications 2024.md
       - Notifications/Notifications 2023.md
       - Notifications/Notifications 2022.md
       - Notifications/Notifications 2021.md
       - For Staff/.keep
-      - For Staff/Features.md
-      - For Staff/Useful Links.md
+      - For Staff/Resources.md
       - For Parents/.keep
       - For Parents/Forms.md
       - For Parents/Homework Policy.md
       - For Parents/Parents Gateway.md
       - For Parents/P1 Registration.md
       - For Parents/Quick Download.md
-      - For Parents/Useful Links.md
+      - For Parents/Resources.md
       - For Students/.keep
-      - For Students/Useful Links.md
+      - For Students/Resources.md
       - eLearning.md
       - School Calendar.md
       - School Hours.md

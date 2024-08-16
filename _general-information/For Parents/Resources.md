@@ -1,6 +1,6 @@
 ---
-title: Useful Links
-permalink: /useful-links/
+title: Resources
+permalink: /resources/
 variant: tiptap
 description: ""
 third_nav_title: For Parents
@@ -45,6 +45,15 @@ third_nav_title: For Parents
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.gusto.sg/media-coverage/" rel="noopener noreferrer nofollow" target="_blank">https://www.gusto.sg/media-coverage/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SchoolBag: The Education News Site</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
 </p>
 </td>
 </tr>

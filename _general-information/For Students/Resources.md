@@ -1,6 +1,6 @@
 ---
-title: Useful Links
-permalink: /general-information/for-students/useful-links/
+title: Resources
+permalink: /general-information/for-students/resources/
 variant: tiptap
 description: ""
 third_nav_title: For Students
