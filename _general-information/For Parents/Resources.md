@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: /general-information/for-parents/resources/
 variant: tiptap
 description: ""
 third_nav_title: For Parents

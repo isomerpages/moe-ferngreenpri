@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: /general-information/for-staff/resources/
 variant: tiptap
 description: ""
 third_nav_title: For Staff

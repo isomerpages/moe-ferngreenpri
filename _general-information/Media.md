@@ -1,6 +1,6 @@
 ---
 title: Media
-permalink: /media/
+permalink: /general-information/media/
 variant: tiptap
 description: ""
 ---
