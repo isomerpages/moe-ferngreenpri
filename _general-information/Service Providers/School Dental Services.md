@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Child Contact No.:</p>
+<p>Clinic Contact No.:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8940 2213&nbsp;</p>
