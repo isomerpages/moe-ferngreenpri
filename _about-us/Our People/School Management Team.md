@@ -262,17 +262,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Wan Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_wan_wen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH PE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,6 +291,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jia_li@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Wan Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_wan_wen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
