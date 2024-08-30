@@ -131,15 +131,7 @@ concerns during PE lessons.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Note: Name Tag (<strong>1cm above School Crest</strong> for School Polo
-Tee; <strong>1 cm above pocket slit</strong> for School Shirt)
-<br>
-<br><strong><u>For School Polo Tee</u></strong> 
-<br>
-<br>
-<br>
-<br><strong><u>For School Shirt</u></strong> 
-<br>
-</p>
+Tee; <strong>1 cm above pocket slit</strong> for School Shirt)</p>
 </td>
 </tr>
 </tbody>
