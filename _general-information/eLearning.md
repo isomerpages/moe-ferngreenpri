@@ -4,10 +4,10 @@ permalink: /general-information/e-learning/
 description: ""
 variant: tiptap
 ---
-<h4><strong>e-Learning Day on Tuesday &amp; Wednesday, 13 &amp; 14 August 2024</strong></h4>
-<p>The school has designated Tuesday &amp; Wednesday, 13 &amp; 14 August
-2024, as our e-Learning Day to prepare students for emergency school closures
-due to unforeseen circumstances.</p>
+<h4><strong>e-Learning Day on Friday, 13 September 2024</strong></h4>
+<p>The school has designated Friday, 13 September 2024, as our e-Learning
+Day to prepare students for emergency school closures due to unforeseen
+circumstances.</p>
 <p>The key objectives of the e-Learning Day are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,6 +25,3 @@ Learning) of students.</p>
 <p>Students and parents can access the site for lesson guides via this
 <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">link.</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
