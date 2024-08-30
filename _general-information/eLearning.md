@@ -25,6 +25,3 @@ Learning) of students.</p>
 <p>Students and parents can access the site for lesson guides via this
 <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">link.</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
