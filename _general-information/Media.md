@@ -27,6 +27,18 @@ description: ""
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Interview: Cikgu Sakinah emphasized the importance of human touch in teaching.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.beritaharian.sg/bahasa-budaya/guna-teknologi-seiring-sentuhan-insani-pilihan-guru-finalis-agab" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/bahasa-budaya/guna-teknologi-seiring-sentuhan-insani-pilihan-guru-finalis-agab</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Cikgu Sakinah is one of the eight finalists for the 2024 Teacher Arif
 Budiman Award.</p>
 </td>

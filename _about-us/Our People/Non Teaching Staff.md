@@ -59,17 +59,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Wee Shuan Eunice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_wee_shuan_eunice@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +236,7 @@ third_nav_title: Our People
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aminah Binte Samuri</p>
+<p>Ms Suriatini Binte Nor Ahmad</p>
 </td>
 </tr>
 <tr>
