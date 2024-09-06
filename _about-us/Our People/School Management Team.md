@@ -440,7 +440,7 @@ third_nav_title: Our People
 <p>ST TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Punitha d/o Murugiah Maniam</p>
+<p>Mdm Punitha d/o Murugaiah Maniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>punitha_murugaiah_maniam@moe.edu.sg</p>
