@@ -25,6 +25,54 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024-08-28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/tfs9zpAmugqVTgLL9" rel="noopener nofollow" target="_blank">P2 ALP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/938EwdCz2qaYNVJE8" rel="noopener nofollow" target="_blank">P1 ALP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/UGd39MUjiXfbtpUn9" rel="noopener nofollow" target="_blank">P3 &amp; P4 ALP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/vkrHYX3MXvF6cKX49" rel="noopener nofollow" target="_blank">National Day Concert</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-08-06</p>
 </td>
 <td rowspan="1" colspan="1">
