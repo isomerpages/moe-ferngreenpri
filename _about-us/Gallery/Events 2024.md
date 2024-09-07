@@ -81,6 +81,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_NDP.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -92,12 +95,15 @@ third_nav_title: Gallery
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_K2_Immersion.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024-08-05 &amp; 062024-08-06</p>
+<p></p>
+<p>2024-08-05 &amp; 06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/ztdja2C3dEQENxpu5" rel="noopener nofollow" target="_blank">Recess Art Jamming</a>
@@ -105,6 +111,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Recess_Art.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -116,7 +125,9 @@ third_nav_title: Gallery
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_P3_MTL.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -129,6 +140,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Open_House.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -141,6 +155,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_China_Hosting.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -153,6 +170,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_MakerFaire.jpg">
+</div>
 </td>
 </tr>
 <tr>
