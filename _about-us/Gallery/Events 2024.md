@@ -25,6 +25,18 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024-08-29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/2jjAguZ7oT76p5Ca8" rel="noopener nofollow" target="_blank">Teachers' Day Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-08-28</p>
 </td>
 <td rowspan="1" colspan="1">
