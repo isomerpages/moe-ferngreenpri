@@ -25,10 +25,23 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024-08-05 &amp; 06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/ztdja2C3dEQENxpu5" rel="noopener nofollow" target="_blank">Recess Art Jamming</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-07-16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/dE7dtuYXhUEKPhQS6" rel="noopener nofollow" target="_blank">P3 Students Rising Stars of Broadway Showcase</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -503,4 +516,4 @@ third_nav_title: Gallery
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>2024-07-16</p>
