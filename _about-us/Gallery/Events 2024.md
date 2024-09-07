@@ -36,10 +36,23 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024-07-09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/8PLRbCVtziRZD9dS9" rel="noopener nofollow" target="_blank">FGPS Open House</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-07-05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/1AjEhMWxmqge7GSD7" rel="noopener nofollow" target="_blank">P5 International Experience (Hosting of Students from China)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
