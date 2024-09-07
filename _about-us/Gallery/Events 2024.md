@@ -25,7 +25,19 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024-08-05 &amp; 06</p>
+<p>2024-08-06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/75vRmspbMQztAN1M7" rel="noopener nofollow" target="_blank">MK K2 Immersion Day with P1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-05 &amp; 062024-08-06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/ztdja2C3dEQENxpu5" rel="noopener nofollow" target="_blank">Recess Art Jamming</a>
