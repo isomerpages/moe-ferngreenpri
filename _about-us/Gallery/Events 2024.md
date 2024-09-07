@@ -33,6 +33,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Teachers_day.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -45,6 +48,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/WhatsApp_Image_2024_08_28_at_11_06_56_AM_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -57,6 +63,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/WhatsApp_Image_2024_08_27_at_4_57_18_PM__1_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -69,6 +78,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_P3___P4_ALP.jpg">
+</div>
 </td>
 </tr>
 <tr>
