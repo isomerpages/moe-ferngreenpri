@@ -25,6 +25,170 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024-08-29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/2jjAguZ7oT76p5Ca8" rel="noopener nofollow" target="_blank">Teachers' Day Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Teachers_day.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/tfs9zpAmugqVTgLL9" rel="noopener nofollow" target="_blank">P2 ALP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/WhatsApp_Image_2024_08_28_at_11_06_56_AM_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/938EwdCz2qaYNVJE8" rel="noopener nofollow" target="_blank">P1 ALP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/WhatsApp_Image_2024_08_27_at_4_57_18_PM__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/UGd39MUjiXfbtpUn9" rel="noopener nofollow" target="_blank">P3 &amp; P4 ALP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_P3___P4_ALP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/vkrHYX3MXvF6cKX49" rel="noopener nofollow" target="_blank">National Day Concert</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_NDP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-08-06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/75vRmspbMQztAN1M7" rel="noopener nofollow" target="_blank">MK K2 Immersion Day with P1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_K2_Immersion.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>2024-08-05 &amp; 06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/ztdja2C3dEQENxpu5" rel="noopener nofollow" target="_blank">Recess Art Jamming</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Recess_Art.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-07-16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/dE7dtuYXhUEKPhQS6" rel="noopener nofollow" target="_blank">P3 Students Rising Stars of Broadway Showcase</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_P3_MTL.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-07-09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/8PLRbCVtziRZD9dS9" rel="noopener nofollow" target="_blank">FGPS Open House</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Open_House.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-07-05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/1AjEhMWxmqge7GSD7" rel="noopener nofollow" target="_blank">P5 International Experience (Hosting of Students from China)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_China_Hosting.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-07-05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/a6owVreGLEAjfyob9" rel="noopener nofollow" target="_blank">Annual Maker Faire @FGPS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_MakerFaire.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-05-23</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -456,4 +620,4 @@ third_nav_title: Gallery
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>2024-07-16</p>
