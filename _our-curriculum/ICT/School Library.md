@@ -47,7 +47,7 @@ read, collaborate and learn.</p>
 <p>School Librarian:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aminah Binte Samuri</p>
+<p>Ms Suriatini Binte Nor Ahmad</p>
 </td>
 </tr>
 <tr>
