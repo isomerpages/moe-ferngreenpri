@@ -102,6 +102,20 @@ Income’s website at <a rel="noopener noreferrer nofollow" target="_blank">http
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DigitalAccess@Home</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low-income households living in HDB flats with at least one Singapore
+Citizen are eligible to apply for DigitalAccess@Home. You can check your
+eligibility at this website&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/digitalaccesschecker</a>
+</p>
+<p>Parents can check your eligibility criteria and apply at <a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
