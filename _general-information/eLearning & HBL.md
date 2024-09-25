@@ -4,10 +4,21 @@ permalink: /general-information/e-learning-and-hbl/
 description: ""
 variant: tiptap
 ---
-<h4><strong>e-Learning Day on Friday, 13 September 2024</strong></h4>
-<p>The school has designated Friday, 13 September 2024, as our e-Learning
-Day to prepare students for emergency school closures due to unforeseen
-circumstances.</p>
+<h4><strong>Home-Based Learning Day</strong></h4>
+<p>Students and Parents can download a copy of the <a href="https://sites.google.com/moe.edu.sg/fgps-hbl/home" rel="noopener nofollow" target="_blank">Lesson Guides</a> for
+HBL days to guide you on the home-based learning activities.</p>
+<ul>
+<li>
+<p>P2: 26 &amp; 27 Sep 2024</p>
+</li>
+<li>
+<p>P1: 30 Sep &amp; 1 Oct 2024</p>
+</li>
+</ul>
+<h4><strong>e-Learning Day</strong></h4>
+<p>The school has designated <strong>Friday, 13 September 2024</strong>, as
+our e-Learning Day to prepare students for emergency school closures due
+to unforeseen circumstances.</p>
 <p>The key objectives of the e-Learning Day are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -22,6 +33,6 @@ through technology;</p>
 Learning) of students.</p>
 </li>
 </ul>
-<p>Students and parents can access the site for lesson guides via this
+<p>Students and Parents can access the site for lesson guides via this
 <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">link.</a>
 </p>
