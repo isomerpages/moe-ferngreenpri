@@ -94,11 +94,11 @@ Institute.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Information on the MOE GPA Insurance Plan for students can be found on
-Income’s website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+Income’s website at <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
 </p>
 <p></p>
 <p>Parents can submit the claims online and check the claims status at
-<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal (incomegroupins.com.sg)</a>
 </p>
 </td>
 </tr>
@@ -110,9 +110,9 @@ Income’s website at <a rel="noopener noreferrer nofollow" target="_blank">http
 <td rowspan="1" colspan="1">
 <p>Low-income households living in HDB flats with at least one Singapore
 Citizen are eligible to apply for DigitalAccess@Home. You can check your
-eligibility at this website&nbsp;<a href="https://go.gov.sg/digitalaccesschecker" rel="noopener nofollow" target="_blank">https://go.gov.sg/digitalaccesschecker</a>
+eligibility at this website <a href="https://www.checkfirst.gov.sg/c/878a2114-fc8a-496b-aa27-0dc3274da796" rel="noopener noreferrer nofollow" target="_blank">CheckFirst</a>
 </p>
-<p>Parents can check your eligibility criteria and apply at <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc" rel="noopener nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc</a>
+<p>Parents can check your eligibility criteria and apply at <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc" rel="noopener noreferrer nofollow" target="_blank">Scheme Details | IMDA</a>
 </p>
 </td>
 </tr>
