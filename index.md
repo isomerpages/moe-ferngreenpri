@@ -23,6 +23,10 @@ sections:
       title: Information for P1/2025 Parents
       subtitle: Welcome!
       id: infobar
+      description: A one-stop portal for you to access all the information you need to
+        prepare for your child's exciting journey into primary education.
+      url: https://sites.google.com/moe.edu.sg/ferngreenprimaryschool/home
+      button: P1/2025 One-Stop Portal
   - infopic:
       title: MK@FG School Tour
       id: infopic
