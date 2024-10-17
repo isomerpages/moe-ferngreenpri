@@ -23,27 +23,20 @@ visuals, and documenting school events. This CCA not only nurtures creativity
 and technical expertise but also ignites a passion for digital media among
 young learners, preparing them for a technologically advanced future.</p>
 <h4><strong>Achievements/ Accomplishments</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT1.jpg">
-</div>
 <p>Primary 6 student photographers who participated in the <strong>Our School, Our Stories Photo and Video Contest</strong> in
-2023:</p>
+2024:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Fuzailhaikal Bin Muhammad Fadzlihamzah</p>
+<p>1. Myra Nasuha Binte Mohammad Irwan</p>
 </li>
 <li>
-<p>Ang Victor Nathanael</p>
+<p>Lye Jin En Lovelle</p>
 </li>
 <li>
-<p>Long Enyao Caleb</p>
+<p>Li Jingxuan</p>
 </li>
 <li>
-<p>Geet Liwen Prasad</p>
-</li>
-<li>
-<p>Chan Jing Lun Marcus</p>
-<p></p>
+<p>Fong Chen Xi</p>
 </li>
 </ol>
 <h4><strong>P3 - Clay Animation</strong></h4>
