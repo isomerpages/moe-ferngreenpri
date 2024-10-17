@@ -27,7 +27,7 @@ young learners, preparing them for a technologically advanced future.</p>
 2024:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>1. Myra Nasuha Binte Mohammad Irwan</p>
+<p>Myra Nasuha Binte Mohammad Irwan</p>
 </li>
 <li>
 <p>Lye Jin En Lovelle</p>
