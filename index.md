@@ -20,12 +20,13 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
       variant: center
   - infobar:
-      title: Highlights of Open House 2024
+      title: Information for P1/2025 Parents
       subtitle: Welcome!
       id: infobar
-      description: <iframe height="315" width="560" allowfullscreen="true"
-        frameborder="0"
-        src="https://www.youtube.com/embed/BIgyxCozZWk?si=3UE-KNKPS_9GB3BM"></iframe>
+      description: A one-stop portal for you to access all the information you need to
+        prepare for your child's exciting journey into primary education.
+      url: https://sites.google.com/moe.edu.sg/ferngreenprimaryschool/home
+      button: P1/2025 One-Stop Portal
   - infopic:
       title: MK@FG School Tour
       id: infopic
