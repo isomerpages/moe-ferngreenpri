@@ -76,14 +76,6 @@ Outcomes of Education; and</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Toe Tiong Hock</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Zeng Pei Yuan</p>
 </td>
 </tr>
