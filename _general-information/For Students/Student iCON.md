@@ -21,6 +21,7 @@ in the following ways:</p>
 </ul>
 <p>Student iCON can be accessed from <a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
+<p>Please refer to Student iCON Onboarding Guide for more information.</p>
 <h4><strong>Benefits of Student iCON</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,5 +37,11 @@ conferencing</p>
 to Junior College</p>
 </li>
 </ul>
-<h4><strong>Common Google Suite Apps available under Student iCON</strong></h4>
+<h4><strong>Google Suite Apps available under Student iCON</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Student/P1_to_P3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Student/P4_to_P6.png">
+</div>
 <p></p>
