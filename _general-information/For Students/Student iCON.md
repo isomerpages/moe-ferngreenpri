@@ -21,4 +21,20 @@ in the following ways:</p>
 </ul>
 <p>Student iCON can be accessed from <a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
+<h4><strong>Benefits of Student iCON</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Facilitate collaboration, teaching and learning between teachers and students
+using apps such as Google classroom and Drive</p>
+</li>
+<li>
+<p>Brainstorm with teachers and classmates on a virtual whiteboard over video
+conferencing</p>
+</li>
+<li>
+<p>Follow students throughout their learning journey from Primary School
+to Junior College</p>
+</li>
+</ul>
+<h4><strong>Common Google Suite Apps available under Student iCON</strong></h4>
 <p></p>
