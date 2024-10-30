@@ -21,7 +21,7 @@ in the following ways:</p>
 </ul>
 <p>Student iCON can be accessed from <a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
-<p>Please refer to <a href="/files/For Student/Student_iCON_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide</a> for
+<p>Please refer to <a href="/files/For Student/Student_iCON_Onboarding_Guide.pdf" rel="noopener nofollow" target="_blank">Student iCON Onboarding Guide</a> for
 more information.</p>
 <h4><strong>Benefits of Student iCON</strong></h4>
 <ul data-tight="true" class="tight">
