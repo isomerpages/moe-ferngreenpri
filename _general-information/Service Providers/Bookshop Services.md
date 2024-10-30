@@ -39,10 +39,23 @@ third_nav_title: Service Providers
 <p>(Closed during School Holidays)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
-<p>P1 to P6 Booklists for Year 2024, please <a href="https://drive.google.com/drive/folders/1u1D_W9VIKjTg-iK2Fg0xETGBXv8aQ9Pw?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">click here.</a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please refer to <a href="https://drive.google.com/drive/folders/1exgsrn6Jg3jDyCn5Pbe8KRNMxBba1E5J?usp=drive_link" rel="noopener nofollow" target="_blank">P1 - P6 Booklist for Year 2025</a>.</p>
+</li>
+<li>
 <p>Sales of Name Tags: <a href="https://www.stitchwerkz.sg/nametags/nametags_fgps" rel="noopener noreferrer nofollow" target="_blank">Name Tags (stitchwerkz.sg)</a>
 </p>
+</li>
+</ul>
+<p></p>
