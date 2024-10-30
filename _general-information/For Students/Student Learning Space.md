@@ -13,6 +13,37 @@ core platform for teaching and learning and one of its key initiatives
 to transform the learning experiences of Singaporean students through the
 purposeful use of technology. Please refer to <a href="https://www.learning.moe.edu.sg/about/overview-of-student-learning-space/" rel="noopener nofollow" target="_blank">Overview of Student Learning Space</a> to
 find out more.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guide to SLS Account Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
