@@ -28,6 +28,12 @@ find out more.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>SLS User Guide for Students, Technical Support &amp; Login Troubleshooting User Guide</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>1.</p>
 </td>
@@ -91,5 +97,84 @@ find out more.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Get Help: Student Learning Space Helpdesk</strong>
+</p>
+<p>For issues that your School-Based Helplines cannot address, you may contact
+SLS Helpdesk.</p>
+<p>Please note that the call waiting time may be longer during peak periods
+such as Home-Based Learning days.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Operating Hours and Contact Details</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Mondays ― Fridays:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4:00 pm ― 9:00 pm (School Days)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9:00 am ― 9:00 pm (School Holidays)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Saturdays:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00 am ― 3:00 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Closed on Sundays &amp; Public Holidays</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank"><u>helpdesk@sls.ufinity.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tel:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(65) 6702 6513</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><u>Note</u>: If you are a student, the Helpdesk will need to verify your
+identity using the security questions that you have set up when your account
+was first activated.</p>
+<p>You can also approach your School-Based Helpline or teacher for help.</p>
 <p></p>
