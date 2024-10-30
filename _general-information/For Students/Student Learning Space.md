@@ -97,10 +97,6 @@ find out more.</p>
 </table>
 <p><strong>Get Help: Student Learning Space Helpdesk</strong>
 </p>
-<p>For issues that your School-Based Helplines cannot address, you may contact
-SLS Helpdesk.</p>
-<p>Please note that the call waiting time may be longer during peak periods
-such as Home-Based Learning days.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -169,8 +165,18 @@ such as Home-Based Learning days.</p>
 <p>(65) 6702 6513</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>Please note that the call waiting time may be longer during peak periods
+such as Home-Based Learning days.</p>
 <p><u>Note</u>: If you are a student, the Helpdesk will need to verify your
 identity using the security questions that you have set up when your account
 was first activated.</p>
