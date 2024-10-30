@@ -181,4 +181,3 @@ such as Home-Based Learning days.</p>
 identity using the security questions that you have set up when your account
 was first activated.</p>
 <p>You can also approach your School-Based Helpline or teacher for help.</p>
-<p></p>
