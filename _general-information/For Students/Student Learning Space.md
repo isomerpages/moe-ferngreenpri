@@ -29,10 +29,56 @@ find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guide to SLS Account Management</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/For Student/SLS_Account_Management___Guide_for_Students__Pri_.pdf" rel="noopener nofollow" target="_blank">Guide to SLS Account Management - Instructions for Students</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/how-to-log-in-student/" rel="noopener nofollow" target="_blank">How to Log In (Student)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener nofollow" target="_blank">Reset SLS Password (Student)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/forgot-sls-username/" rel="noopener nofollow" target="_blank">Forgot SLS Username</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/unsuccessful-password-reset-attempts/" rel="noopener nofollow" target="_blank">Unsuccessful Password Reset Attempts</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/unlock-account/" rel="noopener nofollow" target="_blank">Unlock Account</a>
+</p>
 </td>
 </tr>
 <tr>
