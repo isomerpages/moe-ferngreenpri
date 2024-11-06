@@ -26,7 +26,8 @@ third_nav_title: Notifications
 <p>T4W9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notifications/2024/T4W9_Parents_Notification__2024_11_06_.pdf" rel="noopener nofollow" target="_blank">6 November 2024</a>
+</p>
 </td>
 </tr>
 <tr>
