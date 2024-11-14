@@ -47,9 +47,10 @@ third_nav_title: Service Providers
 </tr>
 </tbody>
 </table>
-<p>Parents can purchase the school uniforms from School Bookshop from March
-2024.</p>
-<h4><strong><u>School Attire for 2024</u></strong></h4>
+<p>Onsite sale of uniform at the school is from <strong>19 November 2024 to 13 December 2024</strong>.
+Please make an appointment at <a rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/appointment-booking-at-fern-green-primary/</a>
+</p>
+<h4><strong><u>School Attire for 2025</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
