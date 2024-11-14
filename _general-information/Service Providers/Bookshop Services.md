@@ -58,4 +58,57 @@ third_nav_title: Service Providers
 </p>
 </li>
 </ul>
+<p>Kindly visit the <a href="https://www.blmarketing.com.sg/" rel="noopener nofollow" target="_blank">bookshop website</a> from <strong>15 November 2024</strong>.
+All users are required to create an account before ordering.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Last Date of Online Ordering</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>15&nbsp;December&nbsp;2024 (All Levels)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last Date of Self-Collection</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 December&nbsp;2024 (All Levels)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Self-Collection Service at the School Bookshop</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please select your preferred Self-Collection dates and time on the website.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
