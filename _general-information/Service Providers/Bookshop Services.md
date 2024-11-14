@@ -58,8 +58,8 @@ third_nav_title: Service Providers
 </p>
 </li>
 </ul>
-<p>Kindly visit the <a href="https://www.blmarketing.com.sg/" rel="noopener nofollow" target="_blank">bookshop website</a> from
-15 November 2024. All users are required to create an account before ordering.</p>
+<p>Kindly visit the <a href="https://www.blmarketing.com.sg/" rel="noopener nofollow" target="_blank">bookshop website</a> from <strong>15 November 2024</strong>.
+All users are required to create an account before ordering.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
