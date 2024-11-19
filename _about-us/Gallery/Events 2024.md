@@ -25,6 +25,78 @@ third_nav_title: Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024-11-15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/8NmFWfHyWEthy6247" rel="noopener nofollow" target="_blank">P6 Celebrates!</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-11-11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/jojAH63Z8dL4ABYN8" rel="noopener nofollow" target="_blank">Deepavali Concert &amp; Recess Activities</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-11-08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/i3vWYRztSCV9QdkU7" rel="noopener nofollow" target="_blank">Advocates with Heart Fiesta</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-10-07 to 11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/BHNKoJq5kciqCuVMA" rel="noopener nofollow" target="_blank">P6 Post-PSLE Activities</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-10-03</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/ykR1ZyoHZfUjMmuY7" rel="noopener nofollow" target="_blank">Children's Day Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024-09-16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/NA1Mgy3zh9tWhquaA" rel="noopener nofollow" target="_blank">Assembly (Awards Presentation)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024-08-29</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +104,6 @@ third_nav_title: Gallery
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/2024_Teachers_day.jpg">
 </div>
@@ -47,7 +118,6 @@ third_nav_title: Gallery
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/WhatsApp_Image_2024_08_28_at_11_06_56_AM_1.jpg">
 </div>
@@ -62,7 +132,6 @@ third_nav_title: Gallery
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/WhatsApp_Image_2024_08_27_at_4_57_18_PM__1_.jpg">
 </div>
