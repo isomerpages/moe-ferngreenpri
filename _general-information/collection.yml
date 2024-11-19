@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Graduating P6 Students/Secondary 1 (S1) Posting Process.md
       - For Graduating P6 Students/PSLE.md
       - For Graduating P6 Students/.keep
       - Announcements.md
