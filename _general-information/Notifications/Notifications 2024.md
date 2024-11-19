@@ -179,7 +179,7 @@ third_nav_title: Notifications
 <p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/T3W3_Parents_Notification__2024_07_10_.pdf" rel="noopener noreferrer nofollow" target="_blank">10 July 2024</a>
+<p><a href="/files/Notifications/2024/T3W3_Parents_Notification__2024_07_10_.pdf" rel="noopener noreferrer nofollow" target="_blank">10 July 2024</a>
 </p>
 </td>
 </tr>
