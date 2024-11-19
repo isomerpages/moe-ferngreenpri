@@ -18,7 +18,8 @@ which takes place once the PSLE results are released.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Check out the following Full SBB resources to find out more</p>
+<p>Check out the following <strong>Full SBB resources</strong> to find out
+more</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -46,7 +47,7 @@ which takes place once the PSLE results are released.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Access the MySkillsFuture Student Portal</p>
+<p>Access the <strong>MySkillsFuture</strong> Student Portal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/exploreschools" rel="noopener nofollow" target="_blank">https://go.gov.sg/exploreschools</a>
