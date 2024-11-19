@@ -19,3 +19,18 @@ as they interact with the application.</p>
 <p>The online tutorial can be accessed via the <a href="https://www.seab.gov.sg/home/examinations/e-exam-resources" rel="noopener nofollow" target="_blank">SEAB Website.</a>
 </p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>PSLE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 1 (S1) Posting Process</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
