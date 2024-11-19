@@ -9,6 +9,7 @@ third_nav_title: For Graduating P6 Students
 which takes place once the PSLE results are released.</p>
 <p>Learn about the process and how to prepare: <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting</a>
 </p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,20 +17,20 @@ which takes place once the PSLE results are released.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Find out more at the PSLE-Full SBB microsite</p>
+<p>Check out the following Full SBB resources to find out more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pslefsbb" rel="noopener nofollow" target="_blank">https://go.gov.sg/pslefsbb</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/pslefsbb" rel="noopener nofollow" target="_blank">Scroll through the PSLE-Full SBB microsite</a>
 </p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/my-fsbb-path" rel="noopener nofollow" target="_blank">See what your path could look like at the Full SBB Interactive Site</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -61,6 +62,23 @@ which takes place once the PSLE results are released.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/sec-sch-open-houses-2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec-sch-open-houses-2024</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visit 'What's Next' - A quick guide for decision-making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/whats-next-psle" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-psle</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
