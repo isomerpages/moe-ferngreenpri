@@ -45,11 +45,14 @@ more</p>
 <td rowspan="1" colspan="1">
 <p><strong>Explore the SchoolFinder</strong>
 </p>
-<p>Find schools that are near you and have CCAs and programmes you like.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/explore-schoolfinder" rel="noopener nofollow" target="_blank">https://go.gov.sg/explore-schoolfinder</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">Find schools that are near you and have CCAs and programmes you like</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -57,8 +60,12 @@ more</p>
 <p>Access the <strong>MySkillsFuture</strong> Student Portal</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://go.gov.sg/exploreschools" rel="noopener nofollow" target="_blank">https://go.gov.sg/exploreschools</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -68,17 +75,43 @@ more</p>
 <p>Secondary School Open Houses</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://go.gov.sg/sec-sch-open-houses-2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec-sch-open-houses-2024</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Visit 'What's Next' - A quick guide for decision-making</p>
+<p>Visit <strong>'What's Next'</strong> - A quick guide for decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://go.gov.sg/whats-next-psle" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-psle</a>
 </p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>How we show our support and discuss the next steps will shape our children
+experience and memories of this milestone</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/For Graduating P6 Students/Supporting_Our_Children_on_PSLE_Results_Day__Parent_Kit_.pdf" rel="noopener nofollow" target="_blank">Supporting Our Children on PSLE Results Day [Parent Kit]</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Graduating P6 Students/How_Can_Parents_Support_Their_Children_in_Their_Decision_Making.pdf" rel="noopener nofollow" target="_blank">How Can Parents Support Their Children in Their Decision-Making?</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
