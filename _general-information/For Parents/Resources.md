@@ -63,7 +63,8 @@ third_nav_title: For Parents
 require help and support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
+</p>
 </td>
 </tr>
 <tr>
