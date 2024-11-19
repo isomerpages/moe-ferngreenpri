@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Graduating P6 Students.md
       - Announcements.md
       - Media.md
       - Notifications/.keep
