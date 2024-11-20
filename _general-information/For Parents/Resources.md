@@ -59,6 +59,16 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>External Organisations / Helplines available for Students/Parents who
+require help and support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

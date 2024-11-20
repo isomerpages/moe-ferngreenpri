@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -67,6 +71,24 @@ third_nav_title: For Students
 <td rowspan="1" colspan="1">
 <p><a href="https://www.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.koobits.com/</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>External Organisations / Helplines available for Students/Parents who
+require help and support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
