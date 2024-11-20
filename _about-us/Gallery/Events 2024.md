@@ -24,6 +24,13 @@ third_nav_title: Gallery
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p>We value your feedback and would love to hear your thoughts about your
+experience. If you have a moment, please leave us a <a href="https://go.gov.sg/fgps-google-reviews" rel="noopener nofollow" target="_blank">google review</a> for Fern
+Green Primary School. Thank you for your time and support!</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2024-11-15</p>
 </td>
@@ -33,6 +40,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/DSC06417.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -45,6 +55,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/IMG_0112.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -57,6 +70,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/DSC04339.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -69,6 +85,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/20241007_110836___Copy.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -81,6 +100,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/DSC03588.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -93,6 +115,9 @@ third_nav_title: Gallery
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/2024/DSC03539.jpg">
+</div>
 </td>
 </tr>
 <tr>
