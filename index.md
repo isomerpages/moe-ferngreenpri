@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Calendar
           description: ""
-          url: /general-information/School-Calendar/
+          url: https://www.ferngreenpri.moe.edu.sg/general-information/School-Calendar/
         - title: For Parents
           description: ""
-          url: https://www.ferngreenpri.moe.edu.sg/general-information/forms/
+          url: https://www.ferngreenpri.moe.edu.sg/general-information/for-parents/resources/
         - title: For Students
-          description: Useful Links
-          url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/useful-links/
+          description: ""
+          url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infobar:
       title: Information for P1/2025 Parents
