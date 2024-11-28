@@ -4,8 +4,8 @@ permalink: /about-us/School-Core-Values/
 description: ""
 variant: tiptap
 ---
-<h4><strong>R3ICH</strong></h4>
-<p>Respect, Responsibility, Resilience, Integrity, Care, Harmony</p>
+<h4><strong>R<sup>3</sup>I<sup>2</sup>CH</strong></h4>
+<p>Respect, Responsibility, Resilience, Integrity, Innovation, Care, Harmony</p>
 <h3><strong>Respect</strong></h3>
 <p>Your child demonstrates respect when he believes in his own self-worth
 and the intrinsic worth of all people.</p>
@@ -20,6 +20,7 @@ resourcefulness.</p>
 <h3><strong>Integrity</strong></h3>
 <p>Your child is a person of integrity if he upholds ethical principles and
 has the moral courage to stand up for what is right.</p>
+<h3><strong>Innovation</strong></h3>
 <h3><strong>Care</strong></h3>
 <p>Your child is caring if he acts with kindness and compassion, and contributes
 to the betterment of the community and the world.</p>
