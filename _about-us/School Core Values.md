@@ -4,7 +4,7 @@ permalink: /about-us/School-Core-Values/
 description: ""
 variant: tiptap
 ---
-<h4><strong>R<sup>3</sup>I<sup>2</sup>CH</strong></h4>
+<h4><strong>RICH</strong></h4>
 <p>Respect, Responsibility, Resilience, Integrity, Innovation, Care, Harmony</p>
 <h3><strong>Respect</strong></h3>
 <p>Your child demonstrates respect when he believes in his own self-worth
