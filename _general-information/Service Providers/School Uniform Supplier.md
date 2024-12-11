@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Service Providers
 ---
-<h4>Shanghai Uniforms Pte Ltd</h4>
+<h4><strong>Shanghai Uniforms Pte Ltd</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
