@@ -45,14 +45,22 @@ on 30 August 2021.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Vice-Principals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr See Kok Kiong</p>
+<p>Miss Agnes Chow Chia Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018 to Present</p>
+<p>2024 to Present</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kylicia Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021 to Present</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +73,10 @@ on 30 August 2021.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kylicia Soo</p>
+<p>Mr See Kok Kiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021 to Present</p>
+<p>2018 to 2024</p>
 </td>
 </tr>
 <tr>
