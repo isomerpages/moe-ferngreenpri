@@ -116,6 +116,24 @@ eligibility at this website <a href="https://www.checkfirst.gov.sg/c/878a2114-fc
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Death Claim Form</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Forms/IFMIS_Death_Claim_Sep_2022.pdf" rel="noopener nofollow" target="_blank">Death Claim Form (Income Family MicroInsurance Scheme)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Forms/FAQ_for_IFMISS.pdf" rel="noopener nofollow" target="_blank">FAQ for Income Family Micro-Insurance and Savings Scheme (IFMISS)</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

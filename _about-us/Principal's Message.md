@@ -4,4 +4,124 @@ permalink: /about-us/Principal-Message/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/Ms%20Kong%20Yee%20Loon.png"></div><p>At Fern Green, we believe that education is not just about acquiring knowledge but also about helping our students discover their inner aspirations and nurturing them. Our school vision ‘Reflective Inquirers, Aspiring Advocates, Steadfast Leaders’ encapsulates the essence of what we hope all our Fern Green students will be.</p><p><strong>Reflective Inquirers:</strong> As reflective inquirers, students are encouraged to engage in thoughtful and careful consideration of their thoughts, actions and experiences and the world around them. They should ask questions, seek answers, and explore. They are guided to learn from experiences and seek improvements.&nbsp; Many of our students’ aspirations may begin as questions, and it is through their curiosity and reflection that they will embark on their unique paths to discover their aspirations.</p><p><strong>Aspiring Advocates: </strong>The term "advocate" implies taking a stand, speaking up for what one believes in, and striving to make the world a better place. We believe every Fern Green student has the potential to be an advocate for positive changes. &nbsp;Their aspirations may revolve around making a positive difference in their schoolmates’ lives and even society. &nbsp;Our role is to equip them with the character, mindset, knowledge, skills and courage to pursue those noble aspirations.</p><p><strong>Steadfast Leaders: </strong>Leadership is not about a title; it is about actions and influence. We call upon our students to become steadfast leaders – to be upstanding individuals who role model the way, inspire others, and effect positive changes.</p><p>Some of our students already have clear dreams and aspirations, while others may be unsure, and we tell them that it is fine.&nbsp; Their aspirations are like seeds planted in their hearts. It is okay if they have not fully sprouted yet but they will with time and care.</p><p>Fern Green seeks to work hand in hand with our students’ families, our partners and key stakeholders like our Parent Support Group and School Advisory Committee to provide the nurturing environment in our students’ journey of self-discovery.&nbsp; The journey of self-discovery and growth will enable our students to have greater understanding of their strengths, unique talents and interests for them to achieve their aspirations.</p><p>On behalf of my colleagues in Fern Green, we would like to express our deepest appreciation to our parents and partners for your strong support and we wish everyone a wonderful year ahead.</p><p>Warm Regards,</p><p>Ms Kong Yee Loon</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/Ms%20Kong%20Yee%20Loon.png">
+</div>
+<p><strong>Re-envisioning Our Future Together</strong>
+</p>
+<p>As Fern Green Primary School celebrates its 7th year in 2024, we take
+this opportunity to reflect on our journey, marked by the graduation of
+two cohorts of students, and to chart a refreshed direction for the years
+ahead. &nbsp;This initiative was informed by an in-depth analysis of educational
+trends, emerging national imperatives, and the evolving complexities of
+the world of work and society. Through surveys, discussions, and staff
+retreats, we gathered invaluable perspectives from FGians, staff, parents,
+and partners, ensuring that our refreshed vision, mission, and values reflect
+our shared aspirations.</p>
+<p><strong>Our New Fern Green Vision, Mission, and Values</strong>
+</p>
+<p>After much thought and deliberation, we are proud to present Fern Green’s
+refreshed vision, mission, and values:</p>
+<p><strong>Vision:</strong>  <em>Joyful Learners, Caring Leaders, Resilient Innovators.</em>
+</p>
+<p><strong>Mission:</strong>  <em>To nurture caring, innovative, and resilient lifelong learners who contribute as future leaders of the nation.</em>
+</p>
+<p><strong>Core Values (RICH):</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Respect</p>
+</li>
+<li>
+<p>Responsibility</p>
+</li>
+<li>
+<p>Resilience</p>
+</li>
+<li>
+<p>Integrity</p>
+</li>
+<li>
+<p>Innovation <em>(new)</em>
+</p>
+</li>
+<li>
+<p>Care</p>
+</li>
+<li>
+<p>Harmony</p>
+</li>
+</ul>
+<p>Our new vision encapsulates our aspiration to create a joyful, inclusive,
+and forward-looking school environment.&nbsp; Our mission underscores our
+commitment to developing FGians who thrive in an ever-changing world.</p>
+<p><strong>Unpacking Our Vision</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Joyful Learners</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>At the individual level</em>: We aim to inspire curiosity and a love
+for learning in both our students and staff. When learning is enjoyable
+and meaningful, it motivates individuals to embrace lifelong learning.</p>
+</li>
+<li>
+<p><em>At the school system level</em>: Fern Green will continue to provide
+a nurturing, vibrant, and inclusive approach to education, aligned with
+MOE’s "Thinking Schools, Learning Nation" vision. This ensures that our
+practices support the national imperative of fostering lifelong learning.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Caring Leaders</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>At the individual level</em>: Students and staff demonstrate strong
+character and are committed to caring for, empathizing with, serving, and
+leading others.</p>
+</li>
+<li>
+<p><em>At the school system level</em>: We will strengthen our total curriculum
+to enable students to be future-ready, equipping them with the competencies
+to contribute as future leaders of the nation.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Resilient Innovators</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>At the individual level</em>: Students and staff display a growth
+mindset, adapt to adversity, and approach problems with creativity, perseverance,
+and positivity.</p>
+</li>
+<li>
+<p><em>At the school system level</em>: Fern Green promotes a culture of
+innovation and resilience that is forward-looking, drives continuous improvement,
+and responds effectively to the evolving needs of students and society.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p><strong>Looking Ahead</strong>
+</p>
+<p>The unveiling of our new vision, mission, and values is just the beginning.
+We are committed to embedding these principles into every aspect of school
+life—from teaching and learning practices to co-curricular activities and
+partnerships with families, our partners and the wider community.</p>
+<p>I invite all of you to join us in making this vision a reality. Together,
+we will ensure that Fern Green (Fern Green Primary School and MK@Fern Green
+and) remains a place where every learner experiences joy, care, and opportunities
+to innovate and grow.</p>
+<p>Thank you for your unwavering support and partnership as we embark on
+this exciting new chapter. Let us work hand in hand to create a brighter
+future for our students and community.</p>
+<p>Warm regards,</p>
+<p>Ms Kong Yee Loon</p>
+<p>Principal
+<br>Fern Green Primary School and MK@Fern Green</p>

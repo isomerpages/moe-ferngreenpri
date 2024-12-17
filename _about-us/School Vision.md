@@ -4,20 +4,60 @@ permalink: /about-us/School-Vision/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Reflective Inquirers,</strong></h4>
-<h4><strong>Aspiring Advocates,</strong></h4>
-<h4><strong>Steadfast Leaders</strong></h4>
-<p>“Ferns have existed since the prehistoric age.&nbsp;Having survived over
-360-million years of evolution, they are still among the most beautiful
-and resilient foliage plants. They are thought to be largely specialists
-in marginal habitats, often succeeding in places where various environmental
-factors limit the success of flowering plants.&nbsp;The unusual spawning
-methods of ferns hint at their resilience.&nbsp;One of the reasons ferns
-are so successful and occupy such diverse regions of the globe is their
-ability to reproduce in multiple ways. Ferns are remarkably adaptable.”</p>
-<p>It is in similar light that we at Fern Green aspire for our children to
-grow up to be as resilient as ferns, live life like a marathon rather than
-a sprint, develop the passion for giving and perseverance for long-term
-goals, pick themselves up every time they fall, and to have the courage
-to explore and see failures as opportunities for learning to be a better
-version of their former selves</p>
+<h4><strong>Joyful Leaders,</strong></h4>
+<h4><strong>Caring Leaders,</strong></h4>
+<h4><strong>Resilient Innovators</strong></h4>
+<hr>
+<h4><strong>Unpacking Our Vision</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Joyful Learners</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>At the individual level</em>: We aim to inspire curiosity and a love
+for learning in both our students and staff. When learning is enjoyable
+and meaningful, it motivates individuals to embrace lifelong learning.</p>
+</li>
+<li>
+<p><em>At the school system level</em>: Fern Green will continue to provide
+a nurturing, vibrant, and inclusive approach to education, aligned with
+MOE’s "Thinking Schools, Learning Nation" vision. This ensures that our
+practices support the national imperative of fostering lifelong learning.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Caring Leaders</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>At the individual level</em>: Students and staff demonstrate strong
+character and are committed to caring for, empathizing with, serving, and
+leading others.</p>
+</li>
+<li>
+<p><em>At the school system level</em>: We will strengthen our total curriculum
+to enable students to be future-ready, equipping them with the competencies
+to contribute as future leaders of the nation.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Resilient Innovators</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>At the individual level</em>: Students and staff display a growth
+mindset, adapt to adversity, and approach problems with creativity, perseverance,
+and positivity.</p>
+</li>
+<li>
+<p><em>At the school system level</em>: Fern Green promotes a culture of
+innovation and resilience that is forward-looking, drives continuous improvement,
+and responds effectively to the evolving needs of students and society.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p></p>
