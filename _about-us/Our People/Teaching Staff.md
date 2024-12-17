@@ -542,10 +542,10 @@ variant: tiptap
 <p>3 Harmony (3H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Kirubaashini d/o Kanesan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kirubaashini_kanesan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
