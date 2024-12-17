@@ -606,21 +606,10 @@ variant: tiptap
 <p>4 Respect (4R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Choo Xuewei Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Responsibility (4R2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>choo_xuewei_stephanie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -628,10 +617,21 @@ variant: tiptap
 <p>4 Responsibility (4R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Hui Li (Mrs Lee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_hui_li@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility (4R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ong Bee Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_bee_hua@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -639,10 +639,10 @@ variant: tiptap
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Sharon Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_su_yin_sharon</p>
 </td>
 </tr>
 <tr>
@@ -650,10 +650,10 @@ variant: tiptap
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ang -Tan Sok Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_sok_kiang_a</p>
 </td>
 </tr>
 <tr>
@@ -661,10 +661,10 @@ variant: tiptap
 <p>4 Integrity (4I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Chua Poh Khim (Deanna)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_poh_khim</p>
 </td>
 </tr>
 <tr>
@@ -683,10 +683,10 @@ variant: tiptap
 <p>4 Care (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koo Yuet Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koo_yuet_hong</p>
 </td>
 </tr>
 <tr>
@@ -694,21 +694,10 @@ variant: tiptap
 <p>4 Care (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lim Lihui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Harmony (4H)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>lim_lihui</p>
 </td>
 </tr>
 <tr>
@@ -716,10 +705,21 @@ variant: tiptap
 <p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Heng Peck Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>heng_peck_hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Harmony (4H)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aidah Binte Hosni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aidah_hosni</p>
 </td>
 </tr>
 <tr>
@@ -727,10 +727,10 @@ variant: tiptap
 <p>4 Discipline (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tang Hui Ying (Sandra)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tang_hui_ying</p>
 </td>
 </tr>
 <tr>
@@ -738,10 +738,10 @@ variant: tiptap
 <p>4 Discipline (4D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Izree Bin Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>muhammad_izree_jalil</p>
 </td>
 </tr>
 <tr>
