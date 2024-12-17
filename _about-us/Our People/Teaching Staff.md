@@ -26,178 +26,178 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect (1R1)</p>
+<p>1 Respect (1R1)/Black</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yew Lea Lea Lily</p>
+<p>Mdm Freda Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yew_lea_lea_lily@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Respect (1R1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ashlie Gwee Chin En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ashlie_gwee_chin_en@moe.edu.sg</p>
+<p>freda_paul@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Responsibility (1R2)</p>
+<p>1 Respect (1R1)/Black</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nuha Binte Ahmad Basharahil</p>
+<p>Ms Chen Pei Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nuha_ahmad_basharahil@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Responsibility (1R2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Siew Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_siew_hoon@moe.edu.sg</p>
+<p>chen_peijin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience (1R3)</p>
+<p>1 Responsibility (1R2)/Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Atiqah Binte Sheik Mohsen</p>
+<p>Mrs Maggie Yune</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_atiqah_sheik_mohsen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Resilience (1R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Di Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_di_jie@moe.edu.sg</p>
+<p>wong_mei_qi_maggie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity (1I)</p>
+<p>1 Responsibility (1R2)/Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Li Ying, Clarice</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_li_ying_clarice@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Integrity (1I)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Tay-Tan Jia Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_jia_li@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care (1C)</p>
+<p>1 Resilience (1R3)/Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maheswari D/O Rajaratanam</p>
+<p>Ms Tay Wei Hsuan Rena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>maheswari_mohanavelu@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Care (1C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alfred Kriswano Sutjiadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>alfred_kriswano_sutjiadi@moe.edu.sg</p>
+<p>rena_tay_wei_hsuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Harmony (1H)</p>
+<p>1 Resilience (1R3)/Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suzana Mohamed Gasaly</p>
+<p>Miss Nadya Farah Binte Zaidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suzana_mohamed_gasaly@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Harmony (1H)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Soo Liam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_soo_liam@moe.edu.sg</p>
+<p>nadya_farah_zaidi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Discipline (1D)</p>
+<p>1 Integrity (1I)/Orange</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Wei Ting</p>
+<p>Miss Wong Su-Rin Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_wei_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Discipline (1D)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Khoo Seok Ling Serene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Khoo_Seok_Ling@moe.edu.sg</p>
+<p>wong_su-rin_daphne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Motivation (1M)</p>
+<p>1 Integrity (1I)/Orange</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Gan Jumi</p>
+<p>Ms Vanessa Cheng Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gan_jumi@moe.edu.sg</p>
+<p>vanessa_cheng_wan_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Motivation (1M)</p>
+<p>1 Care (1C)/Pink</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Buvaneswary d/o Rengasamy</p>
+<p>MIss Huang Wanyi Hazel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_wanyi_hazel@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Care (1C)/Pink</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Punitha d/o Murugaiah Maniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>punitha_murugaiah_maniam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Harmony (1H)/Purple</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Li Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_li_lian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Harmony (1H)/Purple</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chua Pei Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>low_pei_yee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Discipline (1D)/Red</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Normah Binte Arshad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>normah_arshad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Discipline (1D)/Red</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tee Bee Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Motivation (1M)/Yellow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Buvaneswary Rengasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>buvaneswary_rengasamy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Motivation (1M)/Yellow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng-Zhao Xiang Keith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_zhao-xiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -302,10 +302,10 @@ variant: tiptap
 <p>2 Care (2C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Freda Paul</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>freda_paul@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -313,10 +313,10 @@ variant: tiptap
 <p>2 Care (2C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Pei Jin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_peijin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -628,10 +628,10 @@ variant: tiptap
 <p>4 Responsibility (4R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maggie Yune</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_mei_qi_maggie@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
