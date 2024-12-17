@@ -36,7 +36,7 @@ third_nav_title: Our People
 <p>Vice-Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr See Kok Kiong</p>
+<p>Miss Agnes Chow</p>
 </td>
 </tr>
 <tr>
@@ -108,13 +108,35 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Goh Ming Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_ming_sze@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Joe Han Camillus</p>
+<p>Mr Ng Zhao-Xiang Keith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peh_joe_han_camillus@moe.edu.sg</p>
+<p>ng_zhao-xiang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD SM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Wei Hsuan Rena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rena_tay_wei_hsuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -317,13 +339,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH SWB</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Riza Bin Baharudin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_riza_b_baharudin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
