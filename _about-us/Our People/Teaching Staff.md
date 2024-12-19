@@ -1002,7 +1002,7 @@ variant: tiptap
 <p>Ms Nur Yuhanis Binte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_yuhanis_yusof@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1013,7 +1013,7 @@ variant: tiptap
 <p>Ms Chen Sujing (Mrs Natalie Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_sujing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1024,7 +1024,7 @@ variant: tiptap
 <p>Mr Tan Zhi Qiang Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_zhi_qiang_jeremy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1035,7 +1035,7 @@ variant: tiptap
 <p>Miss Goh Ming Sze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_ming_sze@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1046,7 +1046,7 @@ variant: tiptap
 <p>Miss Ma Shuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ma_shuang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1057,7 +1057,7 @@ variant: tiptap
 <p>Mdm Tan Wan Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_wan_theng@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1068,7 +1068,7 @@ variant: tiptap
 <p>Miss Sakinah Binte Mohamed Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sakinah_mohamed_mohse@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1079,7 +1079,7 @@ variant: tiptap
 <p>Ms Oh Siew Lian Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>oh_siew_lian_cindy@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1090,7 +1090,7 @@ variant: tiptap
 <p>Ms Durrah Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>durrah_ahmad@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1101,7 +1101,7 @@ variant: tiptap
 <p>Miss Liang Wileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liang_wileen@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1112,7 +1112,7 @@ variant: tiptap
 <p>Ms Ang Sing Min Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_sing_min_serene@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1123,7 +1123,7 @@ variant: tiptap
 <p>Ms Mastura Bte Samsuddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mastura_samsuddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1134,7 +1134,7 @@ variant: tiptap
 <p>Mr Pang Biao Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pang_biao_bin@moe.du.sg</p>
 </td>
 </tr>
 <tr>
@@ -1158,6 +1158,17 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MA &amp; SCI</p>
