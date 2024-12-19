@@ -62,7 +62,7 @@ variant: tiptap
 <p>1 Responsibility (1R2)/Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Amirah Binte Mohamad Razif Helmy</p>
+<p>Miss Amirah Batrisyia Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>1 Discipline (1D)/Red</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Normah Binte Arshad</p>
+<p>Mrs Khairul (Ms Normah Binte Arshad)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>normah_arshad@moe.edu.sg</p>
@@ -465,10 +465,10 @@ variant: tiptap
 <p>3 Responsibility (3R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Ng Peck Mui (Cheryl)</p>
+<p>Mdm Kanagarai Rajalakshmi Rajitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_peck_mui@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
