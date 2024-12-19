@@ -188,10 +188,10 @@ third_nav_title: Our People
 <p>YH UP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Lee-Ng Peck Mui</p>
+<p>Mr Mohamed Ridza B Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_peck_mui@moe.edu.sg</p>
+<p>mohamed_ridza_b_hashim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -210,10 +210,10 @@ third_nav_title: Our People
 <p>YH MP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ridza B Hashim</p>
+<p>Mrs Cheryl Lee-Ng Peck Mui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_ridza_b_hashim@moe.edu.sg</p>
+<p>ng_peck_mui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -306,17 +306,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Tay-Tan Jia Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_jia_li@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH CL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,6 +324,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>fauziah_osman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Biao Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_biao_bin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -488,17 +488,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>celine_celestine_goh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST MU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Pang Biao Bin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pang_biao_bin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
