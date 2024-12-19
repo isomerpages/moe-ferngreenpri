@@ -1155,29 +1155,18 @@ variant: tiptap
 <p>Ms Yeo Hwee Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yeo_hwee_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Farah Adzlin Kasmany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>farah_adzlin_kasmany@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1218,39 +1207,6 @@ variant: tiptap
 <p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Adzlin Kasmany</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>farah_adzlin_kasmany@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Siew Choo Cynthia (Mrs Swee)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_siew_choo_cynthia_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Yee Elizabeth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_siew_yee_elizabeth@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Eleanor Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1277,17 +1233,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>peh_peck_hoon_wendy_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tricia Wee Gwek Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wee_Gwek_Hiang_Tricia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1350,32 +1295,10 @@ variant: tiptap
 <p>MA &amp; SCI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Si Yu, Amelia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_si_yu_amelia@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SCI</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Danamalar Kanagasabai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Danamalar_Kanagasabai@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hilary Nerva</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hilary_eric_nerva_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1394,17 +1317,6 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Hwee Ming (Angeline)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_hwee_ming_angeline@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Yao Xiaofeng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1413,35 +1325,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ML</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suriani binte Sokran</p>
+<p>Mr Muhammad Sadik Bin Jamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suriani_sokran@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ramiah Sarosi (Mrs Victor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ramiah_sarosi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lai Hui Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lai_hui_ming@moe.edu.sg</p>
+<p>muhammad_sadik_jamil_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1453,6 +1343,50 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mahalakshumi_g_gopidoss@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tew Beng Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yee Siew Mei Emily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suhaila Binte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
