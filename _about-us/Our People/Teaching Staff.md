@@ -473,6 +473,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Responsibility (3R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheryl Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_peck_mui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Resilience (3R3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -509,7 +520,7 @@ variant: tiptap
 <p>3 Integrity (3I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ma Swe Zin May Phyo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -553,7 +564,7 @@ variant: tiptap
 <p>3 Harmony (3H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zubaidah Bte Zainal Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -672,7 +683,8 @@ variant: tiptap
 <p>4 Integrity (4I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Siti Amirah Binte Mohamad Razif</p>
+<p>Helmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
