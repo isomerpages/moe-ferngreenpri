@@ -479,7 +479,7 @@ variant: tiptap
 <p>Mdm Kanagarai Rajalakshmi Rajitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kanagaraj_rajalakshmi_rajitha@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
