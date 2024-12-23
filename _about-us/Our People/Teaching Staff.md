@@ -1386,7 +1386,7 @@ variant: tiptap
 <p>Ms Yee Siew Mei Emily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yee_siew_mei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
