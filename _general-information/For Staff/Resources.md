@@ -60,7 +60,7 @@ third_nav_title: For Staff
 <p>SSOE2 Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://ssoe2.moe.edu.sg</a>
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://ssoe2.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
