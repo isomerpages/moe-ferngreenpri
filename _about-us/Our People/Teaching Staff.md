@@ -349,7 +349,7 @@ variant: tiptap
 <p>Mdm Caroline Shantha Rajesh Piraseeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>caroline_shantha@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
