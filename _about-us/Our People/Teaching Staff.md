@@ -117,7 +117,7 @@ variant: tiptap
 <p>1 Care (1C)/Pink</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIss Huang Wanyi Hazel</p>
+<p>Miss Huang Wanyi Hazel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>huang_wanyi_hazel@moe.edu.sg</p>
