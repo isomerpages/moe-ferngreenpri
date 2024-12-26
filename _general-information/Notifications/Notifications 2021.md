@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notifications
 variant: tiptap
 ---
-<h3>Weekly Parents Notifications 2021</h3>
+<h3><strong>Weekly Parents Notifications 2021</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -122,10 +122,101 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T3W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notifications/2021/T3W10%20Parents%20Notification%20(1%20Sep%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">1 Sep 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W9%20Parents%20Notification%20(25%20AUG%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">25 Aug 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W8%20Parents%20Notification%20(18%20AUG%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">18 Aug 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W7%20Parents%20Notification%20(11Aug2021).pdf" rel="noopener noreferrer nofollow" target="_blank">11 Aug 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W6%20Parents%20Notification%20(4%20AUG%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">4 Aug 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W5%20Parents%20Notification%20(28%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">28 Jul 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W4%20Parents%20Notification%20(21%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">21 Jul 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W3%20Parents%20Notification%20(14%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">14 Jul 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W2%20Parents%20Notification%20(7%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">7 Jul 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W1 (Part 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W1%20Parents%20Notification%20(Part%202).pdf" rel="noopener noreferrer nofollow" target="_blank">30 Jun 2021</a> (<strong>Attachment</strong>:
+<a href="/files/Notifications/2021/Phase3HA%20Resumption%20of%20Services_Merged%20Letter%20to%20Primary%20School%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB Letter</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3W1 (Part 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T3W1%20Parents%20Notification%20(Part%201).pdf" rel="noopener noreferrer nofollow" target="_blank">24 Jun 2021</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -146,28 +237,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>T3W10: <a href="/files/Notifications/2021/T3W10%20Parents%20Notification%20(1%20Sep%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">1 Sep</a>
-</p>
-<p>T3W9: <a href="/files/Notifications/2021/T3W9%20Parents%20Notification%20(25%20AUG%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">25 Aug</a>
-</p>
-<p>T3W8: <a href="/files/Notifications/2021/T3W8%20Parents%20Notification%20(18%20AUG%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">18 Aug</a>
-</p>
-<p>T3W7: <a href="/files/Notifications/2021/T3W7%20Parents%20Notification%20(11Aug2021).pdf" rel="noopener noreferrer nofollow" target="_blank">11 Aug</a>
-</p>
-<p>T3W6: <a href="/files/Notifications/2021/T3W6%20Parents%20Notification%20(4%20AUG%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">4 Aug</a>
-</p>
-<p>T3W5: <a href="/files/Notifications/2021/T3W5%20Parents%20Notification%20(28%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">28 Jul</a>
-</p>
-<p>T3W4: <a href="/files/Notifications/2021/T3W4%20Parents%20Notification%20(21%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">21 Jul</a>
-</p>
-<p>T3W3: <a href="/files/Notifications/2021/T3W3%20Parents%20Notification%20(14%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">14 Jul</a>
-</p>
-<p>T3W2: <a href="/files/Notifications/2021/T3W2%20Parents%20Notification%20(7%20Jul%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">7 Jul</a>
-</p>
-<p>T3W1 (Part 2): <a href="/files/Notifications/2021/T3W1%20Parents%20Notification%20(Part%202).pdf" rel="noopener noreferrer nofollow" target="_blank">30 Jun</a> (<strong>Attachment</strong>:
-<a href="/files/Notifications/2021/Phase3HA%20Resumption%20of%20Services_Merged%20Letter%20to%20Primary%20School%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB Letter</a>)</p>
-<p>T3W1 (Part 1): <a href="/files/Notifications/2021/T3W1%20Parents%20Notification%20(Part%201).pdf" rel="noopener noreferrer nofollow" target="_blank">24 Jun</a>
-</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>T2W10: <a href="/files/Notifications/2021/T2W10%20Parents%20Notification%20(25%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">25 May</a>
