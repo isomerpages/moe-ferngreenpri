@@ -221,10 +221,183 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T2W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notifications/2021/T2W10%20Parents%20Notification%20(25%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">25 May 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W9%20Parents%20Notification%20(19%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">19 May 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W8%20Parents%20Notification%20(12%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">12 May 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W7%20Parents%20Notification%20(5%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">5 May 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W6%20Parents%20Notification%20(28%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">28 Apr 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W5%20Parents%20Notification%20(21%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">21 Apr 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W4%20Parents%20notification%20(14%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">14 Apr 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W3%20Parents%20notification%20(7%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">7 Apr 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W2%20Parents%20notification%20(31%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">31 Mar 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T2W1%20Parents%20notification%20(24%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">24 Mar 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W10%20Parents%20notification%20(10%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">10 Mar 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W9%20Parents%20Notification%20(3%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">3 Mar 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W8%20Parents%20Notification%20(24%20Feb%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">24 Feb 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W7%20Parents%20Notification%20(17%20Feb%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">17 Feb 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W6%20Parents%20Notification%20(10%20Feb%202021)_version%202.pdf" rel="noopener noreferrer nofollow" target="_blank">10 Feb 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W5%20Parents%20Notification%20(3%20Feb%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">3 Feb 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W4%20Parents%20Notification%20(27%20Jan%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">27 Jan 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W3%20Parents%20Notification%20(20%20Jan%202021)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">20 Jan 2021</a> (<strong>Attachment</strong>:
+<a href="/files/Notifications/2021/L2%20Seminar%20Infographic%20-%20Run%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P Level 2 Seminars</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W2%20Parents%20Notification%20(13%20JAN%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">13 Jan 2021</a>,
+<a href="/files/Notifications/2021/T1W2%20Parents%20Notification%20(14%20JAN%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">14 Jan 2021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T1W1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2021/T1W1%20Parents%20Notification%20(6%20JAN%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">6 Jan 2021</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -237,88 +410,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>T2W10: <a href="/files/Notifications/2021/T2W10%20Parents%20Notification%20(25%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">25 May</a>
-</p>
-</li>
-<li>
-<p>T2W9: <a href="/files/Notifications/2021/T2W9%20Parents%20Notification%20(19%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">19 May</a>
-</p>
-</li>
-<li>
-<p>T2W8: <a href="/files/Notifications/2021/T2W8%20Parents%20Notification%20(12%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">12 May</a>
-</p>
-</li>
-<li>
-<p>T2W7: <a href="/files/Notifications/2021/T2W7%20Parents%20Notification%20(5%20May%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">5 May</a>
-</p>
-</li>
-<li>
-<p>T2W6: <a href="/files/Notifications/2021/T2W6%20Parents%20Notification%20(28%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">28 Apr</a>
-</p>
-</li>
-<li>
-<p>T2W5: <a href="/files/Notifications/2021/T2W5%20Parents%20Notification%20(21%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">21 Apr</a>
-</p>
-</li>
-<li>
-<p>T2W4: <a href="/files/Notifications/2021/T2W4%20Parents%20notification%20(14%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">14 Apr</a>
-</p>
-</li>
-<li>
-<p>T2W3: <a href="/files/Notifications/2021/T2W3%20Parents%20notification%20(7%20Apr%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">7 Apr</a>
-</p>
-</li>
-<li>
-<p>T2W2: <a href="/files/Notifications/2021/T2W2%20Parents%20notification%20(31%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">31 Mar</a>
-</p>
-</li>
-<li>
-<p>T2W1: <a href="/files/Notifications/2021/T2W1%20Parents%20notification%20(24%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">24 Mar</a>
-</p>
-</li>
-<li>
-<p>T1W10: <a href="/files/Notifications/2021/T1W10%20Parents%20notification%20(10%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">10 Mar</a>
-</p>
-</li>
-<li>
-<p>T1W9: <a href="/files/Notifications/2021/T1W9%20Parents%20Notification%20(3%20Mar%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">3 Mar</a>
-</p>
-</li>
-<li>
-<p>T1W8: <a href="/files/Notifications/2021/T1W8%20Parents%20Notification%20(24%20Feb%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">24 Feb</a>
-</p>
-</li>
-<li>
-<p>T1W7: <a href="/files/Notifications/2021/T1W7%20Parents%20Notification%20(17%20Feb%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">17 Feb</a>
-</p>
-</li>
-<li>
-<p>T1W6: <a href="/files/Notifications/2021/T1W6%20Parents%20Notification%20(10%20Feb%202021)_version%202.pdf" rel="noopener noreferrer nofollow" target="_blank">10 Feb</a>
-</p>
-</li>
-<li>
-<p>T1W5: <a href="/files/Notifications/2021/T1W5%20Parents%20Notification%20(3%20Feb%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">3 Feb</a>
-</p>
-</li>
-<li>
-<p>T1W4: <a href="/files/Notifications/2021/T1W4%20Parents%20Notification%20(27%20Jan%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">27 Jan</a>
-</p>
-</li>
-<li>
-<p>T1W3: <a href="/files/Notifications/2021/T1W3%20Parents%20Notification%20(20%20Jan%202021)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">20 Jan</a> (<strong>Attachment</strong>:
-<a href="/files/Notifications/2021/L2%20Seminar%20Infographic%20-%20Run%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P Level 2 Seminars</a>)</p>
-</li>
-<li>
-<p>T1W2: <a href="/files/Notifications/2021/T1W2%20Parents%20Notification%20(13%20JAN%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">13 Jan</a> 
-<a href="/files/Notifications/2021/T1W2%20Parents%20Notification%20(14%20JAN%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">14 Jan</a>
-</p>
-</li>
-<li>
-<p>T1W1: <a href="/files/Notifications/2021/T1W1%20Parents%20Notification%20(6%20JAN%202021).pdf" rel="noopener noreferrer nofollow" target="_blank">6 Jan</a>
-</p>
-</li>
-</ul>
 <p></p>
