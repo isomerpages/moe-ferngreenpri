@@ -484,6 +484,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Responsibility (3R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheryl Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_peck_mui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Resilience (3R3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1106,6 +1117,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Harmony (6H)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Hwee Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_hwee_hwee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 Discipline (6D)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1156,28 +1178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Cheryl Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_peck_mui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Hwee Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo_hwee_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
