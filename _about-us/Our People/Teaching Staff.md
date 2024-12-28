@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Responsibility (1R2)/Green</p>
+<p>1 Responsibility (1R2)/Blue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Maggie Yune</p>
@@ -59,13 +59,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Responsibility (1R2)/Green</p>
+<p>1 Responsibility (1R2)/Blue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Amirah Batrisyia Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>amirah_batrisyia_osman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
