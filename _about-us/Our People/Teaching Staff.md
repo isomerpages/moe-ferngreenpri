@@ -1145,7 +1145,7 @@ variant: tiptap
 <p>Mr Pang Biao Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pang_biao_bin@moe.du.sg</p>
+<p>pang_biao_bin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
