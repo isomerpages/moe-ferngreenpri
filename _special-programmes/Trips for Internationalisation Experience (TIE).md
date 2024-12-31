@@ -33,5 +33,11 @@ to Singapore.</p>
 <h4>Wuxi/Shanghai, China</h4>
 <p>School: <strong>Wuxi Jinqiao Bilingual Experimental School</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE/IMG_20240906_WA0005.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TIE/IMG_20240904_WA0028.jpg">
+</div>
 <p></p>
