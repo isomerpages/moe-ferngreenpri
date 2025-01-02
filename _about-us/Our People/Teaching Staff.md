@@ -95,7 +95,7 @@ variant: tiptap
 <p>1 Orange</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Su-Rin Daphne</p>
+<p>Ms Wong Su-Rin Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_su-rin_daphne@moe.edu.sg</p>
@@ -1057,7 +1057,7 @@ variant: tiptap
 <p>Mdm Tan Wan Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_wan_theng@moe.du.sg</p>
+<p>tan_wan_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1068,7 +1068,7 @@ variant: tiptap
 <p>Miss Sakinah Binte Mohamed Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sakinah_mohamed_mohse@moe.du.sg</p>
+<p>sakinah_mohamed_mohse@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1079,7 +1079,7 @@ variant: tiptap
 <p>Ms Oh Siew Lian Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>oh_siew_lian_cindy@moe.du.sg</p>
+<p>oh_siew_lian_cindy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1090,7 +1090,7 @@ variant: tiptap
 <p>Ms Durrah Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>durrah_ahmad@moe.du.sg</p>
+<p>durrah_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1101,7 +1101,7 @@ variant: tiptap
 <p>Miss Liang Wileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liang_wileen@moe.du.sg</p>
+<p>liang_wileen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1112,7 +1112,7 @@ variant: tiptap
 <p>Ms Ang Sing Min Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_sing_min_serene@moe.du.sg</p>
+<p>ang_sing_min_serene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1145,7 +1145,7 @@ variant: tiptap
 <p>Mr Pang Biao Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pang_biao_bin@moe.du.sg</p>
+<p>pang_biao_bin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1375,7 +1375,7 @@ variant: tiptap
 <p>Mr Tew Beng Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tew_beng_siong_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
