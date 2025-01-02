@@ -95,7 +95,7 @@ variant: tiptap
 <p>1 Orange</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Su-Rin Daphne</p>
+<p>Ms Wong Su-Rin Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_su-rin_daphne@moe.edu.sg</p>
