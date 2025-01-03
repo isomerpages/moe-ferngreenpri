@@ -429,7 +429,7 @@ third_nav_title: Our People
 <p>LT MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Tham</p>
+<p>Ms Agnes Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_sok_theng@moe.edu.sg</p>
