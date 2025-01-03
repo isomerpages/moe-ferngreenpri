@@ -825,7 +825,7 @@ variant: tiptap
 <p>5 Responsibility (5R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tham Sok Theng (Agnes)</p>
+<p>Ms Agnes Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_sok_theng@moe.edu.sg</p>
