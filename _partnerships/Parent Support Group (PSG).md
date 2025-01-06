@@ -44,8 +44,7 @@ more information.</p>
 </li>
 <li>
 <p>Play an active part in recruiting and leading other parents to participate
-in the meaningful mission&nbsp; to ensure sustainability of home-school
-partnership&nbsp;</p>
+in the meaningful mission to ensure sustainability of home-school partnership&nbsp;</p>
 </li>
 <li>
 <p>Act as a channel of communication on issues and concerns&nbsp;</p>
