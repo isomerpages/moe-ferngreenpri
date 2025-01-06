@@ -32,6 +32,8 @@ effort in advancing the well-being of our students, teachers, staff and
 community.</p>
 <p>Our school recognizes the importance of a strong school-parent partnership
 in enhancing the development and learning of our children.&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+</p>
 <p><strong>Our school anticipates our members of Parent Support Group to:</strong>&nbsp;</p>
 <ul>
 <li>
