@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery
 ---
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -44,4 +43,5 @@ Green Primary School. Thank you for your time and support!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
