@@ -31,7 +31,9 @@ that will enhance the holistic school experience of students and the school’s
 effort in advancing the well-being of our students, teachers, staff and
 community.</p>
 <p>Our school recognizes the importance of a strong school-parent partnership
-in enhancing the development and learning of our children.&nbsp;</p>
+in enhancing the development and learning of our children.&nbsp;Please
+refer to <a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">link </a>for
+more information.</p>
 <p><strong>Our school anticipates our members of Parent Support Group to:</strong>&nbsp;</p>
 <ul>
 <li>
@@ -42,8 +44,7 @@ in enhancing the development and learning of our children.&nbsp;</p>
 </li>
 <li>
 <p>Play an active part in recruiting and leading other parents to participate
-in the meaningful mission&nbsp; to ensure sustainability of home-school
-partnership&nbsp;</p>
+in the meaningful mission to ensure sustainability of home-school partnership&nbsp;</p>
 </li>
 <li>
 <p>Act as a channel of communication on issues and concerns&nbsp;</p>
@@ -92,7 +93,7 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T9zKbfFydeU?si=Fc_L42DoDGDJSawb"></iframe>
 </div>
 <p>Click the link or scan the QR code to join!</p>
-<p>Link: <a href="https://go.gov.sg/02n0od" rel="noopener noreferrer nofollow" target="_blank">PSG 2024</a>
+<p>Link: <a href="https://form.gov.sg/6377070b54bd0e0012035266" rel="noopener nofollow" target="_blank">Registration for PSG</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG/psg%202023.png">
