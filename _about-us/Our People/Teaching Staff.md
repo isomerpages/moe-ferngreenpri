@@ -29,7 +29,7 @@ variant: tiptap
 <p>1 Black</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Freda Paul</p>
+<p>Ms Freda Paul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>freda_paul@moe.edu.sg</p>
