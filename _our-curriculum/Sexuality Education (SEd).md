@@ -47,13 +47,13 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4>Overview of FERN GREEN Primary School's Sexuality Education Programme for 2024</h4>
+<h4>Overview of FERN GREEN Primary School's Sexuality Education Programme for 2025</h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
@@ -89,17 +89,7 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education (SED)/2024_Info_on_SEd_for_schs_website__FGPS__20240122_Page_4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education (SED)/2024_Info_on_SEd_for_schs_website__FGPS__20240122_Page_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education (SED)/2024_Info_on_SEd_for_schs_website__FGPS__20240122_Page_6.jpg">
-</div>
 <p><strong>Information for Parents</strong>
 </p>
 <ol start="8">
@@ -110,8 +100,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65add37ec17338001273635a" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong><u>31/01/2024</u></strong>.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/6778a6d53d07871a25d9ed14" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong><u>31/01/2025</u></strong>.</p>
 </li>
 <li>
 <p>Parents can contact the school at 68343100 or email (ferngreen_ps@moe.edu.sg)
