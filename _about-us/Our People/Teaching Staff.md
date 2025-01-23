@@ -139,17 +139,6 @@ variant: tiptap
 <p>1 Purple</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Li Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_li_lian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Purple</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Chua Pei Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,7 +164,7 @@ variant: tiptap
 <p>Mdm Tee Bee Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tee_bee_yen_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
