@@ -20,6 +20,14 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: MK@FG Open House
+      subtitle: Our Happy Place
+      id: infopic
+      description: Come and visit our carnival!
+      button: Register your interest here!
+      url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us
+      image: /images/MK@Fern Green/2025_MKFG_Open_House_Poster.jpg
+  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
@@ -36,12 +44,4 @@ sections:
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Thank_you_Card.png
       alt: say it from your heart
-  - infopic:
-      title: MK@FG Open House
-      subtitle: Our Happy Place
-      id: infopic
-      description: Come and visit our carnival!
-      button: Register your interest here!
-      url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us
-      image: /images/MK@Fern Green/2025_MKFG_Open_House_Poster.jpg
 ---
