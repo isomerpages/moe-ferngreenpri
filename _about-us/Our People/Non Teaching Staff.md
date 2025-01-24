@@ -65,7 +65,7 @@ third_nav_title: Our People
 <p>Ms Ng Wee Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_wee_ching@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
