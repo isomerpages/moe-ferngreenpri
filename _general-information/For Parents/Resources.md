@@ -23,6 +23,16 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>[Parent Kit] Journeying Together, Growing Together - The Primary School
+Edition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://file.go.gov.sg/pk-journeyingtogether-growingtogether-upperpri-pg.pdf" rel="noopener nofollow" target="_blank">Journeying Together, Growing Together</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Measure to deal with screen time and device</p>
 </td>
 <td rowspan="1" colspan="1">
