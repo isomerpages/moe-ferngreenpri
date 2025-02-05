@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Inspiring Teacher of English Award 2025 Nominations</strong></h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Inspiring_Teacher_of_English_Award_2025_Nominations.png">
+</div>
 <p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are
 now open.&nbsp; Presented by the Speak Good English Movement and The Straits
 Times with the support of the Ministry of Education, the Award has two
