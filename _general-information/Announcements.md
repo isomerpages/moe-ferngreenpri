@@ -4,6 +4,20 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h2><strong>Inspiring Teacher of English Award 2025 Nominations</strong></h2>
+<p></p>
+<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are
+now open.&nbsp; Presented by the Speak Good English Movement and The Straits
+Times with the support of the Ministry of Education, the Award has two
+categories – the Teaching Award and the Leadership Award.&nbsp;</p>
+<p>Nomination forms for the Teaching Award can be downloaded from this
+<a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank"><u>website.</u>
+</a>
+</p>
+<p>The Award is open to all in-service teachers of English Language, including
+teachers of Literature in English and General Paper. All students, their
+parents, and teachers are invited to send in nominations for the Teaching
+Award to the Principal of the nominee’s school at <a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ferngreen_ps@moe.edu.sg</u></a> by <strong>6pm on 24 March 2025</strong>.&nbsp;</p>
 <h2><strong>Say It From Your Heart @FGPS</strong></h2>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
