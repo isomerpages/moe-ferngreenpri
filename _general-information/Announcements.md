@@ -19,7 +19,8 @@ categories – the Teaching Award and the Leadership Award.&nbsp;</p>
 <p>The Award is open to all in-service teachers of English Language, including
 teachers of Literature in English and General Paper. All students, their
 parents, and teachers are invited to send in nominations for the Teaching
-Award to the Principal of the nominee’s school at <a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ferngreen_ps@moe.edu.sg</u></a> by <strong>6pm on 24 March 2025</strong>.&nbsp;</p>
+Award to the Principal of the nominee’s school via <a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ferngreen_ps@moe.edu.sg</u></a> by <strong>6pm on 24 March 2025</strong>.</p>
+<p>Should you require more information, please email SGEM at <a rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <h2><strong>Say It From Your Heart @FGPS</strong></h2>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
