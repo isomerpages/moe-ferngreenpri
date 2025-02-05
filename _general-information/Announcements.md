@@ -4,7 +4,7 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Inspiring Teacher of English Award 2025 Nominations</strong></h2>
+<h3><strong>Call for Nominations: Inspiring Teacher of English Award 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Inspiring_Teacher_of_English_Award_2025_Nominations.png">
 </div>
@@ -21,7 +21,7 @@ teachers of Literature in English and General Paper. All students, their
 parents, and teachers are invited to send in nominations for the Teaching
 Award to the Principal of the nominee’s school via <a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ferngreen_ps@moe.edu.sg</u></a> by <strong>6pm on 24 March 2025</strong>.</p>
 <p>Should you require more information, please email SGEM at <a rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
-<h2><strong>Say It From Your Heart @FGPS</strong></h2>
+<h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
 where a staff member would go the extra mile and make someone's day, and
