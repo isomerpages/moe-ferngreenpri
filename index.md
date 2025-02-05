@@ -4,7 +4,7 @@ title: Fern Green Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Call for Nominations: Inspiring Teacher of English Award 2025"
 sections:
   - hero:
       background: /images/Sch_Website_Landing_Page_v3.gif
