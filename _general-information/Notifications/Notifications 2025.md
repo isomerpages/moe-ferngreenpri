@@ -80,7 +80,7 @@ third_nav_title: Notifications
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>y</p>
+<p></p>
 </td>
 </tr>
 </tbody>
