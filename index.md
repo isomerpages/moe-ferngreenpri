@@ -4,8 +4,9 @@ title: Fern Green Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Call for Nominations: Inspiring Teacher of English Award 2025!
-  More details under Announcements."
+notification: "Call for Nominations: Inspiring Teacher of English Award, Arif
+  Budiman Malay Language Teacher Award & Most Inspiring Tamil Teachers’ Award
+  2025! More details under Announcements."
 sections:
   - hero:
       background: /images/Sch_Website_Landing_Page_v3.gif
@@ -23,15 +24,6 @@ sections:
           description: ""
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
-  - infopic:
-      title: MK@FG Open House
-      subtitle: Our Happy Place
-      id: infopic
-      description: Come and visit our carnival!
-      button: Register your interest here!
-      url: https://sites.google.com/moe.edu.sg/mkferngreen/about-us
-      image: /images/MK@Fern Green/2025_MKFG_Open_House_Poster.jpg
-      alt: MK Open House
   - infopic:
       title: MK@FG School Tour
       id: infopic
