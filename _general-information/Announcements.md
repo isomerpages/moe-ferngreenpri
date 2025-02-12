@@ -4,6 +4,34 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h3><strong>Call for Nominations: Arif Budiman Malay Language Teacher Award 2025</strong></h3>
+<p>The Arif Budiman Malay Language Teacher Award (AGAB) recognises Malay
+Language teachers from primary and secondary schools, junior colleges,
+and Millennia Institute who have made significant contributions to the
+teaching of the Malay Language. Nominees will be evaluated based on their
+ability to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nurture students’ interest in the Malay language, literature and culture
+through innovative pedagogies, including the effective use of educational
+technology to make learning engaging and interactive while developing students’
+21st Century Competencies to be future-ready;</p>
+</li>
+<li>
+<p>Demonstrate care and concern for their students and have a keen interest
+in their well-being; and</p>
+</li>
+<li>
+<p>Display the values of Arif Budiman, a learned person who contributes to
+society through excellent and exemplary service as an educator.</p>
+</li>
+</ul>
+<p>Students, educators, parents, and members of the public are invited to
+nominate outstanding Malay Language teachers for the AGAB 2025. The AGAB
+nomination form can be downloaded from <a href="https://www.languagecouncils.sg/mbms/en" rel="noopener noreferrer nofollow" target="_blank">www.mbms.sg</a>, <a href="https://www.mllpc.sg/" rel="noopener noreferrer nofollow" target="_blank">www.mllpc.sg</a> and
+<a href="https://www.beritaharian.sg/" rel="noopener noreferrer nofollow" target="_blank">www.beritaharian.sg</a>. Nominations can also be made online via <a href="https://go.gov.sg/agab2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab2025</a>.
+Kindly note that the closing date for nomination is <strong>4 April 2025 (Friday).</strong>
+</p>
 <h3><strong>Call for Nominations: Inspiring Teacher of English Award 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Inspiring_Teacher_of_English_Award_2025_Nominations.png">
