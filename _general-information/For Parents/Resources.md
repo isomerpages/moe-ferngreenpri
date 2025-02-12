@@ -60,21 +60,47 @@ Edition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SchoolBag: The Education News Site</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>External Organisations / Helplines available for Students/Parents who
 require help and support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">SchoolBag: The Education News Site</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/SB_Banner_Generic_V1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/SB_Banner_Generic_V2.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.schoolbag.edu.sg/story-tag/interactive-stories/" rel="noopener noreferrer nofollow" target="_blank">Interactive stories</a></strong> -
+a new storytelling format that combines moving images, visual effects and
+livelier displays, more commonly seen in mainstream news websites</p>
+</li>
+<li>
+<p><strong><a href="https://www.schoolbag.edu.sg/story-tag/parent-voices/" rel="noopener noreferrer nofollow" target="_blank">Parent Voices</a></strong> -
+a section for parents to zoom in on what other parents have to say about
+their children’s education experiences</p>
+</li>
+<li>
+<p><strong><a href="https://www.schoolbag.edu.sg/story-tag/educator-voices/" rel="noopener noreferrer nofollow" target="_blank">Educator Voices</a></strong> –
+a section to quickly call up educator viewpoints</p>
+</li>
+<li>
+<p><strong><a href="https://www.schoolbag.edu.sg/primary/" rel="noopener noreferrer nofollow" target="_blank">Primary School</a> </strong>–
+a section that categorises all stories from primary schools</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
