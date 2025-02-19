@@ -56,7 +56,8 @@ School)</p>
 <p>2025-01-27</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration</p>
+<p><a href="https://photos.app.goo.gl/dYxJymCkjrMoMUC56" rel="noopener nofollow" target="_blank">Chinese New Year Celebration</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +65,8 @@ School)</p>
 <p>2025-01-22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALP Tinkering Thursday Recess Activities</p>
+<p><a href="https://photos.app.goo.gl/X3NYu7haN97jYbPW7" rel="noopener nofollow" target="_blank">ALP Tinkering Thursday Recess Activities</a>
+</p>
 </td>
 </tr>
 <tr>
