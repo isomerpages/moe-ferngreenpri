@@ -81,8 +81,8 @@ School)</p>
 <p>2025-01-14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 International Experience (Hosting of Tianjin Yinghua International
-School)</p>
+<p><a href="https://photos.app.goo.gl/xFFymBJGGPa3rTTx9" rel="noopener nofollow" target="_blank">P4 International Experience (Hosting of Tianjin Yinghua International Sch)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,8 @@ School)</p>
 <p>2025-01-03 to 07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Orientation Week</p>
+<p><a href="https://photos.app.goo.gl/exCuwFTsQFNmpG9T8" rel="noopener nofollow" target="_blank">Orientation Week</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +99,8 @@ School)</p>
 <p>2025-01-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 First Day of School</p>
+<p><a href="https://photos.app.goo.gl/FdaR6U3Zj8xHAE5aA" rel="noopener nofollow" target="_blank">P1 First Day of School</a>
+</p>
 </td>
 </tr>
 <tr>
