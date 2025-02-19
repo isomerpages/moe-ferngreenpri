@@ -31,8 +31,8 @@ Green Primary School. Thank you for your time and support!</p>
 <p>2025-02-12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 International Experience (Hosting of Hoi Ping Chamber of Commerce Primary
-School)</p>
+<p><a href="https://photos.app.goo.gl/QZkG17A9BZJBTnVL8" rel="noopener nofollow" target="_blank">P5 International Experience (Hosting of Hoi Ping Chamber of Commerce Primary School)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,8 @@ School)</p>
 <p>2025-02-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Total Defence Day Assembly &amp; Recess Activities</p>
+<p><a href="https://photos.app.goo.gl/qKHxJr5jBwEvp5d99" rel="noopener nofollow" target="_blank">Total Defence Day Assembly &amp; Recess Activities</a>
+</p>
 </td>
 </tr>
 <tr>
