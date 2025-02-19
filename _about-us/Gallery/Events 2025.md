@@ -48,7 +48,8 @@ School)</p>
 <p>2025-02-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Assembly</p>
+<p><a href="https://photos.app.goo.gl/8QaaZdnZtP6Mgd9v6" rel="noopener nofollow" target="_blank">Assembly: ICT Digital Habits</a>
+</p>
 </td>
 </tr>
 <tr>
