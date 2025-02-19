@@ -72,8 +72,8 @@ School)</p>
 <p>2025-01-16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 International Experience (Hosting of P L K Leung Chow Shun Kam Pri
-School)</p>
+<p><a href="https://photos.app.goo.gl/WTXEd916KVcXAdHY9" rel="noopener nofollow" target="_blank">P4 International Experience (Hosting of P L K Leung Chow Shun Kam Pri Sch)</a>
+</p>
 </td>
 </tr>
 <tr>
