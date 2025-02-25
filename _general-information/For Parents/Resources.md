@@ -13,12 +13,32 @@ third_nav_title: For Parents
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Website</strong>
+<h4><strong>Resource</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Link</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement - <em>Our Joyful Learners</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Link</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Useful Links (Parents)/P1___P2_FGians_Our_Joyful_Learners.pdf" rel="noopener nofollow" target="_blank">P1 &amp; P2 FGians_Our Joyful Learners</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Useful Links (Parents)/P3___P4_FGians_Our_Joyful_Learners.pdf" rel="noopener nofollow" target="_blank">P3 &amp; P4 FGians_Our Joyful Learners</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links (Parents)/P5___P6_FGians_Our_Joyful_Learners.pdf" rel="noopener nofollow" target="_blank">P5 &amp; P6 FGians_Our Joyful Learners</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
