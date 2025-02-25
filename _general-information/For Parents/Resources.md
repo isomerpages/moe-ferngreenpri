@@ -13,20 +13,10 @@ third_nav_title: For Parents
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Resource</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Website</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Link</strong>
-</p>
+<h4><strong>Link</strong></h4>
 </td>
 </tr>
 <tr>
