@@ -21,6 +21,15 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Microsoft Teams Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Links (Parents)/2025_02_17_Microsoft_Teams_Guide__Attendees__Meeting___Webinar_Website.pdf" rel="noopener nofollow" target="_blank">Microsoft Teams Guide (Attendees) for Meeting and Webinar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Parents Engagement - <em>Our Joyful Learners</em>
 </p>
 </td>
