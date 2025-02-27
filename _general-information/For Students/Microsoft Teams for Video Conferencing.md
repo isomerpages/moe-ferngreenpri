@@ -25,8 +25,6 @@ students to learn how to:</p>
 </li>
 <li>
 <p>view recorded meetings</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
