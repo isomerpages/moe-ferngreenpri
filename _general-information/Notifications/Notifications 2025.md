@@ -23,10 +23,20 @@ third_nav_title: Notifications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>T1W8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notifications/2025/2025_T1W8_Parents_Notification__2025_02_26_.pdf" rel="noopener nofollow" target="_blank">26 February 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>T1W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notifications/2025/2025_T1W7_Parents_Notification__2025_02_19_.pdf" rel="noopener nofollow" target="_blank">19 February 2025</a>
+</p>
 </td>
 </tr>
 <tr>
