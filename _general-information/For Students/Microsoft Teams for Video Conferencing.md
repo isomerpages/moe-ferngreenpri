@@ -25,10 +25,10 @@ students to learn how to:</p>
 </li>
 <li>
 <p>view recorded meetings</p>
-<p></p>
 </li>
 </ul>
 <p>Please join MS Teams as a guest when accessing from outside the school
-via mobile devices or desktops. You can find the <a href="/files/For Student/2025_02_17_Microsoft_Teams_Guide__Attendees__Meeting___Webinar_Website.pdf" rel="noopener nofollow" target="_blank">Ms Teams guide</a> for
+via mobile devices or desktop/laptop. For an optimal viewing experience,
+a desktop or laptop is preferred. You can find the <a href="/files/For Student/2025_02_17_Microsoft_Teams_Guide__Attendees__Meeting___Webinar_Website.pdf" rel="noopener nofollow" target="_blank">MS Teams guide</a> for
 meetings and webinars for your reference.</p>
 <p></p>
