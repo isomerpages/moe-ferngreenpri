@@ -26,7 +26,8 @@ third_nav_title: Notifications
 <p>T1W8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notifications/2025/2025_T1W8_Parents_Notification__2025_02_26_.pdf" rel="noopener nofollow" target="_blank">26 February 2025</a>
+</p>
 </td>
 </tr>
 <tr>
