@@ -83,7 +83,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Basketball (Boys &amp; Girls)</p>
+<p>Basketball (Boys)</p>
 </li>
 <li>
 <p>Football (Boys &amp; Girls)</p>
@@ -92,7 +92,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Tchoukball (Boys &amp; Girls)</p>
 </li>
 <li>
-<p>Floorball (Boys &amp; Girls)</p>
+<p>Floorball (Boys)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
