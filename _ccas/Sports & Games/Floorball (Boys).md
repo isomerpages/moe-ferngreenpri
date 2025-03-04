@@ -1,6 +1,6 @@
 ---
-title: Floorball (Boys & Girls)
-permalink: /floorball-boys-girls/
+title: Floorball (Boys)
+permalink: /floorball-boys/
 variant: tiptap
 description: ""
 third_nav_title: Sports & Games

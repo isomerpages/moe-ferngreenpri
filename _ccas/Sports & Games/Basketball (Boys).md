@@ -1,6 +1,6 @@
 ---
-title: Basketball (Boys & Girls)
-permalink: /basketball-boys-girls/
+title: Basketball (Boys)
+permalink: /basketball-boys/
 variant: tiptap
 description: ""
 third_nav_title: Sports & Games
