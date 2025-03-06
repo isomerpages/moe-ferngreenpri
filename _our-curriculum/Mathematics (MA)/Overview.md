@@ -6,8 +6,9 @@ third_nav_title: Mathematics (MA)
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MA 2024" src="/images/Mathematics/Mathematics_Committee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Mathematics_Committee_1.jpg">
 </div>
+<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h4><strong>Introduction</strong></h4>
 <p>Mathematics is important for every child in every education system.&nbsp;
 The principle aim of our Math curriculum is to equip young learners with

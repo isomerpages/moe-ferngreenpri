@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Our People
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Key_Personnel.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Key_Personnel_Fun.jpg">
 </div>
+<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>

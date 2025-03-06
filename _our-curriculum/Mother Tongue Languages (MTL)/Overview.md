@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Mother Tongue Languages (MTL)
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL 2024" src="/images/MTL/Mother_Tongue_Languages_Committee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Mother_Tongue_Languages_Committee.jpg">
 </div>
+<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h4><strong><u>Approach/Framework</u></strong></h4>
-<h4><strong>Curriculum</strong> </h4>
+<h4><strong>Curriculum</strong></h4>
 <p>Mother Tongue is a living language. It is used and valued in our society.
 To help learners to be active learners and proficient users of the Mother
 Tongue languages, Fern Green Primary School MTL department aims to support
@@ -19,7 +19,7 @@ to engage the learners.</p>
 <h4><strong>Department Vision</strong></h4>
 <p>Effective communicator and critical thinkers who are cultural savvy and
 globally connected.</p>
-<h4><strong>Goals/Objectives</strong> </h4>
+<h4><strong>Goals/Objectives</strong></h4>
 <ul>
 <li>
 <p>Nurturing learners to be culturally rooted individuals.&nbsp;</p>
@@ -33,7 +33,7 @@ and to use it for communication.</p>
 Citizens and Active Contributors.</p>
 </li>
 </ul>
-<h4><strong>Key MTL Approaches</strong> </h4>
+<h4><strong>Key MTL Approaches</strong></h4>
 <ul>
 <li>
 <p>Language learning takes place in naturalistic settings, hence more focus
