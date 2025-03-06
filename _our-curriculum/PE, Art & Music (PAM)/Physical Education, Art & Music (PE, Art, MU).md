@@ -5,10 +5,10 @@ description: ""
 third_nav_title: PE, Art & Music (PAM)
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/Physical_Education__Art___Music_Committee.jpg">
 </div>
+<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h3><strong>The PE / Art / Music Department aims to:</strong></h3>
 <ul>
 <li>
