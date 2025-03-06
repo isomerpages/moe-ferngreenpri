@@ -5,10 +5,10 @@ description: ""
 third_nav_title: ICT
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT 2024" src="/images/ICT/Information___Communication_Technology___Library_Committee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Information___Communication_Technology___Library_Committee_Fun.jpg">
 </div>
+<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <p>The ICT Department seeks to align our programmes and strategies with MOE's
 EdTech Masterplan for 2030 and our school's Vision and Mission.</p>
 <p><strong><u>ICT Department Vision</u></strong>
