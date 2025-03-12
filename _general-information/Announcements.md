@@ -89,6 +89,10 @@ online at <a href="https://zb.sg/dclta2025" rel="noopener noreferrer nofollow" t
 through scanning of QR code included in the poster below. The closing date
 for nominations is <strong>11 May 2025 (Sunday).</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/MTL_Nomination.jpg">
+</div>
+<p></p>
 <hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
