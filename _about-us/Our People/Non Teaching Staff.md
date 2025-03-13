@@ -51,17 +51,6 @@ third_nav_title: Our People
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Koh Shu Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_shu_yi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Wee Ching</p>
 </td>
 <td rowspan="1" colspan="1">
