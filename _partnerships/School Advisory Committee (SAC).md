@@ -49,6 +49,14 @@ Outcomes of Education; and</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Chun Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,6 +77,14 @@ Outcomes of Education; and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Loke Ying Ying Gladys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Freya Wang Ziyafei</p>
 </td>
 </tr>
 <tr>
