@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Character___Citizenship_Education_Committee_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovation/Innovation_Committee.jpg">
 </div>
 <p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h4><strong>Vision</strong></h4>
