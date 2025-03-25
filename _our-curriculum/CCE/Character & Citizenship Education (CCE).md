@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Character___Citizenship_Education_Committee_1.jpg">
 </div>
-<p></p>
+<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <p>The FGPS CCE curriculum follows MOE’s CCE 2021 Curriculum Frame. It emphasizes
 the teaching and learning of the core values and social-emotional competencies
 with a focus on developing a sense of purpose in our students. A holistic
