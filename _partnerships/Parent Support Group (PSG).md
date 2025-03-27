@@ -118,14 +118,6 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mentoring Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Paulyn Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +145,6 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <p>Well-Being Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Tee</p>
 <p>Mdm Duen Wong</p>
 </td>
 </tr>
