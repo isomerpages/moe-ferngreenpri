@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <p>Invitation to the Parenting Workshop:</p>
 <h3><strong>"I Can't Live Without IT! Understanding &amp; Engaging Our Digital Natives."</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/I_Can_t_Live_Without_IT___FGPS_.png">
+</div>
 <p>Fern Green Primary School, in partnership with TOUCH Community Services,
 invites you to join our parenting workshop: "I Can't Live Without IT! Understanding
 &amp; Engaging Our Digital Natives."</p>
@@ -55,7 +58,7 @@ managing screen time and fostering healthy digital habits for our children.</p>
 <p>Registration (opens till 29 March 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fgps-parenting-workshop-cw" rel="noopener nofollow" target="_blank">Form SG</a>
+<p><a href="https://go.gov.sg/fgps-parenting-workshop-cw" rel="noopener nofollow" target="_blank">Form SG (Only for FGPS parents)</a>
 </p>
 </td>
 </tr>
