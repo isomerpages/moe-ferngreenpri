@@ -26,6 +26,17 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: Understanding & Engaging Our Digital Natives
+      subtitle: Parenting Workshop
+      id: infopic
+      description: This workshop is a great opportunity to learn practical strategies
+        for managing screen time and fostering healthy digital habits for our
+        children.
+      button: Register here
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/I_Can_t_Live_Without_IT___FGPS_.png
+      alt: Image alt text
+  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
