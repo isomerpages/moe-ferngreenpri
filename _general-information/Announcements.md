@@ -4,6 +4,67 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<p>Invitation to the Parenting Workshop:</p>
+<h3><strong>"I Can't Live Without IT! Understanding &amp; Engaging Our Digital Natives."</strong></h3>
+<p>Fern Green Primary School, in partnership with TOUCH Community Services,
+invites you to join our parenting workshop: "I Can't Live Without IT! Understanding
+&amp; Engaging Our Digital Natives."</p>
+<p>This workshop is a great opportunity to learn practical strategies for
+managing screen time and fostering healthy digital habits for our children.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Workshop Details:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, March 29th, 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:30 AM – 11:00 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Join Zoom Meeting: </strong>
+</p>
+<p><a href="https://zoom.us/j/99832903581?pwd=qiL8I8a3CfzcSJ64MuVatPaDTlka5u.1" rel="noopener nofollow" target="_blank">Click here to join the meeting</a>
+</p>
+<p><strong>Meeting ID:</strong> 998 3290 3581
+<br><strong>Passcode:</strong> 960572</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Registration (opens till 29 March 2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fgps-parenting-workshop-cw" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thank you for partnering with our school to nurture Responsible, future-ready
+learners!</p>
+<hr>
 <h3><strong>Call for Nominations: Inspiring Teacher of English Award 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Inspiring_Teacher_of_English_Award_2025_Nominations.png">
