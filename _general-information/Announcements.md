@@ -43,9 +43,8 @@ managing screen time and fostering healthy digital habits for our children.</p>
 <p>Venue:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Join Zoom Meeting: </strong>
-</p>
-<p><a href="https://zoom.us/j/99832903581?pwd=qiL8I8a3CfzcSJ64MuVatPaDTlka5u.1" rel="noopener nofollow" target="_blank">Click here to join the meeting</a>
+<p>Online via Zoom</p>
+<p><strong>Join Zoom Meeting: </strong><a href="https://zoom.us/j/99832903581?pwd=qiL8I8a3CfzcSJ64MuVatPaDTlka5u.1" rel="noopener nofollow" target="_blank">Click here to join the meeting</a>
 </p>
 <p><strong>Meeting ID:</strong> 998 3290 3581
 <br><strong>Passcode:</strong> 960572</p>
