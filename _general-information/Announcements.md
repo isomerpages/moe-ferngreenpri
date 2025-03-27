@@ -55,7 +55,7 @@ managing screen time and fostering healthy digital habits for our children.</p>
 <p>Registration (opens till 29 March 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fgps-parenting-workshop-cw" rel="noopener nofollow" target="_blank">Form SG</a>
+<p><a href="https://go.gov.sg/fgps-parenting-workshop-cw" rel="noopener nofollow" target="_blank">Form SG (Only for FGPS parents)</a>
 </p>
 </td>
 </tr>
