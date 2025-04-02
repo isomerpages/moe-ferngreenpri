@@ -22,7 +22,7 @@ through technology;</p>
 Learning) of students.</p>
 </li>
 </ul>
-<p>Students and Parents can access the site for <u>lesson guides (will be provided later).</u>
+<p>Students and Parents can access the site for <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener nofollow" target="_blank">lesson guides.</a>
 </p>
 <h4><strong>Home-Based Learning Day</strong></h4>
 <p>Students and Parents can download a copy of the <u>Lesson Guides (will be provided later)</u> for
