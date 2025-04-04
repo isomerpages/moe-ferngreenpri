@@ -1,6 +1,6 @@
 ---
-title: eLearning & HBL
-permalink: /general-information/e-learning-and-hbl/
+title: eLearning
+permalink: /general-information/e-learning/
 description: ""
 variant: tiptap
 ---
@@ -24,7 +24,4 @@ Learning) of students.</p>
 </ul>
 <p>Students and Parents can access the site for <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener nofollow" target="_blank">lesson guides.</a>
 </p>
-<h4><strong>Home-Based Learning Day</strong></h4>
-<p>Students and Parents can download a copy of the <u>Lesson Guides (will be provided later)</u> for
-HBL days to guide you on the home-based learning activities.</p>
 <p></p>
