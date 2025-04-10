@@ -244,7 +244,7 @@ third_nav_title: Our People
 <p>AYH LP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Pei Jin</p>
+<p>Ms Chen Pei Jin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_peijin@moe.edu.sg</p>
