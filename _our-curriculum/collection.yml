@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Our Curriculum.md
-      - English Language (EL)/School Library.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
       - English Language (EL)/Programmes.md
+      - English Language (EL)/School Library.md
       - Mathematics (MA)/.keep
       - Mathematics (MA)/Overview.md
       - Mathematics (MA)/Approach & Framework.md
