@@ -1204,6 +1204,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>YH-LP</p>
+<p>EL &amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khoo Seok Ling Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khoo_seok_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
