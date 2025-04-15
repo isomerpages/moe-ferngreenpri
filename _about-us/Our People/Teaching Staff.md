@@ -739,10 +739,10 @@ variant: tiptap
 <p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Heng Peck Hoon</p>
+<p>Miss Choy Wen Qian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_peck_hoon@moe.edu.sg</p>
+<p>choy_wen_qian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -873,6 +873,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_zhong_wei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Resilience (5R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Klara Chua Mei Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>klara_chua_mei_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
