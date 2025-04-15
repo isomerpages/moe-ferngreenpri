@@ -368,10 +368,10 @@ variant: tiptap
 <p>2 Discipline (2D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khoo Seok Ling Serene</p>
+<p>Mdm Poh Pey Lin Esther (Mrs Chia)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khoo_seok_ling@moe.edu.sg</p>
+<p>poh_pey_lin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
