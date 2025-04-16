@@ -204,7 +204,7 @@ third_nav_title: Our People
 <p>Admin Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Nyuk Chan, Katherine</p>
+<p>Mdm Siti Nurhirdayu Shabirin</p>
 </td>
 </tr>
 <tr>

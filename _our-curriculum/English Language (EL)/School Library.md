@@ -3,7 +3,7 @@ title: School Library
 permalink: /our-curriculum/ict/school-library/
 variant: tiptap
 description: ""
-third_nav_title: ICT
+third_nav_title: English Language (EL)
 ---
 <p>Our School Library Team aims to promote and cultivate a positive disposition
 towards books and support students in their learning in a resource-rich
@@ -48,30 +48,6 @@ read, collaborate and learn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Suriatini Binte Nor Ahmad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Library Team:</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Miss Heng Peck Hoon (Library Coordinator)</p>
-</li>
-<li>
-<p>Miss Lim Soo Liam (assistant Library Coordinator)</p>
-</li>
-<li>
-<p>Ms Ma Shuang</p>
-</li>
-<li>
-<p>Ms Yuhanis</p>
-</li>
-<li>
-<p>Ms Liang Wileen</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>

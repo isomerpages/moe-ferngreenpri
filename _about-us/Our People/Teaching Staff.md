@@ -368,10 +368,10 @@ variant: tiptap
 <p>2 Discipline (2D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khoo Seok Ling Serene</p>
+<p>Mdm Poh Pey Lin Esther (Mrs Chia)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khoo_seok_ling@moe.edu.sg</p>
+<p>poh_pey_lin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -513,6 +513,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>celine_celestine_goh@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience (3R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Glenda Lim Shu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>glenda_lim_shu_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -728,10 +739,10 @@ variant: tiptap
 <p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Heng Peck Hoon</p>
+<p>Miss Choy Wen Qian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_peck_hoon@moe.edu.sg</p>
+<p>choy_wen_qian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -862,6 +873,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_zhong_wei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Resilience (5R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Klara Chua Mei Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>klara_chua_mei_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1178,6 +1200,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YH-LP</p>
+<p>EL &amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khoo Seok Ling Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khoo_seok_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
