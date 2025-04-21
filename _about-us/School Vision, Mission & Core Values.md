@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <h2><strong>School Values</strong></h2>
 <blockquote>
-<h4><strong>Joyful Learners,</strong></h4>
-<h4><strong>Caring Leaders,</strong></h4>
-<h4><strong>Resilient Innovators</strong></h4>
+<h4>Joyful Learners,</h4>
+<h4>Caring Leaders,</h4>
+<h4>Resilient Innovators</h4>
 </blockquote>
 <hr>
 <h4><strong>Unpacking Our Vision</strong></h4>
@@ -66,7 +66,8 @@ and responds effectively to the evolving needs of students and society.</p>
 <hr>
 <h2><strong>School Mission</strong></h2>
 <blockquote>
-<h4>To nurture caring, innovative and resilient lifelong learners who contribute as future leaders of the nation.</h4>
+<p>To nurture caring, innovative and resilient lifelong learners who contribute
+as future leaders of the nation.</p>
 </blockquote>
 <hr>
 <h2><strong>School Core Values</strong></h2>
