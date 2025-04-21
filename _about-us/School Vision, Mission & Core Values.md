@@ -4,9 +4,12 @@ permalink: /about-us/school-vision-mission-core-values/
 description: ""
 variant: tiptap
 ---
+<h2><strong>School Values</strong></h2>
+<blockquote>
 <h4><strong>Joyful Learners,</strong></h4>
 <h4><strong>Caring Leaders,</strong></h4>
 <h4><strong>Resilient Innovators</strong></h4>
+</blockquote>
 <hr>
 <h4><strong>Unpacking Our Vision</strong></h4>
 <ol data-tight="true" class="tight">
@@ -60,4 +63,7 @@ and responds effectively to the evolving needs of students and society.</p>
 </ul>
 </li>
 </ol>
+<hr>
+<h2><strong>School Mission</strong></h2>
+<h4>To nurture caring, innovative and resilient lifelong learners who contribute as future leaders of the nation.</h4>
 <p></p>
