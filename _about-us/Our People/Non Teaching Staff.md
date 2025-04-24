@@ -90,14 +90,6 @@ third_nav_title: Our People
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Wee Kwang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Shaun Ho</p>
 </td>
 </tr>
