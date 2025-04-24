@@ -343,17 +343,6 @@ third_nav_title: Our People
 <p>Admin Mgr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Wee Kwang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_wee_kwang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ho Hsu Xming Shaun</p>
 </td>
 <td rowspan="1" colspan="1">
