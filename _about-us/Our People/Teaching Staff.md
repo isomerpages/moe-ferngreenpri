@@ -1090,7 +1090,7 @@ variant: tiptap
 <p>Miss Sakinah Binte Mohamed Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sakinah_mohamed_mohse@moe.edu.sg</p>
+<p>sakinah_mohamed_mohsen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
