@@ -24,13 +24,6 @@ third_nav_title: Gallery
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>We value your feedback and would love to hear your thoughts about your
-experience. If you have a moment, please leave us a <a href="https://go.gov.sg/fgps-google-reviews" rel="noopener nofollow" target="_blank">google review</a> for Fern
-Green Primary School. Thank you for your time and support!</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>2024-11-15</p>
 </td>
