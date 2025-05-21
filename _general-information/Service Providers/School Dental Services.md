@@ -16,7 +16,7 @@ variant: tiptap
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Monthly Dental Schedule 2024,&nbsp;<a href="https://docs.google.com/spreadsheets/d/1YJaCilAiXbexeZTmzUQqD7Z6QYfcEhvo/edit#gid=1678024667" rel="noopener noreferrer nofollow" target="_blank">please click HERE</a>.</p>
+<p>For Monthly Dental Schedule 2025, please check with the school</p>
 </td>
 </tr>
 <tr>
