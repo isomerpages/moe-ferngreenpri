@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>e-Learning Day</strong></h4>
-<p>The school has designated <strong>Thursday &amp; Friday, 10 &amp; 11 April 2025</strong> as
+<p>The school has designated <strong>the day (date will be provided later)</strong> as
 our e-Learning Day to prepare students for emergency school closures due
 to unforeseen circumstances.</p>
 <p>The key objectives of the e-Learning Day are as follows:</p>
@@ -22,6 +22,6 @@ through technology;</p>
 Learning) of students.</p>
 </li>
 </ul>
-<p>Students and Parents can access the site for <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener nofollow" target="_blank">lesson guides.</a>
-</p>
+<p>Students and Parents can access the site for lesson guides (link will
+be provided at a later date).</p>
 <p></p>
