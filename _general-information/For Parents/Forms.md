@@ -73,7 +73,7 @@ their school after they return from overseas.</p>
 children in primary school, secondary school, junior colleges and Millennia
 Institute.</p>
 <p></p>
-<p><a href="https://form.gov.sg/60c16dbf08be5f0012bbaf06" rel="noopener noreferrer nofollow" target="_blank">Online Application Form for Leave of Absence (LOA) for Returning Singaporeans</a>
+<p><a href="https://go.gov.sg/leave-of-absence-loa-application" rel="noopener noreferrer nofollow" target="_blank">Online Application Form for Leave of Absence (LOA) for Returning Singaporeans</a>
 </p>
 </td>
 </tr>
