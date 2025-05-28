@@ -1392,17 +1392,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tew Beng Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tew_beng_siong_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">

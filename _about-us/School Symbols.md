@@ -1,9 +1,19 @@
 ---
-title: School Song
-permalink: /about-us/School-Song/
+title: School Symbols
+permalink: /about-us/school-symbols/
 description: ""
 variant: tiptap
 ---
+<h3><strong>School Crest</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Crest2.png">
+</div>
+<p>The leaves and hand depict the school’s belief in nurturing care and talents,
+and its commitment to an inquiry approach to teaching and learning, and
+care for the environment.&nbsp;They also form the letter, ‘F’ , which represents
+‘Fern Green’.</p>
+<h3><strong>School Song</strong></h3>
 <p><em>Composed by: Jake Goh </em>
 <br><em>Lyrics by: Jake Goh &amp; Staff of FGPS (2019)</em>
 </p>

@@ -1,8 +1,9 @@
 ---
 title: Media
-permalink: /general-information/media/
+permalink: /about-us/fg-heartbeat/media/
 variant: tiptap
 description: ""
+third_nav_title: FG Heartbeat
 ---
 <table style="minWidth: 75px">
 <colgroup>
