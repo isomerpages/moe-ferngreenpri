@@ -3,22 +3,9 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Notifications/Notifications 2025.md
-      - Notifications/.keep
-      - Notifications/Notifications 2024.md
-      - Notifications/Notifications 2023.md
-      - Notifications/Notifications 2022.md
-      - Notifications/Notifications 2021.md
+      - eLearning.md
       - For Staff/.keep
       - For Staff/Resources.md
-      - For Parents/.keep
-      - For Parents/2025 Information for P1 Parents.md
-      - For Parents/Forms.md
-      - For Parents/Homework Policy.md
-      - For Parents/Parents Gateway.md
-      - For Parents/P1 Registration.md
-      - For Parents/Resources.md
-      - For Parents/Consent for Photography and Videos.md
       - For Students/.keep
       - For Students/MIMS (Student iCON).md
       - For Students/Student Learning Space.md
@@ -27,7 +14,20 @@ collections:
       - For Graduating P6 Students/.keep
       - For Graduating P6 Students/Secondary 1 (S1) Posting Process.md
       - For Graduating P6 Students/Resources.md
-      - eLearning.md
+      - For Parents/.keep
+      - For Parents/2025 Information for P1 Parents.md
+      - For Parents/Forms.md
+      - For Parents/Homework Policy.md
+      - For Parents/Parents Gateway.md
+      - For Parents/P1 Registration.md
+      - For Parents/Resources.md
+      - For Parents/Consent for Photography and Videos.md
+      - Notifications/.keep
+      - Notifications/Notifications 2025.md
+      - Notifications/Notifications 2024.md
+      - Notifications/Notifications 2023.md
+      - Notifications/Notifications 2022.md
+      - Notifications/Notifications 2021.md
       - School Calendar.md
       - School Hours.md
       - School Rules.md
