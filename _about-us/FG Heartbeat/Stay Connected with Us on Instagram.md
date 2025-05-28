@@ -21,5 +21,7 @@ Follow us to:</p>
 <p>Join us and be part of our journey!</p>
 <p>Follow us on Instagram: <a href="https://www.instagram.com/ferngreen_official/" rel="noopener nofollow" target="_blank">ferngreen_official</a>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Media/https___go_gov_sg_fgps_instagram.png">
+</div>
 <p></p>
