@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - FG Heartbeat/.keep
       - Principal's Message.md
       - School History.md
       - School Goals.md
@@ -11,9 +10,9 @@ collections:
       - Our People/School Management Team.md
       - Our People/Teaching Staff.md
       - Our People/Non Teaching Staff.md
+      - Accolades And Achievements/.keep
       - Accolades And Achievements/2025.md
       - Accolades And Achievements/2024.md
-      - Accolades And Achievements/.keep
       - Accolades And Achievements/2023.md
       - Accolades And Achievements/2022.md
       - Accolades And Achievements/2021.md
@@ -21,8 +20,9 @@ collections:
       - Accolades And Achievements/2019.md
       - Accolades And Achievements/2018.md
       - Accolades And Achievements/2017.md
-      - Gallery/Events 2025.md
+      - FG Heartbeat/.keep
       - Gallery/.keep
+      - Gallery/Events 2025.md
       - Gallery/Events 2024.md
       - Gallery/Events 2023.md
       - Gallery/Events 2022.md
