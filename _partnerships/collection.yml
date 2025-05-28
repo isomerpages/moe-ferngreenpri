@@ -2,7 +2,7 @@ collections:
   partnerships:
     output: true
     order:
-      - Stakeholders & Partnerships.md
+      - Overview.md
       - Parent Support Group (PSG).md
       - Positive Parenting Programme (Triple P).md
       - School Advisory Committee (SAC).md
