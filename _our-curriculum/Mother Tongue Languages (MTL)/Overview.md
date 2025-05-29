@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Mother Tongue Languages (MTL)
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Mother_Tongue_Languages_Committee.jpg">
-</div>
-<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h4><strong><u>Approach/Framework</u></strong></h4>
 <h4><strong>Curriculum</strong></h4>
 <p>Mother Tongue is a living language. It is used and valued in our society.
