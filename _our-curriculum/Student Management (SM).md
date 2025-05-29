@@ -4,10 +4,6 @@ permalink: /our-curriculum/Student-Management-SM/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Management (SM)/Student_Management_Committee.jpg">
-</div>
-<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <p>The Student Management Department looks into the overall well-being of
 the students. In FGPS the Student Management Team provides the support
 for every student to be developed into an independent and self-disciplined
