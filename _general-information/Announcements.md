@@ -56,7 +56,7 @@ and current P1 students.&nbsp; &nbsp;</p>
 action&nbsp; &nbsp;</p>
 </li>
 </ul>
-<p>Registration Details:&nbsp; Please register your interest by <strong>Friday, 20 June 2025</strong>.
+<p>Registration Details:&nbsp; Please register your interest<strong> by Friday, 20 June 2025</strong>.
 Successful registrants will receive the event details via email by Friday,
 27 June 2025.</p>
 <p>Kindly note:</p>
