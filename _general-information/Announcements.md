@@ -38,6 +38,14 @@ variant: tiptap
 <p>Fern Green Primary School (PAL Room)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Fern Green Primary School warmly invites you to our upcoming Open House!&nbsp;
@@ -56,9 +64,30 @@ and current P1 students.&nbsp; &nbsp;</p>
 action&nbsp; &nbsp;</p>
 </li>
 </ul>
-<p>Registration Details:&nbsp; Please register your interest<strong> by Friday, 20 June 2025</strong>.
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Registration Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Please register your interest via <a href="https://go.gov.sg/fgpsopenhouse" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fgpsopenhouse</a>  <strong>by Thursday, 19 June 2025</strong>.
 Successful registrants will receive the event details via email by Friday,
 27 June 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Kindly note:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -71,7 +100,10 @@ the event.</p>
 </ul>
 <p>We look forward to welcoming you to Fern Green Primary School!&nbsp;</p>
 <p>If you have any questions, feel free to contact us at 6834 3100 or email
-ferngreen_ps@moe.edu.sg.&nbsp;</p>
+<a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ferngreen_ps@moe.edu.sg</a>.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Annoucements/FGPS_2025_OPEN_HOUSE_.png">
+</div>
 <hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
