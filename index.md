@@ -32,6 +32,7 @@ sections:
       button: Register your interest
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Annoucements/FGPS_2025_OPEN_HOUSE_Flyer.png
+      alt: Open House 2025
   - infopic:
       title: MK@FG School Tour
       id: infopic
