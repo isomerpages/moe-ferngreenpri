@@ -76,7 +76,7 @@ action&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please register your interest via <a href="https://go.gov.sg/fgpsopenhouse" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fgpsopenhouse</a>  <strong> by Thursday, 19 June 2025</strong>.
+<p>Please register your interest via <a href="https://go.gov.sg/fgpsopenhouse" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fgpsopenhouse</a>  <strong>by Thursday, 19 June 2025</strong>.
 Successful registrants will receive the event details via email by Friday,
 27 June 2025.</p>
 </td>
@@ -101,7 +101,9 @@ the event.</p>
 <p>We look forward to welcoming you to Fern Green Primary School!&nbsp;</p>
 <p>If you have any questions, feel free to contact us at 6834 3100 or email
 <a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ferngreen_ps@moe.edu.sg</a>.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Annoucements/FGPS_2025_OPEN_HOUSE_.png">
+</div>
 <hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
