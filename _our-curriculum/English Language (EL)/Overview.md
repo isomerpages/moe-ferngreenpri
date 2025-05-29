@@ -5,10 +5,6 @@ description: ""
 third_nav_title: English Language (EL)
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/English_Language_Committee.jpg">
-</div>
-<p>Credit: Photography – Widevision Asia Pte Ltd</p>
 <h3><strong>Vision</strong></h3>
 <p>Every Student A Discerning Reader, A Confident Speaker, A Creative Writer
 and A Critical Inquirer.</p>
