@@ -4,7 +4,8 @@ title: Fern Green Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Fern Green Primary School warmly invites you to our upcoming Open
+  House on 8 July 2025, 2.30pm to 4.15pm. Register your interest below!
 sections:
   - hero:
       background: /images/Sch_Website_Landing_Page_v3.gif
