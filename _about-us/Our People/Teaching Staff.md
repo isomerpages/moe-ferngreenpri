@@ -150,10 +150,10 @@ variant: tiptap
 <p>1 Care (1C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bettina Chiang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bettina_Chiang@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
