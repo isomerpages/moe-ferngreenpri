@@ -53,7 +53,7 @@ need financial assistance. Terms and conditions apply.</p>
 <p>Assistant Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Qisthi</p>
 </td>
 </tr>
 <tr>
