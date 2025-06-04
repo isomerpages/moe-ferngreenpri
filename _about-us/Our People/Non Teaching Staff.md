@@ -228,7 +228,7 @@ third_nav_title: Our People
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suriatini Binte Nor Ahmad</p>
+<p>Ms Emily Grace Seow Hui En</p>
 </td>
 </tr>
 <tr>
