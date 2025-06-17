@@ -4,7 +4,7 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Registration for Open House 2025</strong></h3>
+<h3><strong>Registration for Open House 2025 (Registration is closed)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,9 +76,8 @@ action&nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please register your interest via <a href="https://go.gov.sg/fgpsopenhouse" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fgpsopenhouse</a>  <strong>by Thursday, 19 June 2025</strong>.
-Successful registrants will receive the event details via email by Friday,
-27 June 2025.</p>
+<p>Please note that registration is closed. Successful registrants will receive
+the event details via email by <strong>Friday, 27 June 2025</strong>.</p>
 </td>
 </tr>
 <tr>
