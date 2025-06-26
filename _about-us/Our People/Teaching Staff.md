@@ -40,10 +40,10 @@ variant: tiptap
 <p>1 Respect (1R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Pei Jin</p>
+<p>Mdm Foo Ai Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_peijin@moe.edu.sg</p>
+<p>foo_ai_fen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -117,10 +117,10 @@ variant: tiptap
 <p>1 Innovation (1I2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Huang Wanyi Hazel</p>
+<p>Mdm Chong Fangxun (Jessica)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>huang_wanyi_hazel@moe.edu.sg</p>
+<p>chong_fangxun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -150,10 +150,10 @@ variant: tiptap
 <p>1 Care (1C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Farah Adzlin Kasmany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>farah_adzlin_kasmany@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
