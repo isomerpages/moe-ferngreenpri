@@ -153,6 +153,53 @@ digital habits across the school!</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Digital Literacy Enrichment programme</strong></h4>
+<p>To further strengthen digital literacy and spark innovation, selected
+students take part in enrichment opportunities such as the Digital Bootcamp,
+SST Digital Citizenship Workshop, and the Pei Hwa Hackathon. These platforms
+allow our FG-ians to deepen their skills in responsible tech use, collaboration,
+and digital creation. At the Pei Hwa Hackathon, our students proudly showcased
+their creativity and problem-solving abilities—earning a Commendation Award
+for their efforts!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/WhatsApp_Image_2025_03_21_at_3_50_20_PM.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Igniting curiosity and creativity—FGPS learners dive into Micro:bit coding
+during the Digital Bootcamp!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/sst.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Representatives of ICT Champions joined the SST Digital Citizenship Workshop
+2025 to learn, lead, and inspire their peers toward responsible digital
+citizenship.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
