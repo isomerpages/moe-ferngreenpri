@@ -141,8 +141,73 @@ contemporary artworks. This programme helps students appreciate how contemporary
 artists portray everyday life and emotions through different materials
 and perspectives. It encourages them to reflect on their own experiences
 and think adaptively as they connect personal memories with artistic expression.</p>
+<p></p>
+<blockquote>
+<p><strong>P5 Art Milestone Programme – Sculpture</strong>&nbsp;</p>
+</blockquote>
+<p>Students explore the emotional qualities of form and texture through clay
+sculpting, inspired by artists Fyon Cheong and Kelly Limerick. They create
+clay pots with facial features to express personal emotions. This programme
+fosters inventive thinking, emotional intelligence, and encourages meaningful
+connections between artistic choices, self-expression, and peer feedback.</p>
+<p></p>
+<blockquote>
+<p><strong>P6 Art Milestone Programme –&nbsp; Leaving a Legacy</strong>
+</p>
+</blockquote>
+<p>At the end of the year, P6 students reflect on their six-year journey
+at FGPS and express their memories and aspirations through a culminating
+artwork. The form changes yearly, showcasing their artistic growth while
+building communication and collaboration skills. This final piece allows
+them to leave a meaningful mark as they graduate from FGPS.</p>
 <p>
 <br>
 </p>
+<blockquote>
+<p><strong>P2 Doodlechamps Assembly Show and Creative Doodle Challenge</strong>
+</p>
+</blockquote>
+<p>P2 students learn cartooning techniques during the Doodlechamps Assembly,
+nurturing creativity and problem-solving while reflecting on how art expresses
+values and personal identity. They then participate in the Creative Doodle
+Challenge, transforming simple marks into drawings that represent Respect,
+Care, or Integrity.</p>
+<p>
+<br>
+</p>
+<hr>
+<h4><strong>Music</strong></h4>
+<p>Aligned with the music syllabus, The Music Milestone Programme provides
+students with specially curated music programmes to equip them with additional
+music skills, developing musical skills, creativity, and appreciation through
+instrumental proficiency, vocal technique, and performance experience,
+while bringing in external arts practitioners to teach the students.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 - Let’s Play SoundShapes and BoomWhacker!</p>
+</li>
+<li>
+<p>P2 - Fun with Handbells/Music and Movement</p>
+</li>
+<li>
+<p>P3 - Orff Music Programme</p>
+</li>
+<li>
+<p>P4 - Percussive Hits!</p>
+</li>
+<li>
+<p>P5 - Cajon Programme&nbsp;</p>
+</li>
+<li>
+<p>P6 - Post PSLE Programme: Let’s Sing!</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
