@@ -105,6 +105,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wee Kiat Steven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wee_kiat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD PE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,17 +343,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>siew_lai_lone@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ops Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Teck Chye Andy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_teck_chye@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
