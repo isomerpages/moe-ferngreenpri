@@ -26,25 +26,23 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TDD_2.jpg">
 </div>
+<p>Students explore the roles of our everyday heroes!</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TDD_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TDD_4.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_3.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TDD_4.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
