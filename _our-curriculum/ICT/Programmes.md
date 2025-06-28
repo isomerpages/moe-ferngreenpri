@@ -82,4 +82,12 @@ presentations about themselves.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>ICT Student Leadership: ICT Champions for Primary 2 to 6</strong></h4>
+<p>Our ICT Champions programme empowers selected students from Primary 2
+to 6 to lead by example in using technology responsibly and effectively.
+As student leaders, they support peers in digital learning, promote good
+digital habits, and take on roles during school ICT events—nurturing confidence,
+collaboration, and a future-ready mindset.</p>
+<p>
+<br>
+</p>
