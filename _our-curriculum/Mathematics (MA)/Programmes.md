@@ -27,7 +27,6 @@ The rich learning experiences offered by the programme serve to help students
 to develop the habits, attitudes and dispositions mathematicians possess,
 as well as to gain important 21<sup>st</sup> century competencies such as
 critical and inventive thinking and effective communication skills.</p>
-<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,7 +43,9 @@ critical and inventive thinking and effective communication skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students engaged in mathematical discourse during Math Week recess activities.</p>
@@ -52,7 +53,9 @@ critical and inventive thinking and effective communication skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Joyful Learners - Arousing students’ interest through digital platforms
@@ -61,7 +64,9 @@ to learn Math concepts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Showcasing their Mathematics knowledge through their creativity</p>
