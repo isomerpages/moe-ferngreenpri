@@ -205,7 +205,7 @@ variant: tiptap
 <p>1 Motivation (1M)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng-Zhao Xiang Keith</p>
+<p>Mr Ng-Zhao Xiang (Keith)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_zhao-xiang@moe.edu.sg</p>
