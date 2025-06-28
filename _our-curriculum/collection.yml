@@ -7,6 +7,9 @@ collections:
       - English Language (EL)/Overview.md
       - English Language (EL)/Programmes.md
       - English Language (EL)/School Library.md
+      - Mother Tongue Languages (MTL)/.keep
+      - Mother Tongue Languages (MTL)/Overview.md
+      - Mother Tongue Languages (MTL)/Programmes.md
       - Mathematics (MA)/.keep
       - Mathematics (MA)/Overview.md
       - Mathematics (MA)/Approach & Framework.md
@@ -16,12 +19,9 @@ collections:
       - Science (SCI)/Curriculum Approach.md
       - Science (SCI)/Science Curriculum.md
       - Science (SCI)/Science Holistic Assessment.md
-      - Mother Tongue Languages (MTL)/.keep
-      - Mother Tongue Languages (MTL)/Overview.md
-      - Mother Tongue Languages (MTL)/Programmes.md
-      - ICT/.keep
-      - ICT/Information & Communications Technology (ICT).md
-      - Innovation.md
+      - PE, Art & Music (PAM)/.keep
+      - PE, Art & Music (PAM)/Physical Education, Art & Music (PE, Art, MU).md
+      - PE, Art & Music (PAM)/Programmes.md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/National Education & Social Studies (NESS).md
@@ -30,8 +30,8 @@ collections:
       - CCE/Education & Career Guidance (ECG).md
       - CCE/Cyber Wellness.md
       - CCE/Environmental Education.md
-      - PE, Art & Music (PAM)/.keep
-      - PE, Art & Music (PAM)/Physical Education, Art & Music (PE, Art, MU).md
-      - PE, Art & Music (PAM)/Programmes.md
+      - ICT/.keep
+      - ICT/Information & Communications Technology (ICT).md
+      - Innovation.md
       - Student Management (SM).md
       - Sexuality Education (SEd).md
