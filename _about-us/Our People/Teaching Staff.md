@@ -92,6 +92,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Resilience (1R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Raeann Chou Yue En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Integrity (1I1)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -628,10 +639,10 @@ variant: tiptap
 <p>4 Respect (4R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ashika Begum Binte Mohamed Ali</p>
+<p>Ms Choo Xuewei Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ashika_begum_mohamed_ali@moe.edu.sg</p>
+<p>choo_xuewei_stephanie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -639,10 +650,21 @@ variant: tiptap
 <p>4 Respect (4R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Xuewei Stephanie</p>
+<p>Mdm J. Aswiniey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choo_xuewei_stephanie@moe.edu.sg</p>
+<p>j_aswiniey@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Respect (4R1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ashika Begum Binte Mohamed Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ashika_begum_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -676,6 +698,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_su_yin_sharon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Resilience (4R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mahdiah Mohamed Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mahdiah_md_noor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1230,10 +1263,10 @@ variant: tiptap
 <p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahdiah Mohamed Noor</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mahdiah_md_noor@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
