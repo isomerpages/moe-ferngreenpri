@@ -57,8 +57,7 @@ presentations about themselves.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Nurturing responsible digital citizens with FGPS Good Digital Habits!</em>
-</p>
+<p>Nurturing responsible digital citizens with FGPS Good Digital Habits!</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +67,8 @@ presentations about themselves.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Building logic, creativity, and problem-solving—students learning to code during Code for Fun!</em>
-</p>
+<p>Building logic, creativity, and problem-solving—students learning to code
+during Code for Fun!</p>
 </td>
 </tr>
 <tr>
@@ -88,6 +87,67 @@ to 6 to lead by example in using technology responsibly and effectively.
 As student leaders, they support peers in digital learning, promote good
 digital habits, and take on roles during school ICT events—nurturing confidence,
 collaboration, and a future-ready mindset.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/AMDV3118.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meet our ICT Champions—student leaders in digital responsibility and innovation!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our ICT Champions advocating for Good Digital Habits—one assembly at a
+time!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promoting respect and safety online—ICT Champions share about cyberbullying.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our ICT Champions taking the lead—supporting peers and promoting good
+digital habits across the school!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
