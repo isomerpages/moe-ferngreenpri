@@ -122,5 +122,29 @@ Through this, they explore depth, composition, and storytelling by applying
 foreground, middle ground, and background concepts.</p>
 <p></p>
 <p></p>
+<blockquote>
+<p><strong>P3 Art Milestone Programme - Mixed Media Assemblage</strong>
+</p>
+</blockquote>
+<p>P3 students create mixed-media assemblage—combining found materials in
+a low relief artwork—on environmental themes inspired by Tan Zi Xi and
+Han Sai Por. Using recycled materials, they collaborate to raise sustainability
+awareness. This project builds critical thinking, adaptability, collaboration,
+and global literacy through art linked to real-world challenges.</p>
+<p></p>
+<blockquote>
+<p><strong>P4 Art Milestone Programme - Museum-based Learning</strong>
+</p>
+<p><strong>(Including Learning Journey to the Singapore Art Museum@ Tanjong Pagar Distripark)</strong>
+</p>
+</blockquote>
+<p>Students visit the Singapore Art Museum@Tanjong Pagar Distripark to explore
+contemporary artworks. This programme helps students appreciate how contemporary
+artists portray everyday life and emotions through different materials
+and perspectives. It encourages them to reflect on their own experiences
+and think adaptively as they connect personal memories with artistic expression.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
