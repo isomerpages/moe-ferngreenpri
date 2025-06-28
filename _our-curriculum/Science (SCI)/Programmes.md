@@ -201,10 +201,4 @@ social media page.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p></p>
-<p>
-<br>
-</p>
