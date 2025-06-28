@@ -30,12 +30,6 @@ flowers they created.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Sybelle Won with her paper chromatography flower!</p>
 </td>
 <td rowspan="1" colspan="1">
