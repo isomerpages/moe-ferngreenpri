@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development Team (SDT)/Special Educational Needs (SEN).md
-      - Student Development Team (SDT)/Student Well being (SW).md
-      - Student Development Team (SDT)/Student Management (SM).md
       - Student Development Team (SDT)/.keep
+      - Student Development Team (SDT)/Student Management (SM).md
+      - Student Development Team (SDT)/Student Well being (SW).md
+      - Student Development Team (SDT)/Special Educational Needs (SEN).md
       - Overview.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
