@@ -74,7 +74,9 @@ to learn Math concepts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math4.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Motivated Math Learners - Winners for Math Kahoot Games (Learning Mathematics
@@ -83,7 +85,9 @@ together with the students from China, Tianjin, on cultural exchange)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math5.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our P4 students used Koobits to recap Math concepts on fractions with
@@ -92,7 +96,9 @@ our Hong Kong exchange students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math6.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Use a gigantic “Snake and Ladder” to teach numbers to 100 for the kinesthetic
@@ -101,7 +107,9 @@ LSM learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math7.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leveraging on gamification through the use of Blooklet to teach and learn
@@ -110,7 +118,9 @@ Mathematics in our LSM classrooms .&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math8.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Using physical counters to ignite joy of learning and promote problem-based
@@ -119,7 +129,9 @@ learning on the topic of picture graph for our LSM students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math9.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 E2K students used interlocking cubes to help them in the visualisation
@@ -128,7 +140,9 @@ of cube submarines.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math10.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 E2K students did group discussions to brainstorm how to solve math
