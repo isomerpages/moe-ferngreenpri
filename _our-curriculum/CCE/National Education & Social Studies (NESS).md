@@ -9,22 +9,14 @@ variant: tiptap
 and experiences for our students to explore their identity as Singaporeans
 and arrive at a common set of ideals and values.</p>
 <p>The Social Studies (SS) curriculum in FGPS seeks to ignite students’ curiosity
-to inquire into real-world issues that concerns their lives. Through inquiry
+to inquire into real-world issues that concern their lives. Through inquiry
 and authentic learning experiences, the curriculum helps students attain
 relevant knowledge and understanding about these issues, develop critical
 and reflective thinking skills, and appreciate multiple perspectives.</p>
-<p>NESS @ FGPS includes:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>NE Commemorative Days</strong>
+<blockquote>
+<p><strong>Total Defence Day</strong>
 </p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Total Defence Day</p>
-</li>
-</ul>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
