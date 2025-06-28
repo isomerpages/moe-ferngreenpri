@@ -2,10 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development Team (SDT)/.keep
-      - Student Development Team (SDT)/Student Management (SM).md
-      - Student Development Team (SDT)/Student Well being (SW).md
-      - Student Development Team (SDT)/Special Educational Needs (SEN).md
       - Overview.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
@@ -33,8 +29,12 @@ collections:
       - CCE/Education & Career Guidance (ECG).md
       - CCE/Cyber Wellness.md
       - CCE/Environmental Education.md
-      - ICT/Overview.md
       - ICT/.keep
+      - ICT/Overview.md
       - ICT/Programmes.md
       - Innovation.md
+      - Student Development Team (SDT)/.keep
+      - Student Development Team (SDT)/Student Management (SM).md
+      - Student Development Team (SDT)/Student Well being (SW).md
+      - Student Development Team (SDT)/Special Educational Needs (SEN).md
       - Sexuality Education (SEd).md
