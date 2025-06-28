@@ -13,10 +13,12 @@ to inquire into real-world issues that concern their lives. Through inquiry
 and authentic learning experiences, the curriculum helps students attain
 relevant knowledge and understanding about these issues, develop critical
 and reflective thinking skills, and appreciate multiple perspectives.</p>
+<hr>
 <blockquote>
 <p><strong>Total Defence Day</strong>
 </p>
 </blockquote>
+<p>Students explore the roles of our everyday heroes!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,13 +28,12 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TDD_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_2.jpg">
 </div>
-<p>Students explore the roles of our everyday heroes!</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TDD_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/TDD_4.jpg">
 </div>
 <p></p>
 </th>
@@ -47,9 +48,11 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>International Friendship Day</p>
+<blockquote>
+<p><strong>International Friendship Day</strong>
+</p>
+</blockquote>
+<p>United in Diversity! Celebrating ASEAN’s rich cultures!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,70 +62,69 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/IFD_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/IFD_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/IFD_2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/IFD_3.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/IFD_4.jpg">
-</div>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Racial Harmony Day</p>
-<table style="minWidth: 50px">
+<blockquote>
+<p><strong>Racial Harmony Day</strong>
+</p>
+</blockquote>
+<p>Unity through Play! Exploring Singapore’s rich cultural heritage!</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_1_copy.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/RHD_2_copy.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_2_copy.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_4.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_5.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/ness1.png">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>National Day</p>
-</li>
-</ul>
+<blockquote>
+<p><strong>National Day</strong>
+</p>
+</blockquote>
+<p>United as one for National Day celebrations in school!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -132,25 +134,19 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE/ND_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/SMM09722_copy.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ND_3_copy.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/SMM09722_copy.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ND_4_copy.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
