@@ -210,6 +210,74 @@ citizenship.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Professional Development for Teachers</strong></h4>
+<p>Our professional development efforts equip teachers to be collaborative
+contributors, learning designers, and continual innovators in a tech-enabled
+environment. Through targeted training in ePedagogy, data literacy, and
+digital tools, teachers learn to design effective, student-centred learning
+experiences. A key initiative, EdTech Bytes, features short sharing sessions
+where teachers explore practical EdTech tools that can enhance lesson design,
+boost student engagement, facilitate collaboration, and support assessment
+for learning. This ongoing culture of sharing and adaptation empowers teachers
+to deepen their digital competencies and apply technology meaningfully
+in the classroom.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ICT/ict5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers discovering how Kahoot! Edu and its gamification features can
+supercharge student engagement at EdTech Bytes!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ict6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exploring the power of AI in SLS—teachers enhancing tech-enabled lesson
+design at our EdTech Bytes ePedagogy session.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ict7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK@FGPS staff getting hands-on with Microsoft’s video conferencing tools
+to connect and collaborate more effectively.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
