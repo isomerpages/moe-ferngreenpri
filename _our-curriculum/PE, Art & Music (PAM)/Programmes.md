@@ -74,3 +74,53 @@ as teamwork, empathy, and responsible decision-making.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/pam4.png">
 </div>
 <p></p>
+<hr>
+<h4><strong>Art</strong></h4>
+<p>Aligned with the art syllabus, the Art Milestone Programmes offer curated
+experiences that equip students with additional art skills, foster creativity
+and self-expression, and develop fine motor skills through diverse mediums
+and techniques. Some programmes also feature external arts practitioners
+to enrich students' learning.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 - Action Painting</p>
+</li>
+<li>
+<p>P2 - Triorama/DoodleChamps Assembly Show</p>
+</li>
+<li>
+<p>P3 - Mixed Media Assemblage</p>
+</li>
+<li>
+<p>P4 - Museum-based Learning&nbsp;</p>
+</li>
+<li>
+<p>P5 - Sculpture Art</p>
+</li>
+<li>
+<p>P6 - Post-PSLE Art Enrichment: Leaving an Art Legacy Programme</p>
+</li>
+</ul>
+<hr>
+<blockquote>
+<p><strong>P1 Art Milestone Programme – Action Painting</strong>
+</p>
+</blockquote>
+<p>P1 students explore emotions through abstract painting inspired by Kandinsky
+and Pollock, using music and unconventional tools. Working in groups, they
+create mixed-media collages reflecting their feelings. This fosters collaboration
+and emotional awareness through creative play.</p>
+<p></p>
+<blockquote>
+<p><strong>P2 Art Milestone Programme – Triorama</strong>
+</p>
+</blockquote>
+<p>P2 students create trioramas—three-dimensional miniature scenes with three
+visible sides— inspired by Liu Kang and Cheong Soo Pieng’s artworks. Using
+paper collage and recycled materials, they illustrate neighbourhood scenes.
+Through this, they explore depth, composition, and storytelling by applying
+foreground, middle ground, and background concepts.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
