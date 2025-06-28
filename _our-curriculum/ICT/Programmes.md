@@ -106,7 +106,6 @@ collaboration, and a future-ready mindset.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/AMDV3118.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Meet our ICT Champions—student leaders in digital responsibility and innovation!</p>
@@ -114,7 +113,9 @@ collaboration, and a future-ready mindset.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/OZFE9583.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our ICT Champions advocating for Good Digital Habits—one assembly at a
@@ -123,7 +124,9 @@ time!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/WhatsApp_Image_2025_04_21_at_7_38_14_AM__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Promoting respect and safety online—ICT Champions share about cyberbullying.</p>
@@ -131,7 +134,9 @@ time!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/EYIS7814.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our ICT Champions taking the lead—supporting peers and promoting good
