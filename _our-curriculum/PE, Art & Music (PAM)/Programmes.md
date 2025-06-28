@@ -110,7 +110,9 @@ to enrich students' learning.</p>
 and Pollock, using music and unconventional tools. Working in groups, they
 create mixed-media collages reflecting their feelings. This fosters collaboration
 and emotional awareness through creative play.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/pam5.png">
+</div>
 <blockquote>
 <p><strong>P2 Art Milestone Programme – Triorama</strong>
 </p>
@@ -202,10 +204,55 @@ while bringing in external arts practitioners to teach the students.</p>
 <p>P6 - Post PSLE Programme: Let’s Sing!</p>
 </li>
 </ul>
+<hr>
+<blockquote>
+<p><strong>P1 Music Milestone Programme – Let’s Play SoundShapes and BoomWhackers!</strong>
+</p>
+</blockquote>
+<p>Students develop musical skills through hands-on learning with SoundShapes
+and BoomWhackers. They gain rhythm recognition, melody understanding, and
+creative expression while building confidence. The playful approach makes
+music learning enjoyable, fostering a lasting interest in musical exploration.</p>
+<p></p>
+<blockquote>
+<p><strong>P2 Music Milestone Programme 1 – Fun with Handbells&nbsp;</strong>
+</p>
+</blockquote>
+<p>Through the handbell programme, students develop essential musical and
+social skills in an engaging environment. Playing specific bells in a group
+setting enhances their sense of timing, pitch recognition, and musical
+coordination. This collaborative music-making experience builds teamwork,
+responsibility, and self-confidence while fostering a joy for musical expression.</p>
+<p></p>
+<p></p>
+<blockquote>
+<p><strong>P2 Music Milestone Programme 2 - Music and Movement</strong>&nbsp;</p>
+</blockquote>
+<p>In the Music and Movement Programme, our P2 students have an engaging
+experience that develops their singing skills and physical coordination.
+Through singing with accuracy in pitch and rhythm, combined with precise
+movements, they foster a strong connection between music and movement.</p>
+<p></p>
+<p></p>
+<blockquote>
+<p><strong>P4 Music Milestone Programme – Percussive Hits!</strong>
+</p>
+</blockquote>
+<p>In this engaging programme, P4 students embark on a rhythmic journey,
+exploring diverse cultural rhythms and creating music as a class. Through
+hands-on experience with various ethnic percussion instruments, the students
+develop their musical skills and creativity, bringing complex rhythms to
+life through collaborative performance.</p>
 <p>
 <br>
 </p>
 <p></p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
