@@ -170,7 +170,7 @@ for their efforts!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/WhatsApp_Image_2025_03_21_at_3_50_20_PM.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ICT/WhatsApp_Image_2025_03_21_at_3_50_20_PM.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,13 +181,23 @@ during the Digital Bootcamp!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ICT/sst.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ICT/sst.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representatives of ICT Champions joined the SST Digital Citizenship Workshop
 2025 to learn, lead, and inspire their peers toward responsible digital
 citizenship.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ICT/pei_hwa.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>FGians Shine Bright at Pei Hwa Hackathon!</p>
 </td>
 </tr>
 <tr>
