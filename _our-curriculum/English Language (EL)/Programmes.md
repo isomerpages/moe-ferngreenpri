@@ -22,6 +22,7 @@ English lessons.</p>
 reading and spelling skills.</p>
 </li>
 </ul>
+<hr>
 <h4><strong>Signature Programme</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,28 +40,53 @@ activities from the assembly programme, class and recess activities.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p>Dressed as our favourite storybook characters - Characters Alive!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/L1050612_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/L1050563.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Teachers tell exciting stories through books and puppets in the school
 library, kindling the imagination of young minds.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_10.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Recess buzzed with reading fun—Kahoot! games at parent-led booths inspired
 students to explore and enjoy the world of books.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_Pic_6.png">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/DSC09296.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/el_fiesta.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -101,6 +127,14 @@ Experiments</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Talking Point and News in Brief</strong>&nbsp;</h4>
@@ -116,16 +150,24 @@ students.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students championing togetherness and sharing why racial harmony matters</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Students showcasing their oratorical flair with confident voices and boundless
 topics</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/talking_point.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,6 +180,7 @@ topics</p>
 nurturing a love for writing and strengthening language skills through
 creativity. You can view the publication here at <a href="https://go.gov.sg/fgpsjustwrite2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/fgpsjustwrite2024.</a>
 </p>
+<hr>
 <h4><strong>Nurturing a Love for Reading Across Our School Community</strong></h4>
 <p>Recognising the importance of reading, the school implements various programmes
 to nurture students’ love for books and lifelong reading habits.</p>
@@ -149,15 +192,36 @@ to nurture students’ love for books and lifelong reading habits.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Listening, Imagining, Learning – The Magic of Being Read To</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Listening, Imagining, Learning – The Magic of Being Read To</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Motivating Young Minds to Read, Learn, and Grow!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
