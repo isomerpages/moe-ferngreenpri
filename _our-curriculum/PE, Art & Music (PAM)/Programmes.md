@@ -133,9 +133,7 @@ awareness. This project builds critical thinking, adaptability, collaboration,
 and global literacy through art linked to real-world challenges.</p>
 <p></p>
 <blockquote>
-<p><strong>P4 Art Milestone Programme - Museum-based Learning</strong>
-</p>
-<p><strong>(Including Learning Journey to the Singapore Art Museum@ Tanjong Pagar Distripark)</strong>
+<p><strong>P4 Art Milestone Programme - Museum-based Learning (Including Learning Journey to the Singapore Art Museum@ Tanjong Pagar Distripark)</strong>
 </p>
 </blockquote>
 <p>Students visit the Singapore Art Museum@Tanjong Pagar Distripark to explore
