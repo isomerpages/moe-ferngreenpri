@@ -6,7 +6,7 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <p>The ECG curriculum in FGPS aims to:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Nurture students’ self-awareness, self-directedness, and life skills for
 continuous learning. (Skills)</p>
@@ -22,41 +22,31 @@ contribute to the functioning of society. (Mindset)</p>
 <li>
 <p>Equip students with skills and means to positively engage their parents
 and other career influencers. (Engaging the Community)</p>
+<hr>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<blockquote>
+<p>Exploring pathways with Education and Career Guidance!</p>
+</blockquote>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_4.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG_Talk_4.jpg">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
