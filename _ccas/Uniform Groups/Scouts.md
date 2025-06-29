@@ -10,10 +10,10 @@ resilient leaders through its values-based educational programme. A Cub
 Scout is expected to uphold the Scout Promise and Scout Law, both of which
 are closely aligned to Core Values within the MOE 21st Century Competencies
 framework.&nbsp;&nbsp;</p>
-<p><em><u>The Scout Promise</u></em> 
+<p><strong><em><u>The Scout Promise</u></em> </strong>
 <br><em>On my honour,&nbsp; <br>I promise that I’ll do my best,<br>To do my duty to God, <br>And to the Republic of Singapore, <br>To help other people, <br>And to keep the Scout Law</em>
 </p>
-<p><u>The Scout Law</u> 
+<p><strong><u>The Scout Law</u> </strong>
 <br><em>A scout is to be trusted. </em>&nbsp;
 <br><em>A scout is loyal. </em>&nbsp;
 <br><em>A scout makes friends, establishes and maintains harmonious relations. </em>&nbsp;
