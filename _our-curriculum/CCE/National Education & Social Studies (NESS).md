@@ -96,22 +96,16 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_2_copy.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/RHD_4.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/ness1.png">
 </div>
 <p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,9 +119,8 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </p>
 </blockquote>
 <p>United as one for National Day celebrations in school!</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -136,77 +129,56 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/SMM09722_copy.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide1.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<ol start="2" data-tight="true" class="tight">
-<li>
+<blockquote>
 <p><strong>P5 NE Show</strong>
 </p>
-</li>
-</ol>
-<table style="minWidth: 50px">
+</blockquote>
+<p>Celebrating our heritage together at the P5 NE Show.</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/Slide2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_3_copy.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_3_copy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/NE_Show_4_copy.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>SS Cohort Learning Journeys</strong>
+<blockquote>
+<p><strong>Social Studies Learning Journeys</strong>
 </p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>P1 – Jacob Ballas Children’s Garden</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P1_SS_LJ.jpg">
-</div>
-<p></p>
-</li>
-<li>
-<p>P2 – National Orchid Garden</p>
+</blockquote>
+<p>Primary 3 students experiencing the rich culture of Geylang Serai.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -216,32 +188,24 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/Slide3.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_3.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_4.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P2_LJ_2.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>P3 – Singapore Mobility Gallery</p>
+<p>Learning journey to Kreta Ayer Heritage Gallery with our Primary 4 students.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -249,35 +213,26 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/Slide4.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_2.jpg">
-</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_3.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P3_LJ_4.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>P4 – Geylang Serai Heritage Gallery &amp; Kreta Ayer Heritage Gallery</p>
+<p>P5 students experiencing the vibrant heritage at the Indian Heritage Centre.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -287,33 +242,25 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide5.png">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_2.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_3.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P4_LJ_4.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>P5 – Indian Heritage Centre</p>
+<p>P6 students experiencing history and culture at the Asian Civilisations
+Museum.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -323,39 +270,11 @@ and reflective thinking skills, and appreciate multiple perspectives.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5_LJ_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide6.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5_LJ_3.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
-</li>
-<li>
-<p>P6 – Asian Civilisations Museum</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P6_LJ_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/P6_LJ_2.jpg">
-</div>
 </th>
 </tr>
 </tbody>
