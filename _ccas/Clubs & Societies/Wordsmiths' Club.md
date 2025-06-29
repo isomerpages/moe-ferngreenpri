@@ -48,7 +48,9 @@ Debate Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WS__1_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Debate team which represented the school for the Wits and Words: Inter-school
@@ -57,7 +59,9 @@ Debate Championship 2025</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WS__2_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students presenting to the school for News In Brief, a Pre-assembly Programme</p>
@@ -65,7 +69,9 @@ Debate Championship 2025</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WS__3_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students engaged in learning about the game of Scrabble</p>
