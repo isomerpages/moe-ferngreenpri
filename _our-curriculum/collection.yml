@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Innovation/Environmental Education.md
       - Innovation/Overview.md
       - Innovation/.keep
       - Overview.md
