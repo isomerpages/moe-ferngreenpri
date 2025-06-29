@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development Team (SDT)
 ---
-<h4><strong>Student Leadership at Fern Green Primary School</strong></h4>
-<p><strong>VISION: Caring leaders who grow, glow and guide.</strong>
-</p>
+<h4><strong>VISION</strong></h4>
+<p>Caring leaders who grow, glow and guide.</p>
+<hr>
 <p>At Fern Green Primary School, we believe that every student has the potential
 to lead. We believe leadership is not about titles — it is about influence,
 initiative and integrity. Through meaningful opportunities, mentorship
