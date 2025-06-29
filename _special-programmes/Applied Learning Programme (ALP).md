@@ -12,14 +12,14 @@ for self-expression through the creation of a personally meaningful artefact
 that is shared with a larger community. Making also stresses on the notion
 of "failing forward", equipping students with the mental resilience to
 recover from repeated failures while engaging them in the joy of learning.</p>
-<p>The <strong>FGPS Maker Education ALP</strong> aims to trigger Students’
-interest in STEM by exposing them to engaging projects that will enable
-them to use everyday materials and STEM concepts to design and build solutions
+<p>The <strong>FGPS Maker Education</strong> aims to trigger Students’ interest
+in STEM by exposing them to engaging projects that will enable them to
+use everyday materials and STEM concepts to design and build solutions
 to address problems. With the Maker Education ALP, we hope to equip our
 students with 21st century competencies, hone their critical and inventive
 thinking skills, and foster innovation and develop their ability to identify
 and solve problems.&nbsp;</p>
-<p>The <strong>FGPS Maker Education ALP </strong>will take on a 3-tier learning
+<p>The <strong>FGPS Maker Education </strong>will take on a 3-tier learning
 structure &amp; progressive skill training framework as depicted below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP/alp 3-tier .png">
