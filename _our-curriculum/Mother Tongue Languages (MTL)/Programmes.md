@@ -11,10 +11,17 @@ the Mother Tongue Language Fortnight, students participate in hands-on
 cultural activities thoughtfully curated by the department. These experiences
 help students develop a deeper understanding and appreciation of the unique
 cultural aspects tied to their respective Mother Tongue Language.</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MTL/mtl1_2025__1_.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MTL/mtl1_2025__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MTL/mtl1_2025__3_.png">
+</div>
 <h4><strong>Festive Celebrations</strong></h4>
 <p>Festive celebrations provide students with meaningful opportunities to
 learn about and appreciate the rich diversity of our nation. By participating
@@ -22,9 +29,9 @@ in various cultural festivities, students engage with different traditions
 and practices, fostering mutual respect and understanding. These celebrations
 also encourage interaction in a vibrant school setting, strengthening the
 sense of unity within our diverse school community.</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MTL/mtl1_2025__4_.png">
+</div>
 <h4><strong>P1 &amp; P2 Speech &amp; Drama Enrichment Programme</strong></h4>
 <p>The Speech and Drama Enrichment Programme offers Primary 1 and 2 students
 a meaningful platform to explore a variety of Mother Tongue Language literary
@@ -33,4 +40,7 @@ respective Mother Tongue Language. Through engaging activities and guided
 performances, students gain confidence in communication and self-expression.
 The programme culminates in a vibrant talent showcase, “Little Stars of
 Broadway”, where students proudly present their learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MTL/mtl1_2025__5_.png">
+</div>
 <p></p>
