@@ -115,6 +115,4 @@ musical sections that are challenging for themselves</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
