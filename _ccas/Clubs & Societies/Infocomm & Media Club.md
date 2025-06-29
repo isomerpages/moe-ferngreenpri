@@ -43,20 +43,26 @@ and problem-solving skills, preparing them to thrive in a tech-savvy world.</p>
 <h4><strong>P3 - Clay Animation</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT2.png">
 </div>
 <blockquote>
 <p></p>
 <h4><strong>P4 - Microsoft Game Development (MakeCode Arcade and Minecraft Education)</strong></h4>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT__2_.png">
+</div>
 <p></p>
 <blockquote>
 <h4><strong>P5 - Microbits &amp; Microsoft Digital Making</strong></h4>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT4.png">
 </div>
 <blockquote>
 <h4><strong>P6 - Professional Photography &amp; Videography</strong></h4>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT__1_.png">
+</div>
 <p></p>
