@@ -20,19 +20,35 @@ healthy habits.</p>
 <p>More than just a sport, Basketball serves as a platform for holistic development,
 nurturing well-rounded individuals who learn to lead, collaborate, and
 persevere—both on and off the court.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball_1.jpg">
-</div>
-<h4><strong>Represent School for NSG/ Performances</strong></h4>
-<ul data-tight="true" class="tight">
+<hr>
+<h4><strong>Programme Objectives</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
-<p>2024 SPSSC Basketball League Games Senior Division&nbsp;</p>
+<p><strong>Skill Acquisition and Development<br></strong> Students are taught
+fundamental basketball skills including dribbling, shooting, passing, and
+basic defensive techniques. Training sessions are differentiated to meet
+the needs of both novice and more experienced players, ensuring steady
+progression and skill mastery.</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/bball1.png">
-</div>
+<li>
+<p><strong>Physical Fitness and Coordination<br></strong> Participation in
+regular training enhances overall physical fitness. Through a variety of
+drills and exercises, students develop strength, agility, balance, and
+coordination—attributes that contribute to their broader physical development.</p>
+</li>
+<li>
+<p><strong>Teamwork and Character Education<br></strong> Basketball serves
+as an effective platform for teaching essential life skills such as communication,
+cooperation, and mutual respect. The team-based nature of the sport helps
+students cultivate a sense of responsibility, sportsmanship, and community.</p>
+</li>
+<li>
+<p><strong>Engagement and Enjoyment<br></strong> While maintaining a structured
+and purposeful approach, the CCA also emphasises enjoyment and enthusiasm
+for the game. Interactive drills, friendly matches, and intra-school competitions
+help keep students motivated and foster a sustained interest in physical
+activity.</p>
+</li>
+</ol>
+<p></p>
 <p></p>
