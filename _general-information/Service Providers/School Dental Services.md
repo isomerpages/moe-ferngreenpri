@@ -116,8 +116,7 @@ treatment during clinic closure, please call:</p>
 <p>Valour Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>49 Punggol Central
-<br>S(828728)</p>
+<p>49 Punggol Central S(828728)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9113 7654</p>
