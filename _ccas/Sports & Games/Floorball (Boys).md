@@ -53,7 +53,9 @@ students to thrive both on and off the court.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball__1_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Regular training session</p>
@@ -63,14 +65,9 @@ students to thrive both on and off the court.</p>
 <td rowspan="1" colspan="2">
 <p>Our seniors have also stepped up as caring leaders, taking on the role
 of mentoring younger or new players, guiding them with patience and support.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior coaching the junior</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball__2_.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -84,14 +81,9 @@ season, they displayed grit, determination, and an unbreakable team spirit—fig
 for every goal and supporting one another every step of the way. We are
 proud of their efforts in every game, as each player gains valuable experience
 and continues to grow into a stronger and more confident athlete.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball__3_.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -102,30 +94,10 @@ benefited immensely from the session, enhancing their core skills—such
 as ball handling, shooting, and defending—while learning directly from
 national athletes who inspired them with their expertise and passion for
 the sport.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball__4_.png">
+</div>
+<p>Team with Singapore Women’s National Floorball Team</p>
 </td>
 </tr>
 </tbody>
