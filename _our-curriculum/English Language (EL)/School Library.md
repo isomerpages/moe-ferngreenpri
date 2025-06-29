@@ -47,7 +47,7 @@ read, collaborate and learn.</p>
 <p>School Librarian:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suriatini Binte Nor Ahmad</p>
+<p>Ms Emily Grace Seow</p>
 </td>
 </tr>
 <tr>
