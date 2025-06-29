@@ -53,7 +53,9 @@ respect for nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/OAC__1_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orienteering and basic navigation skills</p>
@@ -61,7 +63,9 @@ respect for nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/OAC__2_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tent-pitching and campcraft</p>
@@ -69,7 +73,9 @@ respect for nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/OAC__3_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>First Aid</p>
