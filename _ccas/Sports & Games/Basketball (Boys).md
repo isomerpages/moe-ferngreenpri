@@ -64,7 +64,7 @@ activity.</p>
 <td rowspan="1" colspan="1">
 <p>Friendly Match with Holy Innocents Primary</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/bball.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/bball.png">
 </div>
 </td>
 </tr>
