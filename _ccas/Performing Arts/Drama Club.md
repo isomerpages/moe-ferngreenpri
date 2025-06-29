@@ -24,7 +24,7 @@ training and performances.</p>
 <p>The Drama Club aims to develop well-rounded individuals who are confident,
 expressive, and ready to take the stage in school and beyond.</p>
 <hr>
-<h4><strong>Programmes</strong></h4>
+<h4><strong>Programmes &amp; Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Theatre games and improvisation exercises</p>
