@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Innovation/.keep
       - Overview.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
