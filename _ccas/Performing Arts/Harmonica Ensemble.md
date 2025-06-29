@@ -48,6 +48,73 @@ happening in early 2025, as well as upcoming performances.&nbsp;</p>
 <p>The Harmonica Ensemble CCA has performed in internal and external events,
 and would continue to light up the stage with familiar tunes in future
 events!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Harmonica__1_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance for Fernvale Family Day Carnival</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Harmonica__2_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Working together to figure out the notes to play</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Harmonica__3_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rehearsal for Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Harmonica__4_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students having the opportunity to practice by themselves to work on the
+musical sections that are challenging for themselves</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Harmonica__5_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rehearsing during CCA with the harmonica instructor</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
