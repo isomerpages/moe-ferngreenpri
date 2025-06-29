@@ -21,7 +21,7 @@ healthy habits.</p>
 nurturing well-rounded individuals who learn to lead, collaborate, and
 persevere—both on and off the court.</p>
 <hr>
-<h4><strong>Programme Objectives</strong></h4>
+<h4><strong>Programmes Objectives</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Skill Acquisition and Development<br></strong> Students are taught
