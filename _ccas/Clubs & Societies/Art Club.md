@@ -90,14 +90,6 @@ promote teamwork and shared artistic vision.</p>
 <p>P4 3D Mixed Media Workshop</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
