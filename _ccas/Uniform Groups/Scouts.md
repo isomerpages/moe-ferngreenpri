@@ -53,29 +53,55 @@ knots</p>
 <p><strong>Founder’s Day Hike at Singapore River</strong>
 </p>
 </blockquote>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__1_.png">
+</div>
 <p></p>
 <blockquote>
 <p><strong>Commemoration of Scout Founder’s Day</strong>
 </p>
 </blockquote>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__2_.png">
+</div>
 <p></p>
 <blockquote>
 <p><strong>Total Defence Day Recess Activities</strong>
 </p>
 </blockquote>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__3_.png">
+</div>
 <p></p>
 <blockquote>
 <p><strong>Cub Scout Leadership Training Camp</strong>
 </p>
 </blockquote>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__4_.png">
+</div>
 <p></p>
 <blockquote>
 <p><strong>First Aid Proficiency Training</strong>
 </p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__5_.png">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Outdoor Cooking</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__6_.png">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Model Pioneering&nbsp;</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/scouts__7_.png">
+</div>
 <p></p>
