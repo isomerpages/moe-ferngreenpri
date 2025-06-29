@@ -13,7 +13,7 @@ students learn more about themselves and their interactions with others.
 Students visited the Sengkang Riverside Park to hone their life drawing
 skills and made close observations. These experiences shape their character,
 develop values and 21<sup>st</sup> century competencies for them to thrive
-in the current world.&nbsp;&nbsp;</p>
+in the current world.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,12 +23,12 @@ in the current world.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_2.jpg">
 </div>
 </td>
 </tr>
