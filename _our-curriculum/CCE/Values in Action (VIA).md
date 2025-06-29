@@ -9,42 +9,10 @@ variant: tiptap
 in school and at home. Students learn to be socially responsible citizens
 who contribute actively through the learning and application of values,
 knowledge, and skills.</p>
-<h4><strong>&nbsp;Programmes &amp; Events</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tan Tock Seng Hospital (TTSH) Project Hong Bao</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TTSH_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE/TTSH_3.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TTSH_4.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>‘R<sup>3</sup>ICH in Character’ Values Talk</p>
+<hr>
+<blockquote>
+<p>RICH in Character Values Talk by Students!</p>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,22 +20,30 @@ knowledge, and skills.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCE/Values_Talk_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCE/Values_Talk_1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values_Talk_2.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCE/Values_Talk_2.jpg">
 </div>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Honouring our Cleaners and Support Staff</p>
+<blockquote>
+<p>Honouring our Cleaners</p>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -86,43 +62,58 @@ knowledge, and skills.</p>
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-</li>
-<li>
+<blockquote>
 <p>Advocates with Heart Fiesta</p>
-<table style="minWidth: 50px">
+</blockquote>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Advocates_with_Heart_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Advocates_with_Heart_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/via1.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Advocates_with_Heart_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Advocates_with_Heart_2.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
+<blockquote>
+<p>P3 Buddy Clean Workshop</p>
+</blockquote>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE/via2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
