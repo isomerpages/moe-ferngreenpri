@@ -41,6 +41,11 @@ to Singapore.</p>
 <p><strong>School: Wuxi Jinqiao Bilingual Experimental School</strong>
 </p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TIE/e44583ed_4c61_4567_9a60_713498492f38.jpg">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TIE/IMG_4627.jpg">
+</div>
 <p></p>
