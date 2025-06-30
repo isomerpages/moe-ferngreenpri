@@ -5,69 +5,64 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p>The Infocomm and Media Club CCA offers a comprehensive and progressive
-learning journey for students from Primary 3 to Primary 6, focusing on
-infocomm and media production.</p>
-<p>P3 students embark on their creative adventure with clay animation, planning
-their stories using storyboards, crafting characters from modeling clay,
-and bringing their narratives to life through stop-motion techniques.</p>
-<p>In P4, students delve into the world of coding with Scratch programming,
-where they create their own games and stories, while also acquiring basic
-audio-visual skills.</p>
-<p>By P5, students advance to exploring the world of Microbits and developing
-their own apps using Thunkable, fostering their problem-solving and programming
-abilities.</p>
-<p>Finally, in P6, students master the art of professional photography and
-videography, gaining essential skills in capturing and editing high-quality
-visuals, and documenting school events. This CCA not only nurtures creativity
-and technical expertise but also ignites a passion for digital media among
-young learners, preparing them for a technologically advanced future.</p>
-<h4><strong>Achievements/ Accomplishments</strong></h4>
-<p>Primary 6 student photographers who participated in the <strong>Our School, Our Stories Photo and Video Contest</strong> in
-2024:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_club.jpg">
-</div>
-<ol data-tight="true" class="tight">
+<p>The Infocomm and Media Club provides students with a structured and progressive
+learning experience from Primary 3 to Primary 6, focusing on both infocomm
+technology and media production. Through activities such as clay animation,
+coding, game development, photography, and videography, students gain hands-on
+exposure to digital creation and storytelling. The CCA fosters essential
+21st Century Competencies, including critical and inventive thinking, effective
+communication, collaboration, as well as information and media literacy.
+By engaging in authentic media production tasks, such as creating content
+and documenting school events, students develop confidence, creativity,
+and future-ready skills that prepare them for the digital age.</p>
+<hr>
+<h4><strong>Programmes &amp; Activities</strong></h4>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Myra Nasuha Binte Mohammad Irwan</p>
+<p>🎬 <em>Primary 3</em>: Dive into clay animation and learn to make fun,
+engaging presentations with PowerPoint.</p>
 </li>
 <li>
-<p>Lye Jin En Lovelle</p>
+<p>🎮 <em>Primary 4</em>: Build exciting games using MakeCode Arcade and Minecraft
+Education, and explore Augmented Reality, podcasting and digital drawing
+through the Apple Media Programme.</p>
 </li>
 <li>
-<p>Li Jingxuan</p>
+<p>💡 <em>Primary 5</em>: Tinker with Microbits and design real-world tech
+solutions using sensors, coding, and AI tools like Copilot.</p>
 </li>
 <li>
-<p>Fong Chen Xi</p>
+<p>📸 <em>Primary 6</em>: Master photography and videography skills, document
+school events, and take part in national media competitions.</p>
 </li>
-</ol>
+</ul>
+<p>Through hands-on projects, students develop digital confidence, creativity,
+and problem-solving skills, preparing them to thrive in a tech-savvy world.</p>
+<blockquote>
 <h4><strong>P3 - Clay Animation</strong></h4>
-<p>Bringing stories to life! P3 students have fun planning their storyboards,
-crafting characters from modeling clay, and capturing each scene to create
-amazing stop-motion animations.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT2.png">
 </div>
-<h4><strong>P4 - Scratch Programming</strong></h4>
-<p>Unleash your creativity! P4 students enjoy the excitement of creating
-their own games and stories using Scratch programming, transforming ideas
-into interactive fun.</p>
+<blockquote>
+<p></p>
+<h4><strong>P4 - Microsoft Game Development (MakeCode Arcade and Minecraft Education)</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT__2_.png">
 </div>
-<h4><strong>P5 - Microbits &amp; Thunkable</strong></h4>
-<p>Discovering the fun of coding with Microbits and Thunkable! Our P5 students
-bring ideas to life through interactive and hands-on projects, turning
-imagination into reality.</p>
+<p></p>
+<blockquote>
+<h4><strong>P5 - Microbits &amp; Microsoft Digital Making</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT4.png">
 </div>
+<blockquote>
 <h4><strong>P6 - Professional Photography &amp; Videography</strong></h4>
-<p>Capture the moment! Our P6 students have a blast learning photography
-and videography, skillfully documenting school events and creating lasting
-memories.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ICT5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/ICT__1_.png">
 </div>
 <p></p>

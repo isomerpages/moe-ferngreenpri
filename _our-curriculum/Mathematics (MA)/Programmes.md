@@ -5,67 +5,158 @@ description: ""
 third_nav_title: Mathematics (MA)
 variant: tiptap
 ---
-<h4><strong>Increasing Confidence and Achievement in Numeracy (ICAN)</strong></h4>
-<p>ICAN is targeted at improving the confidence and achievement of students
-in mathematics by using intervention strategies to tackle 4 key issues:
-learning gaps, language, motivation and memory.</p>
 <h4><strong>Learning Support for Mathematics (LSM)</strong></h4>
-<p>The LSM programme provides better support for selected Primary 1 students
-who need more reinforcement in their learning of basic numeracy in mathematics.
-Students are placed in smaller groups and participate in customized activities
-based on their learning progress.</p>
-<h4><strong>Annual Math Week (Joy for Learning)</strong></h4>
-<p>Math Week is a school wide event organised by the Mathematics Department.
-It aims to nurture the joy and passion of learning Mathematics and helps
-students to develop logical reasoning and critical thinking through engaging
-and interactive recess games which involve the application of Math in real
-life activities and using the different Math process skills.</p>
-<p>Math Week is held annually over a period of one week, in conjunction with
-International Day of Mathematics, with the themes of Mathematics for everyone
-and Math Mysteries. With the help of our parent volunteers and teachers,
-students were able to collaborate, participate and take up challenges in
-different Math activities.</p>
-<p>Students enjoyed a series of activities such as the learning of different
-numeral systems around the world, solving math puzzles like Magic Square
-and Sudoku, making connections between the mathematical concepts and its
-application to their daily lives. We also had activities which ranged from
-Math escape room, movie screening and making of Math thinking hats. These
-enriching learning experiences helped to develop our students to be motivated
-Math learners, confident problem solvers and reflective Math thinkers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_1.png">
-</div>
+<p>The LSM programme is an early intervention programme in mathematics for
+students who need additional support in acquiring basic numeracy skills
+when they enter Primary 1. The provision of support is up to 4 years but
+students’ progress will be reviewed every semester.</p>
+<p>The LSM programme focuses on&nbsp; building good mathematical understanding
+and aims to build students’ confidence and positive beliefs about their
+ability to do mathematics. Students learn mathematical concepts through
+varied hands-on activities.</p>
+<hr>
+<h4><strong>Excellence 2000 (E2K) Mathematics Programme&nbsp;</strong></h4>
+<p>E2K is developed by the Israel Centre for Excellence through Education
+and is a mathematics enrichment programme for upper primary high-ability
+students who demonstrate interest and ability in Mathematics. It aims to
+develop in students mathematical reasoning skills and deepen their conceptual
+understanding through an inquiry approach.</p>
+<p>Students have opportunities to collaborate with their peers and engage
+in mathematical thinking through puzzles, games and mathematics explorations.
+The rich learning experiences offered by the programme serve to help students
+to develop the habits, attitudes and dispositions mathematicians possess,
+as well as to gain important 21<sup>st</sup> century competencies such as
+critical and inventive thinking and effective communication skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_2.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students engaged in mathematical discourse during Math Week recess activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joyful Learners - Arousing students’ interest through digital platforms
+to learn Math concepts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Showcasing their Mathematics knowledge through their creativity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Motivated Math Learners - Winners for Math Kahoot Games (Learning Mathematics
+together with the students from China, Tianjin, on cultural exchange)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our P4 students used Koobits to recap Math concepts on fractions with
+our Hong Kong exchange students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use a gigantic “Snake and Ladder” to teach numbers to 100 for the kinesthetic
+LSM learners.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leveraging on gamification through the use of Blooklet to teach and learn
+Mathematics in our LSM classrooms .&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math8.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using physical counters to ignite joy of learning and promote problem-based
+learning on the topic of picture graph for our LSM students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math9.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 E2K students used interlocking cubes to help them in the visualisation
+of cube submarines.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics/math10.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 E2K students did group discussions to brainstorm how to solve math
+puzzles involving addition and multiplication towers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Math_Week_2023___Photo_4.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Picture3.png">
-</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Picture4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/Picture6.png">
-</div>
-<h4><strong>P1 Mathematics Parent’s Workshop</strong></h4>
-<p>Parents will learn how their children learn Mathematics in the classroom.
-They will learn to use manipulatives, activities and games to reinforce
-mathematical concepts and skills with their children and help them to make
-mathematical connections in real life situations.</p>
-<p><strong>For more information</strong> 
-<br><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematics Curriculum</a>
-</p>
-<p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank">Primary school subjects and syllabuses | MOE</a>
-</p>

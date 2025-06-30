@@ -2,8 +2,7 @@ collections:
   partnerships:
     output: true
     order:
-      - Overview.md
+      - Alumni.md
       - Parent Support Group (PSG).md
       - Positive Parenting Programme (Triple P).md
       - School Advisory Committee (SAC).md
-      - Alumni.md

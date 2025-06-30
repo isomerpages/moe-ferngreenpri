@@ -94,17 +94,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chow Jee Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chow_jee_soon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD MA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,10 +105,21 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wee Kiat (Steven)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wee_kiat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Zhao-Xiang Keith</p>
+<p>Mr Ng Zhao-Xiang (Keith)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_zhao-xiang@moe.edu.sg</p>
@@ -141,7 +141,7 @@ third_nav_title: Our People
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Sujing Natalie</p>
+<p>Ms Chen Sujing (Mrs Natalie Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_sujing@moe.edu.sg</p>
@@ -174,7 +174,7 @@ third_nav_title: Our People
 <p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap-Tan Huey Teck Michelle</p>
+<p>Mrs Yap-Tan Huey Teck (Michelle)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_huey_teck@moe.edu.sg</p>
@@ -207,7 +207,7 @@ third_nav_title: Our People
 <p>YH MP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Lee-Ng Peck Mui</p>
+<p>Mrs Cheryl Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_peck_mui@moe.edu.sg</p>
@@ -233,17 +233,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>khoo_seok_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH LP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Pei Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chen_peijin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -354,17 +343,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>siew_lai_lone@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ops Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Teck Chye Andy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_teck_chye@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

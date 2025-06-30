@@ -4,40 +4,62 @@ permalink: /ccas/overview/
 description: ""
 variant: tiptap
 ---
-<p>(CCAs are offered from Primary 3 level onwards)</p>
-<p>CCA are a key component of students’ holistic education. In Fern Green
-Primary School, we aspire to provide students with the opportunity to discover
+<p>CCA is a key component of students' holistic education. In Fern Green
+Primary School, we aspire to provide students the opportunity to discover
 their interests and talents in the CCA of their choice. To enhance the
-holistic stance of CCA in Fern Green Primary School, we integrate character
-building and the learning of values, social emotional competencies and
-skills in all our CCA through well-planned and comprehensive CCA plans.</p>
-<p>In line with the School’s Desired Culture of Care and to promote the “Kampung
-Spirit”, we also aim to build camaraderie among students from diverse backgrounds
-through interactions during CCA sessions. By learning and interacting with
-one another, students develop friendships and deepen their sense of belonging
-to the school and community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA.png">
-</div>
+holistic stance of CCA in Fern Green Primary School, we aim to integrate
+character development, values inculcation, social emotional competencies
+and skills through comprehensive.</p>
+<p>To leverage the school's desired culture of care and discipline, we also
+aim to improve camaraderie among students from diverse backgrounds through
+their interactions during their CCA sessions. By learning and interacting
+with one another, students develop friendships and deepen their sense of
+belonging to the school and community.</p>
 <h4><strong>CCA Objectives</strong></h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;To provide students with a platform to discover
-their interests and talents&nbsp;to help them live a balanced lifestyle
-in adulthood.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;To acquire useful life skills and 21st&nbsp;Century
-Competencies.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;To cater to a broad spectrum of interests and
-talents.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;To provide a broad exposure to various types
-of CCA opportunities for future specialisation.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;To capitalise on teachable moments to help students
-make connections of values, skills and competencies learnt and their CCA
-experiences.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To provide students with a platform to discover their interests and talents
+to help them live a balanced lifestyle in adulthood.</p>
+</li>
+<li>
+<p>To acquire useful life skills and 21st Century Competencies.</p>
+</li>
+<li>
+<p>To cater to a broad spectrum of interests and talents.</p>
+</li>
+<li>
+<p>To provide a broad exposure to various types of CCA opportunities for
+future specialisation.</p>
+</li>
+<li>
+<p>To capitalise on teachable moments to help students make connections of
+values, skills and competencies learnt and their CCA experiences.</p>
+</li>
+</ol>
 <h4><strong>Our CCAs</strong></h4>
 <p>To achieve our desired outcome of providing a broad exposure to various
 types of CCA opportunities, our school is offering the following CCAs:</p>
-<p><strong><em>Clubs &amp; Societies</em></strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Clubs &amp; Societies</strong>
 </p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Art Club</p>
 </li>
@@ -48,18 +70,18 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Makers’ Club</p>
 </li>
 <li>
-<p>Outdoor Adventure Club</p>
-</li>
-<li>
 <p>Wordsmiths' Club</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA2.png">
-</div>
-<p><strong><em>Performing Arts</em></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
 </p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Drama Club</p>
 </li>
@@ -76,35 +98,56 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Show Choir</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/CCA3.png">
-</div>
-<p><strong><em>Sports &amp; Games</em></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports &amp; Games</strong>
 </p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Basketball (Boys)</p>
 </li>
 <li>
-<p>Football (Boys &amp; Girls)</p>
-</li>
-<li>
-<p>Tchoukball (Boys &amp; Girls)</p>
-</li>
-<li>
 <p>Floorball (Boys)</p>
 </li>
+<li>
+<p>Football</p>
+</li>
+<li>
+<p>Outdoor Adventure Club</p>
+</li>
+<li>
+<p>Tchoukball&nbsp;</p>
+</li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA4.png">
-</div>
-<p><strong><em>Uniform Group</em></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Uniformed Group</strong>
 </p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Scouts</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Training Hours</strong></h4>
 <p>Every Tuesday, 2.30 p.m. to 4.30 p.m.</p>
 <h4><strong>CCA Teacher-In-Charge Contacts</strong></h4>
@@ -135,10 +178,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Hazel Huang</p>
+<p>Ms Nur Yuhanis Binte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_wanyi_hazel@moe.edu.sg</a>
+<p><a href="mailto:nur_yuhanis_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_yuhanis_yusof@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -161,10 +204,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Heng Peck Hoon</p>
+<p>Ms Ashika Begum Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">heng_peck_hoon@moe.edu.sg</a>
+<p><a href="mailto:ashika_begum_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ashika_begum_mohamed_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -174,7 +217,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alfred</p>
+<p>Mr Alfred Kriswano Sutjiadi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">alfred_kriswano_sutjiadi@moe.edu.sg</a>
@@ -187,7 +230,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Izree</p>
+<p>Mr Muhammad Izree</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_izree_jalil@moe.edu.sg</a>
@@ -235,14 +278,14 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Makers Club</strong>
+<p><strong>Makers' Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Fui Hee</p>
+<p>Miss Gan Jumi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_fui_hee@moe.edu.sg</a>
+<p><a href="mailto:gan_jumi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_jumi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -304,7 +347,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lily</p>
+<p>Ms Lily Yew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yew_lea_lea_lily@moe.edu.sg</a>
@@ -317,10 +360,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kiru</p>
+<p>Ms Lim Li Ying Clarice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kirubaashini_kanesan@moe.edu.sg</a>
+<p><a href="mailto:lim_li_ying_clarice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_ying_clarice@moe.edu.sg</a>
 </p>
 </td>
 </tr>

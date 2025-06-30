@@ -2,36 +2,37 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Overview.md
       - English Language (EL)/.keep
       - English Language (EL)/Overview.md
       - English Language (EL)/Programmes.md
       - English Language (EL)/School Library.md
-      - Mathematics (MA)/.keep
-      - Mathematics (MA)/Overview.md
-      - Mathematics (MA)/Approach & Framework.md
-      - Mathematics (MA)/Programmes.md
-      - Science (SCI)/.keep
-      - Science (SCI)/Overview.md
-      - Science (SCI)/Curriculum Approach.md
-      - Science (SCI)/Science Curriculum.md
-      - Science (SCI)/Science Holistic Assessment.md
       - Mother Tongue Languages (MTL)/.keep
       - Mother Tongue Languages (MTL)/Overview.md
       - Mother Tongue Languages (MTL)/Programmes.md
-      - ICT/.keep
-      - ICT/Information & Communications Technology (ICT).md
-      - Innovation.md
+      - Mathematics (MA)/.keep
+      - Mathematics (MA)/Overview.md
+      - Mathematics (MA)/Programmes.md
+      - Science (SCI)/.keep
+      - Science (SCI)/Overview.md
+      - Science (SCI)/Programmes.md
+      - PE, Art & Music (PAM)/.keep
+      - PE, Art & Music (PAM)/Overview.md
+      - PE, Art & Music (PAM)/Programmes.md
       - CCE/.keep
-      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Overview.md
       - CCE/National Education & Social Studies (NESS).md
       - CCE/Values in Action (VIA).md
-      - CCE/Student Leadership.md
       - CCE/Education & Career Guidance (ECG).md
       - CCE/Cyber Wellness.md
-      - CCE/Environmental Education.md
-      - PE, Art & Music (PAM)/.keep
-      - PE, Art & Music (PAM)/Physical Education, Art & Music (PE, Art, MU).md
-      - PE, Art & Music (PAM)/Programmes.md
-      - Student Management (SM).md
+      - ICT/.keep
+      - ICT/Overview.md
+      - ICT/Programmes.md
+      - Innovation/.keep
+      - Innovation/Overview.md
+      - Innovation/Environmental Education.md
+      - Student Development Team (SDT)/.keep
+      - Student Development Team (SDT)/Overview.md
+      - Student Development Team (SDT)/Student Leadership.md
+      - Student Development Team (SDT)/Supporting Students with Additional Needs
+        (SWAN).md
       - Sexuality Education (SEd).md

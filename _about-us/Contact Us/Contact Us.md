@@ -1,7 +1,8 @@
 ---
-title: Our Contact
+title: Contact Us
 permalink: /our-school/contact-us/
 description: ""
+variant: tiptap
 ---
 # **Contact Us**
 
