@@ -23,10 +23,10 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infobar:
-      title: 2025 P1 Registration Exercise
-      subtitle: Information
+      title: P1 Registration Exercise 2025
+      subtitle: Admission
       id: infobar
-      button: find out more here
+      button: find out more
       url: https://www.moe.gov.sg/primary/p1-registration
   - infopic:
       title: Open House 2025
