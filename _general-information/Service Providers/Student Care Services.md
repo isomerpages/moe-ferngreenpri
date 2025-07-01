@@ -63,7 +63,7 @@ variant: tiptap
 <p>Contact Number:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8386 2542 (11-00 am to 7-00 pm)</p>
+<p>8386 2542 (11:00 am to 7:00 pm)</p>
 </td>
 </tr>
 <tr>
