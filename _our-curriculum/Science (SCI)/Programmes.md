@@ -201,4 +201,77 @@ social media page.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>E2K Science</strong></h4>
+<p>The E2K Science programme is part of the school’s enrichment programme
+for upper primary students who demonstrate an interest and ability in Science.</p>
+<p>The programme aims to develop scientific inquiry process skills among
+students who have an aptitude in Science, as well as nurture other important
+21st century competencies such as resilience and resourcefulness, critical
+and inventive thinking, and effective communication skills.</p>
+<p>Students learn Science by going through the same process that scientists
+use to generate knowledge in the subject. Just as scientists make mistakes
+in the real world, students are given a safe space to make mistakes in
+E2K while their teachers help them to learn from the mistakes. Through
+collaborative learning and guidance provided by the teachers, students
+practise scientific thinking and reasoning, develop confidence and independence
+in carrying out scientific inquiry as well as scientific habits, attitudes
+and dispositions.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci__1_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducting an experiment to find out which umbrella blocks UV light better</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci__2_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Does sunscreen or body lotion work better?</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci__3_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>It’s tough making the bead hover!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci__4_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>We did it! Look at our bead hovering!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>

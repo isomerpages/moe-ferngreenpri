@@ -20,11 +20,13 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School/Holiday per month: $237.35 (wef year 2024)</p>
+<p>Monthly fees of $239.70 (subject to changes)</p>
 </li>
 <li>
-<p>Student Care Fee Assistance (SCFA) by MSF are available for pupils who
-need financial assistance. Terms and conditions apply.</p>
+<p>Registration fee of $20 and a deposit of $239.70</p>
+</li>
+<li>
+<p>Priority will be given to P1 and P2 students</p>
 </li>
 </ul>
 <p></p>
@@ -45,7 +47,7 @@ need financial assistance. Terms and conditions apply.</p>
 <p>Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nory Salam</p>
+<p>Ms Nory Bte Salam</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +55,7 @@ need financial assistance. Terms and conditions apply.</p>
 <p>Assistant Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Qisthi</p>
+<p>Ms Syahidah</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +63,7 @@ need financial assistance. Terms and conditions apply.</p>
 <p>Contact Number:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8386 2542</p>
+<p>8386 2542 (11-00 am to 7-00 pm)</p>
 </td>
 </tr>
 <tr>
@@ -71,13 +73,25 @@ need financial assistance. Terms and conditions apply.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:admin@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">FG@rafflesstudentcare.com</a>
 </p>
+<p><a href="mailto:admin@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">admin@rafflesstudentcare.com</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>For more information on Raffles Student Care Learning Centre LLP, do visit
-us at <a rel="noopener noreferrer nofollow" target="_blank">Rafflesstudentcare.com</a>
+<td rowspan="1" colspan="1">
+<p>Facebook:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/RafflesStudentCare" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/RafflesStudentCare</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

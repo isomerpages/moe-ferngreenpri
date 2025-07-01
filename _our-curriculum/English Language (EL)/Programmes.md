@@ -158,6 +158,16 @@ students.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Confident and articulate, our students took the stage in the <em>News in Brief</em> segment
+to present current affairs, sharpening their communication skills and staying
+informed about the world around them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/EL__1_.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Students showcasing their oratorical flair with confident voices and boundless
 topics</p>
 <div class="isomer-image-wrapper">
