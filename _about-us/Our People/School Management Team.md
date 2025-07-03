@@ -244,17 +244,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <h4><strong>CCE</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,44 +408,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<h4><strong>SAT Managers</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Hsu Xming Shaun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shaun_ho@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ops Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Siew Lai Lone Gary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siew_lai_lone@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Siying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yang_siying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -574,6 +525,64 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>aidah_hosni@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>SAT Managers</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Mgr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Hsu Xming Shaun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shaun_ho@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ops Mgr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Siew Lai Lone Gary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siew_lai_lone@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Mgr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Siying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yang_siying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
