@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Staff/Ms%20Kong%20Yee%20Loon.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Ms%20Kong%20Yee%20Loon.png">
 </div>
 <p><strong>Re-envisioning Our Future Together</strong>
 </p>
