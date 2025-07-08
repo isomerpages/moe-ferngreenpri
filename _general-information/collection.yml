@@ -2,8 +2,8 @@ collections:
   general-information:
     output: true
     order:
-      - Assessment Matters.md
       - Announcements.md
+      - Assessment Matters.md
       - eLearning.md
       - For Staff/.keep
       - For Staff/Resources.md
