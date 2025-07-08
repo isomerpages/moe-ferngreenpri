@@ -61,5 +61,72 @@ outcomes.</p>
 </ul>
 <p>For Primary 3 to 6, formative assessment may be reflected as part of students’
 ongoing work assignments or embedded within their learning experiences.</p>
-<p></p>
+<h4><strong>Weighted Assessments</strong></h4>
+<p>The weighted assessments for the year are:&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>termly class tests for Primary 3 to Primary 5&nbsp;</p>
+</li>
+<li>
+<p>end-of-year examinations for Primary 3 to Primary 5</p>
+</li>
+<li>
+<p>preliminary examinations for Primary 6</p>
+</li>
+</ul>
+<h4><strong>Rules and Regulations for Weighted Assessments</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Absence from Weighted Assessments</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>Students who are absent during the weighted assessments must produce a
+valid medical certificate for the day. These students’ marks will be pro-rated
+accordingly. No marks will be given for the paper if students are absent
+without a valid medical certificate.&nbsp;</p>
+</li>
+<li>
+<p>Students who have registered a temperature at or above the trigger temperature,
+are ill/unwell or are covered by a medical certificate on the day of the
+assessment will not be allowed to sit for it.&nbsp;</p>
+</li>
+<li>
+<p>There will be no make-up papers (except for Oral Examinations) for students
+who are absent on assessment days.</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Absence from Weighted Assessments</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>Students who are late for the assessments without valid reasons will not
+be given additional time.&nbsp;</p>
+</li>
+<li>
+<p>Latecomers who miss the paper entirely will not be allowed to sit for
+the paper and no marks will be awarded to them.&nbsp;</p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>In line with PSLE guidelines, students are not allowed to bring mobile
+phones or any&nbsp;</p>
+<p>other electronic devices capable of storing and displaying visual or verbal
+information&nbsp;</p>
+<p>into the examination room as this will be construed as attempting to cheat.&nbsp;</p>
+</li>
+<li>
+<p>Students who attempt to cheat during an assessment will not be awarded
+any&nbsp;marks for the paper.</p>
+<p>
+<br>
+<br>
+</p>
+</li>
+</ol>
 <p></p>
