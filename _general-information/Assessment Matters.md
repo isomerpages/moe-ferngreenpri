@@ -46,6 +46,17 @@ questioning, group activities, project work, quizzes, written tasks, or
 more structured formats such as tests. P1 and P2 Subject teachers will
 be reporting on students’ attainment levels of the subject-specific learning
 outcomes.</p>
-<p>
+<p>Please refer to the attached documents for more information about Primary
+1 and 2 learning outcomes.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Assessment Matters/FGPS_P1_Unpacking_of_Subject_specific_Learning_Outcomes.pdf" rel="noopener nofollow" target="_blank">FGPS P1 Unpacking of Subject specific Learning Outcomes</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment Matters/FGPS_P2_Unpacking_of_Subject_specific_Learning_Outcomes.pdf" rel="noopener nofollow" target="_blank">FGPS P2 Unpacking of Subject specific Learning Outcomes</a>
 <br>
 </p>
+</li>
+</ul>
+<p></p>
