@@ -24,6 +24,28 @@ and potentially diminishing students’ motivation to learn. While it is
 important to determine a student’s level of competence at specific points
 in their learning journey, it is equally crucial to continuously monitor
 their progress and actively involve them in peer and self-assessment.</p>
+<p><strong>Guiding Principles</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assessment should be according to the stipulated objectives and developmentally
+appropriate</p>
+</li>
+<li>
+<p>Assessment as integral part of teaching and learning process</p>
+</li>
+<li>
+<p>Assessment information as feedback</p>
+</li>
+</ul>
+<p>There are no class tests and examinations for Primary 1 and Primary 2
+students. Formative assessments will be conducted during lessons to inform
+students, teachers and parents of students’ learning progress. They usually
+take place during the teaching and learning process, whether through in-class
+questioning, group activities, project work, quizzes, written tasks, or
+more structured formats such as tests. P1 and P2 Subject teachers will
+be reporting on students’ attainment levels of the subject-specific learning
+outcomes.</p>
 <p>
 <br>
 </p>
