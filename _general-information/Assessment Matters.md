@@ -55,8 +55,10 @@ outcomes.</p>
 </li>
 <li>
 <p><a href="/files/Assessment Matters/FGPS_P2_Unpacking_of_Subject_specific_Learning_Outcomes.pdf" rel="noopener nofollow" target="_blank">FGPS P2 Unpacking of Subject specific Learning Outcomes</a>
-<br>
 </p>
 </li>
 </ul>
+<p>For Primary 3 to 6, formative assessment may be reflected as part of students’
+ongoing work assignments or embedded within their learning experiences.</p>
+<p></p>
 <p></p>
