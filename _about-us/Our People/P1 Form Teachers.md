@@ -97,7 +97,7 @@ variant: tiptap
 <p>Miss Raeann Chou Yue En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>raeann_chou_yue_en@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
