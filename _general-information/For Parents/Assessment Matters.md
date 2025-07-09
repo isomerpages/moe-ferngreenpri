@@ -115,18 +115,22 @@ the paper and no marks will be awarded to them.&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>In line with PSLE guidelines, students are not allowed to bring mobile
-phones or any&nbsp;</p>
-<p>other electronic devices capable of storing and displaying visual or verbal
-information&nbsp;</p>
-<p>into the examination room as this will be construed as attempting to cheat.&nbsp;</p>
+phones or any&nbsp;other electronic devices capable of storing and displaying
+visual or verbal information&nbsp;into the examination room as this will
+be construed as attempting to cheat.&nbsp;</p>
 </li>
 <li>
 <p>Students who attempt to cheat during an assessment will not be awarded
 any&nbsp;marks for the paper.</p>
-<p>
-<br>
-<br>
-</p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/06_General_Information_Assessment_Matters_docx_Page_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/06_General_Information_Assessment_Matters_docx_Page_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/06_General_Information_Assessment_Matters_docx_Page_6.jpg">
+</div>
 <p></p>
