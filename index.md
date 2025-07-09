@@ -29,16 +29,6 @@ sections:
       button: find out more
       url: https://www.moe.gov.sg/primary/p1-registration
   - infopic:
-      title: Open House 2025
-      subtitle: Welcome!
-      id: infopic
-      description: Fern Green Primary School warmly invites you to our upcoming Open
-        House on 8 July 2025, 2.30pm to 4.15pm.
-      button: Find out more
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/FGPS_2025_OPEN_HOUSE_Flyer.png
-      alt: Open House 2025
-  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
