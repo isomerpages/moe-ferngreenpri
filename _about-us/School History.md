@@ -49,7 +49,7 @@ on 30 August 2021.</p>
 <p>Vice-Principals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Agnes Chow Chia Min</p>
+<p>Ms Chow Chia Min Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024 to Present</p>
