@@ -153,7 +153,7 @@ digital habits across the school!</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Digital Literacy Enrichment programme</strong></h4>
+<h4><strong>Digital Literacy Enrichment Programme</strong></h4>
 <p>To further strengthen digital literacy and spark innovation, selected
 students take part in enrichment opportunities such as the Digital Bootcamp,
 SST Digital Citizenship Workshop, and the Pei Hwa Hackathon. These platforms

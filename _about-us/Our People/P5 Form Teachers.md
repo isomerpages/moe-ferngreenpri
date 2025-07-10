@@ -72,17 +72,6 @@ third_nav_title: Our People
 <p>5 Resilience (5R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alice Ooi Chen Ai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>alice_ooi_chen_ai@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Resilience (5R3)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Yeo Zhong Wei</p>
 </td>
 <td rowspan="1" colspan="1">

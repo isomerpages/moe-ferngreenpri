@@ -201,7 +201,7 @@ social media page.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>E2K Science</strong></h4>
+<h4><strong>Excellence 2000 (E2K) Science Programme&nbsp;</strong></h4>
 <p>The E2K Science programme is part of the school’s enrichment programme
 for upper primary students who demonstrate an interest and ability in Science.</p>
 <p>The programme aims to develop scientific inquiry process skills among
