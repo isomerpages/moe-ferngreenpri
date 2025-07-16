@@ -36,17 +36,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art &amp; EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Huang Wanyi Hazel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>huang_wanyi_hazel@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
