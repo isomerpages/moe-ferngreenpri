@@ -93,12 +93,8 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T9zKbfFydeU?si=Fc_L42DoDGDJSawb"></iframe>
 </div>
 <p>Click the link or scan the QR code to join!</p>
-<p>Link: <a href="https://form.gov.sg/6377070b54bd0e0012035266" rel="noopener nofollow" target="_blank">Registration for PSG</a>
+<p>Link: <a href="https://go.gov.sg/79t7d0" rel="noopener nofollow" target="_blank">Registration for PSG</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG/psg%202023.png">
-</div>
-<p></p>
 <h4><strong>PSG EXCO Members</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
