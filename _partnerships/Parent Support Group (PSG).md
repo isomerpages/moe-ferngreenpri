@@ -95,6 +95,9 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <p>Click the link or scan the QR code to join!</p>
 <p>Link: <a href="https://go.gov.sg/79t7d0" rel="noopener nofollow" target="_blank">Registration for PSG</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG/psg 2025.png">
+</div>
 <h4><strong>PSG EXCO Members</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
