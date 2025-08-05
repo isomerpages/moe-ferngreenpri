@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>e-Learning Day</strong></h4>
-<p>The school has designated <strong>the day (day will be provided at a later date)</strong> as
-our e-Learning Day to prepare students for emergency school closures due
-to unforeseen circumstances.</p>
+<p>The school has designated <strong>16 September 2025</strong> as our e-Learning
+Day to prepare students for emergency school closures due to unforeseen
+circumstances.</p>
 <p>The key objectives of the e-Learning Day are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
