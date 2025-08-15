@@ -62,31 +62,38 @@ and responds effectively to the evolving needs of students and society.</p>
 </ol>
 <hr>
 <h3><strong>School Mission</strong></h3>
-<p>To nurture caring, innovative and resilient lifelong learners who contribute
-as future leaders of the nation.</p>
+<p><strong>To nurture caring, innovative and resilient lifelong learners who contribute as future leaders of the nation.</strong>
+</p>
 <hr>
 <h3><strong>School Core Values (RICH)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Respect</p>
+<p><strong>Respect</strong>
+</p>
 </li>
 <li>
-<p>Responsibility</p>
+<p><strong>Responsibility</strong>
+</p>
 </li>
 <li>
-<p>Resilience</p>
+<p><strong>Resilience</strong>
+</p>
 </li>
 <li>
-<p>Integrity</p>
+<p><strong>Integrity</strong>
+</p>
 </li>
 <li>
-<p>Innovation</p>
+<p><strong>Innovation</strong>
+</p>
 </li>
 <li>
-<p>Care</p>
+<p><strong>Care</strong>
+</p>
 </li>
 <li>
-<p>Harmony</p>
+<p><strong>Harmony</strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
