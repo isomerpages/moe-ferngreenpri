@@ -4,34 +4,9 @@ permalink: /about-us/school-goals/
 description: ""
 variant: tiptap
 ---
-<h2><strong>School Philosophy</strong></h2>
-<p>Fern Green Primary School is designed as a school within a garden. Sited
-within an oasis of greenery, the school environment beckons Students into
-its fold to partake in exciting learning activities that are in store for
-all learners.</p>
-<p>The school believes that effective learning takes place when learner needs
-drive lesson designs. We believe that each child is active and inquisitive
-and wants to explore. As our children make the transition from kindergarten,
-we would like to keep their innate curiosity alive and nurture them into
-well-rounded, passionate, and curious lifelong learners.</p>
-<p>Our instructional approaches begin with&nbsp;<strong>Inquiry</strong>.
-Through the use of thought-provoking questions, we would like to spark
-our students' curiosity and inspire in them a genuine need to learn so
-that they care about the outcome of their investigations. Underpinning
-the design of Fern Green's academic curriculum and co-curriculum is our
-school values of Respect, Responsibility, Resilience, Integrity, Innovation,
-Care and Harmony.</p>
-<p>The school would leverage School-Home-Community Partnership to avail our
-children of a holistic learning experience. We hope to work closely with
-Parents to reinforce values taught as well as foster our children's motivation
-to learn and ask questions and encourage them to pursue what they love.</p>
-<hr>
-<h2><strong>School Vision</strong></h2>
-<blockquote>
-<h4>Joyful Learners,</h4>
-<h4>Caring Leaders,</h4>
-<h4>Resilient Innovators</h4>
-</blockquote>
+<h3><strong>School Vision</strong></h3>
+<p><strong>Joyful Learners, Caring Leaders, Resilient Innovators</strong>
+</p>
 <hr>
 <h4><strong>Unpacking Our Vision</strong></h4>
 <ol data-tight="true" class="tight">
@@ -86,15 +61,11 @@ and responds effectively to the evolving needs of students and society.</p>
 </li>
 </ol>
 <hr>
-<h2><strong>School Mission</strong></h2>
-<blockquote>
+<h3><strong>School Mission</strong></h3>
 <p>To nurture caring, innovative and resilient lifelong learners who contribute
 as future leaders of the nation.</p>
-</blockquote>
 <hr>
-<h2><strong>School Core Values</strong></h2>
-<blockquote>
-<h4><strong>Core Values (RICH):</strong></h4>
+<h3><strong>School Core Values (RICH)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Respect</p>
@@ -109,8 +80,7 @@ as future leaders of the nation.</p>
 <p>Integrity</p>
 </li>
 <li>
-<p>Innovation <em>(new)</em>
-</p>
+<p>Innovation</p>
 </li>
 <li>
 <p>Care</p>
@@ -119,5 +89,125 @@ as future leaders of the nation.</p>
 <p>Harmony</p>
 </li>
 </ul>
-</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I will show respect by</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>being polite.</p>
+</li>
+<li>
+<p>valuing the views and opinions of others.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I will show responsibility by performing my duties with joy and commitment.​
+Example:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Following the school rules​</p>
+</li>
+<li>
+<p>Punctuality (homework submission, reporting to school on time etc.)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I will show integrity by​</p>
+<ul>
+<li>
+<p>standing up for what is right.​</p>
+</li>
+<li>
+<p>doing the right thing even when no one is watching.​</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I will show care by​</p>
+<ul>
+<li>
+<p>helping others.​</p>
+</li>
+<li>
+<p>being empathetic.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I will show harmony by​</p>
+<ul>
+<li>
+<p>being inclusive.​</p>
+</li>
+<li>
+<p>appreciating unity and diversityof a multicultural society.​</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
