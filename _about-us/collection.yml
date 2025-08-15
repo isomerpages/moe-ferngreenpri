@@ -4,7 +4,7 @@ collections:
     order:
       - Principal's Message.md
       - School History.md
-      - School Goals.md
+      - School VMV.md
       - School Symbols.md
       - Our People/.keep
       - Our People/School Management Team.md
@@ -23,9 +23,5 @@ collections:
       - FG Heartbeat/.keep
       - FG Heartbeat/Media.md
       - FG Heartbeat/Stay Connected with Us.md
-      - Gallery/.keep
-      - Gallery/Events 2025.md
-      - Gallery/Events 2024.md
-      - Gallery/Events 2023.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
