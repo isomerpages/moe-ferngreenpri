@@ -193,14 +193,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science Lab Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kwek Quat Heong Linda</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
