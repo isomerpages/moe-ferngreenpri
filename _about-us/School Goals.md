@@ -141,7 +141,15 @@ Example:</p>
 <p>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I will show resilience by​</p>
+<ul>
+<li>
+<p>persevering even in the face of challenges.​</p>
+</li>
+<li>
+<p>having a growth mindset.​</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -165,7 +173,15 @@ Example:</p>
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I will show innovation by ​</p>
+<ul>
+<li>
+<p>thinking of new ideas.​</p>
+</li>
+<li>
+<p>exploring different ways of creating useful ideas.​</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
