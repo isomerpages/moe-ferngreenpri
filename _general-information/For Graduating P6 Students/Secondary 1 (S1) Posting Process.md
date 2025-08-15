@@ -77,7 +77,7 @@ more</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/sec-sch-open-houses-2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec-sch-open-houses-2024</a>
+<p><a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/</a>
 </p>
 </li>
 </ul>
