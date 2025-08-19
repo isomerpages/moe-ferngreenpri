@@ -46,5 +46,10 @@ to Junior College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Student/P4_to_P6.png">
 </div>
 <h4><strong>Student Self-Service Password Reset</strong></h4>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/For Student/MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS Student Self Service Password Reset (SSPR) Guide</a>
+</p>
+</li>
+</ul>
 <p></p>
