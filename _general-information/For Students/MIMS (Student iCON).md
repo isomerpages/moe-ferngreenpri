@@ -52,4 +52,10 @@ to Junior College</p>
 </p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Student/Posters_MIMS_SSPR_Guide_Page_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Student/Posters_MIMS_SSPR_Guide_Page_2.png">
+</div>
 <p></p>
