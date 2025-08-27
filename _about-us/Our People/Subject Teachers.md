@@ -259,6 +259,17 @@ third_nav_title: Our People
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Murali Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>murali_krishnan_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
