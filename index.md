@@ -30,6 +30,7 @@ sections:
       button: Scan the qr code to register your visit
       url: https://form.gov.sg/68aec8d748c416151ba6c931
       image: /images/Alumni_teachers__day.png
+      alt: Alumni
   - infopic:
       title: MK@FG School Tour
       id: infopic
