@@ -23,15 +23,6 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
-      title: Calling all Alumni for Teachers' Day Celebration!
-      subtitle: You are invited!
-      id: infopic
-      description: Join us to reconnect and celebrate Together
-      button: Scan the qr code to register your visit
-      url: https://form.gov.sg/68aec8d748c416151ba6c931
-      image: /images/Alumni_teachers__day.png
-      alt: Alumni
-  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
