@@ -130,7 +130,7 @@ third_nav_title: Our People
 <p>Miss Chen Huili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_huili@schools.gov.sg</p>
+<p>chen_huili@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
