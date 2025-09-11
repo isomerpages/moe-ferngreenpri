@@ -179,6 +179,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Discipline (2D)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vijayakumaran s/o Govindasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 Motivation (2M)</p>
 </td>
 <td rowspan="1" colspan="1">

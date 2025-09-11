@@ -22,6 +22,5 @@ through technology;</p>
 Learning) of students.</p>
 </li>
 </ul>
-<p>Students and Parents can access the site for lesson guides (link will
-be provided at a later date).</p>
+<p>Students and Parents can access the <a href="https://sites.google.com/moe.edu.sg/fgps-elearning?usp=sharing" rel="noopener nofollow" target="_blank">site for lesson guides</a>.</p>
 <p></p>

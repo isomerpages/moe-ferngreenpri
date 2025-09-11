@@ -212,6 +212,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Motivation (1M)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tian Hengqi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tian_hengqi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
