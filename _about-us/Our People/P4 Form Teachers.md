@@ -80,6 +80,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 Responsibility (4R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang -Tan Sok Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sok_kiang_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,17 +109,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>mahdiah_md_noor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Resilience (4R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ang -Tan Sok Kiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_sok_kiang_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
