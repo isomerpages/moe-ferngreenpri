@@ -127,11 +127,10 @@ third_nav_title: Our People
 <p>4 Integrity (4I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Amirah Binte Mohamad Razif</p>
-<p>Helmy</p>
+<p>Miss Chen Huili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_amirah_mohamad_razif@moe.edu.sg</p>
+<p>chen_huili@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
