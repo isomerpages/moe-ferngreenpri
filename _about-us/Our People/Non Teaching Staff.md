@@ -59,6 +59,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nicole Marie Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nicole_marie_chan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,6 +110,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siew Lai Lone (Gary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shahri Bin Hairalah</p>
 </td>
 </tr>
 <tr>
