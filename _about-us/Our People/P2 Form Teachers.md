@@ -185,7 +185,7 @@ third_nav_title: Our People
 <p>Vijayakumaran s/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vijayakumaran_govindasamy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
