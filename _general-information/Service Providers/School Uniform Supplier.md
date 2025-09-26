@@ -25,7 +25,7 @@ third_nav_title: Service Providers
 <p>Retail Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>67478037 (Monday to Sat, 10.00am to 6pm)</p>
+<p>6747 8037 (Monday to Saturday, 10.00am to 6.00pm)</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ third_nav_title: Service Providers
 <p>Office Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63522741 (Monday to Friday, 9.30am to 6pm)</p>
+<p>6352 2741 (Monday to Friday, 9.30am to 6.00pm)</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ third_nav_title: Service Providers
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">contact@shanghai-uniforms.com</a>
+<p><a href="contact@shanghai-uniforms.com" rel="noopener nofollow" target="_blank">contact@shanghai-uniforms.com</a>
 </p>
 </td>
 </tr>
