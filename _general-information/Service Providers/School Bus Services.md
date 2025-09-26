@@ -71,12 +71,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Registration for School Bus Service: <a rel="noopener noreferrer nofollow" target="_blank">http://forms.gle/eyPrCSXyc158iD736</a>
+<p>Registration for School Bus Service: <a href="http://forms.gle/eyPrCSXyc158iD736" rel="noopener nofollow" target="_blank">http://forms.gle/eyPrCSXyc158iD736</a>
 </p>
-<ul>
-<li>
-<p><a href="/files/School%20Bus/bus%20fare%20with%20effect%20from%201%20jan%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Fare with effect from 1 Jan 2024</a>
-</p>
-</li>
-</ul>
 <p></p>
