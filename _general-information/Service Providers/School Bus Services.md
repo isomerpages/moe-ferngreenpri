@@ -25,7 +25,7 @@ variant: tiptap
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday, 8.00am to 6.00pm</p>
+<p>Monday to Friday, 8.30am to 6.00pm</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Contact Person:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms May Tan, Ms Samantha Lim</p>
+<p>Ms May Tan</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64837260</p>
+<p>6483 7260</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>WhatsApp:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>84841266</p>
+<p>8484 1266</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Fax:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64837261</p>
+<p>6483 7261</p>
 </td>
 </tr>
 <tr>
@@ -65,12 +65,28 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">schl@btntan.com</a>
+<p><a href="schl@btntan.com" rel="noopener nofollow" target="_blank">schl@btntan.com</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Registration for School Bus Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://forms.gle/eyPrCSXyc158iD736" rel="noopener nofollow" target="_blank">http://forms.gle/eyPrCSXyc158iD736</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Registration for School Bus Service: <a href="http://forms.gle/eyPrCSXyc158iD736" rel="noopener nofollow" target="_blank">http://forms.gle/eyPrCSXyc158iD736</a>
-</p>
+<p></p>
 <p></p>
