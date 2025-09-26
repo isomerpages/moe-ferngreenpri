@@ -16,7 +16,8 @@ variant: tiptap
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Monthly Dental Schedule 2025, please check with the school</p>
+<p>Mondays &amp; Wednesdays (8.00am - 5.00pm)</p>
+<p>Lunch Hour: 1.00pm to 2.00pm</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +42,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Wan Teng&nbsp;
-<br>Ms Alfidadewi</p>
+<br>Ms Alfid Adewi</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +50,7 @@ variant: tiptap
 <p>Health Promotion Board Contact No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6435 3500</p>
+<p>6435 3782</p>
 </td>
 </tr>
 <tr>
@@ -64,8 +65,8 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Buddy Clinics</strong></h4>
-<p>If your child requires&nbsp;<strong><u>URGENT</u></strong>&nbsp;dental
-treatment during clinic closure, please call:</p>
+<p>When the clinic is closed, students can visit the nearby buddy clinics
+and mini referral centre for emergency or urgent cases.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -147,6 +148,6 @@ treatment during clinic closure, please call:</p>
 </tbody>
 </table>
 <h4><strong>Note to Parents/Guardians</strong></h4>
-<p>Parents/Guardians are to contact the staff at the buddy clinics or mini
-referral centre before making a trip as some of these dental clinics are
-not open every day.</p>
+<p>When the clinic is closed, Parents/Guardians should first contact the
+staff at the designated buddy clinics or the mini referral centre to make
+an appointment before proceeding there for emergency or urgent cases.</p>
