@@ -17,13 +17,13 @@ third_nav_title: Service Providers
 <p>Contact Number:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tel:+65 62848785" rel="noopener noreferrer nofollow" target="_blank">62848785</a>
+<p><a href="tel:+65 62848785" rel="noopener noreferrer nofollow" target="_blank">6284 8785</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Email:</p>
+<p>Email (for enquiry only):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
@@ -35,8 +35,7 @@ third_nav_title: Service Providers
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am - 3pm</p>
-<p>(Closed during School Holidays)</p>
+<p>8.30am - 3.00pm (Monday - Friday, Closed during School Holidays)</p>
 </td>
 </tr>
 <tr>
