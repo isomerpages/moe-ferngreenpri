@@ -182,10 +182,10 @@ variant: tiptap
 <p>1 Harmony (1H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Glenda Lim Shu Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>glenda_lim_shu_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
