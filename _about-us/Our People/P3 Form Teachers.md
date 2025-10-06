@@ -102,17 +102,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience (3R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Glenda Lim Shu Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>glenda_lim_shu_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 Integrity (3I)</p>
 </td>
 <td rowspan="1" colspan="1">
