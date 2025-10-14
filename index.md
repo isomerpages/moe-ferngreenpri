@@ -23,6 +23,15 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: For nomination
+      id: infopic
+      description: Submissions close on 9 January 2026.
+      button: Submit your nomination
+      url: https://go.gov.sg/oyea2026
+      image: /images/Annoucements/OYEA.jpg
+      alt: OYEA
+  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
