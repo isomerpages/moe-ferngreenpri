@@ -23,6 +23,15 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: President’s Award for Teachers (PAT)
+      subtitle: For Nomination
+      id: infopic
+      description: Nominations will close on 9 January 2026 (Friday).
+      button: Submit your nomination
+      url: https://go.gov.sg/pat2026
+      image: /images/Annoucements/PAT.jpg
+      alt: PAT 2026
+  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
