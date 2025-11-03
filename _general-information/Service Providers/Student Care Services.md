@@ -55,7 +55,7 @@ variant: tiptap
 <p>Assistant Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Syahidah</p>
+<p>Ms Husna</p>
 </td>
 </tr>
 <tr>
