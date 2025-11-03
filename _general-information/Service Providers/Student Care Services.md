@@ -47,7 +47,7 @@ variant: tiptap
 <p>Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nory Bte Salam</p>
+<p>Ms Shamira</p>
 </td>
 </tr>
 <tr>
