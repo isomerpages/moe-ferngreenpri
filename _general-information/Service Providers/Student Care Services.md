@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Service Providers
 variant: tiptap
 ---
-<h3><strong>Raffles Student Care Learning Centre LLP</strong></h3>
+<h3><strong>Raffles Student Care (Fern Green) Pte. Ltd.</strong></h3>
 <p><strong>Centre Opening Hours</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nory Bte Salam</p>
+<p>Ms Shamira</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Assistant Centre Supervisor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Syahidah</p>
+<p>Ms Husna</p>
 </td>
 </tr>
 <tr>
