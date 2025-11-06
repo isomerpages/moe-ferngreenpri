@@ -50,7 +50,8 @@ third_nav_title: Service Providers
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please refer to <a href="https://drive.google.com/drive/folders/1exgsrn6Jg3jDyCn5Pbe8KRNMxBba1E5J?usp=drive_link" rel="noopener nofollow" target="_blank">P1 - P6 Booklist for Year 2025</a>.</p>
+<p>Please refer to <a href="https://drive.google.com/drive/folders/1c2F5nRI9z22n1olPOrn0tpqlw-qTnJO0?usp=sharing" rel="noopener nofollow" target="_blank">P1 to P6 Booklist 2026.</a>
+</p>
 </li>
 <li>
 <p>Sales of Name Tags: <a href="https://www.stitchwerkz.sg/nametags/nametags_fgps" rel="noopener noreferrer nofollow" target="_blank">Name Tags (stitchwerkz.sg)</a>
