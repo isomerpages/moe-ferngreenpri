@@ -33,6 +33,24 @@ require help and support</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025-11-21 P6 Celebrates</p>
+<p>(Link will be removed on 31 December 2025.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://photos.app.goo.gl/XPFvdqzjgaxi4bZ8A" rel="noopener nofollow" target="_blank">P6 Celebrates_PhotoBooth</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/iMr3JG8LNrXrEPgv8" rel="noopener nofollow" target="_blank">P6 Celebrates_Event</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
