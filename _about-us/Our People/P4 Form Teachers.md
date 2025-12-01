@@ -28,21 +28,10 @@ third_nav_title: Our People
 <p>4 Respect (4R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Xuewei Stephanie</p>
+<p>Mdm Suzana Mohamed Gasaly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choo_xuewei_stephanie@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Respect (4R1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm J. Aswiniey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>j_aswiniey@moe.edu.sg</p>
+<p>suzana_mohamed_gasaly@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -50,21 +39,10 @@ third_nav_title: Our People
 <p>4 Respect (4R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ashika Begum Binte Mohamed Ali</p>
+<p>Ms Tan Ai Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ashika_begum_mohamed_ali@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Responsibility (4R2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Hui Li (Mrs Lee)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hui_li@moe.edu.sg</p>
+<p>tan_ai_yun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +50,10 @@ third_nav_title: Our People
 <p>4 Responsibility (4R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ong Bee Hua</p>
+<p>Mr Chow Ngai Nga</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_bee_hua@moe.edu.sg</p>
+<p>chow_ngai_nga_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +61,10 @@ third_nav_title: Our People
 <p>4 Responsibility (4R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang -Tan Sok Kiang</p>
+<p>Ms Durrah Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sok_kiang_a@moe.edu.sg</p>
+<p>durrah_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +72,10 @@ third_nav_title: Our People
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Ho</p>
+<p>Mdm Siti Noor Fatimah Bte Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su_yin_sharon@moe.edu.sg</p>
+<p>siti_noor_fatimah_jabbar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,21 +83,10 @@ third_nav_title: Our People
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahdiah Mohamed Noor</p>
+<p>Mdm Yeo Hwee Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mahdiah_md_noor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Integrity (4I)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chua Poh Khim (Deanna)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_poh_khim@moe.edu.sg</p>
+<p>yeo_hwee_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +94,21 @@ third_nav_title: Our People
 <p>4 Integrity (4I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Huili</p>
+<p>Mr Chew Chee Keong Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_huili@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity (4I)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fauziah Binte Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fauziah_osman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +116,10 @@ third_nav_title: Our People
 <p>4 Care (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koo Yuet Hong</p>
+<p>Ms Nurjihan Binti Mohammed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koo_yuet_hong@moe.edu.sg</p>
+<p>nurjihan_Mohammed_Noor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -149,21 +127,10 @@ third_nav_title: Our People
 <p>4 Care (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Lihui</p>
+<p>Ms Ng Wan Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_lihui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Harmony (4H)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Choy Wen Qian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>choy_wen_qian@moe.edu.sg</p>
+<p>ng_wan_wen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,32 +138,21 @@ third_nav_title: Our People
 <p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aidah Binte Hosni</p>
+<p>Miss Kirubaashini d/o Kanesan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aidah_hosni@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Discipline (4D)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tang Hui Ying (Sandra)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tang_hui_ying@moe.edu.sg</p>
+<p>kirubaashini_kanesan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Discipline (4D)</p>
+<p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Izree Bin Jalil</p>
+<p>Ms Ang Sing Min Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_izree_jalil@moe.edu.sg</p>
+<p>ang_sing_min_serene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
