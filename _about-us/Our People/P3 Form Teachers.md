@@ -31,7 +31,7 @@ third_nav_title: Our People
 <p>Mdm Celine Celestine Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>celine_celestine_goh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ third_nav_title: Our People
 <p>Mr Vijayakumaran s/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vijayakumaran_govindasamy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ third_nav_title: Our People
 <p>Mdm Caroline Shantha Rajesh Piraseeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>caroline_shantha@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ third_nav_title: Our People
 <p>Miss Nur Yuhanis Binte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_yuhanis_yusof@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ third_nav_title: Our People
 <p>Miss Nuha Binte Ahmad Basharahil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nuha_ahmad_basharahil@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ third_nav_title: Our People
 <p>Mdm Nazira Nisa Bte Abul Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nazira_nisa_abul_hassan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Miss Chua Poh Khim (Deanna)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_poh_khim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ third_nav_title: Our People
 <p>Mr Alfred Kriswano Sutjiadi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>alfred_kriswano_sutjiadi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ third_nav_title: Our People
 <p>Ms Agnes Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tham_sok_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ third_nav_title: Our People
 <p>Miss Liang Wileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liang_wileen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ third_nav_title: Our People
 <p>Mrs Lee-Ng Peck Mui (Cheryl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_peck_mui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ third_nav_title: Our People
 <p>Miss Sakinah Binte Mohamed Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sakinah_mohamed_mohsen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
