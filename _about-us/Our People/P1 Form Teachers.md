@@ -182,10 +182,10 @@ variant: tiptap
 <p>1 Yellow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Farah Adzlin Kasmany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>farah_adzlin_kasmany@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -193,21 +193,10 @@ variant: tiptap
 <p>1 Yellow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Soo Liam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Grey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>lim_soo_liam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,10 +204,21 @@ variant: tiptap
 <p>1 Grey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yew Lea Lea Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yew_lea_lea_lily@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Grey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Choy Wen Qian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choy_wen_qian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
