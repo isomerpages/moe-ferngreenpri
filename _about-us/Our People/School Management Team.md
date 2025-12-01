@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Our People
 ---
-<h4><strong>2026</strong></h4>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -377,7 +376,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH MP</p>
+<p>YH-MP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cheryl Lee</p>
@@ -421,13 +420,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH-UP</p>
+<p>AYH-UP (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Oh Siew Lian Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>oh_siew_lian_cindy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +463,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT MA</p>
+<p>LT-MA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Agnes Tham</p>
@@ -475,7 +474,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST EL</p>
+<p>ST-EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ivy Leow Gim Chye</p>
@@ -486,7 +485,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST TL</p>
+<p>ST-TL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Punitha d/o Murugaiah Maniam</p>
@@ -497,7 +496,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST CCE</p>
+<p>ST-CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Durrah Binte Ahmad</p>
@@ -508,7 +507,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST LN (SEN)</p>
+<p>ST-LP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Gan Jumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_jumi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST-LN (SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Siew Hoon</p>
@@ -519,7 +529,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST LN (ES)</p>
+<p>ST-LN (ES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Celine Celestine Goh (Mrs Lim)</p>
@@ -530,7 +540,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Art</p>
+<p>ST-ART</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Xiangling Jess</p>
@@ -541,7 +551,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST ML</p>
+<p>ST-ML</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aidah Binte Hosni</p>
@@ -663,6 +673,14 @@ third_nav_title: Our People
 <p>mk_ferngreen@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
+<p>updated as at 1 Dec 2025</p>
