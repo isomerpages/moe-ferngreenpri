@@ -28,7 +28,7 @@ third_nav_title: Our People
 <p>5 Respect (5R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chen Sujing (Mrs Natalie Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -39,7 +39,7 @@ third_nav_title: Our People
 <p>5 Respect (5R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Vanessa Cheng Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,7 +50,7 @@ third_nav_title: Our People
 <p>5 Responsibility (5R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koo Yuet Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -61,7 +61,7 @@ third_nav_title: Our People
 <p>5 Responsibility (5R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Raeann Chou Yue En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -72,7 +72,7 @@ third_nav_title: Our People
 <p>5 Resilience (5R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Oh Siew Lian Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -83,7 +83,7 @@ third_nav_title: Our People
 <p>5 Resilience (5R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Pang Biao Bin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -94,7 +94,7 @@ third_nav_title: Our People
 <p>5 Integrity (5I1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Maheswari D/O Rajaratanam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
