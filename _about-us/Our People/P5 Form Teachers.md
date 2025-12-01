@@ -105,7 +105,7 @@ third_nav_title: Our People
 <p>5 Integrity (5I1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ashlie Gwee Chin En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -116,7 +116,7 @@ third_nav_title: Our People
 <p>5 Innovation (5I2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Sharon Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -127,7 +127,7 @@ third_nav_title: Our People
 <p>5 Innovation (5I2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Toh Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,7 +138,7 @@ third_nav_title: Our People
 <p>5 Care (5C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Nooraihan Bte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -149,7 +149,7 @@ third_nav_title: Our People
 <p>5 Care (5C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Hui Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -160,7 +160,7 @@ third_nav_title: Our People
 <p>5 Harmony (5H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ashika Begum Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -171,7 +171,7 @@ third_nav_title: Our People
 <p>5 Harmony (5H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>s Choo Xuewei Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
