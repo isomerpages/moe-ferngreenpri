@@ -420,17 +420,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH-UP (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Oh Siew Lian Cindy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>oh_siew_lian_cindy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
