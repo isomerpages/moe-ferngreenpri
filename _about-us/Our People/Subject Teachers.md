@@ -25,24 +25,46 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH-LP</p>
+<p>HOD-EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khoo Seok Ling Serene</p>
+<p>Mdm Tan Wan Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khoo_seok_ling@moe.edu.sg</p>
+<p>tan_wan_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
+<p>LH-MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Chin Cheoh</p>
+<p>Ms Tang Hui Ying (Sandra)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chin_cheoh@moe.edu.sg</p>
+<p>tang_hui_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Hui Li (Mrs Lee)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_hui_li@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Keng Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -54,28 +76,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>leo_wen_xiang_kenneth@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Eleanor Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_lee_hoon_eleanor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Lee (Ms Kum Hong Yoke)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kum_hong_yoke@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -157,28 +157,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yee Siew Mei Emily</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yee_siew_mei@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lai Hui Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lai_hui_ming@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,28 +197,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_sock_ngoh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Suhaila Binte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Suhaila_ahmad@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Sadik Bin Jamil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_sadik_jamil_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
