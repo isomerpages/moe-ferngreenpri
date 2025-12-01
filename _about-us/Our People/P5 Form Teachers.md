@@ -31,7 +31,7 @@ third_nav_title: Our People
 <p>Ms Chen Sujing (Mrs Natalie Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_sujing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ third_nav_title: Our People
 <p>Ms Vanessa Cheng Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vanessa_cheng_wan_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ third_nav_title: Our People
 <p>Ms Koo Yuet Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koo_yuet_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ third_nav_title: Our People
 <p>Miss Raeann Chou Yue En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>raeann_chou_yue_en@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ third_nav_title: Our People
 <p>Ms Oh Siew Lian Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>oh_siew_lian_cindy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ third_nav_title: Our People
 <p>Mr Pang Biao Bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pang_biao_bin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Mdm Maheswari D/O Rajaratanam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>maheswari_mohanavelu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ third_nav_title: Our People
 <p>Ms Ashlie Gwee Chin En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ashlie_Gwee_Chin_En@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ third_nav_title: Our People
 <p>Mrs Sharon Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_su_yin_sharon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ third_nav_title: Our People
 <p>Mdm Ng Hui Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_hui_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ third_nav_title: Our People
 <p>Ms Ashika Begum Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ashika_begum_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,10 +171,10 @@ third_nav_title: Our People
 <p>5 Harmony (5H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>s Choo Xuewei Stephanie</p>
+<p>Ms Choo Xuewei Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>choo_xuewei_stephanie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
