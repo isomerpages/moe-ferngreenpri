@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Mr Chew Chee Keong Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chew_chee_keong_paul@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
