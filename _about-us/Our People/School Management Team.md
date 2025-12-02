@@ -540,6 +540,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST-CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Ai Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>foo_ai_fen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST-ML</p>
 </td>
 <td rowspan="1" colspan="1">
