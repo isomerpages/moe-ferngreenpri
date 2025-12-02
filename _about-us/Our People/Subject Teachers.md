@@ -135,6 +135,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Mui Wee Alyssa (Mrs Leong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alyssa_lim_mui_wee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MA</p>
 </td>
 <td rowspan="1" colspan="1">
