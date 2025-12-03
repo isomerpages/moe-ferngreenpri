@@ -102,6 +102,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL &amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Hui Fang Susanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MA &amp; SCI</p>
 </td>
 <td rowspan="1" colspan="1">
