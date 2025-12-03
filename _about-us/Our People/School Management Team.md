@@ -343,7 +343,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH LP</p>
+<p>YH-LP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Khoo Seok Ling Serene</p>
