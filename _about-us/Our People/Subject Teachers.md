@@ -64,7 +64,7 @@ third_nav_title: Our People
 <p>Mr Neo Keng Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>neo_keng_yang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
