@@ -135,6 +135,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Innovation (6I2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yee Siong Yew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 Care (6C)</p>
 </td>
 <td rowspan="1" colspan="1">
