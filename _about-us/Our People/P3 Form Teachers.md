@@ -47,6 +47,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Respect (3R1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Keng Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>neo_keng_yang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Responsibility (3R2)</p>
 </td>
 <td rowspan="1" colspan="1">
