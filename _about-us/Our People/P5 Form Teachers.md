@@ -39,10 +39,10 @@ third_nav_title: Our People
 <p>5 Respect (5R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Cheng Wan Ting</p>
+<p>Miss Toh Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vanessa_cheng_wan_ting@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -127,10 +127,10 @@ third_nav_title: Our People
 <p>5 Innovation (5I2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Jia Yi</p>
+<p>Ms Vanessa Cheng Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vanessa_cheng_wan_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
