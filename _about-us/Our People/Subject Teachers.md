@@ -47,28 +47,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Hui Li (Mrs Lee)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hui_li@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Neo Keng Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>neo_keng_yang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
