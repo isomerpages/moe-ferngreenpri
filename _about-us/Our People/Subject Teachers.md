@@ -86,7 +86,18 @@ third_nav_title: Our People
 <p>Ms Sim Hui Fang Susanna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_hui_fang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL&amp; MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rohana binte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rohana_Ibrahim_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -135,24 +146,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MA</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aisah Bte Mohd Osman</p>
+<p>Mr Chin Chee Keong Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aisah_mohd_osman_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rohana binte Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rohana_Ibrahim_A@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
