@@ -190,17 +190,4 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nooraihan_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nooraihan_mohamed_ali@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
