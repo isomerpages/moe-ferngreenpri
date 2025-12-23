@@ -141,7 +141,7 @@ third_nav_title: Our People
 <p>Mr Yee Siong Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yee_siong_yew@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
