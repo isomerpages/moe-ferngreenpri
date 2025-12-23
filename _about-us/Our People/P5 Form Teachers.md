@@ -42,7 +42,7 @@ third_nav_title: Our People
 <p>Miss Toh Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>toh_jia_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
