@@ -141,7 +141,7 @@ third_nav_title: Our People
 <p>Mrs Nooraihan Bte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nooraihan_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -186,6 +186,19 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nooraihan_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nooraihan_mohamed_ali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
