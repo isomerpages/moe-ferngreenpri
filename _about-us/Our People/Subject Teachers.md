@@ -152,7 +152,7 @@ third_nav_title: Our People
 <p>Mr Chin Chee Keong Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jonathan_chin_chee_kong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
