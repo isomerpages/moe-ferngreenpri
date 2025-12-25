@@ -235,7 +235,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Security Guard</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,11 +245,6 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Bee Hwee Jasmine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wee Meng Kit</p>
 </td>
 </tr>
 <tr>
