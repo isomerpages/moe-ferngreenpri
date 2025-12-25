@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Luthfiyyah Binte Kwajah Mohamed Moinuddeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>luthfiyyah_kwajah_mohamed_moinuddeen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
