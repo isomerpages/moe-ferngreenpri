@@ -114,14 +114,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shahri Bin Hairalah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +121,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,6 +136,11 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurhidayah Binte Shabirin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Umaiyya Binte Rosli Kwang</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +162,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,11 +187,6 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kang Ser Pheng Andrew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Themozhe D/O Nagappan (Molly)</p>
 </td>
 </tr>
 <tr>
@@ -231,11 +223,19 @@ third_nav_title: Our People
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emily Grace Seow Hui En</p>
+<p>Ms Aarti Uma Shankar</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Sci Lab Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Peh Ai Yian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Security Guard</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,11 +245,6 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Bee Hwee Jasmine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wee Meng Kit</p>
 </td>
 </tr>
 <tr>

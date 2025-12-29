@@ -98,7 +98,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD EL</p>
+<p>HOD-EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Wan Theng</p>
@@ -109,7 +109,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH EL</p>
+<p>LH-EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chua Pei Yee</p>
@@ -125,7 +125,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CL</p>
+<p>SH-CL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Wan Wen</p>
@@ -136,7 +136,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ML</p>
+<p>SH-ML</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fauziah Binte Osman</p>
@@ -152,18 +152,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Ming Sze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_ming_sze@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH MA</p>
+<p>LH-MA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Hui Ying Sandra</p>
@@ -179,7 +168,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD SCI</p>
+<p>HOD-SCI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wee Kiat (Steven)</p>
@@ -190,7 +179,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH SCI</p>
+<p>LH-SCI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Hwee Hwee</p>
@@ -206,7 +195,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE</p>
+<p>HOD-PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Zhao-Xiang (Keith)</p>
@@ -217,7 +206,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH PE</p>
+<p>LH-PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Stephanie Yeo</p>
@@ -228,7 +217,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Aesthetics</p>
+<p>SH-Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pang Biao Bin</p>
@@ -244,7 +233,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD SM</p>
+<p>HOD-SM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Wei Hsuan Rena</p>
@@ -266,7 +255,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD-CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Sujing (Mrs Natalie Chong)</p>
@@ -277,7 +266,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH CCE</p>
+<p>LH-CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Brammi Ragupathy</p>
@@ -306,6 +295,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>mastura_samsuddin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH-ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Quake Kheok Meng Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>quake_kheok_meng_raymond@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -343,13 +343,24 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH LP</p>
+<p>YH-LP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Khoo Seok Ling Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>khoo_seok_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH-LP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang -Tan Sok Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sok_kiang_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +376,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH MP</p>
+<p>YH-MP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cheryl Lee</p>
@@ -376,13 +387,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH MP</p>
+<p>AYH-MP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang -Tan Sok Kiang</p>
+<p>Ms Ang Sing Min Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sok_kiang_a@moe.edu.sg</p>
+<p>ang_sing_min_serene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -398,24 +409,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH UP</p>
+<p>YH-UP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Ridza B Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_ridza_b_hashim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH UP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Sing Min Serene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_sing_min_serene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -452,7 +452,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT MA</p>
+<p>LT-MA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Agnes Tham</p>
@@ -463,7 +463,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST EL</p>
+<p>ST-EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ivy Leow Gim Chye</p>
@@ -474,7 +474,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST TL</p>
+<p>ST-TL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Punitha d/o Murugaiah Maniam</p>
@@ -485,7 +485,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST CCE</p>
+<p>ST-CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Durrah Binte Ahmad</p>
@@ -496,7 +496,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST LN (SEN)</p>
+<p>ST-LP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Gan Jumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_jumi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST-LN (SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Siew Hoon</p>
@@ -507,7 +518,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST LN (ES)</p>
+<p>ST-LN (ES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Celine Celestine Goh (Mrs Lim)</p>
@@ -518,7 +529,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Art</p>
+<p>ST-ART</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Xiangling Jess</p>
@@ -529,7 +540,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST ML</p>
+<p>ST-CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Ai Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>foo_ai_fen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST-ML</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aidah Binte Hosni</p>
@@ -587,17 +609,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ops Mgr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shahri Bin Hairalah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shahri_hairalah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Mgr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -649,6 +660,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>mk_ferngreen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -28,6 +28,127 @@ third_nav_title: Our People
 <p>5 Respect (5R1)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Chen Sujing (Mrs Natalie Chong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chen_sujing@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Respect (5R1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Toh Jia Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>toh_jia_yi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Responsibility (5R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koo Yuet Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koo_yuet_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Responsibility (5R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Raeann Chou Yue En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>raeann_chou_yue_en@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Resilience (5R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Oh Siew Lian Cindy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_siew_lian_cindy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Resilience (5R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Biao Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_biao_bin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Integrity (5I1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Maheswari D/O Rajaratanam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>maheswari_mohanavelu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Integrity (5I1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ashlie Gwee Chin En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ashlie_Gwee_Chin_En@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Innovation (5I2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_su_yin_sharon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Innovation (5I2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Cheng Wan Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vanessa_cheng_wan_ting@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Care (5C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Nooraihan Bte Mohamed Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nooraihan_mohamed_ali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Care (5C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Ng Hui Lan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,101 +157,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Respect (5R1)</p>
+<p>5 Harmony (5H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Leow Gim Chye</p>
+<p>Ms Ashika Begum Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ivy_leow_gim_chye@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Responsibility (5R2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Agnes Tham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tham_sok_theng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Responsibility (5R2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chia Shwu Yng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chia_shwu_yng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Resilience (5R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Zhong Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo_zhong_wei@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Resilience (5R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Klara Chua Mei Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>klara_chua_mei_chin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Integrity (5I)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Elaine Yeo Yan Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>elaine_yeo_yan_ying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Integrity (5I)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Wee Kiat (Steven)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_wee_kiat@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Care (5C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Khng Jun Xiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>khng_jun_xiong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Care (5C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rizalia Bte Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rizalia_abdul_rahim@moe.edu.sg</p>
+<p>ashika_begum_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,43 +171,10 @@ third_nav_title: Our People
 <p>5 Harmony (5H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ridza B Hashim</p>
+<p>Ms Choo Xuewei Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_ridza_b_hashim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Harmony (5H)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mahalingam Kanagheswari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mahalingam_kanagheswari@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Discipline (5D)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Brammi Ragupathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>brammi_ragupathy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Discipline (5D)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chen Xiangling (Mrs Jess Low)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chen_xiangling@moe.edu.sg</p>
+<p>choo_xuewei_stephanie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

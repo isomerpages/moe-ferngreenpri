@@ -25,139 +25,161 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect (1R1)</p>
+<p>1 Black</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Freda Paul</p>
+<p>Mdm Luthfiyyah Binte Kwajah Mohamed Moinuddeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>freda_paul@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Respect (1R1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Foo Ai Fen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>foo_ai_fen@moe.edu.sg</p>
+<p>luthfiyyah_kwajah_mohamed_moinuddeen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Responsibility (1R2)</p>
+<p>1 Black</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maggie Yune</p>
+<p>Miss Lim Lihui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_mei_qi_maggie@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Responsibility (1R2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Amirah Batrisyia Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>amirah_batrisyia_osman@moe.edu.sg</p>
+<p>lim_lihui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience (1R3)</p>
+<p>1 Blue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Wei Hsuan Rena</p>
+<p>Mdm Khoo Seok Ling Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rena_tay_wei_hsuan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Resilience (1R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nadya Farah Binte Zaidi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nadya_farah_zaidi@moe.edu.sg</p>
+<p>khoo_seok_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience (1R3)</p>
+<p>1 Blue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Raeann Chou Yue En</p>
+<p>Miss Kasmawati Binte Masood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>raeann_chou_yue_en@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Integrity (1I1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Su-Rin Daphne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_su-rin_daphne@moe.edu.sg</p>
+<p>kasmawati_masood@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity (1I1)</p>
+<p>1 Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Cheng Wan Ting</p>
+<p>Ms Mahdiah Binte Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vanessa_cheng_wan_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Innovation (1I2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chong Fangxun (Jessica)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_fangxun@moe.edu.sg</p>
+<p>mahdiah_md_noor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Innovation (1I2)</p>
+<p>1 Green</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Punitha d/o Murugaiah Maniam</p>
+<p>Ms Lai Hui Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>punitha_murugaiah_maniam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Care (1C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chua Pei Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_pei_yee@moe.edu.sg</p>
+<p>lai_hui_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care (1C)</p>
+<p>1 Orange</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Atiqah Binte Sheik Mohsen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_atiqah_sheik_mohsen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Orange</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Siew Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_siew_hoon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Pink</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Gan Jumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_jumi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Pink</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Zhi Qiang Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_zhi_qiang_jeremy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Purple</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Li Ying Clarice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_li_ying_clarice@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Purple</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Di Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_di_jie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Red</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Pey Lin Esther (Mrs Chia)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>poh_pey_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Red</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm J. Aswiniey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>j_aswiniey@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Yellow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Farah Adzlin Kasmany</p>
@@ -168,57 +190,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Harmony (1H)</p>
+<p>1 Yellow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Khairul (Ms Normah Binte Arshad)</p>
+<p>Ms Lim Soo Liam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>normah_arshad@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Harmony (1H)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Glenda Lim Shu Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>glenda_lim_shu_ting@moe.edu.sg</p>
+<p>lim_soo_liam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Motivation (1M)</p>
+<p>1 Grey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Buvaneswary Rengasamy</p>
+<p>Ms Yew Lea Lea Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>buvaneswary_rengasamy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Motivation (1M)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng-Zhao Xiang (Keith)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_zhao-xiang@moe.edu.sg</p>
+<p>yew_lea_lea_lily@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Motivation (1M)</p>
+<p>1 Grey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tian Hengqi</p>
+<p>Miss Choy Wen Qian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tian_hengqi@moe.edu.sg</p>
+<p>choy_wen_qian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
