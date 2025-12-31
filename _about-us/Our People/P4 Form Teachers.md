@@ -102,7 +102,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity (4I)</p>
+<p>4 Integrity (4I1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chew Chee Keong Paul</p>
@@ -113,7 +113,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity (4I)</p>
+<p>4 Integrity (4I1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fauziah Binte Osman</p>

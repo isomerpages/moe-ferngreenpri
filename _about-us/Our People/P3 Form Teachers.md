@@ -160,7 +160,7 @@ third_nav_title: Our People
 <p>3 Care (3C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sakinah Binte Mohamed Mohsen</p>
+<p>Ms Sakinah Binte Mohamed Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sakinah_mohamed_mohsen@moe.edu.sg</p>
