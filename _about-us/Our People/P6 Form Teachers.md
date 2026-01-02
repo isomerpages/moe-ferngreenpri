@@ -160,7 +160,7 @@ third_nav_title: Our People
 <p>6 Care (6C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rizalia Bte Abdul Rahim</p>
+<p>Mdm Rizalia Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rizalia_abdul_rahim@moe.edu.sg</p>
