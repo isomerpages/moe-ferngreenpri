@@ -50,7 +50,7 @@ third_nav_title: Our People
 <p>2 Responsibility (2R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIss Amirah Batrisyia Osman</p>
+<p>Miss Amirah Batrisyia Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>amirah_batrisyia_osman@moe.edu.sg</p>
