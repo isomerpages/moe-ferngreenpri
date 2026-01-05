@@ -106,7 +106,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Operations Managers</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siew Lai Lone (Gary)</p>
