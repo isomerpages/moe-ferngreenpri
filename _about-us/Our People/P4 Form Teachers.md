@@ -94,7 +94,7 @@ third_nav_title: Our People
 <p>4 Resilience (4R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Hwee Hwee</p>
+<p>Ms Yeo Hwee Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_hwee_hwee@moe.edu.sg</p>
