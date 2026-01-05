@@ -609,6 +609,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ops Mgr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Erisham Bin Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>erisham_abdul_rashid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Mgr</p>
 </td>
 <td rowspan="1" colspan="1">
