@@ -194,7 +194,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Ms Ashlie Gwee Chin En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ashlie_Gwee_Chin_En@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ashlie_Gwee_Chin_En@moe.edu.sg</a> 
+<p><a href="mailto:Ashlie_Gwee_Chin_En@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ashlie_Gwee_Chin_En@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -207,7 +207,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Mdm Siti Noor Fatimah Bte Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_noor_fatimah_jabbar@noe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noor_fatimah_jabbar@noe.edu.sg</a> 
+<p><a href="mailto:siti_noor_fatimah_jabbar@noe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noor_fatimah_jabbar@noe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -233,7 +233,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Miss Kasmawati Binte Masood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kasmawati_masood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasmawati_masood@moe.edu.sg</a> 
+<p><a href="mailto:kasmawati_masood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasmawati_masood@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Ms Lai Hui Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lai_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_hui_ming@moe.edu.sg</a> 
+<p><a href="mailto:lai_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_hui_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
