@@ -105,11 +105,16 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siew Lai Lone (Gary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Erisham Bin Abdul Rashid</p>
 </td>
 </tr>
 <tr>

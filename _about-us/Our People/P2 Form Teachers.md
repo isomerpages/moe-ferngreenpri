@@ -50,7 +50,7 @@ third_nav_title: Our People
 <p>2 Responsibility (2R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIss Amirah Batrisyia Osman</p>
+<p>Miss Amirah Batrisyia Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>amirah_batrisyia_osman@moe.edu.sg</p>
@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Ms Wong Su-Rin Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_su-rin_daphne</p>
+<p>wong_su-rin_daphne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ third_nav_title: Our People
 <p>Mdm Zubaidah bte Zainal Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zubaidah_zainal_abidin</p>
+<p>zubaidah_zainal_abidin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
