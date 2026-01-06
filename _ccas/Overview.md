@@ -191,10 +191,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Hui Li</p>
+<p>Ms Ashlie Gwee Chin En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_hui_li@moe.edu.sg</a>
+<p><a href="mailto:Ashlie_Gwee_Chin_En@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ashlie_Gwee_Chin_En@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -204,10 +204,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ashika Begum Binte Mohamed Ali</p>
+<p>Mdm Siti Noor Fatimah Bte Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ashika_begum_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ashika_begum_mohamed_ali@moe.edu.sg</a>
+<p><a href="mailto:siti_noor_fatimah_jabbar@noe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noor_fatimah_jabbar@noe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -230,10 +230,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Izree</p>
+<p>Miss Kasmawati Binte Masood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_izree_jalil@moe.edu.sg</a>
+<p><a href="mailto:kasmawati_masood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasmawati_masood@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -256,10 +256,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Di Jie</p>
+<p>Ms Lai Hui Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_di_jie@moe.edu.sg</a>
+<p><a href="mailto:lai_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_hui_ming@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -269,10 +269,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sakinah</p>
+<p>Mrs Lee Hui Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sakinah_mohamed_mohsen@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_hui_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -282,10 +282,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Gan Jumi</p>
+<p>Ms Freda Paul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_jumi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_jumi@moe.edu.sg</a>
+<p><a href="mailto:gan_jumi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">freda_paul@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -321,10 +321,10 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khng Jun Xiong</p>
+<p>Mr Tan Di Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khng_jun_xiong@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_di_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
