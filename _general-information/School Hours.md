@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>All students are to report by 7.30am</p>
+<p>All students are to report by 7.30am.</p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 - P6</p>
+<p>P3 to P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1, 2 or 4</p>
