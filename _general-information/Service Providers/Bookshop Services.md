@@ -35,7 +35,7 @@ third_nav_title: Service Providers
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am - 4pm, Monday to Friday.</p>
+<p>8.30am - 3pm, Monday to Friday.</p>
 <p>Closed on Saturday, Sunday and Public Holidays</p>
 </td>
 </tr>
