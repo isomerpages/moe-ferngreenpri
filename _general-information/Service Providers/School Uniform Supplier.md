@@ -55,7 +55,7 @@ third_nav_title: Service Providers
 </tr>
 </tbody>
 </table>
-<h4><strong><u>School Attire for 2025</u></strong></h4>
+<h4><strong><u>School Attire</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
