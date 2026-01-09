@@ -175,7 +175,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Gate Opening Hours</h4>
-<p>Please refer to <a href="/files/School Gate/Opening_Hours_SchoolGates_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">School Gate Opening Hours 2025</a>.</p>
+<p>Please refer to <a href="/files/School Gate/Opening_Hours_SchoolGates_2025.pdf" rel="noopener nofollow" target="_blank">School Gate Opening Hours.</a>
+</p>
 <h4>General Office Operating Hours</h4>
 <table style="minWidth: 50px">
 <colgroup>
