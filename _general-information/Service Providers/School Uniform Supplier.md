@@ -38,6 +38,15 @@ third_nav_title: Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lunch Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1pm to 2pm (Retail and office are closed on lunch time, Sundays and Public
+Holidays)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
