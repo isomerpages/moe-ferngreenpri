@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>All students are to report by 7.30am</p>
+<p>All students are to report by 7.30am.</p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 - P6</p>
+<p>P3 to P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1, 2 or 4</p>
@@ -175,7 +175,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Gate Opening Hours</h4>
-<p>Please refer to <a href="/files/School Gate/Opening_Hours_SchoolGates_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">School Gate Opening Hours 2025</a>.</p>
+<p>Please refer to <a href="/files/School Gate/Opening_Hours_SchoolGates_2025.pdf" rel="noopener nofollow" target="_blank">School Gate Opening Hours.</a>
+</p>
 <h4>General Office Operating Hours</h4>
 <table style="minWidth: 50px">
 <colgroup>

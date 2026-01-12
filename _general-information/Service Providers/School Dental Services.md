@@ -16,7 +16,7 @@ variant: tiptap
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays &amp; Wednesdays (8.00am - 5.00pm)</p>
+<p>Mondays to Friday (alternate week) (8.00am - 5.00pm)</p>
 <p>Lunch Hour: 1.00pm to 2.00pm</p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Buddy Clinics</strong></h4>
-<p>When the clinic is closed, students can visit the nearby buddy clinics
+<p>When the clinic is closed, students can visit the nearby buddy clinic
 and mini referral centre for emergency or urgent cases.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -91,20 +91,6 @@ and mini referral centre for emergency or urgent cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oasis Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>71 Edgefield Plains Punggol S(828716)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8940 6503</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,20 +101,6 @@ and mini referral centre for emergency or urgent cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9015 3654</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Valour Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>49 Punggol Central S(828728)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9113 7654</p>
 </td>
 </tr>
 <tr>

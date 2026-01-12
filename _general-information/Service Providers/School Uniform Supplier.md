@@ -38,6 +38,15 @@ third_nav_title: Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lunch Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1pm to 2pm (Retail and office are closed on lunch time, Sundays and Public
+Holidays)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +64,7 @@ third_nav_title: Service Providers
 </tr>
 </tbody>
 </table>
-<h4><strong><u>School Attire for 2025</u></strong></h4>
+<h4><strong>School Attire</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,80 +73,198 @@ third_nav_title: Service Providers
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<p>Uniform rules</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Worn on Days with PE Lessons</p>
+<p>Days with PE or PAL Lessons</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Worn on Days with no PE Lessons</p>
+<p>Days with no PE or PAL Lessons</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1</p>
+<p><strong>Primary 1 &amp; Primary 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire: School Polo Shirt and PE Shorts.
-<br><em>Students can continue to put on their PE attire for the whole day.</em> 
-<br>
+<br>*<em>Students can continue to wear their PE attire for the whole day.</em> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Half Uniform:
-<br>School Polo Shirt and Bermuda Shorts (Boys)
-<br>School Polo Shirt and Skirts (Girls)</p>
+<br>School PE T-Shirt and Bermuda Shorts (Boys)
+<br>School PE T-Shirt and Skirts (Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE Attire: School Polo Shirt and Shorts.
-<br><em>Students can continue to put on their PE attire for the whole day.</em> 
-<br>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="5">
+<p>For P3 to P6 Students: To wear full uniform on days with no PE lessons.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gender</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Half Uniform:
-<br>School Polo Shirt and Bermuda Shorts (Boys)
-<br>School Polo Shirt and Skirts (Girls)</p>
+<p><strong>Attire to report to school in</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bring along</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>During Recess</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>PE Lessons <strong>Before </strong>Recess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bermuda Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Change into Bermuda Shorts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 - Primary 5</p>
+<p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE Attire: School Polo Shirt and Shorts to be worn during PE lessons
-<br><em>Students are expected to don the half uniform before or after their PE lessons.</em>
-</p>
+<p>PE Attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full uniform:
-<br>School Shirt and Bermuda Shorts (Boys)
-<br>School Shirt and Skirt (Girls)</p>
+<p>Skirts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Put on or change into skirt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE Lessons <strong>After </strong>Recess/School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School PE T-Shirt with Bermuda Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Change into PE Shorts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School PE T-Shirt with Skirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remove Skirt or change into PE Shorts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>All students</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Students are to put on <u>fully covered black shoes</u> with Velcro or shoe
-laces. Please note that Mary Jane shoes will not be allowed due to safety
-concerns during PE lessons.</p>
+<td rowspan="1" colspan="4">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to put on plain white, above the ankles and of a suitable
+length socks.</p>
+</li>
+<li>
+<p>Fully covered black PVC/canvas shoes with Velcro or shoe laces. Please
+note that Mary Jane shoes will not be allowed due to safety concerns during
+PE lessons.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>All students</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p>Note: Name Tag (<strong>1cm above School Crest</strong> for School Polo
 Tee; <strong>1 cm above pocket slit</strong> for School Shirt)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
