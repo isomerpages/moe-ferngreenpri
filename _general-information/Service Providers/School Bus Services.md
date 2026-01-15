@@ -88,5 +88,114 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>Bus fares for daily school bus services by distance applicable from 1
+January 2026 to 31 December 2027:</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Distance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Up to 15-seater</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>More than 15-seater</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2Km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>220</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt; - 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>240</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>210</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p></p>
