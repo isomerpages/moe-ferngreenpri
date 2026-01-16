@@ -88,5 +88,131 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>New School Bus Fare (With effect from 1 January 2026):</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>School bus fares have been revised, with an increase ranging from $10
+to $20 compared to the 2025 rates.</p>
+</li>
+<li>
+<p>This adjustment takes into account prevailing increases in operational
+costs, including fuel, manpower and vehicle maintenance.</p>
+</li>
+<li>
+<p>The revised fares are distance-based and will apply to daily school bus
+services provided by BT&amp;TAN Transport Pte Ltd for the period from 1
+January 2026 to 31 December 2027.</p>
+</li>
+<li>
+<p>Should you have any queries, please contact the bus operator.</p>
+</li>
+</ul>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Distance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Up to 15-seater</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>More than 15-seater</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 way</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2Km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$220</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt; - 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$240</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$210</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p></p>
