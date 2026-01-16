@@ -103,6 +103,9 @@ costs, including fuel, manpower and vehicle maintenance.</p>
 services provided by BT&amp;TAN Transport Pte Ltd for the period from 1
 January 2026 to 31 December 2027.</p>
 </li>
+<li>
+<p>Should you have any queries, please contact the bus operator.</p>
+</li>
 </ul>
 <table style="minWidth: 125px">
 <colgroup>
