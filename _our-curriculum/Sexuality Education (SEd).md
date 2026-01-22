@@ -88,8 +88,15 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sexuality Education (SED)/2026_Info_on_SEd_for_schs_website__Primary_Schools__18_Jan_Cleared_Page_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sexuality Education (SED)/2026_Info_on_SEd_for_schs_website__Primary_Schools__18_Jan_Cleared_Page_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sexuality Education (SED)/2026_Info_on_SEd_for_schs_website__Primary_Schools__18_Jan_Cleared_Page_6.jpg">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <ol start="8">
@@ -100,12 +107,12 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/6778a6d53d07871a25d9ed14" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong><u>31/01/2025</u></strong>.</p>
+to parents at the start of the year and is also available <a href="https://form.gov.sg/696c94a9fc7dff9d8939fc60" rel="noopener nofollow" target="_blank">here</a>.The
+completed opt-out form is to be submitted by <strong>30/01/2026</strong>.</p>
 </li>
 <li>
-<p>Parents can contact the school at 68343100 or email (ferngreen_ps@moe.edu.sg)
-for discussion or to seek clarification about the school's Sexuality Education
+<p>Parents can contact the school at (68343100 or email (<a href="mailto:ferngreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ferngreen_ps@moe.edu.sg</a>)&nbsp;for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
 </ol>
