@@ -14,6 +14,10 @@ significant contributions to the teaching and learning of Tamil language
 in our schools.</p>
 <p>Online nominations can be made via <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">https://go.gov.sg/mitt2026nominations.</a> The
 closing date for nominations is <strong>13 March 2026</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg">
+</div>
+<p></p>
 <hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
@@ -26,3 +30,4 @@ share with us <a href="https://go.gov.sg/sayitfromyourheart" rel="noopener noref
 any of our staff members have made an impression during their interactions
 with you, so we could affirm their efforts and encourage them on!&nbsp;</p>
 <p>Thank you in advance for your time!</p>
+<p></p>
