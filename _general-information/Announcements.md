@@ -17,7 +17,9 @@ closing date for nominations is <strong>13 March 2026</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/3__MITT_2026_Nomination_QR_code.png">
+</div>
 <hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
