@@ -4,7 +4,7 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Nomination for Most Inspiring Tamil Teachers' Award (MITT) 2026</strong></h4>
+<h4><strong>Nomination for Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
 <p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 is an annual
 award jointly organised by the Malay Language Council, Singapore (MBMS),
 Malay Language Teachers’ Association (PGBM), Berita Harian (BH) and Malay
@@ -16,6 +16,10 @@ in our schools.</p>
 closing date for nominations is <strong>13 March 2026</strong>. All are
 invited to nominate our Malay Language teachers for this award to affirm
 their contributions to the teaching of Malay Language.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2__AGAB_2026_Poster.jpg">
+</div>
+<p></p>
 <hr>
 <h4><strong>Nomination for Most Inspiring Tamil Teachers' Award (MITT) 2026</strong></h4>
 <p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
