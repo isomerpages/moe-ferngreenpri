@@ -4,6 +4,17 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Nomination for Most Inspiring Tamil Teachers' Award (MITT) 2026</strong></h4>
+<p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
+jointly organised by the Tamil Murasu ™ with the partnership of the Tamil
+Language Learning and Promotion Committee (TLLPC) and the Singapore Tamil
+Teachers’ Union (STTU).</p>
+<p>This award recognises outstanding Tamil language teachers who have made
+significant contributions to the teaching and learning of Tamil language
+in our schools.</p>
+<p>Online nominations can be made via <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">https://go.gov.sg/mitt2026nominations.</a> The
+closing date for nominations is <strong>13 March 2026</strong>.</p>
+<hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
