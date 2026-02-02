@@ -12,7 +12,7 @@ Teachers’ Union (STTU).</p>
 <p>This award recognises outstanding Tamil language teachers who have made
 significant contributions to the teaching and learning of Tamil language
 in our schools.</p>
-<p>Online nominations can be made via <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">https://go.gov.sg/mitt2026nominations.</a> The
+<p>Online nominations can be made via QR code below or <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">https://go.gov.sg/mitt2026nominations.</a> The
 closing date for nominations is <strong>13 March 2026</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg">
