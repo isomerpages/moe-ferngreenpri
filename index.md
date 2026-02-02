@@ -23,6 +23,15 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: Arif Budiman Malay Language Teacher Award (AGAB) 2026
+      subtitle: Nomination for
+      id: infopic
+      description: The closing date for nominations is 13 March 2026.
+      button: nominate here!
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/2__AGAB_2026_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: Most Inspiring Tamil Teachers' Award (MITT) 2026
       subtitle: Nomination for
       id: infopic
