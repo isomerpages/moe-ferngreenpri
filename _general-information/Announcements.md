@@ -4,6 +4,23 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Nomination for Inspiring Teacher of English Award 2026</strong></h4>
+<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are
+now open.&nbsp; Presented by the Speak Good English Movement and The Straits
+Times with the support of the Ministry of Education, the Award has two
+categories – the Teaching Award and the Leadership Award.&nbsp;</p>
+<p>Please click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a> to
+download nomination forms for the Teaching Award. The Award is open to
+all in-service teachers of English Language, including teachers of Literature
+in English and General Paper. All students, their parents, and teachers
+are invited to send in nominations for the Teaching Award to the Principal
+of the nominee’s school by <strong>6 p.m. on 23 March 2026</strong>.&nbsp;</p>
+<p>Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/EL_Award_2026.jpg">
+</div>
+<p></p>
+<hr>
 <h4><strong>Nomination for Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
 <p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 is an annual
 award jointly organised by the Malay Language Council, Singapore (MBMS),
