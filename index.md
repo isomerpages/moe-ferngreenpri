@@ -26,8 +26,9 @@ sections:
       title: Inspiring Teacher of English Award 2026
       subtitle: Nomination for
       id: infopic
-      description: Nomination open on 2 Feb 2026 and all forms must reach the Speak
-        Good English Movement by 5pm on 6 April 2026.
+      description: All students, parents, and teachers are invited to send in
+        nominations for the Teaching Award to the Principal of the nominee’s
+        school by 6 pm on 23 March 2026.
       button: nominate here!
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Annoucements/EL_Award_2026.jpg
