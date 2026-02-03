@@ -23,6 +23,16 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: Nomination for
+      id: infopic
+      description: Nomination open on 2 Feb 2026 and all forms must reach the Speak
+        Good English Movement by 5pm on 6 April 2026.
+      button: nominate here!
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/EL_Award_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Arif Budiman Malay Language Teacher Award (AGAB) 2026
       subtitle: Nomination for
       id: infopic
