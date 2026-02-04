@@ -23,6 +23,35 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: Nomination for
+      id: infopic
+      description: All students, parents, and teachers are invited to send in
+        nominations for the Teaching Award to the Principal of the nominee’s
+        school by 6 pm on 23 March 2026.
+      button: nominate here!
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/EL_Award_2026.jpg
+      alt: Image alt text
+  - infopic:
+      title: Arif Budiman Malay Language Teacher Award (AGAB) 2026
+      subtitle: Nomination for
+      id: infopic
+      description: The closing date for nominations is 13 March 2026.
+      button: nominate here!
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/2__AGAB_2026_Poster.jpg
+      alt: Image alt text
+  - infopic:
+      title: Most Inspiring Tamil Teachers' Award (MITT) 2026
+      subtitle: Nomination for
+      id: infopic
+      description: The closing date for nominations is 13 March 2026.
+      button: nominate here!
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      image: /images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg
+      alt: MIIT
+  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
