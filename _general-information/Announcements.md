@@ -15,7 +15,6 @@ all in-service teachers of English Language, including teachers of Literature
 in English and General Paper. All students, their parents, and teachers
 are invited to send in nominations for the Teaching Award to the Principal
 of the nominee’s school by <strong>6 p.m. on 23 March 2026</strong>.&nbsp;</p>
-<p>Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/EL_Award_2026.jpg">
 </div>
