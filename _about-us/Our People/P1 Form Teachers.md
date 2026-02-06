@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Black</p>
+<p>1 Respect (1R1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Luthfiyyah Binte Kwajah Mohamed Moinuddeen</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Black</p>
+<p>1 Respect (1R1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lim Lihui</p>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Blue</p>
+<p>1 Responsibility (1R2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Khoo Seok Ling Serene</p>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Blue</p>
+<p>1 Responsibility (1R2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kasmawati Binte Masood</p>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Green</p>
+<p>1 Resilience (1R3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Mahdiah Binte Mohamed Noor</p>
@@ -80,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Green</p>
+<p>1 Resilience (1R3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lai Hui Ming</p>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Orange</p>
+<p>1 Integrity (1I1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Atiqah Binte Sheik Mohsen</p>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Orange</p>
+<p>1 Integrity (1I1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Siew Hoon</p>
@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Pink</p>
+<p>1 Innovation (1I2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Gan Jumi</p>
@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Pink</p>
+<p>1 Innovation (1I2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Zhi Qiang Jeremy</p>
@@ -135,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Purple</p>
+<p>1 Care (1C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Li Ying Clarice</p>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Purple</p>
+<p>1 Care (1C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Di Jie</p>
@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Red</p>
+<p>1 Harmony (1H)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Poh Pey Lin Esther (Mrs Chia)</p>
@@ -168,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Red</p>
+<p>1 Harmony (1H)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm J. Aswiniey</p>
@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Yellow</p>
+<p>1 Joy (1J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Farah Adzlin Kasmany</p>
@@ -190,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Yellow</p>
+<p>1 Joy (1J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Soo Liam</p>
@@ -201,7 +201,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Grey</p>
+<p>1 Gratitude (1G)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yew Lea Lea Lily</p>
@@ -212,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Grey</p>
+<p>1 Gratitude (1G)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Choy Wen Qian</p>
