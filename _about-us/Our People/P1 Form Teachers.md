@@ -207,7 +207,7 @@ variant: tiptap
 <p>Ms Yew Lea Lea Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yew_lea_lea_lily@moe.edu.sg</p>
+<p>lily_yew@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
