@@ -23,6 +23,7 @@ parents will:</p>
 in the digital age.</p>
 </li>
 </ul>
+<p>Please click for the refreshed guidelines.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_1.jpg">
 </div>
