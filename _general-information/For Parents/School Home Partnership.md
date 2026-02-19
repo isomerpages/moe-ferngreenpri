@@ -23,6 +23,13 @@ parents will:</p>
 in the digital age.</p>
 </li>
 </ul>
-<p>Please click <a rel="noopener nofollow" target="_blank">here</a> for
-the refreshed guidelines.</p>
+<p>Please click <a rel="noopener nofollow" target="_blank">here</a> for the
+refreshed guidelines.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_2.jpg">
+</div>
 <p></p>
