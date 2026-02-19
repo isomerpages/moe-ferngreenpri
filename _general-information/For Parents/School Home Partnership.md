@@ -24,11 +24,11 @@ in the digital age.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_2.jpg">
 </div>
 <p></p>
 <div class="iframe-wrapper">
