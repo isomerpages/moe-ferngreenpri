@@ -33,3 +33,7 @@ refreshed guidelines.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_2.jpg">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rCY8IHexGAk?si=O_CtHou46v7366H6"></iframe>
+</div>
+<p></p>
