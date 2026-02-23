@@ -143,6 +143,42 @@ a section that categorises all stories from primary schools</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Parenting for Wellness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://parentingforwellness.hpb.gov.sg/Module-9" rel="noopener nofollow" target="_blank">Understanding the Digital Landscape</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EduTalk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/news/edtalks/what-you-need-to-know-about-moes-views-on-digital-devices-and-purposeful-and-healthy-screen-use" rel="noopener nofollow" target="_blank">Digital Devices and Purposeful and Healthy Screen Use</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Site</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://psg.moe.edu.sg/planning-for-activities/" rel="noopener nofollow" target="_blank">Planning for Activities</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Newsletters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://psg.moe.edu.sg/highlights/" rel="noopener nofollow" target="_blank">PSG Highlights</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
