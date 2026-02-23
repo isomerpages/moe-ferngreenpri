@@ -74,7 +74,7 @@ Edition</p>
 <p>Guidance on Screen Use in Children</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links (Parents)/Guidance_on_Screen_Use_in_Children__18_Jan__clean.pdf" rel="noopener nofollow" target="_blank">Guidance on Screen Use in Children</a>
+<p><a href="/files/Useful Links (Parents)/for_upload_guidance_on_screen_use_in_children_17_aug_2023.pdf" rel="noopener nofollow" target="_blank">Guidance on Screen Use in Children</a>
 </p>
 </td>
 </tr>
@@ -84,16 +84,6 @@ Edition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.gusto.sg/media-coverage/" rel="noopener noreferrer nofollow" target="_blank">https://www.gusto.sg/media-coverage/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>External Organisations / Helplines available for Students/Parents who
-require help and support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
 </p>
 </td>
 </tr>
@@ -138,6 +128,52 @@ a section that categorises all stories from primary schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.canva.com/design/DAGzqc-PzPo/EH_qKOFrbZ11uHZ7jDf6zA/view?utm_content=DAGzqc-PzPo&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hc78a71fc68" rel="noopener nofollow" target="_blank">Supporting Your Child’s Cyberwellness</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parenting for Wellness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://parentingforwellness.hpb.gov.sg/Module-9" rel="noopener nofollow" target="_blank">Understanding the Digital Landscape</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EduTalk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/news/edtalks/what-you-need-to-know-about-moes-views-on-digital-devices-and-purposeful-and-healthy-screen-use" rel="noopener nofollow" target="_blank">Digital Devices and Purposeful and Healthy Screen Use</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Site</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://psg.moe.edu.sg/planning-for-activities/" rel="noopener nofollow" target="_blank">Planning for Activities</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Newsletters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://psg.moe.edu.sg/highlights/" rel="noopener nofollow" target="_blank">PSG Highlights</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>External Organisations / Helplines available for Students/Parents who
+require help and support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
 </p>
 </td>
 </tr>
