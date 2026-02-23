@@ -89,16 +89,6 @@ Edition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>External Organisations / Helplines available for Students/Parents who
-require help and support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">SchoolBag: The Education News Site</a>
 </p>
@@ -174,6 +164,16 @@ a section that categorises all stories from primary schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://psg.moe.edu.sg/highlights/" rel="noopener nofollow" target="_blank">PSG Highlights</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>External Organisations / Helplines available for Students/Parents who
+require help and support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Links (Parents)/Helplines_Contact_Numbers.pdf" rel="noopener nofollow" target="_blank">Helplines' Contact</a>
 </p>
 </td>
 </tr>
