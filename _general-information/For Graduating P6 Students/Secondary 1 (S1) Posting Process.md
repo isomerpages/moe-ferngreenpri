@@ -85,6 +85,19 @@ more</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>"Welcome to Secondary School" Video</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/welcome-to-secondary-school</u></a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Visit <strong>'What's Next'</strong> - A quick guide for decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
