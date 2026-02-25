@@ -62,8 +62,7 @@ more</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/exploreschools" rel="noopener nofollow" target="_blank">https://go.gov.sg/exploreschools</a>
-</p>
+<p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpri</a>&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -78,6 +77,19 @@ more</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>"Welcome to Secondary School" Video</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/welcome-to-secondary-school</u></a>
 </p>
 </li>
 </ul>
@@ -104,11 +116,15 @@ experience and memories of this milestone</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/For Graduating P6 Students/Supporting_Our_Children_on_PSLE_Results_Day__Parent_Kit_.pdf" rel="noopener nofollow" target="_blank">Supporting Our Children on PSLE Results Day [Parent Kit]</a>
+<p><a href="/files/For Graduating P6 Students/Supporting_Our_Children_on_PSLE_Results_Day__Parent_Kit_.pdf" rel="noopener nofollow" target="_blank">Supporting Our Children on PSLE Results Day</a>
 </p>
 </li>
 <li>
-<p><a href="/files/For Graduating P6 Students/How_Can_Parents_Support_Their_Children_in_Their_Decision_Making.pdf" rel="noopener nofollow" target="_blank">How Can Parents Support Their Children in Their Decision-Making?</a>
+<p><a href="/files/For Graduating P6 Students/How_Can_Parents_Support_Their_Children_in_Their_Decision_Making.pdf" rel="noopener nofollow" target="_blank">How Can Parents Support Their Children in Their Decision Making</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Graduating P6 Students/ParentGuideBooklet.pdf" rel="noopener nofollow" target="_blank">Tips For Parents</a>
 </p>
 </li>
 </ul>
@@ -124,4 +140,5 @@ experience and memories of this milestone</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
