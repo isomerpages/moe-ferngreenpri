@@ -21,19 +21,19 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Learning Space (SLS)</p>
+<p>eZhishi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+<p><a href="https://www.ezhishi.com/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com/Contents/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student iCON</p>
+<p>Koobits</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+<p><a href="https://www.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.koobits.com/</a>
 </p>
 </td>
 </tr>
@@ -57,19 +57,19 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eZhishi</p>
+<p>Student Learning Space (SLS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ezhishi.com/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com/Contents/</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koobits</p>
+<p>Student iCON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.koobits.com/</a>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
 </td>
 </tr>
