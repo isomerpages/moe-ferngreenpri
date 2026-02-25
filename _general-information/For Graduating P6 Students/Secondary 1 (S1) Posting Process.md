@@ -62,8 +62,7 @@ more</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/exploreschools" rel="noopener nofollow" target="_blank">https://go.gov.sg/exploreschools</a>
-</p>
+<p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpri</a>&nbsp;</p>
 </li>
 </ul>
 </td>
