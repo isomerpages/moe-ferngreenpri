@@ -116,11 +116,7 @@ experience and memories of this milestone</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/For Graduating P6 Students/Supporting_Our_Children_on_PSLE_Results_Day__Parent_Kit_.pdf" rel="noopener nofollow" target="_blank">Supporting Our Children on PSLE Results Day [Parent Kit]</a>
-</p>
-</li>
-<li>
-<p><a href="/files/For Graduating P6 Students/How_Can_Parents_Support_Their_Children_in_Their_Decision_Making.pdf" rel="noopener nofollow" target="_blank">How Can Parents Support Their Children in Their Decision-Making?</a>
+<p><a href="/files/For Graduating P6 Students/Supporting_Our_Children_on_PSLE_Results_Day__Parent_Kit_.pdf" rel="noopener nofollow" target="_blank">Supporting Our Children on PSLE Results Day</a>
 </p>
 </li>
 </ul>
