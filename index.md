@@ -23,6 +23,14 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: Speak Mandarin Campaign Family Talent Competition 2026
+      subtitle: Registration for
+      id: infopic
+      description: Registration is now extended till 8 March 2026.
+      button: Register here
+      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
+      alt: Image alt text
+  - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       subtitle: Nomination for
       id: infopic
