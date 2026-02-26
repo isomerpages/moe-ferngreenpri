@@ -30,6 +30,7 @@ sections:
       button: Register here
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       alt: Image alt text
+      image: /images/Annoucements/Family_Talent_Competition_2026_A5_flyer_Page_1.jpg
   - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       subtitle: Nomination for
