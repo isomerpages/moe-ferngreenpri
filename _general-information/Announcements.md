@@ -4,6 +4,26 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Speak Mandarin Campaign Family Talent Competition 2026</strong></h4>
+<p><strong>Registration for the 14th Speak Mandarin Campaign Family Talent Competition 2026 has been extended to 8 March 2026</strong>
+</p>
+<p>Co-organised by the Promote Mandarin Council, CHIJ St. Nicholas Girls’
+School (Primary), CPCLL and PCF Sparkletots, this nationwide competition
+aims to motivate children to learn and use Mandarin while providing opportunities
+for families to bond and enjoy themselves.</p>
+<p>Families are invited to form teams of up to a maximum of four members
+per team, and present a four-minute performance based on the theme of “Our
+Neighbourhood” at the Preliminary Round on Saturday, 11 April 2026.</p>
+<p>Online registration link:&nbsp; <a href="https://tinyurl.com/FTC2026" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/FTC2026</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/Family_Talent_Competition_2026_A5_flyer_Page_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/Family_Talent_Competition_2026_A5_flyer_Page_2.jpg">
+</div>
+<hr>
 <h4><strong>Nomination for Distinguished Chinese Language Teachers Awards 2026</strong></h4>
 <p>The 29th Distinguished Chinese Language Teachers Awards is now open for
 nominations.</p>
