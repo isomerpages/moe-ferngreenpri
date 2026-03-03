@@ -350,7 +350,7 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 <p>Ms Lily Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yew_lea_lea_lily@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lily_yew@moe.edu.sg</a>
 </p>
 </td>
 </tr>
