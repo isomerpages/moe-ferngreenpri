@@ -23,6 +23,13 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
+      title: MK @ Fern Green Open House 2026
+      subtitle: You are invited!
+      id: infopic
+      button: For more information
+      url: https://sites.google.com/moe.edu.sg/mkferngreen/open-house-2026
+      alt: Image alt text
+  - infopic:
       title: Speak Mandarin Campaign Family Talent Competition 2026
       subtitle: Registration for
       id: infopic
