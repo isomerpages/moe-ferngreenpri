@@ -218,7 +218,7 @@ Example:</p>
 <p>being inclusive.​</p>
 </li>
 <li>
-<p>appreciating unity and diversityof a multicultural society.​</p>
+<p>appreciating unity and diversity of a multicultural society.​</p>
 </li>
 </ul>
 </td>
