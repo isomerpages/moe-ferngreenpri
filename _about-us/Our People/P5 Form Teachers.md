@@ -69,6 +69,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Responsibility (5R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Guo Haiming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>guo_haiming_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Resilience (5R3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,6 +164,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_hui_lan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Care (5C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Eng Li Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eng_li_li@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
