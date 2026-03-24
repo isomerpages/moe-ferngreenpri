@@ -73,7 +73,7 @@ third_nav_title: Our People
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Xu Jing Xuan</p>
+<p>Ms Xu Jingxuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
