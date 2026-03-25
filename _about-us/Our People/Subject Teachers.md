@@ -69,6 +69,28 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Murali Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>murali_krishnan_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Olivia Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>olivia_tan_sze_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,28 +219,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_sock_ngoh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Murali Krishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>murali_krishnan_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Olivia Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>olivia_tan_sze_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
