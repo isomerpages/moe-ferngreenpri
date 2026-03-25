@@ -201,7 +201,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Murali Krishnan</p>
@@ -212,13 +212,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Olivia Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>olivia_tan_sze_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
