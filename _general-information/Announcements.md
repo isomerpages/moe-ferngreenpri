@@ -4,26 +4,6 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Speak Mandarin Campaign Family Talent Competition 2026</strong></h4>
-<p><strong>Registration for the 14th Speak Mandarin Campaign Family Talent Competition 2026 has been extended to 8 March 2026</strong>
-</p>
-<p>Co-organised by the Promote Mandarin Council, CHIJ St. Nicholas Girls’
-School (Primary), CPCLL and PCF Sparkletots, this nationwide competition
-aims to motivate children to learn and use Mandarin while providing opportunities
-for families to bond and enjoy themselves.</p>
-<p>Families are invited to form teams of up to a maximum of four members
-per team, and present a four-minute performance based on the theme of “Our
-Neighbourhood” at the Preliminary Round on Saturday, 11 April 2026.</p>
-<p>Online registration link:&nbsp; <a href="https://tinyurl.com/FTC2026" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/FTC2026</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/Family_Talent_Competition_2026_A5_flyer_Page_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/Family_Talent_Competition_2026_A5_flyer_Page_2.jpg">
-</div>
-<hr>
 <h4><strong>Nomination for Distinguished Chinese Language Teachers Awards 2026</strong></h4>
 <p>The 29th Distinguished Chinese Language Teachers Awards is now open for
 nominations.</p>
@@ -46,56 +26,6 @@ of QR code The closing date for nominations is <strong>30 April 2026 (Thursday).
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2026_POSTER_ver_MOE_260204.png">
-</div>
-<hr>
-<h4><strong>Nomination for Inspiring Teacher of English Award 2026</strong></h4>
-<p>Nominations for the annual <em>Inspiring Teacher of English</em>  <em>Award</em> are
-now open.&nbsp; Presented by the Speak Good English Movement and The Straits
-Times with the support of the Ministry of Education, the Award has two
-categories – the Teaching Award and the Leadership Award.&nbsp;</p>
-<p>Please click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener nofollow" target="_blank">here</a> to
-download nomination forms for the Teaching Award. The Award is open to
-all in-service teachers of English Language, including teachers of Literature
-in English and General Paper. All students, their parents, and teachers
-are invited to send in nominations for the Teaching Award to the Principal
-of the nominee’s school by <strong>6 p.m. on 23 March 2026</strong>.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/EL_Award_2026.jpg">
-</div>
-<p></p>
-<hr>
-<h4><strong>Nomination for Arif Budiman Malay Language Teacher Award (AGAB) 2026</strong></h4>
-<p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 is an annual
-award jointly organised by the Malay Language Council, Singapore (MBMS),
-Malay Language Teachers’ Association (PGBM), Berita Harian (BH) and Malay
-Language Learning and Promotion Committee (MLLPC).</p>
-<p>This award recognises outstanding Malay Language teachers who have made
-significant contributions to the teaching and learning of the Malay Language
-in our schools.</p>
-<p>Online nominations can be made via the link <a href="https://go.gov.sg/agab-2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/agab-2026</a>. The
-closing date for nominations is <strong>13 March 2026</strong>. All are
-invited to nominate our Malay Language teachers for this award to affirm
-their contributions to the teaching of Malay Language.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2__AGAB_2026_Poster.jpg">
-</div>
-<p></p>
-<hr>
-<h4><strong>Nomination for Most Inspiring Tamil Teachers' Award (MITT) 2026</strong></h4>
-<p>The Most Inspiring Tamil Teachers’ Award (MITT) 2026 is an annual award
-jointly organised by the Tamil Murasu ™ with the partnership of the Tamil
-Language Learning and Promotion Committee (TLLPC) and the Singapore Tamil
-Teachers’ Union (STTU).</p>
-<p>This award recognises outstanding Tamil language teachers who have made
-significant contributions to the teaching and learning of Tamil language
-in our schools.</p>
-<p>Online nominations can be made via QR code below or <a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank">https://go.gov.sg/mitt2026nominations.</a> The
-closing date for nominations is <strong>13 March 2026</strong>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Annoucements/3__MITT_2026_Nomination_QR_code.png">
 </div>
 <hr>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>

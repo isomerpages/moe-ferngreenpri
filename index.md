@@ -32,15 +32,6 @@ sections:
       image: /images/MK@Fern Green/MKFG_Open_House_2026.jpg
       description: Come and join us for a fun-filled day of exploration and discovery! 🌈✨
   - infopic:
-      title: Speak Mandarin Campaign Family Talent Competition 2026
-      subtitle: Registration for
-      id: infopic
-      description: Registration is now extended till 8 March 2026.
-      button: Register here
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      alt: Image alt text
-      image: /images/Annoucements/Family_Talent_Competition_2026_A5_flyer_Page_1.jpg
-  - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       subtitle: Nomination for
       id: infopic
@@ -49,35 +40,6 @@ sections:
       url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
       image: /images/Annoucements/2026_POSTER_ver_MOE_260204.png
       alt: Image alt text
-  - infopic:
-      title: Inspiring Teacher of English Award 2026
-      subtitle: Nomination for
-      id: infopic
-      description: All students, parents, and teachers are invited to send in
-        nominations for the Teaching Award to the Principal of the nominee’s
-        school by 6pm on 23 March 2026.
-      button: nominate here!
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/EL_Award_2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: Arif Budiman Malay Language Teacher Award (AGAB) 2026
-      subtitle: Nomination for
-      id: infopic
-      description: The closing date for nominations is 13 March 2026 (Friday).
-      button: nominate here!
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/2__AGAB_2026_Poster.jpg
-      alt: Image alt text
-  - infopic:
-      title: Most Inspiring Tamil Teachers' Award (MITT) 2026
-      subtitle: Nomination for
-      id: infopic
-      description: The closing date for nominations is 13 March 2026 (Friday).
-      button: nominate here!
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg
-      alt: MIIT
   - infopic:
       title: MK@FG School Tour
       id: infopic
