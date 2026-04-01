@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p>Student iCON is a suite of Google apps including email and other app services
-such as Google Classroom and Docs that helps to better support your learning
-in the following ways:</p>
+<p>Student iCON (<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
+is a suite of Google apps including email and other app services such as
+Google Classroom and Docs that helps to better support your learning in
+the following ways:</p>
 <ul>
 <li>
 <p>Support self-directed and collaborative learning</p>
@@ -36,6 +37,28 @@ conferencing</p>
 <li>
 <p>Follow students throughout their learning journey from Primary School
 to Junior College</p>
+</li>
+</ul>
+<h4><strong>Guidelines on the Use of Student MIMS Accounts</strong></h4>
+<p>Student MIMS accounts should be used only for educational purposes such
+as accessing learning materials, completing assignments, participating
+in online lessons, and communicating with teachers on academic matters.</p>
+<p>Student MIMS accounts <strong>must not</strong> be used for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Registering for social media platforms or entertainment websites</p>
+</li>
+<li>
+<p>Online gaming or gaming platforms</p>
+</li>
+<li>
+<p>Online shopping or commercial transactions</p>
+</li>
+<li>
+<p>Personal communications on online chat platforms unrelated to school activities</p>
+</li>
+<li>
+<p>Any non-educational websites or applications</p>
 </li>
 </ul>
 <h4><strong>Google Suite Apps available under Student iCON</strong></h4>
