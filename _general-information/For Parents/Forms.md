@@ -94,7 +94,7 @@ Institute.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Information on the MOE GPA Insurance Plan for students can be found on
-Income’s website at <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
+Income’s website at <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Group Personal Accident for Students</a>
 </p>
 <p></p>
 <p>Parents can submit the claims online and check the claims status at
