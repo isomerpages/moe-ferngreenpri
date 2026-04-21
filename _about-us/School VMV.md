@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Vision</strong></h3>
-<p><strong>Joyful Learners, Caring Leaders, Resilient Innovators</strong>
-</p>
+<p>Joyful Learners, Caring Leaders, Resilient Innovators</p>
 <hr>
 <h4><strong>Unpacking Our Vision</strong></h4>
 <ol data-tight="true" class="tight">
