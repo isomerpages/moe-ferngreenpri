@@ -63,22 +63,6 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leave of Absence (LOA)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Leave of Absence (LOA) scheme allows returning Singaporeans to rejoin
-their school after they return from overseas.</p>
-<p>LOA applies to all Singapore Citizen (SC) and Permanent Resident (PR)
-children in primary school, secondary school, junior colleges and Millennia
-Institute.</p>
-<p></p>
-<p><a href="https://go.gov.sg/leave-of-absence-loa-application" rel="noopener noreferrer nofollow" target="_blank">Online Application Form for Leave of Absence (LOA) for Returning Singaporeans</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Replacement of Concession Card</strong>
 </p>
 </td>
