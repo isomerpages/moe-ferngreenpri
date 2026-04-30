@@ -211,11 +211,16 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Admin Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurhirdayu Shabirin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Geok Lan Grace</p>
 </td>
 </tr>
 <tr>
