@@ -23,15 +23,6 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
-      title: Distinguished Chinese Language Teachers Awards 2026
-      subtitle: Nomination for
-      id: infopic
-      description: The closing date for nominations is 30 April 2026 (Thursday).
-      button: nominate here!
-      url: https://www.ferngreenpri.moe.edu.sg/general-information/Announcements/
-      image: /images/Annoucements/2026_POSTER_ver_MOE_260204.png
-      alt: Image alt text
-  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
