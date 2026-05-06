@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p>Student iCON (<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
-is a suite of Google apps including email and other app services such as
-Google Classroom and Docs that helps to better support your learning in
-the following ways:</p>
+<p>Student iCON (students.edu.sg) is a suite of Google apps including email
+and other app services such as Google Classroom and Docs that helps to
+better support your learning in the following ways:</p>
 <ul>
 <li>
 <p>Support self-directed and collaborative learning</p>
