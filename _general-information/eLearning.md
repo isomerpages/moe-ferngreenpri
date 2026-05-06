@@ -4,7 +4,7 @@ permalink: /general-information/e-learning/
 description: ""
 variant: tiptap
 ---
-<h4><strong>P3 e-Learning Day</strong></h4>
+<h4><strong>e-Learning Day</strong></h4>
 <p>The school has designated <strong>[date will be provided later on]</strong> as
 our <strong>e-Learning Day </strong>to prepare students for emergency school
 closures due to unforeseen circumstances.</p>
