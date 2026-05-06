@@ -21,6 +21,6 @@ through technology;</p>
 Learning) of students.</p>
 </li>
 </ul>
-<p>Students and Parents can access the [link will be provided later on] for
+<p>Students and Parents can access the <strong>[link will be provided later on]</strong> for
 lesson guides.</p>
 <p></p>
