@@ -157,6 +157,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MA &amp; SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yee Siew Mei Emily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yee_siew_mei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MU</p>
 </td>
 <td rowspan="1" colspan="1">
