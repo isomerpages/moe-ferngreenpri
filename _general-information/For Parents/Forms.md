@@ -17,7 +17,7 @@ third_nav_title: For Parents
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/Waitlist_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Waitlist Application Form</a>
+<p><a href="/files/Forms/Waitlist_Application_Form.pdf" rel="noopener nofollow" target="_blank">Waitlist Application Form</a>
 </p>
 </td>
 </tr>
