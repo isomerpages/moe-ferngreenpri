@@ -25,40 +25,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD-EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Wan Theng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_wan_theng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH-MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tang Hui Ying (Sandra)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tang_hui_ying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL &amp; SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Leo Wen Xiang Kenneth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leo_wen_xiang_kenneth@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
+<p>EL + SS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sundar (Mdm Mahalakshumi d/o Govindaswami)</p>
@@ -124,13 +91,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MA &amp; SCI</p>
+<p>EL + MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Don Seah Hock Kwee</p>
+<p>Ms Ng Gim Bee (Lauren)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seah_hock_kwee@moe.edu.sg</p>
+<p>ng_gim_bee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -142,17 +109,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_poh_wan_jeanette@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA &amp; SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Danamalar Kanagasabai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Danamalar_Kanagasabai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -175,17 +131,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>alyssa_lim_mui_wee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tye Meifen Jasmine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tye_meifen_jasmine_c@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -230,17 +175,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Jasmine_Yap_See_Puay_A@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Sock Ngoh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_sock_ngoh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
