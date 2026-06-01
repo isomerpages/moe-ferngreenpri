@@ -178,16 +178,11 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Desiree Lee Guek Hwa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Meng Hua</p>
 </td>
 </tr>
 <tr>
@@ -211,16 +206,11 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Admin Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurhirdayu Shabirin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Geok Lan Grace</p>
 </td>
 </tr>
 <tr>
