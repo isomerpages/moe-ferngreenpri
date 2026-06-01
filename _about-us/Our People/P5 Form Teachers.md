@@ -124,6 +124,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Integrity (5I1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shiu Kah Jun Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shiu_kah_jun_jeremy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Innovation (5I2)</p>
 </td>
 <td rowspan="1" colspan="1">
