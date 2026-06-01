@@ -107,10 +107,10 @@ Programme)&nbsp;</p>
 <p><strong>P1 Art Milestone Programme – Action Painting</strong>
 </p>
 </blockquote>
-<p>P1 students explore emotions through abstract painting inspired by artists
-Wassily Kandinsky and Jackson Pollock, using music and unconventional tools.
-Individually, they create mixed media face collages reflecting their feelings.
-This fosters collaboration and emotional awareness through creative play.</p>
+<p>P1 students explore emotions through abstract painting inspired by Kandinsky
+and Pollock, using music and unconventional tools. Working in groups, they
+create mixed-media collages reflecting their feelings. This fosters collaboration
+and emotional awareness through creative play.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/pam5.png">
 </div>
