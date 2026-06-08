@@ -92,10 +92,11 @@ to enrich students' learning.</p>
 <p>P3 - Mixed Media Assemblage</p>
 </li>
 <li>
-<p>P4 - Museum-based Learning&nbsp;</p>
+<p>P4 - Museum-based Learning (Singapore Art Museum’s THINK! Contemporary
+Programme)&nbsp;</p>
 </li>
 <li>
-<p>P5 - Sculpture Art</p>
+<p>P5 - Mixed Media Relief Sculpture</p>
 </li>
 <li>
 <p>P6 - Post-PSLE Art Enrichment: Leaving an Art Legacy Programme</p>

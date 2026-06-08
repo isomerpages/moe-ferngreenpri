@@ -91,6 +91,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Resilience (6R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Hui Ying (Sandra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_hui_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 Integrity (6I1)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,6 +175,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>rizalia_abdul_rahim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Care (6C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Wan Theng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_wan_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
