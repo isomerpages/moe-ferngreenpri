@@ -146,33 +146,39 @@ Care, or Integrity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="P2 Art Doodle" src="/images/PAM/P2_Art_Doodle.jpg">
 </div>
-<p>
-<br>
-</p>
-<p></p>
 <blockquote>
 <p><strong>P3 Art Milestone Programme - Mixed Media Assemblage</strong>
 </p>
 </blockquote>
-<p>P3 students create mixed-media assemblage—combining found materials in
-a low relief artwork—on environmental themes inspired by Tan Zi Xi and
-Han Sai Por. Using recycled materials, they collaborate to raise sustainability
-awareness. This project builds critical thinking, adaptability, collaboration,
-and global literacy through art linked to real-world challenges.</p>
+<p>P3 students create mixed-media assemblage, combining found materials in
+a low relief artwork centred on environmental themes inspired by artists
+Tan Zi Xi and Han Sai Por. Using found materials, they collaborate to raise
+sustainability awareness. This project builds critical thinking, adaptability,
+collaboration, and global literacy through art linked to real-world challenges.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/Slide3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="P3 Art" src="/images/PAM/P3_Art.png">
 </div>
+<p><em>P3 students with their 3D mixed media assemblage that was created based on their selected environmental message.</em>
+</p>
 <blockquote>
 <p><strong>P4 Art Milestone Programme - Museum-based Learning (Including Learning Journey to the Singapore Art Museum@ Tanjong Pagar Distripark)</strong>
 </p>
 </blockquote>
-<p>Students visit the Singapore Art Museum@Tanjong Pagar Distripark to explore
-contemporary artworks. This programme helps students appreciate how contemporary
-artists portray everyday life and emotions through different materials
-and perspectives. It encourages them to reflect on their own experiences
-and think adaptively as they connect personal memories with artistic expression.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/Slide4.png">
+<p>Fern Green Primary School’s Primary 4 Museum-Based Learning (MBL) programme
+provides students with authentic opportunities to engage with contemporary
+art through close observation, discussion, and inquiry-based learning at
+the Singapore Art Museum @ Tanjong Pagar DistriPark. Building on the school’s
+second year of implementing teacher-led museum learning experiences, 2026
+also marks our first participation in the Singapore Art Museum’s <em>THINK! Contemporary</em> programme.</p>
+<p>Through the programme, students explore how artists communicate ideas,
+emotions, and everyday experiences using different materials, forms, and
+perspectives. Students are encouraged to reflect on their own experiences,
+think adaptively, and make meaningful connections between art, personal
+stories, and the world around them. The programme culminates in a multi-school
+art exhibition at the end of the year, where students will have the opportunity
+to showcase and celebrate their artistic learning journey.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RNIkxujCv6U?si=TcSOPLS9-7nltVwD"></iframe>
 </div>
 <blockquote>
 <p><strong>P5 Art Milestone Programme – Sculpture</strong>&nbsp;</p>
