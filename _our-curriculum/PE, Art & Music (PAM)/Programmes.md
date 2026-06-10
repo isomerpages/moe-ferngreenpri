@@ -195,7 +195,10 @@ and adaptively while making artistic decisions about materials, composition,
 and visual storytelling. The programme nurtures self-expression, reflection,
 and appreciation of how art can communicate emotions, memories, and cultural
 experiences in meaningful ways.</p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="P5 Art" src="/images/PAM/P5_Art.png">
+</div>
+<p><em>This is a revised programme in Term 3 hence students’ works are currently unavailable. Above are images of possible outcomes.</em>
 <br>
 </p>
 <blockquote>
