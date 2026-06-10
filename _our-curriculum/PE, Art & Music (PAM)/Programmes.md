@@ -180,6 +180,8 @@ to showcase and celebrate their artistic learning journey.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RNIkxujCv6U?si=TcSOPLS9-7nltVwD"></iframe>
 </div>
+<p><em>P4 students in action at the </em>Singapore Art Museum @ Tanjong Pagar
+DistriPark.</p>
 <blockquote>
 <p><strong>P5 Art Milestone Programme – Sculpture</strong>&nbsp;</p>
 </blockquote>
