@@ -16,11 +16,11 @@ to Singapore.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TIE/7a1fe4cf_daa5_4161_9363_4201857277f2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="TIE HK 1" src="/images/TIE/74149a73d58c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TIE/IMG_4022.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="TIE HK 2" src="/images/TIE/ebfd50a9932b.jpg">
 </div>
 <p></p>
 <blockquote>
