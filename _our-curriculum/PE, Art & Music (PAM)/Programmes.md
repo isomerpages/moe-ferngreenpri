@@ -199,7 +199,6 @@ experiences in meaningful ways.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="P5 Art" src="/images/PAM/P5_Art.png">
 </div>
 <p><em>This is a revised programme in Term 3 hence students’ works are currently unavailable. Above are images of possible outcomes.</em>
-<br>
 </p>
 <blockquote>
 <p><strong>P6 Art Milestone Programme –&nbsp; Leaving a Legacy</strong>
