@@ -4,193 +4,108 @@ permalink: /special-programmes/Applied-Learning-Programme-ALP/
 description: ""
 variant: tiptap
 ---
-<h4><strong>FGPS Maker Education</strong></h4>
-<p>Making is an interesting and brain stimulating way to introduce students
-to the STEM subjects. It is an iterative process of tinkering and problem
-solving that draws on a DIY mindset. Making is collaborative and allows
-for self-expression through the creation of a personally meaningful artefact
-that is shared with a larger community. Making also stresses on the notion
-of "failing forward", equipping students with the mental resilience to
-recover from repeated failures while engaging them in the joy of learning.</p>
-<p>The <strong>FGPS Maker Education</strong> aims to trigger Students’ interest
-in STEM by exposing them to engaging projects that will enable them to
-use everyday materials and STEM concepts to design and build solutions
-to address problems. With the Maker Education ALP, we hope to equip our
-students with 21st century competencies, hone their critical and inventive
-thinking skills, and foster innovation and develop their ability to identify
-and solve problems.&nbsp;</p>
-<p>The <strong>FGPS Maker Education </strong>will take on a 3-tier learning
-structure &amp; progressive skill training framework as depicted below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP/alp 3-tier .png">
-</div>
-<hr>
-<h4><strong>ALP Structure</strong></h4>
-<table style="minWidth: 75px">
+<h4><strong>Coding for Care: Our P5 Innovators Shape the Future of Health-Tech!</strong></h4>
+<p>At Fern Green Primary School, we believe that technology shouldn't just
+be consumed—it should be used to create, innovate, and care for others.
+This semester, our Primary 5 Applied Learning Programme (ALP) underwent
+an exciting revamp, mapping directly to Emerging 21st Century Competencies
+and 9 Digital Competencies (9DC) framework to turn our students from passive
+screen-users into active, empathetic inventors.</p>
+<p>Integrated seamlessly into our Semester 1 Health Science curriculum, our
+P5 cohort dived headfirst into the world of Applied Coding and Physical
+Prototyping. Their mission? To design real-world health-tech solutions
+using Micro:bits and design thinking loops.</p>
+<p><strong><u>Empathy Before Code: The Design Thinking Journey</u></strong>
+</p>
+<p>Before typing a single line of code, our young innovators had to answer
+a crucial question: Who are we designing for?</p>
+<p>Students interviewed peers, teachers, and family members to understand
+real healthcare and wellness challenges. By anchoring their coding projects
+in human empathy, the tech became a tool to solve genuine daily problems—such
+as tracking healthy habits, encouraging physical activity, or reminding
+users to take screen breaks.</p>
+<p>Armed with their insights, the students used Micro:bits (mini programmable
+computers) and raw materials to prototype, wire, and code physical gadgets
+from scratch.</p>
+<p><strong><u>Celebrating Our Mid-Year Success</u></strong>
+</p>
+<p>The dedication of our Primary 5 students has blown us away. Here is a
+look at what this revamped program achieved on the ground this semester:</p>
+<p>100% Project Completion: Every single Primary 5 student successfully took
+their ideas from the drawing board to a physical prototype.</p>
+<p>96% Growth in Inventive Thinking: In our post-programme surveys, 96% of
+students agreed that the project stretched their Adaptive and Inventive
+Thinking, proving that our coders know how to embrace bugs, troubleshoot
+errors, and pivot when things don't work the first time.</p>
+<p>Tech with a Heart: Our newly tracked metrics showed a massive surge in
+student empathy. Students explicitly reported that their favorite part
+of the process was learning how to design gadgets that genuinely consider
+the physical and emotional needs of their users.</p>
+<p>💬 What Our Young Inventors are Saying:
+<br>"At first, my code had so many errors and my Micro:bit wouldn't light
+up. But when I remembered I was building a fitness tracker to help my grandfather
+stay active, I didn't want to give up. Fixing the bugs felt amazing!" <em>— Primary 5 Student Innovator</em>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
-<p><strong>Tier 1: Mass Participation</strong>
-</p>
-<h4></h4>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP UNA" src="/images/ALP/User_Needs_Analysis_ALP.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design in progress—students sketching their prototypes for innovative
-solutions during ALP!</p>
+<p><strong>User Needs Analysis: </strong>Active discussion and communication
+skills take center stage as students analyze user feedback parameters before
+programming their devices.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Review Process" src="/images/ALP/review_process_ALP.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Collaboration, creativity, and joy—FGPS Innovators co-creating their prototypes
-during ALP!</p>
+<p><strong>The Iteration and Review Process: </strong>Does this form factor
+serve the user?" P5 innovators critically assess the dimensions and usability
+of their box prototype.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Collaborative" src="/images/ALP/Collaborative_ALP.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prototype success! Students showing off their imaginative builds during
-level ALP.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__4_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaboration, creativity, and joy—FGPS Innovators co-creating their prototypes
-during ALP!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p><strong>Tier 2: Interest Development</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__5_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joyful learners tinkering during the Tinkering Thursdays@Recess</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__7_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Focused and resilient—our student innovators during Tinkering @ Recess!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__8_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Innovative and resilient—our student innovators showcasing their prototypes
-for Tinkering @ Home!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__9_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Innovative and resilient—our student innovators showcasing their prototypes
-for Tinkering @ Home!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p><strong>Tier 3: Talent Development</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__10_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALP Champions introducing exciting Applied Learning activities for the
-year during pre-assembly!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__11_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharing the spark of innovation—ALP Champions explaining the Design Thinking
-process to fellow FGians!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__12_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tinkering in action! ALP Champions guiding their peers during Tinkering
-Thursdays @ Recess.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__13_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tinkering in action! ALP Champions guiding their peers during Tinkering
-Thursdays @ Recess.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP__14_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>FGPS ALP Champions proudly representing the school at the Youth Innovation
-and STEM Sprint at Yusof Ishak Secondary!</p>
+<p><strong>Collaborative Engineering in Action: </strong>Collaboration and
+Critical Thinking at work! P5 students huddle together to assemble, wire,
+and code a physical health-tech prototype using sustainable materials.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Empowering Student Agency: </strong>An ALP Champion guides a peer
+through block-programming logic on the Microsoft MakeCode platform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
