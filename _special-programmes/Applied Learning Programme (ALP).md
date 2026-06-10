@@ -54,6 +54,14 @@ stay active, I didn't want to give up. Fixing the bugs felt amazing!" <em>— Pr
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ALP UNA" src="/images/ALP/User_Needs_Analysis_ALP.jpg">
 </div>
@@ -153,6 +161,72 @@ design a vibrant, deeply integrated learning experience during recess slots.</p>
 into a multimodal sensory learning hub. Our students didn't just learn
 about STEM concepts—they experienced them through four dynamic learning
 stations:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Watch &amp; Learn:</strong> High-interest educational videos screened
+on large displays to anchor key Science and Math topics</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Watch" src="/images/ALP/Watch_ALP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unpack with Posters:</strong> Interactive concept walls and whiteboard
+challenges where students read, analyzed, and spotted scientific anomalies
+to win prizes.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Poster" src="/images/ALP/Poster_ALP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Play &amp; Reinforce:</strong> High-engagement ICT games and digital
+puzzle simulations running on iPads to solidify their conceptual logic.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Play" src="/images/ALP/Play_ALP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
