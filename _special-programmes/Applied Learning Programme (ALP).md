@@ -211,10 +211,26 @@ puzzle simulations running on iPads to solidify their conceptual logic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Hands-on Tinkering:</strong> Creation booths where students designed
+3D wearables and constructed physical aerodynamic vehicles.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Hands on" src="/images/ALP/Hands_on_ALP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This massive deployment was made possible by our amazing ALP Champions!
+Displaying superb leadership and the school's RICEE values, these student
+leaders independently managed material booths, guided their peers through
+technical building steps, and kept the innovation spaces running smoothly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Massive" src="/images/ALP/Massive_ALP.jpg">
+</div>
 </td>
 </tr>
 <tr>
