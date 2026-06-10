@@ -124,6 +124,18 @@ on display—shaping both code arrays and physical form factors simultaneously.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Medicine" src="/images/ALP/Medicine_ALP.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The "Smart Medicine" Prototype: </strong>Technology with a heart!
+A close-up look at a student-designed smart medicine dispenser box, complete
+with a programmed micro:bit and custom LED alert strip.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
