@@ -183,16 +183,21 @@ to showcase and celebrate their artistic learning journey.</p>
 <p><em>P4 students in action at the </em>Singapore Art Museum @ Tanjong Pagar
 DistriPark.</p>
 <blockquote>
-<p><strong>P5 Art Milestone Programme – Sculpture</strong>&nbsp;</p>
+<p><strong>P5 Art Milestone Programme – Mixed Media Relief Sculpture</strong>&nbsp;</p>
 </blockquote>
-<p>Students explore the emotional qualities of form and texture through clay
-sculpting, inspired by artists Fyon Cheong and Kelly Limerick. They create
-clay pots with facial features to express personal emotions. This programme
-fosters inventive thinking, emotional intelligence, and encourages meaningful
-connections between artistic choices, self-expression, and peer feedback.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAM/Slide5.png">
-</div>
+<p>Through the P5 Art Milestone Programme, students explore emotions, identity,
+and relationships through mixed-media artmaking using weaving and clay
+techniques. Inspired by contemporary artists Kelly Limerick and Fyon Cheong,
+students experiment with colours, textures, layering, and sculptural forms
+to communicate personal stories and ideas.</p>
+<p>As students learn weaving techniques, they are encouraged to think creatively
+and adaptively while making artistic decisions about materials, composition,
+and visual storytelling. The programme nurtures self-expression, reflection,
+and appreciation of how art can communicate emotions, memories, and cultural
+experiences in meaningful ways.</p>
+<p>
+<br>
+</p>
 <blockquote>
 <p><strong>P6 Art Milestone Programme –&nbsp; Leaving a Legacy</strong>
 </p>
