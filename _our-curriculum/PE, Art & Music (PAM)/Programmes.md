@@ -212,6 +212,8 @@ them to leave a meaningful mark as they graduate from FGPS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="P6 Art" src="/images/PAM/P6_Art.jpg">
 </div>
+<p><em>2025 P6 Leaving a Legacy Wall</em>
+</p>
 <hr>
 <h4><strong>Music</strong></h4>
 <p>Aligned with the music syllabus, The Music Milestone Programme provides
