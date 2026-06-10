@@ -144,4 +144,15 @@ with a programmed micro:bit and custom LED alert strip.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Tinkering Thursdays: Unleashing the Power of STEM Innovation!</strong></h4>
+<p>Our enhanced Tier 2 programme, Tinkering Thursdays: STEM Innovators, returned
+with incredible energy this term! In an exciting cross-committee collaboration,
+our ICT-ALP team joined forces with the Science and Math committees to
+design a vibrant, deeply integrated learning experience during recess slots.</p>
+<p>By merging our expertise, we transformed the Indoor Sports Hall (ISH)
+into a multimodal sensory learning hub. Our students didn't just learn
+about STEM concepts—they experienced them through four dynamic learning
+stations:</p>
+<p>
+<br>
+</p>
