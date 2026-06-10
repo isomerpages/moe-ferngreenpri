@@ -76,30 +76,34 @@ as teamwork, empathy, and responsible decision-making.</p>
 <p></p>
 <hr>
 <h4><strong>Art</strong></h4>
+<p><strong>The Art Milestone Programmes</strong>
+</p>
 <p>Aligned with the art syllabus, the Art Milestone Programmes offer curated
 experiences that equip students with additional art skills, foster creativity
 and self-expression, and develop fine motor skills through diverse mediums
 and techniques. Some programmes also feature external arts practitioners
 to enrich students' learning.</p>
-<ul data-tight="true" class="tight">
+<p><strong>Our Programmes by Level:</strong>
+</p>
+<ul>
 <li>
-<p>P1 - Action Painting</p>
+<p><strong>P1:</strong> Action Painting</p>
 </li>
 <li>
-<p>P2 - Triorama/DoodleChamps Assembly Show</p>
+<p><strong>P2:</strong> Triorama / DoodleChamps Assembly Show</p>
 </li>
 <li>
-<p>P3 - Mixed Media Assemblage</p>
+<p><strong>P3:</strong> Mixed Media Assemblage</p>
 </li>
 <li>
-<p>P4 - Museum-based Learning (Singapore Art Museum’s THINK! Contemporary
-Programme)&nbsp;</p>
+<p><strong>P4:</strong> Museum-based Learning (Singapore Art Museum’s THINK!
+Contemporary Programme)</p>
 </li>
 <li>
-<p>P5 - Mixed Media Relief Sculpture</p>
+<p><strong>P5:</strong> Mixed Media Relief Sculpture</p>
 </li>
 <li>
-<p>P6 - Post-PSLE Art Enrichment: Leaving an Art Legacy Programme</p>
+<p><strong>P6:</strong> Leaving an Art Legacy (Post-PSLE Art Enrichment Programme)</p>
 </li>
 </ul>
 <hr>
@@ -107,25 +111,45 @@ Programme)&nbsp;</p>
 <p><strong>P1 Art Milestone Programme – Action Painting</strong>
 </p>
 </blockquote>
-<p>P1 students explore emotions through abstract painting inspired by Kandinsky
-and Pollock, using music and unconventional tools. Working in groups, they
-create mixed-media collages reflecting their feelings. This fosters collaboration
-and emotional awareness through creative play.</p>
+<p>P1 students explore emotions through abstract painting inspired by artists
+Wassily Kandinsky and Jackson Pollock, using music and unconventional tools.
+Individually, they create mixed media face collages reflecting their feelings.
+This fosters collaboration and emotional awareness through creative play.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/pam5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="P1 Art" src="/images/PAM/P1_Art.jpg">
 </div>
+<p><em>P1 students engaged in action painting to create painted papers for their mixed media face collage.</em>
+</p>
 <blockquote>
 <p><strong>P2 Art Milestone Programme – Triorama</strong>
 </p>
 </blockquote>
-<p>P2 students create trioramas—three-dimensional miniature scenes with three
-visible sides— inspired by Liu Kang and Cheong Soo Pieng’s artworks. Using
-paper collage and recycled materials, they illustrate neighbourhood scenes.
-Through this, they explore depth, composition, and storytelling by applying
-foreground, middle ground, and background concepts.</p>
+<p>P2 students create trioramas (three-dimensional miniature scenes with
+three visible sides) inspired by Liu Kang and Cheong Soo Pieng’s artworks.
+Using paper collage and recycled materials, they illustrate neighbourhood
+scenes. Through this, they explore depth, composition, and storytelling
+by applying foreground, middle ground, and background concepts.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/Slide2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="P2 Art" src="/images/PAM/P2_Art.jpg">
 </div>
+<p><em>P2 students engaged in the creation of their 3D mixed media triorama based on the theme of their neighbourhood.</em>
+</p>
+<blockquote>
+<p><strong>P2 Doodlechamps Assembly Show and Creative Doodle Challenge</strong>
+</p>
+</blockquote>
+<p>P2 students learn cartooning techniques during the Doodlechamps Assembly,
+nurturing creativity and problem-solving while reflecting on how art expresses
+values and personal identity. They then participate in the Creative Doodle
+Challenge, transforming simple marks into drawings that represent Respect,
+Care, or Integrity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="P2 Art Doodle" src="/images/PAM/P2_Art_Doodle.jpg">
+</div>
+<p>
+<br>
+</p>
+<p></p>
 <blockquote>
 <p><strong>P3 Art Milestone Programme - Mixed Media Assemblage</strong>
 </p>
