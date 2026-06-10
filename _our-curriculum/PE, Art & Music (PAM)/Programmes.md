@@ -216,70 +216,78 @@ them to leave a meaningful mark as they graduate from FGPS.</p>
 </p>
 <hr>
 <h4><strong>Music</strong></h4>
-<p>Aligned with the music syllabus, The Music Milestone Programme provides
-students with specially curated music programmes to equip them with additional
-music skills, developing musical skills, creativity, and appreciation through
-instrumental proficiency, vocal technique, and performance experience,
-while bringing in external arts practitioners to teach the students.</p>
-<ul data-tight="true" class="tight">
+<p><strong>The Music Milestone Programme</strong>
+</p>
+<p>Aligned with the music syllabus, the Music Milestone Programme provides
+students with specially curated courses to equip them with advanced capabilities.
+We focus on developing musical skills, creativity, and appreciation through
+instrumental proficiency, vocal technique, and performance experience.
+To further enrich this journey, we bring in external arts practitioners,
+tapping into their industry expertise to teach and inspire our students.</p>
+<p><strong>Our Signature Milestone Programmes by Level:</strong>
+</p>
+<ul>
 <li>
-<p>P1 - Let’s Play SoundShapes and BoomWhacker!</p>
+<p><strong>P1:</strong> Body Percussion with SoundShapes and Boomwhackers&nbsp;</p>
 </li>
 <li>
-<p>P2 - Fun with Handbells/Music and Movement</p>
+<p><strong>P2:</strong> Fun with Handbells!</p>
 </li>
 <li>
-<p>P3 - Orff Music Programme</p>
+<p><strong>P3:</strong> Let’s Orff!</p>
 </li>
 <li>
-<p>P4 - Percussive Hits!</p>
+<p><strong>P4:</strong> World Percussion</p>
 </li>
 <li>
-<p>P5 - Cajon Programme&nbsp;</p>
+<p><strong>P5:</strong> Let’s Cajoning!</p>
 </li>
 <li>
-<p>P6 - Post PSLE Programme: Let’s Sing!</p>
+<p><strong>P6:</strong> Let’s Sing! (Post-PSLE Music Enrichment Programme)</p>
 </li>
 </ul>
 <hr>
 <blockquote>
-<p><strong>P1 Music Milestone Programme – Let’s Play SoundShapes and BoomWhackers!</strong>
+<p><strong>P1 Music Milestone Programme – Body Percussion with SoundShapes and Boomwhackers</strong>
 </p>
 </blockquote>
-<p>Students develop musical skills through hands-on learning with SoundShapes
-and BoomWhackers. They gain rhythm recognition, melody understanding, and
-creative expression while building confidence. The playful approach makes
-music learning enjoyable, fostering a lasting interest in musical exploration.</p>
+<p>In this high-energy programme, Primary 1 students explored the joy of
+music-making by combining body percussion with colorful, accessible instruments
+like SoundShapes and Boomwhackers. By using clapping, stomping, and tapping
+alongside these engaging tools, students actively developed early rhythmic
+coordination, gross motor skills, and active listening. It was a highly
+interactive, collaborative way to build a strong musical foundation while
+learning to create cohesive sounds together as a team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAM/Slide8.png">
 </div>
 <p></p>
 <blockquote>
-<p><strong>P2 Music Milestone Programme 1 – Fun with Handbells&nbsp;</strong>
+<p><strong>P2 Music Milestone Programme - Fun with Handbells!</strong>
 </p>
 </blockquote>
-<p>Through the handbell programme, students develop essential musical and
-social skills in an engaging environment. Playing specific bells in a group
-setting enhances their sense of timing, pitch recognition, and musical
-coordination. This collaborative music-making experience builds teamwork,
-responsibility, and self-confidence while fostering a joy for musical expression.</p>
+<p>Building on their rhythmic foundation, Primary 2 students explored the
+world of melody and pitch through the beautiful, resonant sounds of handbells.
+This collaborative programme taught students how to follow basic musical
+cues and work harmoniously as an ensemble to play cohesive songs. It was
+a wonderful, hands-on way to enhance their fine motor skills, active listening,
+and understanding of musical timing, all while experiencing the joy of
+performing together.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAM/Slide9.png">
 </div>
-<p></p>
 <blockquote>
-<p><strong>P2 Music Milestone Programme 2 - Music and Movement</strong>&nbsp;</p>
+<p><strong>P3 Music Milestone Programme - Let’s Orff!</strong>&nbsp;</p>
 </blockquote>
-<p>In the Music and Movement Programme, our P2 students have an engaging
-experience that develops their singing skills and physical coordination.
-Through singing with accuracy in pitch and rhythm, combined with precise
-movements, they foster a strong connection between music and movement.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAM/Slide10.png">
-</div>
-<p></p>
+<p>Based on the world-renowned Orff Schulwerk approach, this holistic programme
+integrated singing, movement, and instrumental play. Primary 3 students
+enjoyed hands-on experience with pitched percussion instruments such as
+xylophones and metallophones. This immersive method fostered creative self-expression,
+introduced basic musical improvisation, and helped students develop a deeper
+understanding of musical arrangements. One class even put up a performance
+during It’s Showtime performance!</p>
 <blockquote>
-<p><strong>P4 Music Milestone Programme – Percussive Hits!</strong>
+<p><strong>P4 Music Milestone Programme – World Percussion</strong>
 </p>
 </blockquote>
 <p>In this engaging programme, P4 students embark on a rhythmic journey,
