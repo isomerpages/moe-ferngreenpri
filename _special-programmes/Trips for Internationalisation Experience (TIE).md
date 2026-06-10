@@ -29,13 +29,12 @@ to Singapore.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TIE/IMG_2702.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="TIE Beijing 1" src="/images/TIE/4948940946c1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TIE/QJ__9265.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="TIE Beijing 2" src="/images/TIE/DSC00831.jpg">
 </div>
-<p></p>
 <blockquote>
 <h4><strong>Wuxi/Shanghai, China</strong></h4>
 <p><strong>School: Wuxi Jinqiao Bilingual Experimental School</strong>
