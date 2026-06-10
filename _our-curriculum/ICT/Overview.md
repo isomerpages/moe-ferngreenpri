@@ -12,6 +12,9 @@ EdTech Masterplan for 2030 and our school's Vision and Mission.</p>
 <p><a href="https://youtu.be/Rtn6IqmFz5M" rel="noopener nofollow" target="_blank">Innovate. Collaborate. Transform (I.C.T.)</a>
 </p>
 </blockquote>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rtn6IqmFz5M?si=T0qNeg_kHrYwdrDW"></iframe>
+</div>
 <p><strong>Innovate</strong>
 </p>
 <p>We foster a digitally empowered environment to nurture a culture where
