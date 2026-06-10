@@ -211,21 +211,8 @@ artwork. The form changes yearly, showcasing their artistic growth while
 building communication and collaboration skills. This final piece allows
 them to leave a meaningful mark as they graduate from FGPS.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/Slide6.png">
+<img style="width: 60%;" height="auto" width="100%" alt="P6 Art" src="/images/PAM/P6_Art.jpg">
 </div>
-<blockquote>
-<p><strong>P2 Doodlechamps Assembly Show and Creative Doodle Challenge</strong>
-</p>
-</blockquote>
-<p>P2 students learn cartooning techniques during the Doodlechamps Assembly,
-nurturing creativity and problem-solving while reflecting on how art expresses
-values and personal identity. They then participate in the Creative Doodle
-Challenge, transforming simple marks into drawings that represent Respect,
-Care, or Integrity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PAM/Slide7.png">
-</div>
-<p></p>
 <hr>
 <h4><strong>Music</strong></h4>
 <p>Aligned with the music syllabus, The Music Milestone Programme provides
