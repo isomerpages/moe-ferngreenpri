@@ -11,7 +11,7 @@ variant: tiptap
 <p>Empower every student to explore, inquire, discover, and apply scientific
 understanding for a better society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sci Mission" src="/images/Science/sci_mission.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Sci Mission" src="/images/Science/sci_mission.jpg">
 </div>
 <p>The framework builds on the existing Science Curriculum Framework. It
 explicitly articulates the twin goals of Science education. The term Core
