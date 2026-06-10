@@ -90,7 +90,9 @@ and code a physical health-tech prototype using sustainable materials.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Empowering" src="/images/ALP/Empowering_ALP.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Empowering Student Agency: </strong>An ALP Champion guides a peer
@@ -99,10 +101,25 @@ through block-programming logic on the Microsoft MakeCode platform</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Lights" src="/images/ALP/Lights_ALP.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Designing with Lights and Empathy: </strong>Bringing ideas to
+life! Students integrate brilliant multi-colored LED feedback loops into
+their custom wellness prototype box.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Hardware" src="/images/ALP/Hardware_ALP.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hardware Meets Software: </strong>Critical and Inventive Thinking
+on display—shaping both code arrays and physical form factors simultaneously.</p>
 </td>
 </tr>
 <tr>
