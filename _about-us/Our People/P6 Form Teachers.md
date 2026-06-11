@@ -91,17 +91,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Resilience (6R3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tang Hui Ying (Sandra)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tang_hui_ying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 Integrity (6I1)</p>
 </td>
 <td rowspan="1" colspan="1">
