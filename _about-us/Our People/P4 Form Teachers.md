@@ -124,6 +124,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 Integrity (4I1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Hui Ying (Sandra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_hui_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Care (4C)</p>
 </td>
 <td rowspan="1" colspan="1">
