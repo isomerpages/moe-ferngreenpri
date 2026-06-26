@@ -25,7 +25,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL + SS</p>
+<p>EL &amp; SS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sundar (Mdm Mahalakshumi d/o Govindaswami)</p>
@@ -80,7 +80,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL&amp; MA</p>
+<p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rohana binte Ibrahim</p>
@@ -91,7 +91,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL + MA</p>
+<p>EL &amp; MA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Gim Bee (Lauren)</p>
@@ -175,6 +175,50 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Jasmine_Yap_See_Puay_A@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ART</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sara Png Xue Yunn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ART</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Velayudhan Karpagam Anandhi (Ana)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA &amp; SC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Wee Liam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_wee_liam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Alice Ooi Chen Ai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alice_ooi_chen_ai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
