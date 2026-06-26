@@ -157,6 +157,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Care (1C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeung Yuk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeung_yuk@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Harmony (1H)</p>
 </td>
 <td rowspan="1" colspan="1">
