@@ -102,6 +102,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 Resilience (4R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Shahfiqah Binte Muhamad Sukor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur_Shahfiqah_Muhamad_Sukor@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Integrity (4I1)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,10 +182,10 @@ third_nav_title: Our People
 <p>4 Harmony (4H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Sing Min Serene</p>
+<p>Mdm Nabilah Binte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_sing_min_serene@moe.edu.sg</p>
+<p>nabilah_abdul_rahman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

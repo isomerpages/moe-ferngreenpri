@@ -80,6 +80,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Responsibility (3R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Yu Hong Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yu_hong_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Resilience (3R3)</p>
 </td>
 <td rowspan="1" colspan="1">
