@@ -90,6 +90,28 @@ third_nav_title: Our People
 <p>petra_lim_yiqi@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Siew Leng Joyce</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_siew_leng_joyce@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>School Admin Team</strong></h4>
@@ -243,6 +265,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Peh Ai Yian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Well-Being Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Solomon Mirmala Nathan Sharon Monica (Sharon)</p>
 </td>
 </tr>
 <tr>
