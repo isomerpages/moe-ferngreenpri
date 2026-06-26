@@ -387,17 +387,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH-MP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Sing Min Serene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_sing_min_serene@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <h4><strong>P5 &amp; P6</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
