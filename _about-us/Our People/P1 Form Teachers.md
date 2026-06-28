@@ -50,7 +50,7 @@ variant: tiptap
 <p>1 Responsibility (1R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khoo Seok Ling Serene</p>
+<p>Ms Khoo Seok Ling Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>khoo_seok_ling@moe.edu.sg</p>

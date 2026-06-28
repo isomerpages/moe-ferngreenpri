@@ -105,7 +105,7 @@ third_nav_title: Our People
 <p>5 Integrity (5I1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maheswari D/O Rajaratanam</p>
+<p>Ms Maheswari D/O Rajaratanam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maheswari_mohanavelu@moe.edu.sg</p>
