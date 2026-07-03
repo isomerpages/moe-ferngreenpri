@@ -32,7 +32,7 @@ sections:
       button: Register Now!
       url: https://go.gov.sg/2026fgpsopenhouse
       alt: FGPS Open House
-      image: /images/Annoucements/FGPS_Open_House_2026_Public.jpg
+      image: /images/Annoucements/FGPS_2026_OPEN_HOUSE_Registration_has_closed.png
   - infopic:
       title: MK@FG School Tour
       id: infopic
