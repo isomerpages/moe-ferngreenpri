@@ -346,6 +346,19 @@ types of CCA opportunities, our school is offering the following CCAs:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Volleyball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_zhi_qiang_jeremy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Tchoukball</strong>
 </p>
 </td>
