@@ -9,16 +9,15 @@ variant: tiptap
 </div>
 <p><strong>Re-envisioning Our Future Together</strong>
 </p>
-<p>As Fern Green Primary School celebrates its 7th year in 2024, we take
-this opportunity to reflect on our journey, marked by the graduation of
-two cohorts of students, and to chart a refreshed direction for the years
-ahead. &nbsp;This initiative was informed by an in-depth analysis of educational
-trends, emerging national imperatives, and the evolving complexities of
-the world of work and society. Through surveys, discussions, and staff
-retreats, we gathered invaluable perspectives from FGians, staff, parents,
-and partners, ensuring that our refreshed vision, mission, and values reflect
-our shared aspirations.</p>
-<p><strong>Our New Fern Green Vision, Mission, and Values</strong>
+<p>In 2024, Fern Green Primary School celebrated its 7th year and took the
+opportunity to reflect on our journey, and to chart a refreshed direction
+for the years ahead. This initiative was informed by an in-depth analysis
+of educational trends, emerging national imperatives, and the evolving
+complexities of the world of work and society. Through surveys, discussions,
+and staff retreats, we gathered invaluable perspectives from FGians, staff,
+parents, and partners, ensuring that our refreshed vision, mission, and
+values reflect our shared aspirations.</p>
+<p><strong>Our Fern Green Vision, Mission, and Values</strong>
 </p>
 <p>After much thought and deliberation, we are proud to present Fern Green’s
 refreshed vision, mission, and values:</p>
@@ -42,8 +41,7 @@ refreshed vision, mission, and values:</p>
 <p>Integrity</p>
 </li>
 <li>
-<p>Innovation <em>(new)</em>
-</p>
+<p>Innovation</p>
 </li>
 <li>
 <p>Care</p>
@@ -52,7 +50,7 @@ refreshed vision, mission, and values:</p>
 <p>Harmony</p>
 </li>
 </ul>
-<p>Our new vision encapsulates our aspiration to create a joyful, inclusive,
+<p>Our vision encapsulates our aspiration to create a joyful, inclusive,
 and forward-looking school environment.&nbsp; Our mission underscores our
 commitment to developing FGians who thrive in an ever-changing world.</p>
 <p><strong>Unpacking Our Vision</strong>
@@ -110,13 +108,13 @@ and responds effectively to the evolving needs of students and society.</p>
 </ol>
 <p><strong>Looking Ahead</strong>
 </p>
-<p>The unveiling of our new vision, mission, and values is just the beginning.
+<p>The unveiling of our vision, mission, and values is just the beginning.
 We are committed to embedding these principles into every aspect of school
 life—from teaching and learning practices to co-curricular activities and
 partnerships with families, our partners and the wider community.</p>
 <p>I invite all of you to join us in making this vision a reality. Together,
-we will ensure that Fern Green (Fern Green Primary School and MK@Fern Green
-and) remains a place where every learner experiences joy, care, and opportunities
+we will ensure that Fern Green (Fern Green Primary School and MK@Fern Green)
+remains a place where every learner experiences joy, care, and opportunities
 to innovate and grow.</p>
 <p>Thank you for your unwavering support and partnership as we embark on
 this exciting new chapter. Let us work hand in hand to create a brighter
