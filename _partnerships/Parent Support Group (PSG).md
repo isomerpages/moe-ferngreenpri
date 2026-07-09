@@ -90,7 +90,7 @@ growth.</p>
 <p>With greater parental involvement, our children will be more motivated
 and encouraged to do better. Our PSG welcomes new members!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T9zKbfFydeU?si=Fc_L42DoDGDJSawb"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T9zKbfFydeU?si=Fc_L42DoDGDJSawb"></iframe>
 </div>
 <p>Click the link or scan the QR code to join!</p>
 <p>Link: <a href="https://go.gov.sg/79t7d0" rel="noopener nofollow" target="_blank">Registration for PSG</a>
@@ -125,10 +125,18 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sarina Binte Mohamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lai Seok Fung, Janette</p>
 </td>
 </tr>
 <tr>
@@ -141,21 +149,38 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Well-Being Coordinator</p>
+<p>Assistant Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Duen Wong</p>
+<p>Mdm Eng Shen Ngan Shireen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Project Coordinator</p>
+<p>Well-Being Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sajidah Begum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johnny Chan Khai Mun</p>
+<p>Mdm Vina Indah Kesuma</p>
+<p>Mdm Priscilla Yeap</p>
+<p>Mdm Wang Bixi Betty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Programme Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Sian Veon</p>
-<p>Mdm Paulin Phang</p>
-<p>Mdm Sajidah Begum</p>
-<p>Mdm Serene Pek</p>
+<p>Mdm Duen Wong</p>
 </td>
 </tr>
 <tr>
