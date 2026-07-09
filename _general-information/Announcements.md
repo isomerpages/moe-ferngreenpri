@@ -4,6 +4,12 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Follow MOE Kindergarten on Facebook and Instagram today!</strong></h4>
+<p><a href="https://linktr.ee/moekindergarten.sg" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten Official: Instagram, Facebook | Linktree</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="MK Social Media" src="/images/Annoucements/Follow_MOE_Kindergarten_on_social_media.jpg">
+</div>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
