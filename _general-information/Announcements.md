@@ -4,6 +4,10 @@ permalink: /general-information/Announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Follow MOE Kindergarten on Facebook and Instagram today!</strong></h4>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong>Say It From Your Heart @FGPS</strong></h3>
 <p>Dear Parents, Guardians &amp; Partners,&nbsp;</p>
 <p>As we work closely together to support our children, there could be times
