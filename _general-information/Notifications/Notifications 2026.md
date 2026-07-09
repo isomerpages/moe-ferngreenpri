@@ -15,5 +15,9 @@ third_nav_title: Notifications
 <p><a href="https://drive.google.com/file/d/1zyy57rGz_pmn8nVYvL6yPAhybHXT8Dhw/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1ZfttnAzZZhZNIGHH_zLtfOjBMOQAZ0ZF/view" rel="noopener nofollow" target="_blank">Term 3</a>
+</p>
+</li>
 </ol>
 <p></p>
