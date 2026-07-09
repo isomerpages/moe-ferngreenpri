@@ -181,6 +181,7 @@ and encouraged to do better. Our PSG welcomes new members!</p>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Sian Veon</p>
 <p>Mdm Duen Wong</p>
+<p>Mdm Paulin Phang</p>
 </td>
 </tr>
 <tr>
