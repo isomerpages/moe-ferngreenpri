@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<h4><strong>AEDs &amp; School Counsellor</strong></h4>
+<h4><strong>AEDs/School Counsellor/Student Well-Being</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -99,6 +99,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_siew_leng_joyce@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Well-Being Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Solomon Mirmala Nathan Sharon Monica (Sharon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>solomon_nirmala_nathan_sharon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -265,14 +276,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Peh Ai Yian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Well-Being Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Solomon Mirmala Nathan Sharon Monica (Sharon)</p>
 </td>
 </tr>
 <tr>
