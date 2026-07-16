@@ -185,7 +185,7 @@ third_nav_title: Our People
 <p>Ms Sara Png Xue Yunn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sara_png_xue_yinn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ third_nav_title: Our People
 <p>Mdm Velayudhan Karpagam Anandhi (Ana)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Velayudhan_Karpagam_Anandhi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
