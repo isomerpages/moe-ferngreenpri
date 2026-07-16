@@ -88,25 +88,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>New School Bus Fare (With effect from 1 January 2026):</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>School bus fares have been revised, with an increase ranging from $10
-to $20 compared to the 2025 rates.</p>
-</li>
-<li>
-<p>This adjustment takes into account prevailing increases in operational
-costs, including fuel, manpower and vehicle maintenance.</p>
-</li>
-<li>
-<p>The revised fares are distance-based and will apply to daily school bus
-services provided by BT&amp;TAN Transport Pte Ltd for the period from 1
-January 2026 to 31 December 2027.</p>
-</li>
-<li>
-<p>Should you have any queries, please contact the bus operator.</p>
-</li>
-</ul>
+<h4><strong>Temporary Fuel Surcharge for School Bus Services (August 2026)</strong></h4>
+<p>Following the MOE announcements via Parents Gateway on 9 April 2026 and
+15 May 2026 regarding the temporary support measures for school bus operators,
+our school bus operator, BT&amp;TAN Transport Pte Ltd, will be implementing
+a temporary fuel surcharge of 13% (within the 20% permissible limit set
+by MOE) on the prevailing school bus fares for August 2026.</p>
+<p>MOE is currently reviewing the arrangements for September and October
+2026, and the school will provide further updates once they are available.</p>
+<p>For any enquiries regarding the school bus fares, please contact BT&amp;TAN
+Transport Pte Ltd directly.</p>
+<p>The revised school bus fares for August 2026 are as follows:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -118,101 +110,138 @@ January 2026 to 31 December 2027.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>Distance</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>Up to 15-seater</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Up to 15-Seater (1 Way)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>More than 15-seater</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Up to 15-Seater (2 Way)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>More than 15-Seater (1 Way)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>More than 15-Seater (2 Way)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p>Up to 2km (Current Fare)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p>$180.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p>$220.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2Km</p>
+<p>$150.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$220</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$150</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$180</p>
+<p>$180.00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt; - 4km</p>
+<p>Fuel Surcharge (13%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$200</p>
+<p>$23.40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$240</p>
+<p>$28.60</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$180</p>
+<p>$19.50</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$210</p>
+<p>$23.40</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Total for August 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>$203.40</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>$248.60</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>$169.50</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>$203.40</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt; 2km – 4km (Current Fare)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$240.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$210.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fuel Surcharge (13%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$26.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$31.20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$23.40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$27.30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Total for August 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$226.00</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$271.20</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$203.40</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$237.30</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p></p>
