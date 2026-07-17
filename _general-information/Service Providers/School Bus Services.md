@@ -113,7 +113,7 @@ Transport Pte Ltd directly.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Up to 15-Seater </strong>
+<p><strong>Up to 15-Seater</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
