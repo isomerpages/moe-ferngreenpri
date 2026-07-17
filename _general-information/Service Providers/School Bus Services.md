@@ -110,91 +110,103 @@ Transport Pte Ltd directly.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Distance</strong>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Up to 15-Seater</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Up to 15-Seater (1 Way)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Up to 15-Seater (2 Way)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>More than 15-Seater (1 Way)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>More than 15-Seater (2 Way)</strong>
+<td rowspan="1" colspan="2">
+<p><strong>More than 15-Seater</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2km (Current Fare)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 way</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 way</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 way</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 way</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$180.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$220.00</p>
+<p>&nbsp;$220.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$150.00</p>
+<p>&nbsp;$150.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$180.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fuel Surcharge (13%)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$23.40</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$28.60</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.50</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$23.40</p>
+<p>&nbsp;$180.00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Total for August 2026</strong>
+<p>Fuel Surcharge 13%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$23.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;$28.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;$19.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;$23.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Total</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$203.40</strong>
+<p><strong>$203.00</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$248.60</strong>
+<p><strong>&nbsp;$248.00</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$169.50</strong>
+<p><strong>&nbsp;$169.00</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$203.40</strong>
+<p><strong>&nbsp;$203.00</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt; 2km – 4km (Current Fare)</p>
+<p>&gt;2km-4km</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$200.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$240.00</p>
+<p>&nbsp;$240.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$180.00</p>
@@ -205,24 +217,24 @@ Transport Pte Ltd directly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fuel Surcharge (13%)</p>
+<p>Fuel Surcharge 13%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$26.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$31.20</p>
+<p>$31.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$23.40</p>
+<p>$23.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$27.30</p>
+<p>$27.00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Total for August 2026</strong>
+<p><strong>Total</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,16 +242,33 @@ Transport Pte Ltd directly.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$271.20</strong>
+<p><strong>$271.00</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$203.40</strong>
+<p><strong>$203.00</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$237.30</strong>
+<p><strong>$237.00</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
