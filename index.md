@@ -23,17 +23,6 @@ sections:
           url: https://www.ferngreenpri.moe.edu.sg/general-information/for-students/resources/
       variant: center
   - infopic:
-      title: FGPS Open House 2026
-      subtitle: You are invited!
-      id: infopic
-      description: Join us to discover our vibrant learning environment, meet our
-        dedicated staff, and learn more about the exciting opportunities
-        available for your child.
-      button: Register Now!
-      url: https://go.gov.sg/2026fgpsopenhouse
-      alt: FGPS Open House
-      image: /images/Annoucements/FGPS_2026_OPEN_HOUSE_Registration_has_closed.png
-  - infopic:
       title: MK@FG School Tour
       id: infopic
       description: Join Us for the MK@FG Tour!
