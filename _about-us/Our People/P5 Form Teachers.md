@@ -80,6 +80,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Responsibility (5R2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Qifang Josie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_qifang_josie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Resilience (5R3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,6 +109,17 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>pang_biao_bin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Resilience (5R3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wang_ning_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
