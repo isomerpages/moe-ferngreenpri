@@ -6,5 +6,6 @@ third_nav_title: Service Providers
 variant: tiptap
 ---
 <h4><strong>School Canteen</strong></h4>
-<p>Please refer to the canteen menu.</p>
+<p>Please refer to the <a href="https://drive.google.com/file/d/11zbzSIABynopTVyZamLJulSjAmufrzTt/view?usp=sharing" rel="noopener nofollow" target="_blank">canteen menu.</a>
+</p>
 <p></p>
