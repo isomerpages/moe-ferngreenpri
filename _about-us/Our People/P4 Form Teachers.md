@@ -116,17 +116,6 @@ third_nav_title: Our People
 <p>4 Integrity (4I1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Chee Keong Paul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chew_chee_keong_paul@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Integrity (4I1)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Fauziah Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
