@@ -25,6 +25,18 @@ third_nav_title: FG Heartbeat
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aidah as a finalist for the Arif Budiman Malay Language Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.beritaharian.sg/bahasa-budaya/guru-manfaat-masa-bulatan-perkasa-emosi-bahasa-melayu-murid" rel="noopener nofollow" target="_blank">https://www.beritaharian.sg/bahasa-budaya/guru-manfaat-masa-bulatan-perkasa-emosi-bahasa-melayu-murid</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
