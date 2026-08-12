@@ -4,6 +4,9 @@ permalink: /special-programmes/Applied-Learning-Programme-ALP/
 description: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/flTWBgcihto?si=THU2oGK0ah_o9ICq"></iframe>
+</div>
 <h4><strong>Coding for Care: Our P5 Innovators Shape the Future of Health-Tech!</strong></h4>
 <p>At Fern Green Primary School, we believe that technology shouldn't just
 be consumed—it should be used to create, innovate, and care for others.
